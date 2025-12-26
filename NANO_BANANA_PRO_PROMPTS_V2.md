@@ -5129,3 +5129,50 @@ Natural smile, relaxed eyes, lighthearted energy, still realistic.
 Photorealistic lighting, realistic lens behavior, natural depth falloff.
 No character redesign. No face alteration. No hairstyle change. No outfit change.
 ```
+
+---
+
+## Case: twitter-2001665608711049358
+
+**Author:** [@Samann_ai](https://twitter.com/Samann_ai)
+**Tweet:** [View Original](https://x.com/Samann_ai/status/2001665608711049358)
+**Scraped:** 2025-12-26T13:39:59.707Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8dYPuPXcAAsr0h?format=jpg&name=orig)
+
+### Prompt
+
+```
+Turn any image to stone
+
+Discover new Nano Banana PRO Prompts on http://bananaprompts.com/?utm_source=BP1218…
+
+𝗣𝗿𝗼𝗺𝗽𝘁 
+{
+  "task": "image_to_image_style_transfer",
+  "input_image": "{{USER_IMAGE}}",
+  "prompt": "Create a hyper-real 3D studio composition that recreates the main subject from the provided image as a fragmented stone assemblage. The subject must be built from separate, clearly detached rock pieces with small visible gaps between shards (no pieces merging). Material look: fragmented slate + sandstone shards with chiseled edges, crisp fractures, visible stone grain, micro-scratches, and realistic roughness. Color palette: predominantly dark slate with subtle warm-ochre sandstone accents. Lighting: soft studio key light from top-left, gentle fill, subtle contact shadows under each shard, realistic ambient occlusion in crevices, clean reflections kept minimal. Background: minimal off-white seamless backdrop, no texture. Framing: centered, clean, straight-on, subject fully readable. Add a few tiny debris chips floating or resting near the base for depth. Preserve the subject’s identity, proportions, and recognizable silhouette from the input image while transforming all surfaces into stone fragments. Hyper-real, high detail, sharp focus, 8k render quality.",
+  "negative_prompt": "text, typography, logo, watermark, signature, extra props, busy background, fog, heavy bloom, cartoon, illustration, lowpoly, plastic, metal, glossy paint, melted shapes, merged fragments, unreadable subject, blur, noise, low resolution, oversharpening halos, distorted face/body, extra limbs, deformed geometry",
+  "output": {
+    "aspect_ratio": "use_input_aspect_ratio",
+    "background": "off_white",
+    "camera": {
+      "angle": "straight_on",
+      "framing": "centered",
+      "distance": "medium"
+    }
+  },
+  "params": {
+    "style_strength": 0.75,
+    "identity_preservation": 0.9,
+    "detail_level": "very_high",
+    "lighting_preset": "soft_studio_top_left",
+    "shadow_intensity": "subtle",
+    "gap_visibility": "clear",
+    "debris_chips": "few_tiny",
+    "no_text": true
+  }
+}
+```
