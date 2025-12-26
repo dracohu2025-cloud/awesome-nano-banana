@@ -822,3 +822,31 @@ Quality: ultra-realistic, 4K, high detail, smooth skin textures, natural colors
 Camera: 50mm lens, f/1.8, slight motion effect, subject slightly off-center  
 Atmosphere: lively city energy, movement everywhere except subject
 ```
+
+---
+
+## Case: twitter-1994056605671841914
+
+**Author:** [@VibeMarketer_](https://twitter.com/VibeMarketer_)
+**Tweet:** [View Original](https://x.com/VibeMarketer_/status/1994056605671841914)
+**Scraped:** 2025-12-26T12:51:38.000Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6xPugzXwAAJAp_?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6xPv_vXkAAIAG9?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G6xPxm7X0AA8o5v?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G6xPz-kX0AANEzS?format=jpg&name=orig)
+
+### Prompt
+
+```
+nano banana pro
+
+prompt:
+
+Recreate the person in [@]img1 in the same outfit and same pose, but from a different camera angle. Keep facial identity and proportions consistent. Style: ultra-realistic lifestyle photo.”
+```
