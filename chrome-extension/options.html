@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nano Banana Scraper - 设置</title>
+    <link rel="stylesheet" href="options.css">
+</head>
+
+<body>
+    <div class="container">
+        <header class="header">
+            <div class="logo">
+                <span class="emoji">🍌</span>
+                <h1>Nano Banana Scraper</h1>
+            </div>
+            <p class="subtitle">GitHub 同步设置</p>
+        </header>
+
+        <form id="settingsForm" class="settings-form">
+            <!-- GitHub PAT -->
+            <div class="form-group">
+                <label for="githubPat">
+                    GitHub Personal Access Token
+                    <a href="https://github.com/settings/tokens/new?scopes=repo&description=Nano%20Banana%20Scraper"
+                        target="_blank" class="help-link">创建 Token →</a>
+                </label>
+                <div class="input-wrapper">
+                    <input type="password" id="githubPat" placeholder="ghp_xxxxxxxxxxxx" autocomplete="off">
+                    <button type="button" class="toggle-visibility" id="togglePat">👁️</button>
+                </div>
+                <p class="hint">需要 <code>repo</code> 权限来读写仓库内容</p>
+            </div>
+
+            <!-- Repository -->
+            <div class="form-group">
+                <label for="repoOwner">仓库 Owner</label>
+                <input type="text" id="repoOwner" placeholder="例如: dracohu2025-cloud">
+            </div>
+
+            <div class="form-group">
+                <label for="repoName">仓库名称</label>
+                <input type="text" id="repoName" placeholder="例如: awesome-nano-banana">
+            </div>
+
+            <div class="form-group">
+                <label for="targetFile">目标文件路径</label>
+                <input type="text" id="targetFile" value="NANO_BANANA_PRO_PROMPTS.md"
+                    placeholder="NANO_BANANA_PRO_PROMPTS.md">
+                <p class="hint">新抓取的内容将追加到此文件</p>
+            </div>
+
+            <!-- Auto Sync Toggle -->
+            <div class="form-group toggle-group">
+                <label for="autoSync">自动同步</label>
+                <label class="switch">
+                    <input type="checkbox" id="autoSync">
+                    <span class="slider"></span>
+                </label>
+                <p class="hint">开启后，抓取的内容会自动推送到 GitHub</p>
+            </div>
+
+            <!-- Status -->
+            <div class="status-section" id="statusSection" style="display: none;">
+                <div class="status-indicator" id="statusIndicator">
+                    <span class="status-dot"></span>
+                    <span class="status-text">未连接</span>
+                </div>
+            </div>
+
+            <!-- Actions -->
+            <div class="actions">
+                <button type="button" class="btn btn-secondary" id="testBtn">测试连接</button>
+                <button type="submit" class="btn btn-primary" id="saveBtn">保存设置</button>
+            </div>
+        </form>
+
+        <div class="message" id="message"></div>
+
+        <footer class="footer">
+            <p>数据安全提示：Token 仅存储在本地浏览器中，不会上传到任何服务器</p>
+        </footer>
+    </div>
+
+    <script src="options.js"></script>
+</body>
+
+</html>

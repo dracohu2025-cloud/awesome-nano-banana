@@ -1,16 +1,22 @@
 // Nano Banana Scraper - Popup Script
-// Manages the extension popup UI
+// Manages the extension popup UI with GitHub sync support
 
 document.addEventListener('DOMContentLoaded', init);
 
 let currentEditId = null;
 
 async function init() {
+    await checkSyncStatus();
     await refreshTweetList();
     setupEventListeners();
 }
 
 function setupEventListeners() {
+    // Settings button
+    document.getElementById('settingsBtn').addEventListener('click', () => {
+        chrome.runtime.openOptionsPage();
+    });
+
     // Export button
     document.getElementById('exportBtn').addEventListener('click', handleExport);
 
@@ -26,6 +32,33 @@ function setupEventListeners() {
     document.getElementById('editModal').addEventListener('click', (e) => {
         if (e.target.id === 'editModal') closeModal();
     });
+}
+
+async function checkSyncStatus() {
+    const indicator = document.getElementById('syncIndicator');
+    const text = document.getElementById('syncText');
+
+    try {
+        const response = await chrome.runtime.sendMessage({ action: 'getSettings' });
+        const settings = response.settings;
+
+        if (settings && settings.githubPat && settings.repoOwner && settings.repoName) {
+            if (settings.autoSync) {
+                indicator.className = 'sync-indicator connected';
+                text.textContent = `自动同步: ${settings.repoOwner}/${settings.repoName}`;
+            } else {
+                indicator.className = 'sync-indicator partial';
+                text.textContent = '已配置 (手动同步)';
+            }
+        } else {
+            indicator.className = 'sync-indicator disconnected';
+            text.textContent = '未配置 GitHub';
+        }
+    } catch (error) {
+        console.error('Failed to check sync status:', error);
+        indicator.className = 'sync-indicator disconnected';
+        text.textContent = '状态检查失败';
+    }
 }
 
 async function refreshTweetList() {
@@ -50,6 +83,9 @@ function updateStats(tweets) {
 
     const imageCount = tweets.reduce((sum, t) => sum + t.images.length, 0);
     document.getElementById('imageCount').textContent = imageCount;
+
+    const syncedCount = tweets.filter(t => t.synced).length;
+    document.getElementById('syncedCount').textContent = syncedCount;
 }
 
 function renderTweetList(tweets) {
@@ -80,33 +116,49 @@ function renderTweetList(tweets) {
             chrome.tabs.create({ url: btn.dataset.url });
         });
     });
+
+    container.querySelectorAll('.sync-btn').forEach(btn => {
+        btn.addEventListener('click', () => handleSync(btn.dataset.id));
+    });
 }
 
 function createTweetCard(tweet) {
     const date = tweet.savedAt ? new Date(tweet.savedAt).toLocaleDateString() : '';
     const promptPreview = tweet.prompt ?
         tweet.prompt.substring(0, 100) + (tweet.prompt.length > 100 ? '...' : '') :
-        '(No prompt)';
+        '(无 prompt)';
 
     const imagesHtml = tweet.images.slice(0, 4).map(img =>
         `<img src="${img}" alt="Image" loading="lazy">`
     ).join('');
 
+    const syncStatus = tweet.synced
+        ? '<span class="sync-badge synced">✓ 已同步</span>'
+        : '<span class="sync-badge pending">待同步</span>';
+
+    const syncButton = tweet.synced
+        ? ''
+        : `<button class="tweet-action-btn sync-btn" data-id="${tweet.id}">同步到 GitHub</button>`;
+
     return `
-    <div class="tweet-card" data-id="${tweet.id}">
+    <div class="tweet-card ${tweet.synced ? 'synced' : ''}" data-id="${tweet.id}">
       <div class="tweet-header">
         <div>
           <span class="tweet-author">${escapeHtml(tweet.author || 'Unknown')}</span>
           <span class="tweet-handle">@${escapeHtml(tweet.authorHandle || 'unknown')}</span>
         </div>
-        <span class="tweet-date">${date}</span>
+        <div class="tweet-meta">
+          ${syncStatus}
+          <span class="tweet-date">${date}</span>
+        </div>
       </div>
       <div class="tweet-images">${imagesHtml}</div>
       <div class="tweet-prompt">${escapeHtml(promptPreview)}</div>
       <div class="tweet-actions">
-        <button class="tweet-action-btn edit-btn" data-id="${tweet.id}">Edit Prompt</button>
-        <button class="tweet-action-btn open-btn" data-url="${tweet.url}">Open Tweet</button>
-        <button class="tweet-action-btn delete-btn" data-id="${tweet.id}">Delete</button>
+        <button class="tweet-action-btn edit-btn" data-id="${tweet.id}">编辑</button>
+        ${syncButton}
+        <button class="tweet-action-btn open-btn" data-url="${tweet.url}">查看</button>
+        <button class="tweet-action-btn delete-btn" data-id="${tweet.id}">删除</button>
       </div>
     </div>
   `;
@@ -116,6 +168,41 @@ function escapeHtml(text) {
     const div = document.createElement('div');
     div.textContent = text;
     return div.innerHTML;
+}
+
+async function handleSync(id) {
+    const card = document.querySelector(`.tweet-card[data-id="${id}"]`);
+    const syncBtn = card.querySelector('.sync-btn');
+
+    if (syncBtn) {
+        syncBtn.textContent = '同步中...';
+        syncBtn.disabled = true;
+    }
+
+    try {
+        const response = await chrome.runtime.sendMessage({
+            action: 'syncToGitHub',
+            id
+        });
+
+        if (response.success) {
+            await refreshTweetList();
+            await checkSyncStatus();
+        } else {
+            alert('同步失败: ' + response.error);
+            if (syncBtn) {
+                syncBtn.textContent = '同步到 GitHub';
+                syncBtn.disabled = false;
+            }
+        }
+    } catch (error) {
+        console.error('Sync error:', error);
+        alert('同步失败: ' + error.message);
+        if (syncBtn) {
+            syncBtn.textContent = '同步到 GitHub';
+            syncBtn.disabled = false;
+        }
+    }
 }
 
 async function openEditModal(id) {
@@ -164,16 +251,16 @@ async function handleSaveEdit() {
             closeModal();
             await refreshTweetList();
         } else {
-            alert('Failed to save: ' + response.error);
+            alert('保存失败: ' + response.error);
         }
     } catch (error) {
         console.error('Error saving edit:', error);
-        alert('Failed to save changes');
+        alert('保存失败');
     }
 }
 
 async function handleDelete(id) {
-    if (!confirm('Delete this saved tweet?')) return;
+    if (!confirm('确定删除这条保存的推文？')) return;
 
     try {
         const response = await chrome.runtime.sendMessage({
@@ -184,7 +271,7 @@ async function handleDelete(id) {
         if (response.success) {
             await refreshTweetList();
         } else {
-            alert('Failed to delete: ' + response.error);
+            alert('删除失败: ' + response.error);
         }
     } catch (error) {
         console.error('Error deleting tweet:', error);
@@ -192,7 +279,7 @@ async function handleDelete(id) {
 }
 
 async function handleClearAll() {
-    if (!confirm('Delete ALL saved tweets? This cannot be undone.')) return;
+    if (!confirm('确定清空所有保存的推文？此操作不可撤销。')) return;
 
     try {
         const response = await chrome.runtime.sendMessage({ action: 'clearAll' });
@@ -200,7 +287,7 @@ async function handleClearAll() {
         if (response.success) {
             await refreshTweetList();
         } else {
-            alert('Failed to clear: ' + response.error);
+            alert('清空失败: ' + response.error);
         }
     } catch (error) {
         console.error('Error clearing tweets:', error);
@@ -211,7 +298,7 @@ async function handleExport() {
     const btn = document.getElementById('exportBtn');
     const originalText = btn.innerHTML;
 
-    btn.innerHTML = 'Exporting...';
+    btn.innerHTML = '导出中...';
     btn.disabled = true;
 
     try {
@@ -238,7 +325,7 @@ async function handleExport() {
       <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
         <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
       </svg>
-      Exported!
+      已导出!
     `;
 
         setTimeout(() => {
@@ -248,7 +335,7 @@ async function handleExport() {
 
     } catch (error) {
         console.error('Export error:', error);
-        alert('Export failed: ' + error.message);
+        alert('导出失败: ' + error.message);
         btn.innerHTML = originalText;
         btn.disabled = false;
     }

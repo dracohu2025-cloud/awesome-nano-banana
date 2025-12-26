@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "Nano Banana Scraper",
-    "version": "1.0.0",
-    "description": "Scrape Nano Banana Pro images and prompts from Twitter/X",
+    "version": "1.1.0",
+    "description": "Scrape Nano Banana Pro images and prompts from Twitter/X with GitHub sync",
     "permissions": [
         "storage",
         "activeTab",
@@ -11,7 +11,8 @@
     "host_permissions": [
         "https://twitter.com/*",
         "https://x.com/*",
-        "https://pbs.twimg.com/*"
+        "https://pbs.twimg.com/*",
+        "https://api.github.com/*"
     ],
     "action": {
         "default_popup": "popup.html",
@@ -21,6 +22,7 @@
             "128": "icons/icon128.png"
         }
     },
+    "options_page": "options.html",
     "content_scripts": [
         {
             "matches": [

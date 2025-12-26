@@ -1,11 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Nano Banana Scraper</title>
   <link rel="stylesheet" href="popup.css">
 </head>
+
 <body>
   <div class="container">
     <!-- Header -->
@@ -14,18 +16,29 @@
         <span class="emoji">🍌</span>
         <h1>Nano Banana Scraper</h1>
       </div>
-      <p class="subtitle">Collect AI art from Twitter/X</p>
+      <p class="subtitle">从 Twitter/X 收集 AI 艺术作品</p>
     </header>
+
+    <!-- Sync Status -->
+    <div class="sync-status" id="syncStatus">
+      <span class="sync-indicator" id="syncIndicator"></span>
+      <span class="sync-text" id="syncText">检查设置...</span>
+      <button class="settings-btn" id="settingsBtn" title="设置">⚙️</button>
+    </div>
 
     <!-- Stats -->
     <div class="stats" id="stats">
       <div class="stat">
         <span class="stat-value" id="totalCount">0</span>
-        <span class="stat-label">Saved</span>
+        <span class="stat-label">已保存</span>
       </div>
       <div class="stat">
         <span class="stat-value" id="imageCount">0</span>
-        <span class="stat-label">Images</span>
+        <span class="stat-label">图片</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="syncedCount">0</span>
+        <span class="stat-label">已同步</span>
       </div>
     </div>
 
@@ -33,15 +46,15 @@
     <div class="actions">
       <button class="btn btn-primary" id="exportBtn">
         <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
-          <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
+          <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" />
         </svg>
-        Export YAML
+        导出 YAML
       </button>
       <button class="btn btn-secondary" id="clearBtn">
         <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
-          <path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"/>
+          <path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z" />
         </svg>
-        Clear All
+        清空
       </button>
     </div>
 
@@ -49,15 +62,15 @@
     <div class="tweet-list" id="tweetList">
       <div class="empty-state" id="emptyState">
         <span class="empty-icon">🔍</span>
-        <p>No tweets saved yet</p>
-        <p class="hint">Browse Twitter/X and click "Scrape" on tweets with images</p>
+        <p>还没有保存的推文</p>
+        <p class="hint">浏览 Twitter/X 并点击带图片推文上的 "Scrape" 按钮</p>
       </div>
     </div>
 
     <!-- Footer -->
     <footer class="footer">
       <a href="https://github.com/dracohu2025-cloud/awesome-nano-banana" target="_blank">
-        View on GitHub
+        在 GitHub 上查看
       </a>
     </footer>
   </div>
@@ -66,20 +79,21 @@
   <div class="modal" id="editModal">
     <div class="modal-content">
       <div class="modal-header">
-        <h2>Edit Prompt</h2>
+        <h2>编辑 Prompt</h2>
         <button class="close-btn" id="closeModal">&times;</button>
       </div>
       <div class="modal-body">
         <div class="preview-images" id="previewImages"></div>
-        <textarea id="promptEditor" placeholder="Enter the prompt used to generate this image..."></textarea>
+        <textarea id="promptEditor" placeholder="输入生成此图片的 prompt..."></textarea>
       </div>
       <div class="modal-footer">
-        <button class="btn btn-secondary" id="cancelEdit">Cancel</button>
-        <button class="btn btn-primary" id="saveEdit">Save</button>
+        <button class="btn btn-secondary" id="cancelEdit">取消</button>
+        <button class="btn btn-primary" id="saveEdit">保存</button>
       </div>
     </div>
   </div>
 
   <script src="popup.js"></script>
 </body>
+
 </html>

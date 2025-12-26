@@ -53,6 +53,56 @@ body {
     margin-top: 4px;
 }
 
+/* Sync Status Bar */
+.sync-status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 16px;
+    background: rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.sync-indicator {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: #666;
+}
+
+.sync-indicator.connected {
+    background: #4CAF50;
+    box-shadow: 0 0 6px rgba(76, 175, 80, 0.5);
+}
+
+.sync-indicator.partial {
+    background: #FF9800;
+    box-shadow: 0 0 6px rgba(255, 152, 0, 0.5);
+}
+
+.sync-indicator.disconnected {
+    background: #666;
+}
+
+.sync-text {
+    flex: 1;
+    font-size: 11px;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.settings-btn {
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.settings-btn:hover {
+    opacity: 1;
+}
+
 /* Stats */
 .stats {
     display: flex;
@@ -270,6 +320,48 @@ body {
 
 .open-btn:hover {
     background: rgba(255, 255, 255, 0.2);
+}
+
+.sync-btn {
+    background: rgba(76, 175, 80, 0.2);
+    color: #4CAF50;
+}
+
+.sync-btn:hover {
+    background: rgba(76, 175, 80, 0.3);
+}
+
+.sync-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Sync Badge */
+.tweet-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.sync-badge {
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: 500;
+}
+
+.sync-badge.synced {
+    background: rgba(76, 175, 80, 0.2);
+    color: #4CAF50;
+}
+
+.sync-badge.pending {
+    background: rgba(255, 152, 0, 0.2);
+    color: #FF9800;
+}
+
+.tweet-card.synced {
+    border-color: rgba(76, 175, 80, 0.3);
 }
 
 /* Footer */
