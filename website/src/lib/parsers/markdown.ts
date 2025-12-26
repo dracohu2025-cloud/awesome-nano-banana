@@ -210,23 +210,24 @@ export async function fetchAndParseGitHubReadme(
     repo: string,
     source: DataSource,
     defaultModel: ModelType = 'nano-banana-pro',
-    branch: string = 'main'
+    branch: string = 'main',
+    filePath: string = 'README.md'
 ): Promise<Case[]> {
-    const url = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/README.md`;
+    const url = `https://raw.githubusercontent.com/${owner}/${repo}/${branch}/${filePath}`;
 
     try {
         const response = await fetch(url, {
             next: { revalidate: 3600 } // Cache for 1 hour
         });
         if (!response.ok) {
-            console.warn(`Failed to fetch README from ${url}: ${response.status}`);
+            console.warn(`Failed to fetch ${filePath} from ${url}: ${response.status}`);
             return [];
         }
 
         const markdown = await response.text();
         return parseMarkdownCases(markdown, source, defaultModel);
     } catch (error) {
-        console.error(`Error fetching README from ${url}:`, error);
+        console.error(`Error fetching ${filePath} from ${url}:`, error);
         return [];
     }
 }

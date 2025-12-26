@@ -3,39 +3,35 @@ import { fetchAndParseGitHubReadme } from './markdown';
 
 /**
  * Get all cases from all sources
- * Currently only YouMind (Nano Banana Pro) is supported with working CDN images
+ * Now reads from our own NANO_BANANA_PRO_PROMPTS_V2.md file
  */
 export async function getAllCasesFromAllSources(): Promise<Case[]> {
     const allCases: Case[] = [];
 
-    // NOTE: JimmyLv removed - it's Nano Banana (not Pro), and local images don't work on Vercel
-    // NOTE: PicoTrex removed - uses local relative paths (images/xxx) instead of absolute URLs
-    // NOTE: ZeroLu removed - images hosted on GitHub private CDN which causes 404s
-
-    // Only YouMind with CDN images works properly
+    // Read from our own repo's scraped prompts file
     const externalSources: Array<{
         source: DataSource;
         owner: string;
         repo: string;
         model: ModelType;
-        cacheFile: string;
+        filePath: string;
     }> = [
             {
-                source: 'youmind',
-                owner: 'YouMind-OpenLab',
-                repo: 'awesome-nano-banana-pro-prompts',
+                source: 'youmind',  // Using youmind as source type for parsing format
+                owner: 'dracohu2025-cloud',
+                repo: 'awesome-nano-banana',
                 model: 'nano-banana-pro',
-                cacheFile: 'youmind.md',
+                filePath: 'NANO_BANANA_PRO_PROMPTS_V2.md',
             },
         ];
 
-    for (const { source, owner, repo, model, cacheFile } of externalSources) {
+    for (const { source, owner, repo, model, filePath } of externalSources) {
         try {
-            const cases = await fetchAndParseGitHubReadme(owner, repo, source, model);
+            const cases = await fetchAndParseGitHubReadme(owner, repo, source, model, 'main', filePath);
             allCases.push(...cases);
-            console.log(`Loaded ${cases.length} cases from ${source}`);
+            console.log(`Loaded ${cases.length} cases from ${owner}/${repo}/${filePath}`);
         } catch (error) {
-            console.warn(`Failed to load cases from ${source}:`, error);
+            console.warn(`Failed to load cases from ${owner}/${repo}:`, error);
         }
     }
 
