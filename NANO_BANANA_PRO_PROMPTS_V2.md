@@ -4495,3 +4495,28 @@ Nano banana Pro on http://hypermark.ai
     "use_reference_image": true,
     "alter_face": false,
 ```
+
+---
+
+## Case: twitter-2000548658669027834
+
+**Author:** [@Taaruk_](https://twitter.com/Taaruk_)
+**Tweet:** [View Original](https://x.com/Taaruk_/status/2000548658669027834)
+**Scraped:** 2025-12-26T13:23:37.632Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8NgZd9aQAAAsy1?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana pro image generation 
+Prompt:{
+  "Objective": "Create an ultra-realistic 8K cinematic street photograph capturing emotional isolation within a fast-moving urban crowd.",
+
+  "Subject": {
+    "Gender": "Female",
+    "Appearance": {
+      "Hair": "Messy, wind-tousled
+```
