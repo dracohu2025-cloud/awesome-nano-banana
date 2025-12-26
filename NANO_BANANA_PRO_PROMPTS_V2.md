@@ -4160,3 +4160,32 @@ Nano Banana Pro on Gemini app.
 
 Prompt: A vibrant fantasy-style soda commercial where a playful young man surfs an energetic orange soda wave exploding from a cold Fanta can. Juicy orange slices, bubbly liquid arcs, exaggerated motion, warm sunlight, colorful gradient background,
 ```
+
+---
+
+## Case: twitter-2000240155286745322
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/2000240155286745322)
+**Scraped:** 2025-12-26T13:19:52.834Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8JH0gcXUAQJZSP?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8JH0gxW4AEKiDJ?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8JH0gRWkAUyUib?format=jpg&name=orig)
+
+### Prompt
+
+```
+ CREATE YOUR STUDIO QUALITY UNDERWATER  PHOTOGRAPHY, share with your friends.
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+ 1) Download the Gemini app from the Play
+```
