@@ -1047,3 +1047,31 @@ Prompt  {
   "style": "Augmented Reality, Cyberpunk, Cinematic, Photorealistic"
 }
 ```
+
+---
+
+## Case: twitter-2004041725074088251
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2004041725074088251)
+**Scraped:** 2025-12-26T12:53:31.305Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8_JQaobcAAWlwe?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8_JQcsa8AEgSFg?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8_JQg8b0AMAXI_?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8_JQu4asAAlqGl?format=jpg&name=orig)
+
+### Prompt
+
+```
+Object Turned Civilization
+
+Gemini Nano Banana Pro Prompt:
+
+A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE / SOCIETY] build homes, roads, markets, and infrastructure directly into the object’s structure. Photoreal materials, lived-in wear, soft daylight, wide cinematic perspective with deep storytelling.
+```
