@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nano Banana Scraper</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header -->
+    <header class="header">
+      <div class="logo">
+        <span class="emoji">🍌</span>
+        <h1>Nano Banana Scraper</h1>
+      </div>
+      <p class="subtitle">Collect AI art from Twitter/X</p>
+    </header>
+
+    <!-- Stats -->
+    <div class="stats" id="stats">
+      <div class="stat">
+        <span class="stat-value" id="totalCount">0</span>
+        <span class="stat-label">Saved</span>
+      </div>
+      <div class="stat">
+        <span class="stat-value" id="imageCount">0</span>
+        <span class="stat-label">Images</span>
+      </div>
+    </div>
+
+    <!-- Actions -->
+    <div class="actions">
+      <button class="btn btn-primary" id="exportBtn">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+          <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"/>
+        </svg>
+        Export YAML
+      </button>
+      <button class="btn btn-secondary" id="clearBtn">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+          <path d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"/>
+        </svg>
+        Clear All
+      </button>
+    </div>
+
+    <!-- Tweet List -->
+    <div class="tweet-list" id="tweetList">
+      <div class="empty-state" id="emptyState">
+        <span class="empty-icon">🔍</span>
+        <p>No tweets saved yet</p>
+        <p class="hint">Browse Twitter/X and click "Scrape" on tweets with images</p>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <a href="https://github.com/dracohu2025-cloud/awesome-nano-banana" target="_blank">
+        View on GitHub
+      </a>
+    </footer>
+  </div>
+
+  <!-- Edit Modal -->
+  <div class="modal" id="editModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2>Edit Prompt</h2>
+        <button class="close-btn" id="closeModal">&times;</button>
+      </div>
+      <div class="modal-body">
+        <div class="preview-images" id="previewImages"></div>
+        <textarea id="promptEditor" placeholder="Enter the prompt used to generate this image..."></textarea>
+      </div>
+      <div class="modal-footer">
+        <button class="btn btn-secondary" id="cancelEdit">Cancel</button>
+        <button class="btn btn-primary" id="saveEdit">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="popup.js"></script>
+</body>
+</html>
