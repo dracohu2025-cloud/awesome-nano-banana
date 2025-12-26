@@ -3468,3 +3468,53 @@ Input Variable: [insert book title or genre]
 
 4. The Desk: The surrounding surface matches the likely reader (Mahogany desk for Sherlock Holmes, metal grate for Cyberpunk). Output Rules: 45-degree angle looking down, focus on the paper texture and text transformation.
 ```
+
+---
+
+## Case: twitter-2003060637635604501
+
+**Author:** [@xIrissy](https://twitter.com/xIrissy)
+**Tweet:** [View Original](https://x.com/xIrissy/status/2003060637635604501)
+**Scraped:** 2025-12-26T13:15:03.736Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8xNBd6asAAorNE?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt:
+
+{
+  "generation_request": {
+    "subject_reference": {
+      "Gender": "Female", A Beautiful Woman in her 20s.
+      "facial_preservation": "High fidelity, exact features, no stylization, no alteration to identity"
+    },
+    "prompts": {
+      "positive_prompt": "High-resolution aerial action photography of [Reference Woman] paragliding. Low-angle wide-angle selfie shot captured via a selfie stick held in her left hand. She is suspended in a professional paragliding harness with legs freely dangling, wearing a black bikini and simple flip-flops. Her right hand grips the paragliding control handle. The background is an expansive, vibrant tropical coastline with deep turquoise ocean and clear blue sky. Bright natural daylight, sharp focus, hyper-realistic skin texture, cinematic composition, dynamic motion, true-to-life proportions.",
+      "negative_prompt": "CG, 3d render, anime, cartoon, painting, drawing, illustration, altered face, distorted features, bad anatomy, deformed hands, missing fingers, helmet, sunglasses, wetsuit, sneakers, cloudy, dark lighting, blurry, noise, grain, low resolution"
+    },
+    "scene_details": {
+      "camera_angle": "Low perspective, wide-angle, looking up from selfie stick",
+      "lighting": "Bright natural daylight, hard sunlight",
+      "attire": [
+        "Black bikini",
+        "Simple flip-flops"
+      ],
+      "pose_constraints": {
+        "left_hand": "Holding selfie stick pointed toward self",
+        "right_hand": "Holding paragliding control handle",
+        "legs": "Dangling freely"
+      }
+    },
+    "technical_settings": {
+      "aspect_ratio": "9:16",
+      "style": "Ultra-realistic, raw photography"
+    }
+  }
+}
+```
