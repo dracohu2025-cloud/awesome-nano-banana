@@ -1822,3 +1822,26 @@ Gemini Nano Banana Prompt
   ]
 }
 ```
+
+---
+
+## Case: twitter-1997504813639074243
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1997504813639074243)
+**Scraped:** 2025-12-26T12:56:27.107Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7iQBf4W4AAPRf_?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro 提示词
+ 把城市漂浮在咖啡杯的奶泡之上
+
+--- Prompt ----
+
+以45°俯视角度呈现一幅精致的微缩3D场景，凸显精准细腻的模型细节。画面特写一只瓷质咖啡杯，杯中的卡布奇诺奶泡之上，微妙地漂浮着一个迷你城市{city}，占据了画面的大部分，场景中央突出展示该{city}最具代表性的地标建筑，细节清晰可见，主要景点散发柔和的灯光，微型街道上有细致逼真的车辆穿梭。整体采用真实感的电影级光效与景深模糊效果，营造出奇幻而梦境般的氛围。画面细节极致丰富，风格高度写实，呈现8K级电影质感。画面比例1:1。
+```
