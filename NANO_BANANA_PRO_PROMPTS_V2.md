@@ -3963,3 +3963,92 @@ The platform is bustling with other students carrying suitcases and owl cages, r
 
 The lighting is a warm, evening glow, creating a magical and nostalgic atmosphere. The scene looks like a real photograph with cinematic color grading. Every detail, from the texture of her robe and the steam of the train to the expressions of the passing students, is rendered with maximum sharpness and clarity, filling the scene with magic and the thrill of the upcoming journey. --ar 9:16
 ```
+
+---
+
+## Case: twitter-2004390027179315659
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2004390027179315659)
+**Scraped:** 2025-12-26T13:18:36.203Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EGAq-bAAALFtl?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9EGAp9aUAAKvTU?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9EGBNmb0AENX8y?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9EGAr_b0AApJE6?format=jpg&name=orig)
+
+### Prompt
+
+```
+☞︎︎︎ Opened Gemini app 
+
+☞︎︎︎ Used Nano Banana Pro to create these visuals
+
+These photos are fully AI-generated but look insanely real 
+
+AI creativity is on another level now.
+
+Prompt 
+{
+  "type": "image_generation",
+  "style": "ultra_photorealistic",
+  "aspect_ratio": "1:1",
+  "resolution": "8K",
+  "quality": "high_detail_realism",
+  "scene": {
+    "location": "modern city business district",
+    "environment": "open plaza surrounded by glass skyscrapers",
+    "atmosphere": "busy urban lifestyle, premium commercial vibe"
+  },
+  "subject": {
+    "structure": "luxury brand pop-up store",
+    "design": "minimalist modern architecture with bold geometric shape",
+    "material": "wood, glass, metal finishes",
+    "branding": "large clean logo on outer wall",
+    "interior": "well-lit showroom with product displays"
+  },
+  "people": {
+    "crowd": "realistic people walking, shopping, interacting",
+    "style": "casual urban clothing",
+    "motion": "natural movement, candid poses"
+  },
+  "lighting": {
+    "type": "natural daylight",
+    "quality": "soft cinematic lighting",
+    "shadows": "realistic soft shadows",
+    "reflections": "glass and metal reflections visible"
+  },
+  "camera": {
+    "device": "DSLR",
+    "lens": "24mm wide angle",
+    "aperture": "f/4",
+    "iso": 100,
+    "focus": "sharp foreground with deep clarity",
+    "depth_of_field": "natural depth"
+  },
+  "rendering_details": {
+    "texture": "high-detail materials and surfaces",
+    "color_grading": "clean, premium, realistic",
+    "sharpness": "ultra clear",
+    "noise": "none",
+    "artifacts": "none"
+  },
+  "mood": "premium brand experience, futuristic yet realistic",
+  "negative_prompt": [
+    "cartoon",
+    "anime",
+    "illustration",
+    "cgi look",
+    "low quality",
+    "blur",
+    "distorted buildings",
+    "fake lighting",
+    "over-saturated colors"
+  ]
+}
+```
