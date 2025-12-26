@@ -1,26 +1,18 @@
 import { Case, DataSource, ModelType } from '../types';
-import { parseJimmyLvCases } from './jimmylv';
 import { fetchAndParseGitHubReadme } from './markdown';
-import fs from 'fs';
-import path from 'path';
-
-// Cache directory for external READMEs
-const CACHE_DIR = path.join(process.cwd(), '.cache');
 
 /**
  * Get all cases from all sources
+ * Currently only YouMind (Nano Banana Pro) is supported with working CDN images
  */
 export async function getAllCasesFromAllSources(): Promise<Case[]> {
     const allCases: Case[] = [];
 
-    // 1. JimmyLv - Local YAML files (always available)
-    const jimmyLvCases = parseJimmyLvCases();
-    allCases.push(...jimmyLvCases);
-    console.log(`Loaded ${jimmyLvCases.length} cases from JimmyLv`);
-
-    // 2. Load from external GitHub READMEs
+    // NOTE: JimmyLv removed - it's Nano Banana (not Pro), and local images don't work on Vercel
     // NOTE: PicoTrex removed - uses local relative paths (images/xxx) instead of absolute URLs
     // NOTE: ZeroLu removed - images hosted on GitHub private CDN which causes 404s
+
+    // Only YouMind with CDN images works properly
     const externalSources: Array<{
         source: DataSource;
         owner: string;
