@@ -850,3 +850,35 @@ prompt:
 
 Recreate the person in [@]img1 in the same outfit and same pose, but from a different camera angle. Keep facial identity and proportions consistent. Style: ultra-realistic lifestyle photo.”
 ```
+
+---
+
+## Case: twitter-1998095424394007000
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1998095424394007000)
+**Scraped:** 2025-12-26T12:51:44.271Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7qpEyCX0AATRs4?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7mP3NwXUAAmKPk?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7mP663WQAExYtX?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7mRE9cXoAAedRb?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7mRGkfXQAA465F?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt
+
+ Experience cinematic magic: a stunning split-screen photo seamlessly merging past and present, capturing dynamic interactions across time! 
+
+--- Prompt ---
+
+A horizontal split-screen cinematic shot of {Scene}, seamlessly blending two different
+```
