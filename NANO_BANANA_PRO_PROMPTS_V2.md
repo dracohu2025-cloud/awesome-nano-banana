@@ -4697,3 +4697,30 @@ Prompt
     "description": "8K ultra-realistic, hyper-ultra-realistic, HDR portrait of the same woman with an action perspective",
     "camera_angle": "Dramatic
 ```
+
+---
+
+## Case: twitter-2002346309127454882
+
+**Author:** [@harboriis](https://twitter.com/harboriis)
+**Tweet:** [View Original](https://x.com/harboriis/status/2002346309127454882)
+**Scraped:** 2025-12-26T13:25:39.812Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8nDVZcbEAA8JVl?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8nDVfMbMAEIpEQ?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8nDWBIbMAENT17?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8nDWAPaUAA3EL4?format=jpg&name=orig)
+
+### Prompt
+
+```
+3D Santa Letter made with Gemini Nano Banana Pro
+
+Prompt:
+3D render of the letter "A" made entirely of fluffy red fur texture, styled like a Santa hat, bright red color with gradient shading, white fluffy pom-pom on the rounded top end, white fur trim at the base, ultra-detailed fur texture with individual hairs visible, soft studio lighting, minimal white background, subtle shadow underneath, photorealistic rendering, volumetric fur material, professional product photography style.
+```
