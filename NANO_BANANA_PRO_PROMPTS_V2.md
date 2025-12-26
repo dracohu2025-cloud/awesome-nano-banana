@@ -448,3 +448,31 @@ Gemini Nano Banana Pro Prompt:
 
 A Japanese folk-art depiction of a [FIGURE], rendered with flat color blocks, delicate linework, and stylized natural motifs, soft muted tones, asymmetrical balance, traditional woodblock-print texture, calm and poetic storybook atmosphere.
 ```
+
+---
+
+## Case: twitter-2004493043748266329
+
+**Author:** [@_dailyboost](https://twitter.com/_dailyboost)
+**Tweet:** [View Original](https://x.com/_dailyboost/status/2004493043748266329)
+**Scraped:** 2025-12-26T12:15:38.109Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FjqHRasAAjK6V?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt:
+
+{
+  "subject": {
+    "type": "Young woman",
+    "appearance": {
+      "hair": "Long, blonde, wavy, parted in the middle, draping over shoulders",
+      "eyes": "Brown, looking directly at the camera",
+      "skin_tone": "Fair/Light tan",
+```
