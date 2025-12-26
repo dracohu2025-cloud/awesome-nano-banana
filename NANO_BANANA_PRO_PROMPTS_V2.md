@@ -4540,3 +4540,33 @@ an alternative way to prompt Nano Banana Pro
 
 “Imagine we have made a camera so small it can be carried by an ant. The image we are seeing was taken from that camera as a golden retriever runs by to catch a tennis ball”
 ```
+
+---
+
+## Case: twitter-2000606075976888519
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2000606075976888519)
+**Scraped:** 2025-12-26T13:24:18.085Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8OUnmCXMBIZFYk?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8OUnmEXMAAP6ZA?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro  @NanoBanana 
+
+Prompt: 
+
+{
+  "request_metadata": {
+    "model": "Nano Banana Pro",
+    "format_aspect_ratio": "3:4",
+    "render_style": "photoreal_editorial_flash",
+    "reference_constraints": {
+      "source_image": "uploaded reference image",
+```
