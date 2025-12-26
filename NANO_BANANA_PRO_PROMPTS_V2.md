@@ -4621,3 +4621,21 @@ Nano Banana Pro just upgraded this prompt!
 
 Prompt : A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique
 ```
+
+---
+
+## Case: twitter-1999076757178360282
+
+**Author:** [@umesh_ai](https://twitter.com/umesh_ai)
+**Tweet:** [View Original](https://x.com/umesh_ai/status/1999076757178360282)
+**Scraped:** 2025-12-26T13:25:22.262Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G74lrwiagAAVnIF?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt on Nano Banana Pro : photorealistic image of a white egg with cracks forming the basic simple cracked outline of a [SHAPE] shape . The egg should appear freshly cracked, with sharp, clean lines defining the simple shape of the [SHAPE] outline. Emphasize the contrast between the smooth, intact surface of the egg and the jagged edges of the cracks against a dark background.
+```
