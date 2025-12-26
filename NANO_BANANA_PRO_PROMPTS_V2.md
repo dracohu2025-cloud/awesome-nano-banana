@@ -5515,3 +5515,25 @@ Gemini Nano Banana Prompt
   "subject_details": {
     "character": "Stunning young K-Pop visual, trendy streetwear outfit, waist-up shot",
 ```
+
+---
+
+## Case: twitter-2004532543979442298
+
+**Author:** [@harboriis](https://twitter.com/harboriis)
+**Tweet:** [View Original](https://x.com/harboriis/status/2004532543979442298)
+**Scraped:** 2025-12-26T13:53:29.378Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GHtQ_a4AAYTer?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini app. 
+
+Prompt: High-quality vertical collage (3:4 ratio), three horizontal frames, cozy luxury winter style, always featuring my face from the reference photo
+
+Top: super close-up, young Russian woman, natural makeup (soft pink lips: rosy cheeks), matte glowing skin, expressive eyes, defined lashes White voluminous faux fur hood frames face, delicate snowflakes fall, dreamy snowy bokeh, vibrant yet refined colors, warm and luxurious mood. Middle: full-body from behind, same opulent light fur hooded coat, long hair flows down back. Stands on snowy riverbank, background: small wooden cabin, snow roof, evergreen trees, misty mountains, light snowfall, tactile soft fur. Bottom: side profile in car, back seat, looking out at snowy landscape. Elegant winter hat (no ears), soft scarf, luxurious car interior, fogged window, voluminous hood, soft cozy light. Face in every frame matches reference: makeup, features, and expression. Rich fur, white/beige tones, bright warm winter palette, natural lighting for dreamy snow atmosphere. Mood: cozy, luxurious, serene Collage structure highlights winter scenery, clothing details, individuality
+```
