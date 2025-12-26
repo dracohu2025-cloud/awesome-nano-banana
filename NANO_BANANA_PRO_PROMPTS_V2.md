@@ -3003,3 +3003,53 @@ Nano Banana Pro Prompt：
 一个以上传照片为原型的3*3贴纸包，人物穿着不同服装和时尚风格。边缘干净裁剪，带有粗线条轮廓，姿势富有表现力，整体采用活泼的现代贴纸设计。在每个贴纸旁边采用中英文标注风格，所有贴纸保持相同的面部特征、一致的相似度和比例。
 包含教师装、传统、护士制服、街头潮牌和奇幻灵感等多种服装风格。高分辨率成品，带有柔和阴影和光泽贴纸纸张质感，适合社交分享。
 ```
+
+---
+
+## Case: twitter-2003588959310660073
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2003588959310660073)
+**Scraped:** 2025-12-26T13:12:21.761Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G84tCi1bcAA_GwG?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G84th9sagAMOyd2?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G84ps7GaoAA0HVt?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G84rfR-agAQu1DL?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Nano banana pro prompt：
+
+{
+"creative_id": "product_photography-749156f4",
+"creative_world": "product_photography",
+"deliverable_type": "catalog_cover",
+"entry_point": "object",
+"core_tension": "comfort_vs_clinical",
+"twist_mechanisms": [
+"cutaway_logic",
+"function_misuse",
+"scale_mismatch"
+],
+"subject_kit": {
+"primary_subject": "a premium supplement bottle",
+"secondary_elements": [
+"tamper seal",
+"tiny lounge chair",
+"warning label sticker"
+]
+},
+"stage_context": "clean studio tabletop",
+"composition_rule": "centered, calm framing, high detail",
+"lighting_rule": "soft directional studio light, strong material definition"
+}
+
+#nanobanana #NanoBananaPro #Prompt #IdeaGeneration
+```
