@@ -1,54 +1,48 @@
-# 🍌 Awesome Nano Banana Pro
+# 🍌 Awesome Nano Banana Gallery
 
-A showcase website and Chrome extension for collecting Nano Banana Pro AI-generated images and prompts.
+> A curated showcase of AI-generated images using **Gemini Nano Banana Pro** prompts.
 
-## Features
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://awesome-nano-banana.vercel.app)
+[![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue)](./chrome-extension)
 
-### 🌐 Website
+## 🌟 Features
 
-A beautiful Neo-Brutalism style gallery showcasing 132 Nano Banana Pro cases from [YouMind](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts).
+- **Prompt Gallery** - Browse curated AI image generation prompts
+- **Chrome Extension** - Scrape prompts directly from Twitter/X
+- **Auto-Sync** - Scraped content automatically syncs to this repo
+- **Live Website** - Beautiful Neo-Brutalism design showcase
 
-- **Live Demo:** [Visit Website](https://awesome-nano-banana.vercel.app)
-- **Source:** `website/`
+## 🔗 Quick Links
 
-### 🔧 Chrome Extension
+| Resource | Link |
+|----------|------|
+| 🌐 Website | [awesome-nano-banana.vercel.app](https://awesome-nano-banana.vercel.app) |
+| 📁 Prompts File | [NANO_BANANA_PRO_PROMPTS_V2.md](./NANO_BANANA_PRO_PROMPTS_V2.md) |
+| 🔧 Chrome Extension | [chrome-extension/](./chrome-extension) |
 
-Scrape Nano Banana Pro content from Twitter/X with GitHub auto-sync support.
-
-- **Features:** Tweet scraping, prompt editing, YAML export, GitHub sync
-- **Source:** `chrome-extension/`
-- **[Installation Guide](chrome-extension/README.md)**
-
-## Quick Start
-
-### Website Development
-
-```bash
-cd website
-npm install
-npm run dev
-```
-
-### Extension Installation
-
-1. Open `chrome://extensions/`
-2. Enable Developer mode
-3. Load unpacked → select `chrome-extension/`
-
-## Repository Structure
+## 📂 Project Structure
 
 ```
-├── website/           # Next.js showcase website
-├── chrome-extension/  # Twitter scraper with GitHub sync
-├── NANO_BANANA_PRO_PROMPTS.md  # 132 Pro prompts collection
-└── archive/           # Legacy content from original repo
+awesome-nano-banana/
+├── NANO_BANANA_PRO_PROMPTS_V2.md  # Scraped prompts (auto-updated)
+├── website/                        # Next.js showcase website
+└── chrome-extension/               # Twitter/X scraper extension
 ```
 
-## Credits
+## 🚀 Getting Started
 
-- [YouMind](https://github.com/YouMind-OpenLab) - Nano Banana Pro cases
-- Original project: [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana) (archived in `archive/`)
+### View the Gallery
 
-## License
+Visit [awesome-nano-banana.vercel.app](https://awesome-nano-banana.vercel.app)
 
-CC-BY-4.0
+### Install Chrome Extension
+
+1. Clone this repo
+2. Go to `chrome://extensions/`
+3. Enable "Developer mode"
+4. Click "Load unpacked" and select `chrome-extension/` folder
+5. Configure GitHub settings for auto-sync
+
+## 📝 License
+
+Licensed under CC BY 4.0

@@ -40,7 +40,7 @@ export default async function Home() {
                       Explore Cases <ArrowRight className="w-5 h-5" />
                     </a>
                     <a
-                      href="https://github.com/JimmyLv/awesome-nano-banana"
+                      href="https://github.com/dracohu2025-cloud/awesome-nano-banana"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="neo-button bg-black text-white flex items-center gap-2"
@@ -61,8 +61,8 @@ export default async function Home() {
                       <div
                         key={c.id}
                         className={`absolute neo-card overflow-hidden ${i === 0 ? 'top-0 right-0 w-48 h-48 rotate-3 z-10' :
-                            i === 1 ? 'top-8 left-0 w-48 h-48 -rotate-6 z-20' :
-                              'bottom-0 right-8 w-40 h-40 rotate-12'
+                          i === 1 ? 'top-8 left-0 w-48 h-48 -rotate-6 z-20' :
+                            'bottom-0 right-8 w-40 h-40 rotate-12'
                           }`}
                       >
                         <img
@@ -133,27 +133,7 @@ export default async function Home() {
           </div>
         </section>
 
-        {/* CTA Section */}
-        <section className="py-12 px-4">
-          <div className="max-w-3xl mx-auto">
-            <div className="neo-card p-8 bg-[var(--accent-lavender)] text-center">
-              <h2 className="text-2xl md:text-3xl font-black uppercase mb-4">
-                🤝 Contribute Your Prompts!
-              </h2>
-              <p className="text-lg mb-6">
-                Have an amazing AI-generated image? Share your prompt with the community!
-              </p>
-              <a
-                href="https://github.com/JimmyLv/awesome-nano-banana/issues/new?template=add_new_example.yml"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="neo-button inline-flex items-center gap-2"
-              >
-                Submit New Case <ArrowRight className="w-5 h-5" />
-              </a>
-            </div>
-          </div>
-        </section>
+
       </main>
 
       {/* Footer */}
@@ -162,19 +142,14 @@ export default async function Home() {
           <p className="font-medium mb-2">
             Made with 🍌 by the community
           </p>
-          <div className="flex justify-center gap-4 flex-wrap text-sm">
-            {(Object.entries(SOURCE_INFO) as [DataSource, typeof SOURCE_INFO[DataSource]][]).map(([key, info]) => (
-              <a
-                key={key}
-                href={info.url}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="underline hover:no-underline"
-              >
-                {info.name}
-              </a>
-            ))}
-          </div>
+          <a
+            href="https://github.com/dracohu2025-cloud/awesome-nano-banana"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sm underline hover:no-underline"
+          >
+            View on GitHub
+          </a>
           <p className="text-sm text-gray-600 mt-4">
             Licensed under CC BY 4.0
           </p>
