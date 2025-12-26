@@ -1764,3 +1764,61 @@ Aspect ratio: 1:1.
 
 city: Chicago
 ```
+
+---
+
+## Case: twitter-2004536321050603580
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004536321050603580)
+**Scraped:** 2025-12-26T12:55:59.725Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GLJbub0AA8KS6?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Epic High Fashion",
+    "mood": "Majestic, Stormy, Dynamic, Ethereal"
+  },
+  "subject_details": {
+    "character": "Breathtaking young woman (Goddess visual), calm face amidst chaos, waist-up shot",
+    "outfit": "Wearing layers of long translucent silk or chiffon fabric (Red, White, or Black)",
+    "action": "Standing against a hurricane-force wind",
+    "details": "Fabric whipping violently around her creating artistic shapes, hair blowing straight back horizontally",
+    "pose": "Chin up, eyes open against the wind, strong core posture"
+  },
+  "environment_context": {
+    "location": "Vast desert or open sky backdrop",
+    "background_elements": "Clouds moving fast (long exposure background effect) or clean gradient",
+    "atmosphere": "Epic storm, unstoppable power"
+  },
+  "lighting_setup": {
+    "type": "Backlight Sun",
+    "source": "Strong light from behind to show the transparency of the flying fabric",
+    "effects": "Glowing outlines of the fabric and hair (Rim light)",
+    "color_grading": "Dramatic monochrome or Deep Red/Orange sunset, high drama",
+    "style": "Fine art fashion photography"
+  },
+  "camera_specification": {
+    "body": "Canon EOS R5",
+    "lens": "Canon RF 24-70mm F2.8 L IS USM",
+    "settings": "Aperture f/5.6, Shutter 1/2000s, ISO 200",
+    "style": "Commercial campaign styling"
+  },
+  "image_quality": {
+    "resolution": "8k",
+    "texture": "Fabric weave backlit, flying hair strands, smooth skin, dramatic shadows"
+  },
+  "negative_prompt": [
+    "messy hair covering face", "ugly expression", "static cloth", "drooping fabric", "boring", "low energy", "studio wall"
+  ]
+}
+```
