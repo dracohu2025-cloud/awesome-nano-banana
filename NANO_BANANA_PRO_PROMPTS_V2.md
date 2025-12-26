@@ -4969,3 +4969,21 @@ FLUX 2 Pro：演出は控えめだがアーティファクトが少ない
 プロンプト↓
 Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composition" lens: type: "super wide-angle lens" effects: - "extreme perspective" - "strong spatial compression between foreground, midground, background" Character: identity: ethnicity: "Japanese" gender: "girl" hair: "medium-length hair" outfit: style: "windy, dressy, trendy yumekawa fashion" pose: description: "bold, dynamic action pose" body_orientation: "leaning with momentum implied by the tilt" Hands_and_Gesture: right_hand: gesture: "index finger extended, thumb raised, other fingers curled inward" shape: index_finger: "extended straight forward" thumb: "raised vertically" other_fingers: "tightly curled inward" position: "held in front of her face" gaze_alignment: "her eyes follow the pointing direction" left_hand: gesture: "open hand" fingers: "all five fingers widely spread" position: "placed below and slightly in front of the right hand" palm_direction: "facing upward as if supporting it" perspective_role: "dominates the extreme foreground" perspective: dominance: "left hand is massively enlarged by wide-angle distortion" clarity: "both hands and face in sharp detail" depth_of_field: "full DOF, no background blur" Lighting: type: "soft indoor lighting" mood: "gentle highlights, controlled shadows" background: "neutral, blurred environment" Cinematic_Effects: atmosphere: "action tension + stylized anime dynamism" motion_sense: "perspective and Dutch angle add momentum" Output: aspect_ratio: "16:9" style: "high-quality anime illustration" rendering: "clean lines, sharp details, accurate anatomy"
 ```
+
+---
+
+## Case: twitter-1992038915881029641
+
+**Author:** [@goodside](https://twitter.com/goodside)
+**Tweet:** [View Original](https://x.com/goodside/status/1992038915881029641)
+**Scraped:** 2025-12-26T13:38:34.355Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6Uki94WMAAMMIj?format=jpg&name=orig)
+
+### Prompt
+
+```
+“Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.” Nano Banana Pro.
+```
