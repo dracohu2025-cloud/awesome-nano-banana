@@ -2047,3 +2047,30 @@ Try it out and feel free to share your magical results!
 
  nano banana pro prompt
 ```
+
+---
+
+## Case: twitter-1999176103634583819
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1999176103634583819)
+**Scraped:** 2025-12-26T12:57:14.992Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G75_mK9WcAAv87k?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G70bz9jXUAAleag?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt
+
+The Black Pearl awaits its captain. 
+
+--- Prompt ---
+
+A detailed photograph captures a glass bottle containing a miniature scene. Inside is the 'Black Pearl,' a weathered pirate ship with torn black sails and Jolly Roger flags, sailing on rough turquoise waves. 
+Above is a sunny sky with white clouds, a bright sun flare, and flying seagulls. The exterior of the glass bottle is covered in water droplets. It rests on a rustic, wet wooden surface with sunlight reflecting off the glass and water. The scene is photorealistic and highly detailed. --ar 3:2
+```
