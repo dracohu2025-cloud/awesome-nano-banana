@@ -3327,3 +3327,23 @@ Gemini Nano Banana Pro Prompt:
 
 A 3D logo of [Brand Name] crafted from stitched fabric and embroidery. Visible threads, soft woven texture, slight imperfections. Fashion brand aesthetic, neutral background, soft daylight lighting.
 ```
+
+---
+
+## Case: twitter-2001232399368380637
+
+**Author:** [@oggii_0](https://twitter.com/oggii_0)
+**Tweet:** [View Original](https://x.com/oggii_0/status/2001232399368380637)
+**Scraped:** 2025-12-26T13:13:08.979Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XOPjwbgAAFoOo?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini App.
+
+Prompt: This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The ground is covered with countless black-and-white billboard advertisements of beautiful fashion models, and standing on top of the advertisements is an incredibly beautiful Japanese film actress wearing a long black coat.
+```
