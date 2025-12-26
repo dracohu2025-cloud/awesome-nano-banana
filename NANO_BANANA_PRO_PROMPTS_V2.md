@@ -91,3 +91,32 @@ Prompt:
   }
 }
 ```
+
+---
+
+## Case: twitter-2004518893822337271
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004518893822337271)
+**Scraped:** 2025-12-26T12:13:35.756Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9F7RrhWgAE9w6o?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro @NanoBanana 
+2 Reference 
+Prompt: 
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_candid_couple_night_street",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references":
+```
