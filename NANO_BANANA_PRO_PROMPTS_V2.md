@@ -151,3 +151,35 @@ Prompt
     ],
     "clothing": "white oversized button-down shirt with black floral lace or
 ```
+
+---
+
+## Case: twitter-2004509495507194326
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004509495507194326)
+**Scraped:** 2025-12-26T12:14:05.089Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G85kRMRXIAEaIHM?format=jpg&name=orig)
+
+### Prompt
+
+```
+This Nano Banana Pro prompt reimagines famous paintings with food ingredients. 
+
+Input A:  Mona Lisa . <instructions> Act as a world class food expert and artist. 
+
+Input A: Masterpiece painting (e.g., Mona Lisa, Starry Night, The Scream).
+
+ Analyze composition, colors, mood, elements. Pick the right food ingredients relevant to the region that can be used in the painting. 
+
+Goal: Large charcuterie platter replicating the painting using cured meats, cheeses, fruits, nuts, and other ingredients relevant to that region. 
+Rules: decide which ingredients should be used for each part, so the painting looks as realistic as possible but is mainly made out of food. 
+
+2x2 grid: Panel 1: Original painting reference; Panel 2: Ingredient map; Panel 3: Overhead build; Panel 4: Final board with wine pairing.
+Output: 1 x 1:1 image, rustic gourmet photography.
+
+</instructions>
+```
