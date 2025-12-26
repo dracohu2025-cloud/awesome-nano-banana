@@ -649,3 +649,27 @@ Base prompt:
 
 A [PHOTOGRAPHY STYLE: e.g., grainy black and white film, candid street shot, cinematic telephoto] photograph of [SUBJECT NAME OR DESCRIPTION] [SPECIFIC
 ```
+
+---
+
+## Case: twitter-2004480282360193150
+
+**Author:** [@Taaruk_](https://twitter.com/Taaruk_)
+**Tweet:** [View Original](https://x.com/Taaruk_/status/2004480282360193150)
+**Scraped:** 2025-12-26T12:16:12.637Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FYMAobwAA1Yuw?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana pro image generation.
+Prompt {
+  "Objective": "Generate an ultra-realistic close-up portrait with a minimalist, modern editorial fashion test shoot aesthetic.",
+  "Persona_Details": {
+    "Subject": "Young adult man",
+    "Facial_Features": {
+      "Skin_Tone":
+```
