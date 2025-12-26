@@ -4724,3 +4724,35 @@ Prompt
 Prompt:
 3D render of the letter "A" made entirely of fluffy red fur texture, styled like a Santa hat, bright red color with gradient shading, white fluffy pom-pom on the rounded top end, white fur trim at the base, ultra-detailed fur texture with individual hairs visible, soft studio lighting, minimal white background, subtle shadow underneath, photorealistic rendering, volumetric fur material, professional product photography style.
 ```
+
+---
+
+## Case: twitter-2003524217212412224
+
+**Author:** [@siennalovesai](https://twitter.com/siennalovesai)
+**Tweet:** [View Original](https://x.com/siennalovesai/status/2003524217212412224)
+**Scraped:** 2025-12-26T13:25:47.196Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G83yjlQXEAAdqK6?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G81CYVHakAAHHt2?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G81CYUaa4AAaSZZ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Model: Me 
+
+Gemini Nano Banana Pro 3.0
+
+Prompt:
+
+{
+  "meta": {
+    "title": "Nightclub Reach — Side Accent Lock",
+    "intent": "Photorealistic nightlife fashion portrait with forced-perspective reach",
+    "generation_mode": "style_locked_repeatable",
+```
