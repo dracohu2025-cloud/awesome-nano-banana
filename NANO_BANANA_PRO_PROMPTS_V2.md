@@ -596,3 +596,26 @@ Prompt:
 "engine_configuration": {
 "model": {
 ```
+
+---
+
+## Case: twitter-2004486161184526434
+
+**Author:** [@NanoInspirate](https://twitter.com/NanoInspirate)
+**Tweet:** [View Original](https://x.com/NanoInspirate/status/2004486161184526434)
+**Scraped:** 2025-12-26T12:16:05.123Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FdgnQXoAAUaVO?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Gemini Nano Banana pro 3.0  
+
+{
+  "prompt_description": {
+    "subject": "A young adult female, appearing to be in her early 20s, with a slender and toned athletic build.",
+    "face": "Her face is turned to the side, with a focus on her profile. She has striking blue
+```
