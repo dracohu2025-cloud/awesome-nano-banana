@@ -2646,3 +2646,39 @@ The illustration features a delicate, soothing, and highly detailed art style re
 
 On the right quarter of the image, neatly arranged menu items showcase realistic photographs of two enticing coffees and one delightful dessert, complete with clearly displayed pricing. The overall composition balances artistic elegance with practical design, evoking a warm, relaxing, and inviting feeling.
 ```
+
+---
+
+## Case: twitter-1997191891553534399
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1997191891553534399)
+**Scraped:** 2025-12-26T12:59:19.427Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7dzYjAXsAA_msh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7dzYjAXMAA2r-r?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7XnSI3WwAAK6gB?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt
+
+Use this prompt to generate a playful, stylish portrait collage that accurately replicates a person's features from your uploaded photo, capturing a fresh, youthful aesthetic with scrapbook-inspired decorations and cute, magazine-style details.
+
+--- prompt ----
+
+Recreate the character's appearance from the uploaded photo, accurately preserving hairstyle, facial details, and expression. Present it as a bright, fresh, and youthful fashion portrait in a vertical collage format.
+
+She wears trendy youthful clothing, holding a red lollipop near her lips. Her face is playfully decorated with cute colorful stickers shaped like hearts, strawberries, and stars, creating a lively, stylish atmosphere. Her eyes are expressive, makeup is soft and natural, and her face shows a dreamy expression.
+
+The background features a corkboard covered with colorful sticky notes and memo papers, creating a campus and journaling vibe. Hand-drawn doodles of stars, arrows, and similar elements add to the cute, magazine-style aesthetic. Surrounding the main subject are ～4 scrapbook-style photo frames in various shapes, showcasing different outfits and poses of the same person.
+
+Overall, the image should utilize soft studio lighting, high-definition details, a clean-cut scrapbook aesthetic, Korean fashion-magazine style, and vibrant colors.
+
+Aspect ratio: 9:16.
+```
