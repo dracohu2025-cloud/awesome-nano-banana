@@ -5738,3 +5738,32 @@ Input Photo + Prompt
   "subject": {
     "gender":
 ```
+
+---
+
+## Case: twitter-2004477326076383674
+
+**Author:** [@r4jjesh](https://twitter.com/r4jjesh)
+**Tweet:** [View Original](https://x.com/r4jjesh/status/2004477326076383674)
+**Scraped:** 2025-12-26T14:34:40.234Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FVgPbbMAAsTrT?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FVgQ5acAA3caS?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9FVgQFbwAAVAwv?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9FVgTya0AADemh?format=jpg&name=orig)
+
+### Prompt
+
+```
+Try in Gemini nano banana / Grok
+
+Prompt : 
+
+{
+  "prompt": "Photorealistic cinematic candid portrait, morning outdoors near the Eiffel Tower in Paris. Dynamic diagonal tracking shot with the camera tilted 25 degrees, front-side low angle. A stylish person wearing a light beige
+```
