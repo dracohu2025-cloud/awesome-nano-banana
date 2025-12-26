@@ -5433,3 +5433,30 @@ Perfect to represent goals, growth, transformation, and success
 #PromptEngineering
 #AIVisuals
 ```
+
+---
+
+## Case: twitter-2004538124831949168
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004538124831949168)
+**Scraped:** 2025-12-26T13:52:32.386Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GMym7aUAEKW4d?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Magical Lantern Festival",
+    "mood": "Ecstatic, Emotional, Warm, Breathtaking"
+  },
+  "subject_details": {
+    "character": "Breathtakingly beautiful woman, looking up with tears of joy or
+```
