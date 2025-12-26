@@ -3347,3 +3347,33 @@ Nano Banana Pro on Gemini App.
 
 Prompt: This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The ground is covered with countless black-and-white billboard advertisements of beautiful fashion models, and standing on top of the advertisements is an incredibly beautiful Japanese film actress wearing a long black coat.
 ```
+
+---
+
+## Case: twitter-2003571226216657155
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2003571226216657155)
+**Scraped:** 2025-12-26T13:13:22.881Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G84dRqpWcAIrtXx?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro @NanoBanana 
+
+Prompt:
+
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_editorial_portrait",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references": {
+```
