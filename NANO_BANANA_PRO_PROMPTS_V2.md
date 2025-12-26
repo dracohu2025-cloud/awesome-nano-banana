@@ -4263,3 +4263,28 @@ Output:
 - Keep it cute and premium, not uncanny.
 </instruction>
 ```
+
+---
+
+## Case: twitter-2003381235331268757
+
+**Author:** [@hellokaton](https://twitter.com/hellokaton)
+**Tweet:** [View Original](https://x.com/hellokaton/status/2003381235331268757)
+**Scraped:** 2025-12-26T13:21:57.728Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G81wnZEb0AAVOc1?format=jpg&name=orig)
+
+### Prompt
+
+```
+Instant Polaroid Portal.
+
+Nano Banana Pro on Artifox
+
+Prompt:
+{
+    "subject": {
+        "description": "A hyper-realistic optical-illusion photograph. The woman from the uploaded reference portrait appears to be emerging from a freshly developed instant photo (Polaroid-style)
+```
