@@ -882,3 +882,37 @@ Recreate the person in [@]img1 in the same outfit and same pose, but from a diff
 
 A horizontal split-screen cinematic shot of {Scene}, seamlessly blending two different
 ```
+
+---
+
+## Case: twitter-2003820830661451845
+
+**Author:** [@0x00_Krypt](https://twitter.com/0x00_Krypt)
+**Tweet:** [View Original](https://x.com/0x00_Krypt/status/2003820830661451845)
+**Scraped:** 2025-12-26T12:52:21.220Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G88AUwjbsAAMbSt?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8v8VMSWQAE-bHg?format=jpg&name=orig)
+
+### Prompt
+
+```
+来自 @dotey 宝玉老师的灵感
+Banana Prompt
+---
+Create a 3x3 grid of nine distinct circular stickers, each depicting a different daily life scene. Each sticker should have a flat doodle style with a bold black outline, bright pastel colors, simple flat shapes, minimal shading, and cute rounded proportions. Each sticker should be isolated on a white background and be high resolution. Below each sticker, add a short, descriptive text label in a cute, readable font.
+The nine scenes should be:
+
+A person happily watering plants, titled 'Gardening Fun'.
+Someone reading a book comfortably on a couch with a cup of tea, titled 'Relaxing Read'.
+A person cooking a simple meal in the kitchen, titled 'Home Cooking'.
+Someone enjoying a walk in a park with a pet, titled 'Outdoor Stroll'.
+A person doing yoga or stretching gracefully, titled 'Mindful Movement'.
+Someone working on a creative project like drawing or crafting, titled 'Creative Time'.
+A person enjoying a quiet coffee break at a cafe, titled 'Coffee Break'.
+Someone listening to music with headphones, looking peaceful, titled 'Music Bliss'.
+A person tidying up their room with a smile, titled 'Tidy Space'."
+```
