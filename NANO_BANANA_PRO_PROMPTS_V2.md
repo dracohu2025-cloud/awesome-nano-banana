@@ -1876,3 +1876,31 @@ Use handwritten-style fonts for text.
 Output must be original—avoid direct copying of the reference image.
 Final image should be in 4K resolution, 16:9 aspect ratio.
 ```
+
+---
+
+## Case: twitter-1995109461875114311
+
+**Author:** [@MayorKingAI](https://twitter.com/MayorKingAI)
+**Tweet:** [View Original](https://x.com/MayorKingAI/status/1995109461875114311)
+**Scraped:** 2025-12-26T12:56:45.548Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7ANELZWMAEfO5h?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7ANGWpW0AIDu7F?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7ANIcCXkAACdeW?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7ANKRFWgAAFFMi?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro Prompt 
+ 
+Felt toys  
+
+Full body [Subject] toy, [attributes/accessories], [expression], made of felt, in a [place], [lighting], friendly and cartoonish appearance, rich and soft textures
+```
