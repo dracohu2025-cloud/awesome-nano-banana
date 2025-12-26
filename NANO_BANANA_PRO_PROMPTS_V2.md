@@ -673,3 +673,61 @@ Prompt {
     "Facial_Features": {
       "Skin_Tone":
 ```
+
+---
+
+## Case: twitter-2004459437822775516
+
+**Author:** [@web3btc](https://twitter.com/web3btc)
+**Tweet:** [View Original](https://x.com/web3btc/status/2004459437822775516)
+**Scraped:** 2025-12-26T12:16:51.884Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FEFyAbQAAthBT?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FEG4wawAEcox5?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9FEI-1aMAAwrR8?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9FELVTb0AEXUpI?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7puRFLb0AAXGTz?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G7puRzBasAAssKG?format=jpg&name=orig)
+
+### Prompt
+
+```
+GM
+
+我自己优化了下prompt,现在人物稳定性还不错。
+并且加了侧光（见图2），人物脸部层次高级了些。
+
+以下是prompt，需要用Nano Banana Pro 出图。
+
+Hyperrealistic realistic-anime portrait of a female character standing against a completely black background.
+Lighting: a narrow, hard-edged spotlight coming from one side of the face (side lighting / split lighting), striking the center of the face at a slight angle.
+The light beam is tightly focused, with sharp, clearly defined edges, creating strong chiaroscuro contrast.
+One side of the face is illuminated with high detail and texture, while the opposite side rapidly falls into deep shadow.
+ Very high falloff — light drops off immediately outside the beam.
+No soft lighting, no ambient fill light.
+Everything outside the spotlight is swallowed by darkness and nearly invisible.
+Face & Expression: eyes looking directly at the camera, subtle tension in the gaze, mysterious and introspective mood.
+Natural skin texture, cinematic realism, high micro-detail only within the lit area.
+Hair: long dark hair, with a few loose strands partially crossing the face.
+The upper hair near the face catches a small amount of light, while the lower hair gradually dissolves into shadow.
+Pose: one hand raised gently to the lips in a shy, hesitant gesture, fingers softly touching.
+The hand is partially lit by the same side light, with most of it fading into darkness.
+Clothing: black long-sleeve knit sweater.
+Minimal visible detail — fabric texture barely perceptible.
+The sweater and body merge almost completely into the black background.
+Overall tone: dark, moody, dramatic, mysterious.
+Extreme contrast.
+High realism only in the illuminated portion of the face.
+Everything outside the spotlight should be nearly invisible.
+Background: pure black, no gradients, no rim light, no background detail.
+
+#sentientAGI #sentient #sentientchat
+@SentientAGI
+```
