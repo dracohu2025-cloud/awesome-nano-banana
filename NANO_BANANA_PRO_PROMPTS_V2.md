@@ -3299,3 +3299,31 @@ Prompt:
   }
 }
 ```
+
+---
+
+## Case: twitter-2003419014018793838
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2003419014018793838)
+**Scraped:** 2025-12-26T13:12:54.020Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G82S5-ubcAEjWNh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G82S6BEaAAAWm_u?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G82S6BFagAE9SxF?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G82S6Pda8AARqiZ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Fabric-Stitched Textile Logo for Brands
+
+Gemini Nano Banana Pro Prompt:
+
+A 3D logo of [Brand Name] crafted from stitched fabric and embroidery. Visible threads, soft woven texture, slight imperfections. Fashion brand aesthetic, neutral background, soft daylight lighting.
+```
