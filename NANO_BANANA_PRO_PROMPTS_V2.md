@@ -1165,3 +1165,32 @@ Prompt for nano banana pro:
   "reference_image": "face.jpg",
   "use_reference_for": ["face", "hairstyle", "skin_tone",
 ```
+
+---
+
+## Case: twitter-2001254201611964524
+
+**Author:** [@xmliisu](https://twitter.com/xmliisu)
+**Tweet:** [View Original](https://x.com/xmliisu/status/2001254201611964524)
+**Scraped:** 2025-12-26T12:54:05.483Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XiFR2WYAAeyId?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt:
+
+{
+  "project_title": "Urban Streetwear Editorial Collage",
+  "aspect_ratio": "9:16",
+  "aesthetic_theme": {
+    "style": "Editorial poster-style multi-panel collage",
+    "mood": "Retro analog–digital fusion",
+    "color_palette": [
+      "Warm
+```
