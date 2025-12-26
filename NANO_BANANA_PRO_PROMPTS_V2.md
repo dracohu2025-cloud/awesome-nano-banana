@@ -2117,3 +2117,38 @@ Please retrieve current weather conditions for the specified city before renderi
 
 City name:【上海】
 ```
+
+---
+
+## Case: twitter-2000794831212449909
+
+**Author:** [@linxiaobei888](https://twitter.com/linxiaobei888)
+**Tweet:** [View Original](https://x.com/linxiaobei888/status/2000794831212449909)
+**Scraped:** 2025-12-26T12:57:24.500Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8RAQXWa4AgpfnJ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8RAQXVbsAAsMgD?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8RAQXha4AIs6lB?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8PPt8YXwAICsux?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个云朵造型很棒！
+
+我把下方景观也整成了模板，填入你要的主体和景观即可！
+
+Nano banana Pro Prompt：
+
+创建一个超写实的天空场景，柔和、自然的云层有机地聚合，形成一个清晰可辨的【主体】轮廓。云朵形态高悬在明亮蔚蓝的天空中，自然漂浮，其下方是清晰可识别的【景观描述】景观，为画面提供稳固的视觉基础。
+画面构图为正方形（1080×1080），云层造型位于画面上半部分，下方的风景使整体场景更加平衡。光线清晰明亮，呈现出日光直射的效果，云朵上有被阳光照亮的高光，增强了层次感、柔软度与真实感。
+整体氛围应当宁静、积极、富有视觉冲击力，色彩饱和度高，画面干净纯粹，营造出平和而清新的感觉。
+
+主体：西游记唐僧师徒
+景观描述：香港维多利亚港
+```
