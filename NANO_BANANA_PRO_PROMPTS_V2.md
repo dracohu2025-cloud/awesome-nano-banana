@@ -420,3 +420,31 @@ Prompt:
   }
 }
 ```
+
+---
+
+## Case: twitter-2004493311797809190
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2004493311797809190)
+**Scraped:** 2025-12-26T12:15:34.706Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Fj_IqaoAAppGK?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Fj_LBakAEjWnc?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Fj_PDaAAAErUF?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Fj_sbaMAA-EZN?format=jpg&name=orig)
+
+### Prompt
+
+```
+Japanese Folk Art
+
+Gemini Nano Banana Pro Prompt:
+
+A Japanese folk-art depiction of a [FIGURE], rendered with flat color blocks, delicate linework, and stylized natural motifs, soft muted tones, asymmetrical balance, traditional woodblock-print texture, calm and poetic storybook atmosphere.
+```
