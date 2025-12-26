@@ -18,7 +18,9 @@ export async function getAllCasesFromAllSources(): Promise<Case[]> {
     allCases.push(...jimmyLvCases);
     console.log(`Loaded ${jimmyLvCases.length} cases from JimmyLv`);
 
-    // 2. Try to load from cached READMEs first, then fetch if not available
+    // 2. Load from external GitHub READMEs
+    // NOTE: PicoTrex removed - uses local relative paths (images/xxx) instead of absolute URLs
+    // NOTE: ZeroLu removed - images hosted on GitHub private CDN which causes 404s
     const externalSources: Array<{
         source: DataSource;
         owner: string;
@@ -26,14 +28,6 @@ export async function getAllCasesFromAllSources(): Promise<Case[]> {
         model: ModelType;
         cacheFile: string;
     }> = [
-            {
-                source: 'picotrex',
-                owner: 'PicoTrex',
-                repo: 'Awesome-Nano-Banana-images',
-                model: 'nano-banana',
-                cacheFile: 'picotrex.md',
-            },
-            // ZeroLu removed due to high image defect rate
             {
                 source: 'youmind',
                 owner: 'YouMind-OpenLab',
