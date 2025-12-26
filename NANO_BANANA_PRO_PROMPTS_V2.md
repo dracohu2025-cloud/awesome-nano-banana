@@ -4639,3 +4639,34 @@ Prompt : A digital illustration of a [SUBJECT], portrayed with a network of glow
 ```
 Prompt on Nano Banana Pro : photorealistic image of a white egg with cracks forming the basic simple cracked outline of a [SHAPE] shape . The egg should appear freshly cracked, with sharp, clean lines defining the simple shape of the [SHAPE] outline. Emphasize the contrast between the smooth, intact surface of the egg and the jagged edges of the cracks against a dark background.
 ```
+
+---
+
+## Case: twitter-2000472545926255102
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2000472545926255102)
+**Scraped:** 2025-12-26T13:25:30.245Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8MbKKkbIAARQeZ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8L6RzsWwAAN6uW?format=jpg&name=orig)
+
+### Prompt
+
+```
+Made using Gemini Nano Banana Pro 
+
+Just look at that popcorn spill! The realism is next level.
+
+Prompt;
+{
+  "type": "advertisement_poster",
+  "style": {
+    "photorealistic": true,
+    "hyper_realistic": true,
+    "highly_detailed": true,
+    "commercial_photography": true,
+```
