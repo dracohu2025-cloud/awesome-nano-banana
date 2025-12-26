@@ -211,3 +211,33 @@ Prompt:
   "reference_face": {
     "instruction": "Use the provided image as the sole facial reference. Match the face exactly with no alterations to facial structure, proportions, skin tone, freckles, eyes,
 ```
+
+---
+
+## Case: twitter-2004501026184024249
+
+**Author:** [@_dailyboost](https://twitter.com/_dailyboost)
+**Tweet:** [View Original](https://x.com/_dailyboost/status/2004501026184024249)
+**Scraped:** 2025-12-26T12:14:53.356Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Fq9UJbkAAnY1V?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt
+
+A cinematic, ultra-realistic gym portrait of an athletic young woman with a strong, lean physique and clearly defined abs. She is standing indoors in a modern gym after a workout, slightly sweaty, looking down at her torso while gently touching her upper abdomen/chest area as if checking muscle engagement or breathing.
+
+She is wearing a soft pink sports bra and matching pink jogger pants, minimal accessories, no visible branding. Her dark hair is tied back in a low, slightly messy bun, with a few loose strands near her face. Her skin has natural texture and a light sheen of sweat for realism.
+
+The environment is a dimly lit gym with treadmills and other people exercising in the background, blurred using shallow depth of field. Background lighting is soft and warm, creating a moody, cinematic atmosphere.
+
+Lighting is low-key and directional, highlighting muscle definition on arms and abs while maintaining soft shadows. The image feels natural, candid, and powerful rather than posed.
+
+Shot on a full-frame camera, 50mm lens, f/1.8, shallow depth of field, ultra-detailed, photorealistic, high dynamic range, realistic skin tones, cinematic color grading, fitness photography style, Instagram-quality realism, 8K resolution.
+```
