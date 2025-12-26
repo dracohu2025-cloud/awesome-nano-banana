@@ -2339,3 +2339,39 @@ Turn your photo into a 𝘁𝗶𝗻𝘆 𝗖𝗵𝗿𝗶𝘀𝘁𝗺𝗮𝘀 nut
     "user_face_image": "<UPLOAD_OR_URL_USER_PORTRAIT>",
     "style_reference_image":
 ```
+
+---
+
+## Case: twitter-1998454127152500959
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1998454127152500959)
+**Scraped:** 2025-12-26T12:58:20.113Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7vvU9YXwAAARbq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7qpEyCX0AATRs4?format=jpg&name=orig)
+
+### Prompt
+
+```
+nano banana pro prompt
+
+Transform a scene into a surreal world where animals and humans become glowing neon-glass beings—radiant, dreamlike, and visually explosive. 
+
+---
+
+Create an imaginative, ultra-surreal image based on the provided picture or description.
+
+Reimagine the scene ${SCENE} by transforming all ${SUBJECTS} (animals, humans, creatures) into surreal beings made of transparent glass and glowing neon lights. Their bodies resemble crystal sculptures that refract ambient light, while vibrant neon streams (colors like electric blue, magenta, purple, orange-gold, etc.) flow inside them, emitting a soft yet radiant glow into the environment.
+
+Keep the original structure and layout of the scene, but re-render the lighting and atmosphere to respond to these luminous glass beings—reflections, refractions, glowing highlights, and atmospheric color shifts.
+
+The overall mood should be dreamlike, futuristic, vividly colored, highly detailed, and visually stunning, as if the world is illuminated by living neon glass creatures in a surreal alternate reality.
+
+-----
+
+SCENE: At the boundary between sunset and nightfall on the African savannah, where orange-red sunlight merges into deep blue twilight. Silhouetted acacia trees stretch across the horizon as animals wander through the glowing dust-lit grassland.
+```
