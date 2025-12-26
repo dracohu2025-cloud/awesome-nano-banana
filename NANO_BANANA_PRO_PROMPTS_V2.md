@@ -2152,3 +2152,41 @@ Nano banana Pro Prompt：
 主体：西游记唐僧师徒
 景观描述：香港维多利亚港
 ```
+
+---
+
+## Case: twitter-2004407949046014441
+
+**Author:** [@r4jjesh](https://twitter.com/r4jjesh)
+**Tweet:** [View Original](https://x.com/r4jjesh/status/2004407949046014441)
+**Scraped:** 2025-12-26T12:57:29.938Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EWZ4lb0AMn5bM?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9EWZ9Fa4AA0-9z?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9EWZ51b0AAyYFm?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9EWaCTaAAALmqP?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini nano banana pro / Grok 
+
+Prompt :
+
+{
+  "quality": "hyper-realistic 8k",
+  "shot": "medium shot",
+  "lens": "35mm lens",
+  "setting": "dusty warehouse with tall windows",
+  "lighting": "late-afternoon sun beams cutting through suspended dust",
+  "subject_location": "sitting on a vintage wooden crate",
+  "pose": "elbows on knees, fingers loosely interlaced, chin slightly up, gaze steady to camera",
+  "outfit": "raw denim jacket, white tee, cuffed dark jeans, worn leather boots, thin silver chain",
+  "texture_details": "crate wood grain and denim twill clearly visible with tactile realism"
+}
+```
