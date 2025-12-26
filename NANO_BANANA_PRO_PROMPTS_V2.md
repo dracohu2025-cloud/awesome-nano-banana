@@ -4339,3 +4339,31 @@ Gemini Nano Banana Pro Prompt:
 Lifestyle scene
 “A miniature diorama of [CELEBRITY] inside a stylized environment inspired by their public persona. Tiny furniture, props, fashion details, cozy cinematic lighting.”
 ```
+
+---
+
+## Case: twitter-2001566101508128839
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2001566101508128839)
+**Scraped:** 2025-12-26T13:22:39.763Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8b9vHybMAAlQbY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8b9vJqakAMlYPu?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8b9vNPagAAv8tw?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8b9vS1asAAyUJq?format=jpg&name=orig)
+
+### Prompt
+
+```
+Businessmen → Empire In Miniature (Visionary workspace)
+
+Gemini Nano Banana Pro Prompt:
+
+A miniature diorama of [BUSINESS LEADER] inside a symbolic workspace representing their vision. Tiny desk, screens, city models, warm ambient lighting.
+```
