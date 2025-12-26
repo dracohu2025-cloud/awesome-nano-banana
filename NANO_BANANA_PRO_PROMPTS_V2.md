@@ -565,3 +565,34 @@ Small prompt edits = completely different characters (warrior, monk, superhero, 
 #DigitalCreator
 #GenerativeAI
 ```
+
+---
+
+## Case: twitter-2004486243568996598
+
+**Author:** [@qezbahnai](https://twitter.com/qezbahnai)
+**Tweet:** [View Original](https://x.com/qezbahnai/status/2004486243568996598)
+**Scraped:** 2025-12-26T12:16:01.772Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Fdld7WAAALRph?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9B1AeOWoAAexXG?format=jpg&name=orig)
+
+### Prompt
+
+```
+I feel definitely sexy!
+
+Prompt:
+{
+"meta": {
+"project": "Summer_Car_Selfie_PinkBikini_Flux_V4.2",
+"target_engine": "Flux.1 [dev] / Nano Banana Pro",
+"version": "4.2.0 (Everything in Focus - f/11)",
+"created_at": "2025-12-25T13:40:00Z"
+},
+"engine_configuration": {
+"model": {
+```
