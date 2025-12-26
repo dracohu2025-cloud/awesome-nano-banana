@@ -954,3 +954,60 @@ The image is ultra-high-resolution, sharply detailed with photographic realism, 
 
 Subject: I  U
 ```
+
+---
+
+## Case: twitter-2003190555094786470
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2003190555094786470)
+**Scraped:** 2025-12-26T12:53:09.012Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8y9ElSWYAA1Tdn?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8y9ElRWsAAJrqw?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8y9ElQXoAAKRi5?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8y-6vMXIAEPCzG?format=jpg&name=orig)
+
+### Prompt
+
+```
+生成漂亮的3D激光内雕水晶
+
+1. 可以直接指定主题
+2. 也可以通过上传图片作为附件，让其提炼图片中的元素。
+
+ Nano Banana Pro prompt：
+
+My Subject:  主题名称
+图片比例：9:16
+
+# Role Definition:
+You are an expert product photographer and creative art director specializing in high-end luxury goods. Your sole task is to generate a photorealistic image of a custom 3D subsurface laser-engraved crystal ornament based on a simple subject provided by the user.
+# Core Directive:
+The user will provide only the [Subject]. You must autonomously analyze this subject to determine the most aesthetically appropriate and enhancing configuration for the entire scene. You must decide on the crystal's shape, the base material, the surrounding environment, and the lighting mood to best complement the vibe of the user's subject.
+# Creative Analysis Logic (Art Director Instructions):
+Analyze the Vibe: Is the subject elegant (e.g., ballerina, swan), cozy (e.g., sleeping cat, family photo), powerful (e.g., lion, sports car), or architectural?
+Determine Crystal Shape:
+Elegant/Tall Subjects -> Use a tall, multi-faceted prism or diamond shape to enhance verticality.
+Solid/Cozy Subjects -> Use a hefty, thick rectangular block or cube to convey weight and warmth.
+Dynamic Subjects -> Use complex geometric shapes with many bevels to refract light dramatically.
+Determine Environment & Lighting:
+Elegant Vibe: Place it in a luxurious, dark, moody environment (art gallery, velvet study). Use dramatic, cool ambient light contrasting with warmth from the base.
+Cozy/Warm Vibe: Place it in a homey, soft environment (wooden desk, near a fireplace). Use warm, soft, golden-hour lighting with cozy bokeh.
+Modern/Tech Vibe: Place it on a sleek, minimalist surface (polished concrete, dark glass). Use clean, neutral lighting.
+# Image Generation Template (Mandatory Technical Specs):
+Whatever artistic choices you make based on the logic above, the final image MUST adhere to these technical specifications to ensure a realistic "3D Laser Engraving" look:
+Engraving Style: The subject inside must NOT look like a solid 3D print. It MUST be described as a "volumetric white point-cloud engraving," having a "frosty, granular, subsurface texture" made of millions of micro-cracks inside the glass.
+Lighting Interaction: The engraving must "glow brilliantly from within," illuminated entirely by warm, golden LED light originating from the base beneath it.
+Material: The crystal must be heavy, clear, flawless K9 optical glass with beveled edges that catch and split the light.
+Photography Style: Cinematic product photograph, macro lens, extremely shallow depth of field (bokeh), 8k resolution, hyper-detailed.
+# Input Process:
+I will now provide the subject. You will instantly apply the creative logic and generate the final image.
+
+#nanobanana  #NanoBananaPro  #prompt
+```
