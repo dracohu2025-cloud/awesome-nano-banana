@@ -916,3 +916,41 @@ A person enjoying a quiet coffee break at a cafe, titled 'Coffee Break'.
 Someone listening to music with headphones, looking peaceful, titled 'Music Bliss'.
 A person tidying up their room with a smile, titled 'Tidy Space'."
 ```
+
+---
+
+## Case: twitter-2003522391654146544
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/2003522391654146544)
+**Scraped:** 2025-12-26T12:52:38.172Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G83wDhfXAAA5Pbh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8v8VMSWQAE-bHg?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Level up your fireworks display! Introducing a new ultra-realistic fireworks prompt template: just enter numbers, letters, or symbols, and watch them seamlessly emerge as dazzling fireworks—cinematic realism guaranteed! 
+
+Examples:
+Subject: I  U
+Subject: 
+Subject: 
+Subject: 
+2026
+Happy New Year
+
+--- Prompt ---
+
+An ultra-realistic, professional nighttime fireworks display, clearly featuring the shape "{Subject}" formed entirely from fireworks at the center of the sky. The "{Subject}" seamlessly emerges from dense spark trails, glowing embers, and dazzling radiant bursts, with smooth, precise contours and vivid clarity. It blends naturally into the surrounding firework display, appearing as an integral part of the overall spectacle, visually vibrant and photorealistic.
+Behind and around the central "{Subject}", an expansive, celebratory firework show fills the night sky with layered radial explosions, cascading spark showers, and multi-stage bursts, creating impressive depth and dimension. Background fireworks maintain a slightly lower brightness to emphasize the central "{Subject}" sharply and distinctly.
+The night sky is pure and deep navy-to-black, clear and cloudless with minimal haze or smoke. Firework colors include a sophisticated palette of gold, silver, white, red, and blue, demonstrating physically accurate light bloom, subtle glow effects, realistic particle dynamics, and natural variation in intensity and timing.
+Firework bursts softly illuminate the surrounding sky, producing gentle, cinematic-quality light falloff, capturing a realistic and immersive celebratory atmosphere.
+The image is ultra-high-resolution, sharply detailed with photographic realism, and contains no additional text or extra visual elements—only the "{Subject}" displayed distinctly through fireworks.
+
+Subject: I  U
+```
