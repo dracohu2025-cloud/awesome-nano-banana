@@ -333,3 +333,90 @@ Created with Nano Banana Pro inside [@ImagineArt_X] [@imagineart_creo]
 
 Prompt : A bundled toddler sits on father's shoulders in snowy town square, mittened hands reaching toward exploding fireworks painting the night sky in cascading colors, face tilted upward in pure wonder. Shot with Sony A7RV at 35mm f/1.4, brilliant bursts of gold and crimson and emerald reflect in wide astonished eyes, mouth forming perfect O of amazement. Oversized knitted hat slides backward from craning neck, scarf unwinding with excitement. Father's gloved hands grip small ankles secure, his own face watching the child not the sky, finding better fireworks in that expression. Crowd blurs around them, other families pointing upward, but these two exist in private bubble of shared wonder. Snow catches colored light as it falls, becoming rainbow confetti. Hot chocolate forgotten in father's other hand, steam rising into the spectacle. Church clock visible striking midnight behind the explosions. Heavy grain saturates the celebratory chaos while firework colors paint the snow and faces in shifting hues, motion blur traces rocket trails and falling sparks. New year begins in that upturned face. Old year ends in that protective grip. The composition lifts innocence toward tomorrow, creating midnight measured in wonder shared between generations.
 ```
+
+---
+
+## Case: twitter-2004497186961424626
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2004497186961424626)
+**Scraped:** 2025-12-26T12:15:25.319Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Fni3tbkAEDwRD?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Fni3AasAADvGC?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9FdPqNXUAAkA4X?format=jpg&name=orig)
+
+### Prompt
+
+```
+Created with Gemini Nano Banana Pro
+
+Prompt:
+
+{
+  "scene": {
+    "environment": "Outdoor or semi-outdoor pool or hot tub area at night",
+    "lighting": "Low ambient lighting with soft, warm highlights; background is dim and partially shadowed",
+    "background_elements": [
+      "Dark wall or fence",
+      "Soft light sources reflected in background",
+      "Water surface with gentle ripples",
+      "Dark tiled pool or hot tub edge"
+    ],
+    "camera_angle": "Slightly elevated and angled from the side",
+    "framing": "Medium-full body shot, horizontal orientation"
+  },
+  "subject": {
+    "gender_presentation": "Feminine",
+    "age_group": "Young adult",
+    "pose": "Lying on stomach with upper body propped on forearms, legs extended behind",
+    "expression": "Relaxed facial expression with a soft, neutral gaze toward the camera",
+    "body_position": "Upper body resting on tiled edge, lower body near or partially over water",
+    "skin_tone": "Light skin tone"
+  },
+  "appearance": {
+    "hair": {
+      "color": "Light brown to dark blonde",
+      "length": "Long",
+      "style": "Loose, slightly damp or sleek, parted near the center"
+    },
+    "face": {
+      "makeup": "Subtle makeup with visible blush and defined eyelashes",
+      "features": "Soft facial features, relaxed eyes, natural lips"
+    },
+    "clothing": {
+      "type": "Bikini",
+      "top": {
+        "color": "Pink with orange accents",
+        "style": "Triangle bikini top with thin straps"
+      },
+      "bottom": {
+        "color": "Pink with orange side ties",
+        "style": "Tie-side bikini bottoms"
+      }
+    },
+    "accessories": [
+      "Small wrist tattoo on left arm",
+      "Manicured nails with light pink polish"
+    ]
+  },
+  "materials_and_textures": {
+    "tiles": "Small square dark tiles with glossy finish",
+    "water": "Clear water with subtle reflections",
+    "fabric": "Smooth, stretchy swimwear material"
+  },
+  "mood_and_aesthetic": {
+    "overall_mood": "Calm, relaxed, intimate",
+    "visual_style": "Lifestyle photography with low-light ambiance",
+    "color_palette": [
+      "Warm skin tones",
+      "Pink and orange accents",
+      "Dark neutrals from tiles and background"
+    ]
+  }
+}
+```
