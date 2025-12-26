@@ -4134,3 +4134,29 @@ Environment: A messy [audience appropriate] desk with action figures and soda ca
 Lighting: Bright, flat, high-key lighting typical of comic book coloring mixed with character appropriate colors.
 Composition: Dynamic, foreshortened perspective emphasizing the signature move coming toward the viewer.</instructions>
 ```
+
+---
+
+## Case: twitter-2001497637124739363
+
+**Author:** [@Sheldon056](https://twitter.com/Sheldon056)
+**Tweet:** [View Original](https://x.com/Sheldon056/status/2001497637124739363)
+**Scraped:** 2025-12-26T13:19:37.806Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8a_ewYakAETk2Y?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8a_ewna4AAYGf6?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8a_ewxakAUH7Fy?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8a_ewfbkAAwosf?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini app.
+
+Prompt: A vibrant fantasy-style soda commercial where a playful young man surfs an energetic orange soda wave exploding from a cold Fanta can. Juicy orange slices, bubbly liquid arcs, exaggerated motion, warm sunlight, colorful gradient background,
+```
