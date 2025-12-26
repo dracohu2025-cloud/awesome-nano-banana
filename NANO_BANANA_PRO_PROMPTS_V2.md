@@ -1691,3 +1691,38 @@ Nano banana Pro on Gemini app.
   "output_goal": "Create a photorealistic official-style portrait of a woman seated behind the Resolute Desk with Donald Trump standing beside her in the Oval Office, conveying authority, formality, and authenticity through professional lighting and accurate presidential decor."
 }
 ```
+
+---
+
+## Case: twitter-2002132714200129984
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2002132714200129984)
+**Scraped:** 2025-12-26T12:55:20.963Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8kBFCuW8AAcSTu?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8kBFCuXEAA5m5o?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8kBFCsWcAAC3vD?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8a-5rVWoAAfh3G?format=jpg&name=orig)
+
+### Prompt
+
+```
+作为背景墙也很不错。
+
+ Nano Banana Pro Prompt：
+
+基于【参考照片人物】
+A high-quality 9:16 vertical portrait, 4k resolution. 
+**Framing:** Medium-long shot (framed from the knees up, focusing on torso and head). 
+**Subject:** The woman from the reference image, standing in 3/4 profile facing left, looking at the lens. She wears a structured black long trench coat. 
+**Background:** An infinite, edge-to-edge gallery wall completely covered in a dense, seamless grid of black and white fashion portraits of herself. The photo wall fills 100% of the background frame behind her. No floor visible, no ceiling visible, just the texture of the photos. 
+**Lighting:** Even, professional gallery lighting highlighting the coat's texture and the details of the background prints. 
+**Quality:** Ultra-photorealistic, sharp focus, cinematic depth.
+--ar 9:16 --v 6.0
+```
