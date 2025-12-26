@@ -3407,3 +3407,31 @@ Significantly reduce the sharpness so that the details of the [SUBJECT] are not 
 
 Greatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.
 ```
+
+---
+
+## Case: twitter-2001309711971295669
+
+**Author:** [@xmliisu](https://twitter.com/xmliisu)
+**Tweet:** [View Original](https://x.com/xmliisu/status/2001309711971295669)
+**Scraped:** 2025-12-26T13:14:06.496Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8YUi_YWQAAutg5?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt:
+
+{
+  "project_specifications": {
+    "format": "2x2 Grid Collage",
+    "aspect_ratio": "4:5",
+    "aesthetic_style": "High-end Beauty Editorial",
+    "rendering_engine_hints": {
+      "realism_level": "Ultra-photorealistic",
+```
