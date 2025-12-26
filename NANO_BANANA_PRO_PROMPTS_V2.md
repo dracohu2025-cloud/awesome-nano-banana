@@ -4753,3 +4753,31 @@ Prompt:
     "intent": "Photorealistic nightlife fashion portrait with forced-perspective reach",
     "generation_mode": "style_locked_repeatable",
 ```
+
+---
+
+## Case: twitter-1997575971923235067
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1997575971923235067)
+**Scraped:** 2025-12-26T13:33:41.384Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7jQNDfXEAAtxoe?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro 提示词
+生成裸眼 3D 大屏图片，可以使用文本或者图片描述剧情。尽情发挥你的想象力。
+
+--- 提示词 ---
+
+位于繁忙城市街角的一个巨大L型裸眼3D LED屏幕，其结构和建筑风格类似于日本新宿或成都太古里的地标性屏幕。屏幕上正播放着一段令人惊叹的裸眼3D动画：[剧情描述]。角色和物体具有强烈的立体感，仿佛打破了屏幕的边界，向外延伸或浮现在空中，并在真实的日光下在屏幕表面和周围的建筑物上投射出逼真的阴影。场景细节丰富，色彩鲜艳，与周围的城市环境和蓝天白云融为一体。
+
+----
+
+剧情描述：
+屏幕化作一个堆满金币的黑暗洞穴。一条浑身燃烧着烈焰的西方巨龙正在沉睡，突然被惊醒。它愤怒地展开双翼，翅膀尖端延伸出屏幕两侧的物理边界。它伸长脖子，将巨大的龙头探出洞穴（屏幕），鼻孔喷出的火焰和烟雾在屏幕外的空气中弥漫，它张嘴咆哮，仿佛热浪正扑面而来。
+```
