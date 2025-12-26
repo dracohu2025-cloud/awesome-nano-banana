@@ -3053,3 +3053,133 @@ Nano Banana Pro Prompt：
 
 #nanobanana #NanoBananaPro #Prompt #IdeaGeneration
 ```
+
+---
+
+## Case: twitter-2001321491443400715
+
+**Author:** [@bananababydoll](https://twitter.com/bananababydoll)
+**Tweet:** [View Original](https://x.com/bananababydoll/status/2001321491443400715)
+**Scraped:** 2025-12-26T13:12:32.078Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8Rq9BBXQAEajeg?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8Rq9A-XoAEicf5?format=jpg&name=orig)
+
+### Prompt
+
+```
+Just a quick Walmart run… somehow turned into this.
+
+Nano Banana Pro Prompt
+
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "camera": "smartphone rear camera",
+    "lens": "50mm",
+    "style": "candid lifestyle shot, cinematic realism, natural skin texture"
+  },
+
+  "scene": {
+    "location": "Walmart parking lot",
+    "setting": "store entrance behind her, blue Walmart signage visible, open car trunk with shopping bags",
+    "time": "sunset / golden hour",
+    "atmosphere": "post-shopping, spontaneous, confident everyday moment"
+  },
+
+  "lighting": {
+    "type": "natural golden hour light",
+    "source": "low sun reflecting off store facade",
+    "effect": "warm glow on skin, soft rim light around body, subtle lens flare"
+  },
+
+  "camera_perspective": {
+    "pov": "third-person (someone else filming)",
+    "angle": "slightly low, off-center candid angle",
+    "distance": "2 meters",
+    "framing": "mid-thigh to head",
+    "motion": "slight handheld realism"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "early 20s (clearly adult)",
+    "ethnicity": "random european / mixed",
+
+    "body": {
+      "type": "extreme hourglass",
+      "waist": "very slim",
+      "hips": "very wide and round",
+      "ass": "full, lifted",
+      "legs": "thick thighs",
+      "stance": "weight on one leg, hip naturally pushed out"
+    },
+
+    "skin": {
+      "tone": "porcelain white",
+      "detail": "natural texture, sunlit highlights"
+    },
+
+    "hair": {
+      "color": "light blonde",
+      "length": "long",
+      "style": "straight",
+      "behavior": "slight breeze moving strands across shoulders"
+    },
+
+    "face": {
+      "eyes": "light blue",
+      "expression": "caught mid-smirk, confident eye contact",
+      "vibe": "unbothered, effortless, main-character energy"
+    },
+
+    "action": {
+      "activity": "walking away from store toward car",
+      "moment": "she turns her head after noticing the camera",
+      "detail": "one hand holding shopping bags, the other resting on car trunk edge"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "tight cropped zip-up hoodie",
+        "color": "soft grey",
+        "fit": "unzipped slightly, naturally stretched over chest",
+        "fabric": "thin cotton, casual streetwear"
+      },
+      "bottom": {
+        "type": "low-rise denim shorts",
+        "color": "light blue",
+        "fit": "very short, hugging hips and thighs"
+      },
+      "shoes": {
+        "type": "white sneakers",
+        "condition": "everyday worn, realistic"
+      }
+    }
+  },
+
+  "product_placement": {
+    "brand": "Walmart",
+    "elements": [
+      "blue Walmart logo and entrance signage in background",
+      "recognizable Walmart shopping bags in her hand and car trunk"
+    ],
+    "integration": "natural post-shopping moment, not staged",
+    "visibility": "brand clearly readable but not dominating frame",
+    "lighting_effect": "warm sunset light reflecting on logo and bags"
+  },
+
+  "details": [
+    "asphalt texture visible",
+    "long sunset shadows",
+    "wind movement in hair",
+    "authentic candid realism",
+    "high-end influencer lifestyle feel"
+  ]
+}
+```
