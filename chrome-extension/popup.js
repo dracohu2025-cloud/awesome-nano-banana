@@ -92,10 +92,14 @@ function renderTweetList(tweets) {
     const container = document.getElementById('tweetList');
     const emptyState = document.getElementById('emptyState');
 
+    // Always clear container first
+    container.innerHTML = '';
+
     if (tweets.length === 0) {
-        emptyState.style.display = 'flex';
-        container.innerHTML = '';
-        container.appendChild(emptyState);
+        // Clone and append empty state
+        const emptyClone = emptyState.cloneNode(true);
+        emptyClone.style.display = 'flex';
+        container.appendChild(emptyClone);
         return;
     }
 
