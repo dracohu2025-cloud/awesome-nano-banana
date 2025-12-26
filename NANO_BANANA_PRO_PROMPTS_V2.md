@@ -4396,3 +4396,27 @@ Prompt:
     "direction": "frontal",
     "highlights": "strong highlights on the
 ```
+
+---
+
+## Case: twitter-1997265335494595040
+
+**Author:** [@umesh_ai](https://twitter.com/umesh_ai)
+**Tweet:** [View Original](https://x.com/umesh_ai/status/1997265335494595040)
+**Scraped:** 2025-12-26T13:22:53.406Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7e2PCqa8AA-i5h?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7e2PAoagAAmoLH?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7e2PJXbgAAZiU9?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7e2PKyb0AA-QS8?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt on Nano Banana Pro : An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.
+```
