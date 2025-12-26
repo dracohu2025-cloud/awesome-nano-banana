@@ -4420,3 +4420,24 @@ Prompt:
 ```
 Prompt on Nano Banana Pro : An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.
 ```
+
+---
+
+## Case: twitter-2004384474776457385
+
+**Author:** [@harboriis](https://twitter.com/harboriis)
+**Tweet:** [View Original](https://x.com/harboriis/status/2004384474776457385)
+**Scraped:** 2025-12-26T13:23:03.743Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EA8wybQAACJPZ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Google Gemini
+
+Prompt:
+Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage Movie Theater Surrounded By Famous Horror Movie Villains. Im In The Center Seat, Holding A Large Buскет Of Popcorn On My Lap, Sipping A Soda Through A Straw, Looking Slightly Amused And Intrigued. My Hair Is Styled In Soft Curls, Makeup Glam Yet Natural With Glossy Lips And Subtle Shimmer On Eyelids. I'm Wearing A Stylish Oversized Leather Jacket Over A Delicate Τορ, Gold Jewelry Shining Softly In The Dim Light. Around Me Ghostface On One Side Holding Popcorn, Michael Myers Sitting Silently Behind Me, Freddy Krueger Leaning Over The Seat With A Smirk, Pennywise Grinning From The Aisle Holding A Red Balloon, And Сниску Sitting On The Armrest Near My Shoulder. Tне Тнеаter Is Dark Except For The Flickering Light From The Movie Screen İlluminating Faces With Dramatic Shadows. Тне Рното Should Feel Cinematic, Nostalgic, With Soft Film Grain, Gos Tones, And Cozy Halloween Atmosphere.
+```
