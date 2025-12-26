@@ -4288,3 +4288,25 @@ Prompt:
     "subject": {
         "description": "A hyper-realistic optical-illusion photograph. The woman from the uploaded reference portrait appears to be emerging from a freshly developed instant photo (Polaroid-style)
 ```
+
+---
+
+## Case: twitter-2001265368833413170
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2001265368833413170)
+**Scraped:** 2025-12-26T13:22:07.919Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8V-SF1XAAYbWRb?format=jpg&name=orig)
+
+### Prompt
+
+```
+For those of you who love food art, here is another prompt for Nano Banana Pro.
+
+Prompt: A 2x2 grid of cocktails as tiny living cities
+[Top Left: Manhattan; cherry wood skyline, tiny yellow cabs on vermouth river, glowing Luxardo cherry sun]
+[Top Right: Piña Colada; pineapple
+```
