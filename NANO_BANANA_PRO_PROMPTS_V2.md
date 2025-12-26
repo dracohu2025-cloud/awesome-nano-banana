@@ -5176,3 +5176,35 @@ Discover new Nano Banana PRO Prompts on http://bananaprompts.com/?utm_source=BP1
   }
 }
 ```
+
+---
+
+## Case: twitter-2002986013484802168
+
+**Author:** [@YaseenK7212](https://twitter.com/YaseenK7212)
+**Tweet:** [View Original](https://x.com/YaseenK7212/status/2002986013484802168)
+**Scraped:** 2025-12-26T13:48:32.501Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8wJJJcWMAAjTK2?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8wJJJnXkAAplDz?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana 3.0
+
+Prompt:
+
+{
+  "image_metadata": {
+    "format_version": "2.1.0",
+    "aspect_ratio": "3:4",
+    "shot_type": "Composite Hyper-Realistic POV",
+    "concept": "OOTD Breakdown / Smartphone Pop-out Illusion"
+  },
+  "subject_profile": {
+    "identity": {
+```
