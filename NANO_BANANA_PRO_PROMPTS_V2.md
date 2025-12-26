@@ -2283,3 +2283,32 @@ Parameters:
 Company Name / Stock Ticker: Google
 Date: 12/3/2025
 ```
+
+---
+
+## Case: twitter-2002904155837648898
+
+**Author:** [@dhumann](https://twitter.com/dhumann)
+**Tweet:** [View Original](https://x.com/dhumann/status/2002904155837648898)
+**Scraped:** 2025-12-26T12:57:52.275Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8u7hzjbEAAf6nz?format=jpg&name=orig)
+
+### Prompt
+
+```
+Skin Deep
+Experimenting with realistic skin textures.
+
+Open Nano Banana Pro on your favorite surface, upload a reference image for the subject and try the prompt below.
+
+An extreme close-up macro portrait of the subject, using the uploaded reference image as a strict identity source with zero deviation. The composition is left-eye dominant, cropped at the closest possible macro distance while still keeping the left eye, the bridge of the nose, and softly parted lips within the frame. Only a partial facial view is visible, with the opposite side of the face falling out of frame.
+
+Hyper-realistic skin texture with visible pores and natural micro-details, a dewy fresh complexion, finely rendered eyelashes with a crisp catchlight, and an intimate, calm gaze. Loose, messy strands of hair fall naturally across the face and partially over the eye. Lips appear soft and naturally pink with subtle texture, no heavy makeup.
+
+Lighting is soft, diffused, and cinematic with cool blue tonalities and gentle ambient shadows, shaping depth without harsh contrast. Photorealistic, cinematic raw photo quality, ultra-high detail, 8K realism, shot as an extreme macro using a 100mm macro lens at f/2.8, with razor-thin depth of field and sharp focus on the eye, with smooth falloff across the nose and lips.
+
+#NanoBananaPro
+```
