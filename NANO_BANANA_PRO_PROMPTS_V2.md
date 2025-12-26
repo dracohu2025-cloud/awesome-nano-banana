@@ -1254,3 +1254,52 @@ prompt:
     "sitting-pose"
   ],
 ```
+
+---
+
+## Case: twitter-1999721128030597408
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1999721128030597408)
+**Scraped:** 2025-12-26T12:54:26.931Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8Bvw5ka0AAVL0N?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8Bvw81aQAAnaMy?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8BvxHebgAAjN6w?format=jpg&name=orig)
+
+### Prompt
+
+```
+ SEE YOURSELF IN A LONELY BIG-CITY FRAME 
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+ 1) Download the Gemini app from the Play Store or App Store.
+ 2) Open the app and tap on the " Create image" button.
+ 3) Tap the + icon, click Gallery, and select a photo of yourself.
+   > Note: For best results, use a photo where your face fills about 70% of the screen.
+ 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
+ 5) Return to the Gemini app and paste that text into the "Describe your image" box.
+ Tap the rocket symbol  in the bottom right corner to generate your image.
+
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
+
+Prompt 
+Wong Kar-wai Style Cinematic Portrait
+A photorealistic, cinematic portrait in the style of Wong Kar-wai, using the uploaded image as a face reference. Emphasize the jawline and neck to be sharp, almost sculptural, while maintaining the original facial features and identity.
+Pose: Sitting, head leaning against the window, hands resting on the edge, eyes gazing wistfully at the streetlights.
+Setting: Inside an old taxi with faded leather seats. 
+The window is fogged with rain, and streetlights are streak blurred in the background.
+Camera Angle: Shot from outside the window, with reflections layered over the face.
+Lighting: Red-green neon lights streaking across, causing the face to change color with the passing light.
+Attire: A slightly unbuttoned black shirt, wet hair.
+Image Tone: High red-green contrast, heavy film grain, pronounced motion blur, a soft glow around car lights.
+Mood: Lonely, isolated, a silent big city.
+```
