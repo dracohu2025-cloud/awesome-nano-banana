@@ -3518,3 +3518,32 @@ Prompt:
   }
 }
 ```
+
+---
+
+## Case: twitter-2000626123429077079
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/2000626123429077079)
+**Scraped:** 2025-12-26T13:15:27.326Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8OmF-0XUA4cLKc?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8L86LlWQAQyWIA?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Capture the romance of the seasons with this healing botanical leaf art style—nature is the best artist. 
+
+ nano banana pro prompt
+
+--- Prompt Template ---
+
+Creative botanical art collage depicting [Scene/Activity]. The image is constructed entirely from exquisite cut natural leaves, flower petals, plant stems, and wild berries. The silhouettes of figures and objects are formed by the intricate arrangement of these plant elements. The plant surfaces feature a slightly wet, glossy texture adorned with crystal-clear morning dew droplets. Rich, vibrant colors with distinct visual layering. The background is a soft, natural bokeh that harmonizes with the mood of the scene. Macro photography style, hyper-realistic organic textures, 8K resolution, masterpiece.
+
+---
+Scene：a girl riding a bicycle through a park
+```
