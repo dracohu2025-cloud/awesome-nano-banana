@@ -2709,3 +2709,27 @@ Gemini Nano Banana Prompt
   "subject_details": {
     "character": "Stunning young woman (Innocent first love visual), waist-up shot",
 ```
+
+---
+
+## Case: twitter-2001145327685132360
+
+**Author:** [@so_ainsight](https://twitter.com/so_ainsight)
+**Tweet:** [View Original](https://x.com/so_ainsight/status/2001145327685132360)
+**Scraped:** 2025-12-26T12:59:41.607Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8V9jT3b0AApkSr?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8V9jT4aYAAiFCn?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT Image 1.5 (左) vs Gemini Nano Banana Pro (右)
+日本語性能は、Nano Banana Proですね。ただ、GPT Image 1.5も悪くないと思います。
+
+Prompt:
+A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across
+```
