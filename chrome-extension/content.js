@@ -77,18 +77,17 @@
                 data.text = textElement.textContent;
             }
 
-            // Get images - try multiple patterns
-            const imageSelectors = [
-                'img[src*="pbs.twimg.com/media"]',
-                'img[src*="/media/"]',
-                '[data-testid="tweetPhoto"] img'
-            ];
-
-            for (const selector of imageSelectors) {
-                const imageElements = tweetElement.querySelectorAll(selector);
-                imageElements.forEach(img => {
+            // Get images - ONLY from tweetPhoto containers (main tweet images)
+            // This avoids capturing profile pics, quote tweet avatars, etc.
+            const photoContainers = tweetElement.querySelectorAll('[data-testid="tweetPhoto"]');
+            photoContainers.forEach(container => {
+                const img = container.querySelector('img');
+                if (img && img.src) {
                     let src = img.src;
-                    if (!src || data.images.includes(src)) return;
+                    // Skip if already added
+                    if (data.images.includes(src)) return;
+                    // Skip profile pics and emojis (they're typically < 100px or from profile_images)
+                    if (src.includes('profile_images') || src.includes('emoji')) return;
 
                     // Convert to original quality
                     src = src.replace(/[?&]name=\w+/, '');
@@ -98,8 +97,8 @@
                         src += '?name=orig';
                     }
                     data.images.push(src);
-                });
-            }
+                }
+            });
 
             // Get timestamp
             const timeElement = tweetElement.querySelector('time');
