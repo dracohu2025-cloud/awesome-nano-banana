@@ -1963,3 +1963,29 @@ Gemini Nano Banana Prompt
   ]
 }
 ```
+
+---
+
+## Case: twitter-1992450418291466517
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1992450418291466517)
+**Scraped:** 2025-12-26T12:56:56.752Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6aa9VgWcAAklY6?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6ZOMb_WEAAVKF6?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt:
+
+A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular black robotic vacuum cleaner (Roomba) that flies through misty clouds. 
+
+She is eating a vanilla ice cream cone held in her right hand. In her left hand, she holds a brown Louis Vuitton monogram handbag. Below her, a small owl flies with a green frog holding a lotus leaf umbrella on its back. The background is a wash of ink clouds and distant mountains. 
+
+In the top left corner, there is calligraphy and a red rectangular artist seal that reads "寶玉".
+```
