@@ -2312,3 +2312,30 @@ Lighting is soft, diffused, and cinematic with cool blue tonalities and gentle a
 
 #NanoBananaPro
 ```
+
+---
+
+## Case: twitter-2004217443049222582
+
+**Author:** [@Samann_ai](https://twitter.com/Samann_ai)
+**Tweet:** [View Original](https://x.com/Samann_ai/status/2004217443049222582)
+**Scraped:** 2025-12-26T12:58:15.353Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9BpIbYWEAA823v?format=jpg&name=orig)
+
+### Prompt
+
+```
+Turn your photo into a 𝘁𝗶𝗻𝘆 𝗖𝗵𝗿𝗶𝘀𝘁𝗺𝗮𝘀 nutcracker doll 
+
+ Gemini Nano Banana PRO 4K on @DomoAI_ 
+ Jason Prompt 
+
+{
+  "task": "image_edit_identity_to_doll",
+  "inputs": {
+    "user_face_image": "<UPLOAD_OR_URL_USER_PORTRAIT>",
+    "style_reference_image":
+```
