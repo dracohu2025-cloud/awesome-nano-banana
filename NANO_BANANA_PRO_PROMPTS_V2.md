@@ -4189,3 +4189,33 @@ Bookmark  this now and recreate this with your selfie later.
 How to:
  1) Download the Gemini app from the Play
 ```
+
+---
+
+## Case: twitter-2001041553243168827
+
+**Author:** [@miilesus](https://twitter.com/miilesus)
+**Tweet:** [View Original](https://x.com/miilesus/status/2001041553243168827)
+**Scraped:** 2025-12-26T13:20:03.593Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8UghyFWwAEJF1c?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8UgiYlWcAUoh9D?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT Image 1.5 vs Nano Banana Pro 
+
+Prompt: {
+  "mode": "image_edit",
+  "face_preservation": {
+    "enabled": true,
+    "strength": 1.0,
+    "notes": "Skin texture, freckles, pores must stay realistic"
+  },
+  "composition": {
+    "shot_type": "extreme close-up portrait",
+```
