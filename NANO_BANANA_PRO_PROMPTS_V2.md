@@ -2074,3 +2074,46 @@ The Black Pearl awaits its captain.
 A detailed photograph captures a glass bottle containing a miniature scene. Inside is the 'Black Pearl,' a weathered pirate ship with torn black sails and Jolly Roger flags, sailing on rough turquoise waves. 
 Above is a sunny sky with white clouds, a bright sun flare, and flying seagulls. The exterior of the glass bottle is covered in water droplets. It rests on a rustic, wet wooden surface with sunlight reflecting off the glass and water. The scene is photorealistic and highly detailed. --ar 3:2
 ```
+
+---
+
+## Case: twitter-1993729800922341810
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1993729800922341810)
+**Scraped:** 2025-12-26T12:57:20.225Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6smYVJX0AAmgko?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6smZsqWcAETTUC?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G6smbAOWQAEd_5l?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G6smrfEWUAAoCX8?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G6qTUPAXQAAMM8q?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt (with gemini)
+
+Dynamically generate a current weather card based on a given city name.
+
+--- prompt ---
+
+Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling.
+
+The scene features soft, refined textures with realistic PBR materials and gentle, lifelike lighting and shadow effects. Weather elements are creatively integrated into the urban architecture, establishing a dynamic interaction between the city's landscape and atmospheric conditions, creating an immersive weather ambiance.
+
+Use a clean, unified composition with minimalistic aesthetics and a soft, solid-colored background that highlights the main content. The overall visual style is fresh and soothing.
+
+Display a prominent weather icon at the top-center, with the date (x-small text) and temperature range (medium text) beneath it. The city name (large text) is positioned directly above the weather icon. The weather information has no background and can subtly overlap with the buildings.
+
+The text should match the input city's native language.
+Please retrieve current weather conditions for the specified city before rendering.
+
+City name:【上海】
+```
