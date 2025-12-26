@@ -183,3 +183,31 @@ Output: 1 x 1:1 image, rustic gourmet photography.
 
 </instructions>
 ```
+
+---
+
+## Case: twitter-2004501249480425606
+
+**Author:** [@ZaraIrahh](https://twitter.com/ZaraIrahh)
+**Tweet:** [View Original](https://x.com/ZaraIrahh/status/2004501249480425606)
+**Scraped:** 2025-12-26T12:14:42.666Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FrP_pboAAMIUO?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8vH7e5akAAB7LB?format=jpg&name=orig)
+
+### Prompt
+
+```
+Beauty with standards you can’t reach. 
+
+Gemini Nano Banana Pro 
+
+Prompt: 
+
+{
+  "reference_face": {
+    "instruction": "Use the provided image as the sole facial reference. Match the face exactly with no alterations to facial structure, proportions, skin tone, freckles, eyes,
+```
