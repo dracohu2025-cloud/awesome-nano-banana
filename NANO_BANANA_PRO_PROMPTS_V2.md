@@ -5706,3 +5706,35 @@ ChatGPTやNano Bananaを使って
 ・重箱や料理より目立たせない
 ・「これからいただく前の静かな準備」の空気感
 ```
+
+---
+
+## Case: twitter-2004489354123612406
+
+**Author:** [@xmiiru_](https://twitter.com/xmiiru_)
+**Tweet:** [View Original](https://x.com/xmiiru_/status/2004489354123612406)
+**Scraped:** 2025-12-26T14:21:03.633Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FgcdqXEAAByDL?format=jpg&name=orig)
+
+### Prompt
+
+```
+If you step onto ancient stone stairs… confidence takes over 
+
+Does this look give main-character energy? 
+
+• Gemini Nano Banana 
+
+How it works?
+
+Input Photo + Prompt
+
+{
+  "type": "image_generation_prompt",
+  "style": "photorealistic",
+  "subject": {
+    "gender":
+```
