@@ -619,3 +619,33 @@ Google Gemini Nano Banana pro 3.0
     "subject": "A young adult female, appearing to be in her early 20s, with a slender and toned athletic build.",
     "face": "Her face is turned to the side, with a focus on her profile. She has striking blue
 ```
+
+---
+
+## Case: twitter-2004484277694836940
+
+**Author:** [@NeuralPaints](https://twitter.com/NeuralPaints)
+**Tweet:** [View Original](https://x.com/NeuralPaints/status/2004484277694836940)
+**Scraped:** 2025-12-26T12:16:09.305Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FbLE1aAAAj83J?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FbXwHbAAAEgGg?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9FbjdcaUAAC2od?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Fbt1LakAAPhhe?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro instant headlines prompt.
+
+Please check the ALT text to see the prompt used for each image.
+
+Base prompt:
+
+A [PHOTOGRAPHY STYLE: e.g., grainy black and white film, candid street shot, cinematic telephoto] photograph of [SUBJECT NAME OR DESCRIPTION] [SPECIFIC
+```
