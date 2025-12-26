@@ -4052,3 +4052,35 @@ Prompt
   ]
 }
 ```
+
+---
+
+## Case: twitter-2001227733150691435
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2001227733150691435)
+**Scraped:** 2025-12-26T13:18:52.208Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XJ2UiaMAAvcSu?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8XJ2UfbwAAkHGA?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8XJ2UhboAAncKh?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8XJ2Yba4AEpR0M?format=jpg&name=orig)
+
+### Prompt
+
+```
+City / Country / Landmark / Environment, etched in a single leaf.
+
+Gemini Nano Banana Pro Prompt:
+
+Inspired by leaf-cutout art, depict [city / country / landmark / environment] carved into a single complete [leaf type].
+Architectural forms, terrain, and symbolic elements emerge through organic hollow cutouts, seamlessly connected by natural vein structures. 
+The leaf surface glistens with dew under soft sunlight, creating subtle depth and contrast.
+Background remains a softly blurred natural setting with harmonious bokeh.
+Cinematic macro perspective, botanical realism, ultra-detailed.
+```
