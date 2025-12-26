@@ -4367,3 +4367,32 @@ Gemini Nano Banana Pro Prompt:
 
 A miniature diorama of [BUSINESS LEADER] inside a symbolic workspace representing their vision. Tiny desk, screens, city models, warm ambient lighting.
 ```
+
+---
+
+## Case: twitter-1999830980752715929
+
+**Author:** [@xmliisu](https://twitter.com/xmliisu)
+**Tweet:** [View Original](https://x.com/xmliisu/status/1999830980752715929)
+**Scraped:** 2025-12-26T13:22:47.696Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8DTqQUWsAM5FJx?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8BvuCeXUAIatzR?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt:
+
+{
+  "lighting": {
+    "quality": "hard flash with soft ambient",
+    "shadows": "sharp shadows cast by the flash, especially behind the subject and on the window blinds",
+    "direction": "frontal",
+    "highlights": "strong highlights on the
+```
