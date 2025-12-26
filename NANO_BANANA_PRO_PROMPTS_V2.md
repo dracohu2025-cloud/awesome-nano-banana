@@ -2375,3 +2375,35 @@ The overall mood should be dreamlike, futuristic, vividly colored, highly detail
 
 SCENE: At the boundary between sunset and nightfall on the African savannah, where orange-red sunlight merges into deep blue twilight. Silhouetted acacia trees stretch across the horizon as animals wander through the glowing dust-lit grassland.
 ```
+
+---
+
+## Case: twitter-2003586938113232928
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2003586938113232928)
+**Scraped:** 2025-12-26T12:58:26.446Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G84ps7GaoAA0HVt?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G84rfR-agAQu1DL?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Nano banana pro prompt：
+
+一组冷静、高质感的产品摄影画面。
+
+画面主体是一瓶高端营养补充剂，瓶身完整、干净，密封防拆封条仍然保留，整体呈现出高度精密、被严格控制的工业产品状态。产品被放置在一块哑光石材表面上，石材质地粗粝、自然、略显陈旧，与产品的精致形成对比。
+
+画面中出现明显的“功能错位”细节：在营养补充剂瓶旁，摆放着一把比例明显不合理的迷你躺椅，像是为人休息而准备，却无法真正使用，只是象征性地存在。同时，瓶身或附近贴有一张醒目的警示标签，文字理性、冷淡，却无法明确说明风险来自哪里。
+
+整体构图采用正面居中方式，画面稳定、克制，没有戏剧化角度，强调产品本身的存在感与材质细节。使用柔和但具有方向性的棚拍光线，清晰呈现瓶身的反光、标签纸张的质感、防拆封条的细节，以及石材表面的微小纹理。
+
+微型道具组合：随机
+
+#nanobanana  #NanoBananaPro  #prompt #IdeaGeneration
+```
