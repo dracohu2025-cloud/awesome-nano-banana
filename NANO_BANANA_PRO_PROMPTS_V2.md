@@ -3939,3 +3939,27 @@ Prompt
 A beach photograph shows the person attached in the uploaded reference image (keep the face 100% accurate) kneeling at the shore as a dolphin pops its head out of the water near them. They touch the dolphin gently, smiling.
 Aspect ratio 5:3
 ```
+
+---
+
+## Case: twitter-2003768838111059997
+
+**Author:** [@harboriis](https://twitter.com/harboriis)
+**Tweet:** [View Original](https://x.com/harboriis/status/2003768838111059997)
+**Scraped:** 2025-12-26T13:18:24.220Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G87RHVgaAAAQPU_?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana pro on Gemini
+
+Prompt:  Hyperrealistic photograph, 8K, cinematic shot, a young woman (with my exact facial features) standing on the iconic Platform 934, awaiting the Hogwarts Express. She holds a vintage trunk, and her face shows a mix of excitement and eager anticipation. She is dressed in a detailed Hogwarts robe.
+
+The platform is bustling with other students carrying suitcases and owl cages, rushing towards the train. In the background, the famous brick wall, through which passengers are magically passing, is visible. The magnificent Hogwarts Express has already arrived, billowing thick white steam that illuminates the station with warm, glowing lights.
+
+The lighting is a warm, evening glow, creating a magical and nostalgic atmosphere. The scene looks like a real photograph with cinematic color grading. Every detail, from the texture of her robe and the steam of the train to the expressions of the passing students, is rendered with maximum sharpness and clarity, filling the scene with magic and the thrill of the upcoming journey. --ar 9:16
+```
