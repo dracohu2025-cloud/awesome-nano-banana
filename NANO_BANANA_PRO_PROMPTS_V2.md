@@ -311,3 +311,25 @@ Google Nano Banana Pro Prompt
 
 #nanobanana #NanoBananaPro #Prompt #IdeaGeneration
 ```
+
+---
+
+## Case: twitter-2004497370785149384
+
+**Author:** [@abulu8](https://twitter.com/abulu8)
+**Tweet:** [View Original](https://x.com/abulu8/status/2004497370785149384/photo/1)
+**Scraped:** 2025-12-26T12:15:15.530Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FnFlgb0AAziIV?format=jpg&name=orig)
+
+### Prompt
+
+```
+Experiencing New Year fireworks through their eyes—the greatest gift. Wishing you a bright year ahead! 
+
+Created with Nano Banana Pro inside [@ImagineArt_X] [@imagineart_creo]
+
+Prompt : A bundled toddler sits on father's shoulders in snowy town square, mittened hands reaching toward exploding fireworks painting the night sky in cascading colors, face tilted upward in pure wonder. Shot with Sony A7RV at 35mm f/1.4, brilliant bursts of gold and crimson and emerald reflect in wide astonished eyes, mouth forming perfect O of amazement. Oversized knitted hat slides backward from craning neck, scarf unwinding with excitement. Father's gloved hands grip small ankles secure, his own face watching the child not the sky, finding better fireworks in that expression. Crowd blurs around them, other families pointing upward, but these two exist in private bubble of shared wonder. Snow catches colored light as it falls, becoming rainbow confetti. Hot chocolate forgotten in father's other hand, steam rising into the spectacle. Church clock visible striking midnight behind the explosions. Heavy grain saturates the celebratory chaos while firework colors paint the snow and faces in shifting hues, motion blur traces rocket trails and falling sparks. New year begins in that upturned face. Old year ends in that protective grip. The composition lifts innocence toward tomorrow, creating midnight measured in wonder shared between generations.
+```
