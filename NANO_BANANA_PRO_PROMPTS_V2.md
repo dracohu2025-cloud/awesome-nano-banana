@@ -4987,3 +4987,95 @@ Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composit
 ```
 “Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.” Nano Banana Pro.
 ```
+
+---
+
+## Case: twitter-2003652764132606201
+
+**Author:** [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
+**Tweet:** [View Original](https://x.com/BeautyVerse_Lab/status/2003652764132606201)
+**Scraped:** 2025-12-26T13:39:18.406Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G85m2KtagAAUNTc?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G85m2KxakAEAmhj?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G760g-haAAAwDYI?format=jpg&name=orig)
+
+### Prompt
+
+```
+[Nano Banana Pro]   
+Green Realm × Tilted Stele Effect
+グリーンレルム × 傾いた石碑エフェクト
+綠境 × 斜碑效果
+
+(Prompt below/プロンプトは下にあります)   
+
+How to use: 
+1. Choose a character reference image. 
+2. Copy and paste the prompt. 
+3. Edit the text you want to appear on the tilted stone.  
+
+使い方： 
+1. 人物のリファレンス画像を1枚選びます。 
+2. プロンプトをコピー＆ペーストします。 
+3. 斜めの石碑に表示したい文字を編集してください。
+  
+使用方式：
+1.選一張你要套用效果的人物圖片
+2.複製貼上prompt
+3.修改你想要出現在斜碑上的字
+
+Maybe you will want to try it out?
+@SDT_side @underwoodxie96 @zayleeai @joshesye 
+
+[prompt]
+
+{
+  "project_title": "High-Fashion Garden Editorial - Borderless Diagonal Supine Recline with Direct Gaze",
+  "structure": "Single full-frame composition. Edge-to-edge photography. No borders or collage elements.",
+  "aspect_ratio": "3:4",
+  "aesthetic_theme": {
+    "style": "High-fashion garden editorial with professional magazine color grading",
+    "mood": "Sophisticated, confident, serene, high-end catalog",
+    "color_grading": "Professional fashion filter: Subtle Kodak Portra 400 aesthetics, soft diffused natural highlights, rich greens in the garden section, slightly desaturated cool tones on the stone text, and refined contrast.",
+    "textures": [
+      "Fine magazine paper grain",
+      "Aged stone and moss textures on text",
+      "Lush botanical textures in upper left"
+    ]
+  },
+  "framing_and_borders": {
+    "type": "None",
+    "details": [
+      "No borders, no frames, no black lines.",
+      "The image fills the entire frame completely to the edges."
+    ]
+  },
+  "subject_reference": {
+    "source": "image_1.png",
+    "instruction": "The subject's physical appearance, complete outfit, and accessories must exactly match the person in image_1.png. Maintain visual consistency."
+  },
+  "composition_details": {
+    "main_frame": {
+      "type": "Conceptual Full-Bleed Portrait",
+      "composition_rule": "The composition is defined by a natural physical diagonal boundary running from the top-right corner to the bottom-left corner.",
+      "setting_description": "The frame is seamlessly divided by the subject and the structure. The lower-right half is a massive, solid stone 'BeautyVerse' structure. The upper-left half is filled with a lush, soft-focus botanical garden.",
+      "subject_pose": "The subject is reclining supine (lying on her back) along the diagonal edge of the stone structure, body angled from top-right to bottom-left. **Her head is slightly turned or angled upwards to allow her eyes to gaze directly and intensely into the camera lens.** She maintains a relaxed but engaging high-fashion expression while making eye contact. Her back is in direct contact with the stone surface.",
+      "key_element_description": {
+        "object": "A massive, edge-filling topographical stone monolith.",
+        "text_content": "BeautyVerse",
+        "alignment": "The text structure completely fills the lower-right diagonal triangle of the frame. The diagonal edge of these letters forms the 'bed' the subject lies upon.",
+        "text_style": "Massive, bold, structural, sans-serif letters.",
+        "material_look": "Aged, weathered stone or concrete with realistic moss and ivy integration."
+      },
+      "photographic_style": "High-angle medium-long shot. Clean, borderless presentation. Sharp focus on the subject's eyes and her interaction with the stone texture. No graphic lines, only physical shapes and light define the split."
+    }
+  }
+}
+
+#NanoBananaPro
+```
