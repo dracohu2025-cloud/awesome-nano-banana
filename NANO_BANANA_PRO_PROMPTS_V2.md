@@ -5460,3 +5460,31 @@ Gemini Nano Banana Prompt
   "subject_details": {
     "character": "Breathtakingly beautiful woman, looking up with tears of joy or
 ```
+
+---
+
+## Case: twitter-2004537550787207645
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004537550787207645)
+**Scraped:** 2025-12-26T13:52:43.125Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GMRHEbcAEE-qg?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "High-End Beauty Portrait",
+    "mood": "Fatal, Vivid, Romantic, Sharp"
+  },
+  "subject_details": {
+    "character": "Breathtakingly beautiful K-Pop visual, waist-up shot",
+    "skin_tone":
+```
