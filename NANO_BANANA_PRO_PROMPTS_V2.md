@@ -1429,3 +1429,50 @@ Scheme R（红底）：
 
 https://x.com/hx831126/status/2000793785064939661?s=20…
 ```
+
+---
+
+## Case: twitter-1995633652139442373
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1995633652139442373)
+**Scraped:** 2025-12-26T12:54:44.930Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7HqLdcXcAEVoJq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7BWvI8X0AApeZB?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7BWvJBXgAAV947?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7BWvIzWIAAr6Tz?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7BW6F-XYAAN1iu?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana prompt
+
+Convert your X profile to a cyber-aesthetic futuristic social-app interface.
+
+Take a screenshot with your X profile, and send it to Gemini/nano banan pro with the prompt
+
+--- Prompt ---
+
+A 9:16 vertical, photorealistic cyber-aesthetic futuristic social-app interface. A hand is holding a vertical, iPhone-sized, borderless acrylic card, taking up most of the frame. The card displays a social media profile interface with no banners or background images. Its smooth, rounded edges emit a soft neon glow in blue, pink, and purple gradients.
+
+The background is dark and blurred, emphasizing the glowing edges; the light reflections on the fingers feel cinematic and atmospheric, creating a high-tech holographic mood. The card surface is crystal-clear, and the profile details appear almost engraved, showing only the information from the reference image.
+
+Displayed in this exact order:
+
+- Profile avatar (centered)
+- Name + blue verification badge (centered)
+- Username with “@”, e.g., @dotey (centered)
+- Bio (left-aligned)
+- Location, website (left-aligned)
+- Join date (left-aligned)
+- Following count & followers count (left-aligned)
+- Follow button (full-width, transparent background, rounded-full, border with soft neon glow)
+```
