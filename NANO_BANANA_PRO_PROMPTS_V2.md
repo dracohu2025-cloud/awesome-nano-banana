@@ -241,3 +241,28 @@ Lighting is low-key and directional, highlighting muscle definition on arms and 
 
 Shot on a full-frame camera, 50mm lens, f/1.8, shallow depth of field, ultra-detailed, photorealistic, high dynamic range, realistic skin tones, cinematic color grading, fitness photography style, Instagram-quality realism, 8K resolution.
 ```
+
+---
+
+## Case: twitter-2004500768423088469
+
+**Author:** [@john_my07](https://twitter.com/john_my07)
+**Tweet:** [View Original](https://x.com/john_my07/status/2004500768423088469)
+**Scraped:** 2025-12-26T12:14:56.158Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Fq0jHa0AEcuq1?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Fq0lLbwAAeVlt?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini App.
+
+Prompt:
+
+girl same as reference, standing and posing confidently on a modern busy street at night, wearing bold attractive outfit: fitted jeans + stylish top + cropped blazer jacket, minimal lighting with soft spotlight focused on her, everything around is motion-blurred, cars and people blurred, shallow depth of field, sharp detail only on her face and outfit, cinematic bokeh background, realistic skin texture, natural expression, high-resolution, ultra-realistic, 4k, portrait photography style, street fashion editorial look, moody night ambience
+--ar 2:3 --v 5 --style realistic --camera 85mm --depth-of-field strong
+```
