@@ -3826,3 +3826,75 @@ Google Gemini Nano banana Pro.
   "output_goal": "Create a hyper-realistic cinematic studio portrait of a woman surrounded by floating everyday objects in a surreal gravitational composition, preserving her exact identity while blending elegance, mystery, and controlled chaos."
 }
 ```
+
+---
+
+## Case: twitter-2003559023753474431
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2003559023753474431)
+**Scraped:** 2025-12-26T13:17:59.581Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G84SOava0AAmmHU?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G84SOarakAACwfq?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G84SOataIAAZ7qG?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G84SOatbwAAmuS6?format=jpg&name=orig)
+
+### Prompt
+
+```
+有了提示词，连做创意都不需要自己动了。
+
+每生成一次，都是随机的组合。
+
+ Nano Banana Pro  Prompt：
+
+A hyper-detailed, surreal but believable studio scene where an abstract concept is physically contained and made visible.
+
+Main structure:
+A transparent, museum-grade display container (thick glass or acrylic), placed alone in a neutral studio space. Inside the container is a frozen moment in time.
+
+Core subject:
+A human-scale subject (person or symbolic object) partially transformed into another material that contradicts its original nature — for example: skin turning into stone, soft fabric crystallizing, organic elements embedded in mechanical structures. The transformation is incomplete, showing a clear boundary between “before” and “after”.
+
+Conceptual twist:
+The interior of the container is treated like a scientific or archival exhibit:
+– clearly layered composition
+– visible cross-sections or cutaway logic
+– subtle measurement marks, labels, or annotation-style details
+– the feeling that this object is being studied, preserved, or explained
+
+Spatial logic:
+Gravity behaves normally, but time does not — motion is implied yet completely frozen.
+Small secondary elements (dust, droplets, fragments, threads, petals, gears, etc.) are suspended mid-air, reinforcing the sense of paused time.
+
+Lighting:
+Soft, directional studio lighting with strong material definition.
+Light emphasizes texture differences (smooth vs rough, organic vs artificial).
+No dramatic colors — restrained, high-end, museum-like color palette.
+
+Camera & composition:
+Straight-on or slightly elevated perspective.
+Centered composition, calm framing.
+Depth comes from internal layers, not camera tricks.
+Photorealistic, macro-level detail, cinematic clarity.
+
+Mood:
+Quiet, unsettling, contemplative.
+The image should feel intelligent rather than emotional, poetic rather than decorative.
+
+Style constraints:
+No fantasy clichés.
+No obvious sci-fi UI.
+No decorative surrealism.
+Everything should feel physically possible, even if conceptually strange.
+
+Ultra high resolution, extremely sharp details, realistic materials, controlled studio background, premium art photography aesthetic.
+
+#nanobanana  #NanoBananaPro  #prompt
+```
