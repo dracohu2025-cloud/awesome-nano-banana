@@ -789,3 +789,36 @@ Gemini Nano Banana Pro Prompt:
 
 A minimalist illustration showing a small [PERSON] standing beneath a massive [SYMBOLIC SHAPE]. Flat colors, strong negative space, clean lines, editorial magazine cover aesthetic.
 ```
+
+---
+
+## Case: twitter-2004400809736593906
+
+**Author:** [@john_my07](https://twitter.com/john_my07)
+**Tweet:** [View Original](https://x.com/john_my07/status/2004400809736593906)
+**Scraped:** 2025-12-26T12:51:31.170Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EP6cBb0AARqys?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9EP6ZgbIAEHzNZ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini App.
+
+Prompt;
+
+Subject: Turkish girl with fair complexion walking through a crowded street  
+Pose: side pose (body facing sideways), head turned toward camera, confident soft expression  
+Focus: subject sharp + crisp, surrounding people blurred with motion blur  
+Scene: busy urban street, full crowd, realistic city environment  
+Lighting: midday, cloudy sky, soft diffused light, natural highlights  
+Wardrobe: elegant, attractive modern dress, stylish but realistic  
+Style: cinematic, shallow depth of field, dynamic motion, photojournalistic  
+Quality: ultra-realistic, 4K, high detail, smooth skin textures, natural colors  
+Camera: 50mm lens, f/1.8, slight motion effect, subject slightly off-center  
+Atmosphere: lively city energy, movement everywhere except subject
+```
