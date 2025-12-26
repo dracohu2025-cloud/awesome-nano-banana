@@ -1845,3 +1845,34 @@ Gemini Nano Banana Prompt
 
 以45°俯视角度呈现一幅精致的微缩3D场景，凸显精准细腻的模型细节。画面特写一只瓷质咖啡杯，杯中的卡布奇诺奶泡之上，微妙地漂浮着一个迷你城市{city}，占据了画面的大部分，场景中央突出展示该{city}最具代表性的地标建筑，细节清晰可见，主要景点散发柔和的灯光，微型街道上有细致逼真的车辆穿梭。整体采用真实感的电影级光效与景深模糊效果，营造出奇幻而梦境般的氛围。画面细节极致丰富，风格高度写实，呈现8K级电影质感。画面比例1:1。
 ```
+
+---
+
+## Case: twitter-1993042754008686712
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1993042754008686712)
+**Scraped:** 2025-12-26T12:56:40.580Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6i09XKXsAAzHUd?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6fE-98aoAA_MAV?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G6fFJqMbkAEwTcy?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana Pro prompt
+ add an image as reference
+---
+
+Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown, ensuring accurate depiction of their head accessories.
+
+Arrange the images in a 4x6 layout, featuring common chat phrases or relevant humorous memes.
+Use handwritten-style fonts for text.
+Output must be original—avoid direct copying of the reference image.
+Final image should be in 4K resolution, 16:9 aspect ratio.
+```
