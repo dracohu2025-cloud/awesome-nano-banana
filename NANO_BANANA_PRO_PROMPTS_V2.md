@@ -4670,3 +4670,30 @@ Prompt;
     "highly_detailed": true,
     "commercial_photography": true,
 ```
+
+---
+
+## Case: twitter-2000535431335870680
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2000535431335870680)
+**Scraped:** 2025-12-26T13:25:33.620Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8NUWxxa0AEl6oH?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8M5TtfWwAoc_dq?format=jpg&name=orig)
+
+### Prompt
+
+```
+Check out this result  
+
+Can't believe this quality came from Gemini Nano Banana Pro 
+Prompt 
+
+  "scene_overview": {
+    "description": "8K ultra-realistic, hyper-ultra-realistic, HDR portrait of the same woman with an action perspective",
+    "camera_angle": "Dramatic
+```
