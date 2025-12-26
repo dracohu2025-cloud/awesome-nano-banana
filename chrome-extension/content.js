@@ -120,6 +120,11 @@
         button.disabled = true;
 
         try {
+            // Check if extension context is still valid
+            if (!chrome.runtime || !chrome.runtime.sendMessage) {
+                throw new Error('请刷新页面后重试 (Cmd+R)');
+            }
+
             const tweetData = extractTweetData(tweetElement);
 
             if (!tweetData.id) {
