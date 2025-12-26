@@ -2682,3 +2682,30 @@ Overall, the image should utilize soft studio lighting, high-definition details,
 
 Aspect ratio: 9:16.
 ```
+
+---
+
+## Case: twitter-2004537140085145787
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004537140085145787)
+**Scraped:** 2025-12-26T12:59:36.726Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GL5Ina0AAYAWD?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Emotional Winter Portrait",
+    "mood": "Melancholic, Romantic, Cold, Pure"
+  },
+  "subject_details": {
+    "character": "Stunning young woman (Innocent first love visual), waist-up shot",
+```
