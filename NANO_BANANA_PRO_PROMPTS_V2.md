@@ -1582,3 +1582,112 @@ UI 元素： 复古低分辨率单色像素图标和块状文字覆盖
 内容变换： 将人物服装替换为 Y2K 千禧年流行风格
 调色风格： 低饱和度冷色调，数字噪点，颜色抖动伪影，屏幕荧光
 ```
+
+---
+
+## Case: twitter-2004400431561310279
+
+**Author:** [@saniaspeaks_](https://twitter.com/saniaspeaks_)
+**Tweet:** [View Original](https://x.com/saniaspeaks_/status/2004400431561310279)
+**Scraped:** 2025-12-26T12:55:10.125Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EPi_ib0AAOpcX?format=jpg&name=orig)
+
+### Prompt
+
+```
+I meet trump today!
+
+Nano banana Pro on Gemini app.
+
+{
+  "type": "image_generation_prompt",
+  "style": "portrait / official photo, professional editorial, photorealistic",
+  "composition": {
+    "framing": "medium-wide interior shot",
+    "camera_quality": "professional, high-quality camera",
+    "angle": "eye-level",
+    "classification": "official portrait"
+  },
+  "subjects": {
+    "primary": {
+      "gender": "female",
+      "position": "seated on the right behind the desk",
+      "appearance": {
+        "wardrobe": "dark formal suit, white shirt, red tie",
+        "expression": "calm, confident, looking directly at the camera",
+        "posture": "comfortable, authoritative seated posture"
+      }
+    },
+    "secondary": {
+      "identity": "Donald Trump",
+      "position": "standing on the left side of the desk",
+      "appearance": {
+        "wardrobe": "dark suit, black tie, white shirt",
+        "expression": "slight smile, looking directly at the camera",
+        "posture": "upright, formal stance"
+      }
+    }
+  },
+  "environment": {
+    "location": "Oval Office (or a highly accurate formal presidential office)",
+    "key_elements": {
+      "desk": {
+        "name": "Resolute Desk",
+        "material": "large glossy wooden presidential desk",
+        "contents": [
+          "several sheets of paper",
+          "a blue folder",
+          "a small plaque with signature or logo",
+          "stack of papers/files",
+          "computer monitors visible at one corner"
+        ]
+      },
+      "chairs": {
+        "primary": "traditional presidential office chair",
+        "secondary": "visitor chairs implied, mostly out of frame"
+      }
+    }
+  },
+  "background": {
+    "windows": {
+      "type": "tall arched windows",
+      "curtains": "thick, multi-layered curtains in gold or ivory with darker stripes",
+      "lighting": "daylight visible through windows"
+    },
+    "flags": [
+      "United States of America flag",
+      "Republic of Iraq flag",
+      "Iraqi Popular Mobilization Forces (PMF) flag",
+      "U.S. Army flag (partial 'ARMY' text visible)"
+    ],
+    "statue": "bronze historical statue traditionally displayed in the Oval Office"
+  },
+  "lighting": {
+    "type": "mixed lighting",
+    "sources": [
+      "natural daylight from windows",
+      "soft interior fill lighting"
+    ],
+    "effect": "directional, clean, professional illumination suitable for an official photoshoot"
+  },
+  "color_grading": {
+    "palette": "natural, balanced, slightly warm",
+    "contrast": "moderate, realistic",
+    "saturation": "true-to-life"
+  },
+  "quality": {
+    "realism": "highly photorealistic",
+    "detail_level": "high detail in faces, fabrics, desk textures, and background decor",
+    "artifacts": "none"
+  },
+  "constraints": [
+    "Maintain a realistic and respectful official setting",
+    "No exaggerated effects or stylization",
+    "No text overlays or watermarks"
+  ],
+  "output_goal": "Create a photorealistic official-style portrait of a woman seated behind the Resolute Desk with Donald Trump standing beside her in the Oval Office, conveying authority, formality, and authenticity through professional lighting and accurate presidential decor."
+}
+```
