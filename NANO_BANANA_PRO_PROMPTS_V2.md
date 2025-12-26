@@ -5208,3 +5208,29 @@ Prompt:
   "subject_profile": {
     "identity": {
 ```
+
+---
+
+## Case: twitter-2004178587654778928
+
+**Author:** [@Sheldon056](https://twitter.com/Sheldon056)
+**Tweet:** [View Original](https://x.com/Sheldon056/status/2004178587654778928)
+**Scraped:** 2025-12-26T13:49:28.788Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9BFulgb0AMDjav?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9BFul3b0AUto9G?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9BFumMbIAAIVbV?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9BFumbb0AIQe0D?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini app
+
+A hyper-detailed geometric papercraft sculpture of [NAME], created using layered colored cardstock with precise angular folds and clean cut edges. Facial features are stylized using polygonal planes, with subtle shading formed naturally by paper layering. Hair, beard, and clothing are constructed from stacked strips and folded shapes for depth and realism. The figure is displayed against a clean neutral background with soft diffused lighting, highlighting the craftsmanship and texture. Sharp macro focus, studio photography aesthetic, 1080×1080.
+```
