@@ -5488,3 +5488,30 @@ Gemini Nano Banana Prompt
     "character": "Breathtakingly beautiful K-Pop visual, waist-up shot",
     "skin_tone":
 ```
+
+---
+
+## Case: twitter-2004535345829060915
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004535345829060915)
+**Scraped:** 2025-12-26T13:53:08.845Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GKQwVacAARC5d?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "High-Energy Youth Portrait",
+    "mood": "Chaotic, Vivid, Explosive, Trendy"
+  },
+  "subject_details": {
+    "character": "Stunning young K-Pop visual, trendy streetwear outfit, waist-up shot",
+```
