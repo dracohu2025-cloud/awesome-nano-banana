@@ -4084,3 +4084,27 @@ The leaf surface glistens with dew under soft sunlight, creating subtle depth an
 Background remains a softly blurred natural setting with harmonious bokeh.
 Cinematic macro perspective, botanical realism, ultra-detailed.
 ```
+
+---
+
+## Case: twitter-2003390157060518146
+
+**Author:** [@Taaruk_](https://twitter.com/Taaruk_)
+**Tweet:** [View Original](https://x.com/Taaruk_/status/2003390157060518146)
+**Scraped:** 2025-12-26T13:19:02.349Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G814uStbUAAWRm1?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana pro on Gemini app.
+Prompt:{
+  "Objective": "Create an ultra-realistic cinematic street photograph that captures emotional isolation and quiet determination within a fast-moving urban crowd during blue hour.",
+
+  "Subject": {
+    "Gender": "Female",
+    "Age_Group":
+```
