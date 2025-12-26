@@ -5343,3 +5343,33 @@ Gemini Nano Banana Prompt:
   ]
 }
 ```
+
+---
+
+## Case: twitter-2004544475939401937
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004544475939401937)
+**Scraped:** 2025-12-26T13:50:41.983Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9BxyiUXIAQCLAy?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8qoA5_WcAAU0yh?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8qoA5sWYAAMGpV?format=jpg&name=orig)
+
+### Prompt
+
+```
+I have been working on a variation of the Nano Banana Pro prompt I shared a few days back. 
+
+Prompt: 
+Do this for Dune 
+
+<instructions>
+Concept: A storybook where the text creates the environment. Input: [Input: Moby Dick / Alice in Wonderland / Dune] 
+
+Analysis: Extract key
+```
