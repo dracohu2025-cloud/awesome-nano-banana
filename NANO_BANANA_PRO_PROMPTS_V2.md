@@ -2852,3 +2852,45 @@ How to use:
 
 #NanoBananaPro
 ```
+
+---
+
+## Case: twitter-1998949737802903974
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1998949737802903974)
+**Scraped:** 2025-12-26T13:08:34.480Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G72yMQOakAAJTf5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G72yMQOaMAA-XdN?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G72yMRDaMAA_WMe?format=jpg&name=orig)
+
+### Prompt
+
+```
+ SEE YOURSELF STANDING IN THE SNOW LIKE A CALM WINTER HERO — JUST LIKE THIS. 
+
+Create your awesome potrait 
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+ 1) Download the Gemini app from the Play Store or App Store.
+ 2) Open the app and tap on the " Create image" button.
+ 3) Tap the + icon, click Gallery, and select a photo of yourself.
+   > Note: For best results, use a photo where your face fills about 70% of the screen.
+ 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
+ 5) Return to the Gemini app and paste that text into the "Describe your image" box.
+ Tap the rocket symbol  in the bottom right corner to generate your image.
+
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
+
+Prompt 
+Ultra-realistic cinematic portrait of a man attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) standing in a vast, pale winter landscape with a soft gray sky and light snowfall, wearing an elegant deep-navy embroidered long coat that flares dramatically in the wind; the coat features intricate silver thread patterns, ornate buttons, textured cuffs, and a high collar that frames his face. His hair is long, windswept, and slightly messy, blowing across his face as he looks forward with a calm but intense expression. His beard is thick and frosted with fine snowflakes. Lighting is soft, diffused, and wintry, with no harsh shadows—just natural cold daylight that wraps evenly around him. Snow particles drift across the frame both in front of and behind him, slightly blurred for depth and movement. The background remains minimal and muted, allowing the dark embroidered coat to stand out. Depth of field keeps the man razor sharp while the background stays soft and atmospheric. The final image must capture the same mood: cold wind, drifting snow, elegant motion, rich navy textures, and a dramatic winter-fantasy aesthetic.
+```
