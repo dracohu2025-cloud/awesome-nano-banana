@@ -3601,3 +3601,32 @@ The leaf surface has a glossy, wet appearance with tiny sparkling water droplets
 Background features a softly blurred lakeside landscape, providing a calm, peaceful atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
 Dynamic effect: drifting dandelion fluff gently floating through the air.
 ```
+
+---
+
+## Case: twitter-2002324743190409256
+
+**Author:** [@_MehdiSharifi_](https://twitter.com/_MehdiSharifi_)
+**Tweet:** [View Original](https://x.com/_MehdiSharifi_/status/2002324743190409256)
+**Scraped:** 2025-12-26T13:16:09.115Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8mvLQGWQAASpyM?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8mqT2kakAA2v1E?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro | Gemini 3.0
+
+- Platform: @eachlabs 
+
+{
+  "objective": "Generate a hyper-realistic black and white dynamic street fashion photograph."
+  "image_type": "photography",
+  "prompt": {
+    "subject": "A stylish woman crossing a busy city intersection",
+    "wardrobe":
+```
