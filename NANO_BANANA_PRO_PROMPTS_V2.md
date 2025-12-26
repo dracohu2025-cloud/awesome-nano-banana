@@ -1303,3 +1303,31 @@ Attire: A slightly unbuttoned black shirt, wet hair.
 Image Tone: High red-green contrast, heavy film grain, pronounced motion blur, a soft glow around car lights.
 Mood: Lonely, isolated, a silent big city.
 ```
+
+---
+
+## Case: twitter-2004449949195686246
+
+**Author:** [@Just_sharon7](https://twitter.com/Just_sharon7)
+**Tweet:** [View Original](https://x.com/Just_sharon7/status/2004449949195686246)
+**Scraped:** 2025-12-26T12:54:29.712Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9E8mQjb0AATVT5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9E8mRZb0AAwGWD?format=jpg&name=orig)
+
+### Prompt
+
+```
+Do you like Orange?   
+
+Google Gemini Nano Banana pro 3.0 brought oranges for you. 
+
+Prompt
+{
+  "subject": {
+    "person": "A young woman with ethereal features, fair skin, and long, straight platinum blonde/silver hair.",
+    "expression": "Serene, pensive gaze looking
+```
