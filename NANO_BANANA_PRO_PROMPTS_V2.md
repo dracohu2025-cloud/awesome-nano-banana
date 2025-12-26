@@ -1904,3 +1904,62 @@ Felt toys
 
 Full body [Subject] toy, [attributes/accessories], [expression], made of felt, in a [place], [lighting], friendly and cartoonish appearance, rich and soft textures
 ```
+
+---
+
+## Case: twitter-2004536786178265283
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004536786178265283)
+**Scraped:** 2025-12-26T12:56:53.193Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GLk7fa8AAr1WI?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Romantic Sunlight Portrait",
+    "mood": "Warm, Nostalgic, Dreamy, Divine"
+  },
+  "subject_details": {
+    "character": "Breathtaking young woman (Nation's first love visual), waist-up shot",
+    "action": "Standing in a field or by a window, turning back to look at the camera",
+    "lighting_effect": "Strong backlight (Sun) creating a glowing halo around her hair",
+    "expression": "Soft, tender smile or sentimental gaze, eyes sparkling with reflected sun",
+    "hair": "Windblown, loose, glowing gold from the light",
+    "outfit": "Soft beige knit or white blouse, cozy and feminine"
+  },
+  "environment_context": {
+    "location": "Reed field or rooftop at sunset",
+    "background_elements": "Blurred golden sun flares, soft bokeh of nature or city silhouette",
+    "atmosphere": "Warm, emotional, romantic memory"
+  },
+  "lighting_setup": {
+    "type": "Natural Backlight (Golden Hour)",
+    "source": "Low sun directly behind the subject",
+    "effects": "Lens flare, warm orange glow wrapping around the skin, dreamy soft focus",
+    "color_grading": "Golden, Amber, and Soft Brown tones, creamy aesthetic",
+    "style": "Commercial beauty campaign"
+  },
+  "camera_specification": {
+    "body": "Canon EOS R5",
+    "lens": "Canon RF 50mm F1.2 L USM",
+    "settings": "Aperture f/1.2 (Extreme shallow depth of field), Shutter 1/2000s, ISO 100",
+    "style": "High-end portraiture"
+  },
+  "image_quality": {
+    "resolution": "8k",
+    "texture": "Glowing hair strands, peach fuzz on skin, soft light leaks, sharp eyes"
+  },
+  "negative_prompt": [
+    "cloudy", "cold colors", "harsh shadows", "messy", "angry", "dark", "neon lights"
+  ]
+}
+```
