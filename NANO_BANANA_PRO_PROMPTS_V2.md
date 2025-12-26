@@ -120,3 +120,34 @@ Prompt:
     },
     "references":
 ```
+
+---
+
+## Case: twitter-2004516521863999507
+
+**Author:** [@_dailyboost](https://twitter.com/_dailyboost)
+**Tweet:** [View Original](https://x.com/_dailyboost/status/2004516521863999507)
+**Scraped:** 2025-12-26T12:13:46.072Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9F5IrbaUAABoTL?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt
+
+{
+  "subject": {
+    "person": "young girl",
+    "features": [
+      "long wavy ginger hair",
+      "pale complexion",
+      "blue eyes",
+      "natural makeup"
+    ],
+    "clothing": "white oversized button-down shirt with black floral lace or
+```
