@@ -3377,3 +3377,33 @@ Prompt:
     },
     "references": {
 ```
+
+---
+
+## Case: twitter-2000542241513738424
+
+**Author:** [@Arminn_Ai](https://twitter.com/Arminn_Ai)
+**Tweet:** [View Original](https://x.com/Arminn_Ai/status/2000542241513738424)
+**Scraped:** 2025-12-26T13:13:32.157Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8NahEuWIAUjhoW?format=jpg&name=orig)
+
+### Prompt
+
+```
+Create vintage found-footage photographs that never existed with Nano Banana Pro 
+
+More ideas in the comments.
+Drop your own version in the comments, I’d love to see it 
+
+- Prompt 
+a photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period-accurate clothing], [Describe the interaction].
+
+The photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.
+
+Significantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.
+
+Greatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.
+```
