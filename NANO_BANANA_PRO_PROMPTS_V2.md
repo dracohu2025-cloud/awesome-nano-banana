@@ -1989,3 +1989,31 @@ She is eating a vanilla ice cream cone held in her right hand. In her left hand,
 
 In the top left corner, there is calligraphy and a red rectangular artist seal that reads "寶玉".
 ```
+
+---
+
+## Case: twitter-1992469131438719122
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1992469131438719122)
+**Scraped:** 2025-12-26T12:57:00.282Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6ar-ICXgAAH3TF?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6aa9VgWcAAklY6?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt
+
+A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's "Along the River During the Qingming Festival."
+
+Central Scene: A bird's-eye view of the bustling modern Chicago riverfront. The focus is the massive steel bascule bridge (DuSable Bridge/Michigan Avenue Bridge), jammed with heavy contemporary traffic including countless cars, yellow taxis, and CTA buses, all rendered with precise traditional brushstrokes.
+
+Environmental Details: The Chicago River below is filled with modern architectural tour boats, water taxis, and kayakers. The riverbanks are lined with dense, vintage-style Chicago skyscrapers (resembling the Wrigley Building and Tribune Tower), drawn using traditional "jiehua" architectural painting techniques. An elevated railway structure with a moving 'L' train is visible in the background.
+
+Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
+```
