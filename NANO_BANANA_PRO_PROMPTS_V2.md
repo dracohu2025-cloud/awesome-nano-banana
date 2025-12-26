@@ -2555,3 +2555,66 @@ Theme: {topic}
 
 topic: “If you can't explain it simply, you don't understand it well enough.” — Feynman
 ```
+
+---
+
+## Case: twitter-1996091290509832533
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1996091290509832533)
+**Scraped:** 2025-12-26T12:58:55.500Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7OKU8AWoAAejrh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7OKYg3W8AA2LST?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7OKYhEWoAAWQRZ?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7OKYg_W4AAci0s?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7NdwQZWUAAqgaW?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G7NfigIW8AESnWy?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt
+
+A realistic cyber-aesthetic futuristic business card photograph
+
+---- Prompt ----
+
+A realistic cyber-aesthetic futuristic business card photograph: a left hand is holding a horizontal, acrylic, borderless card the size of a standard business card (3.5" × 2" ratio), filling most of the frame. The card displays a personal business card layout without any banners or background images. It features smooth, rounded edges and emits a soft neon glow with gradients of blue, pink, and purple. The background is dark and blurred to highlight the glowing edges, while cinematic reflections of light appear on the fingertips holding the card, creating a high-tech, holographic atmosphere. The card surface is crystal-clear, and the text elements appear finely engraved.
+If a logo is provided, integrate it into the design; if not, create a clean typographic logo based on the company name.
+
+If any field is left blank, automatically fill it with visually appealing and context-appropriate design elements.
+
+The final business card should have a balanced layout, clean lines, and clear visual hierarchy, suitable for professional printing.
+
+Name: [Insert Name]
+Title: [Insert Title]
+Company Name: [Insert Company Name]
+Logo: [Use attachment / Create based on company name / Leave blank]
+Contact Information: 
+  - Phone ( icon ): [Phone Number]
+  - Email ( icon ): [Email Address]
+  - Website ( icon ): [Website Url]
+X (X logo): [X username, e.g. @dotey]
+Additional Elements: [Social media / QR code / Tagline / Leave blank]
+
+-----
+
+Name: Sam Altman
+ Title: CEO
+ Company Name: OpenAI
+ Contact Information:
+  • Phone (icon): +1 (555) 010-AI01
+  • Email (icon): sam.altman@openai.example
+  • Website (icon): https://openai.com
+ Logo: Create based on company name
+ X (X logo): @sama
+ Additional Elements: Tagline: “Advancing safe AGI for humanity”
+```
