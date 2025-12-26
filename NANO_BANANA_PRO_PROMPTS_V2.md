@@ -5767,3 +5767,25 @@ Prompt :
 {
   "prompt": "Photorealistic cinematic candid portrait, morning outdoors near the Eiffel Tower in Paris. Dynamic diagonal tracking shot with the camera tilted 25 degrees, front-side low angle. A stylish person wearing a light beige
 ```
+
+---
+
+## Case: twitter-2004472758567346200
+
+**Author:** [@AIwithSynthia](https://twitter.com/AIwithSynthia)
+**Tweet:** [View Original](https://x.com/AIwithSynthia/status/2004472758567346200)
+**Scraped:** 2025-12-26T14:35:28.125Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FRMR8aQAAPgUc?format=jpg&name=orig)
+
+### Prompt
+
+```
+I used my own image to create this using Nano Banana on @Somake_ai  . Create yours and show me how it goes
+
+Prompt :
+
+A cinematic fine-art studio portrait of an elegant woman seated gracefully on a carved wooden armchair, wearing a long deep red velvet dress with soft, flowing folds. Her posture is relaxed yet confident, one arm resting on the chair, expression calm and composed. Warm, painterly studio lighting highlights her natural skin tones, soft blush, defined eyes, and neutral lips, with gentle shadows adding depth. The background is dark and moody with subtle brown-green tones. Google Gemini Beside and slightly behind her, a large softly blended painterly portrait of her own face appears, realistic yet artistic, with smooth brushwork and a classic oil-painting feel. Renaissance-inspired fine-art aesthetic, cinematic realism, shallow depth of field, elegant composition, ultra-detailed textures, muted tones, high contrast, 8K quality, 1:1 aspect ratio.
+```
