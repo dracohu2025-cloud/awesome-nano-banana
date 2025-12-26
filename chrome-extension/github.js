@@ -91,11 +91,24 @@ async function appendToPromptsFile(tweetData) {
     // Get existing file content
     const existing = await getFileContent(targetFile);
 
-    // Generate new content entry
-    const timestamp = new Date().toISOString();
+    // Generate case ID
     const caseId = `twitter-${tweetData.id}`;
 
-    let newEntry = `\n---\n\n## Twitter Case: ${caseId}\n\n`;
+    // Check for duplicates in existing file
+    if (existing && existing.content.includes(`## Case: ${caseId}`)) {
+        // Already exists, skip
+        return {
+            caseId,
+            targetFile,
+            skipped: true,
+            reason: '该推文已存在于文件中'
+        };
+    }
+
+    // Generate new content entry
+    const timestamp = new Date().toISOString();
+
+    let newEntry = `\n---\n\n## Case: ${caseId}\n\n`;
     newEntry += `**Author:** [@${tweetData.authorHandle || 'unknown'}](https://twitter.com/${tweetData.authorHandle || 'unknown'})\n`;
     newEntry += `**Tweet:** [View Original](${tweetData.url})\n`;
     newEntry += `**Scraped:** ${timestamp}\n\n`;
@@ -119,12 +132,12 @@ async function appendToPromptsFile(tweetData) {
     } else {
         // Create new file with header
         finalContent = `# Nano Banana Pro - Twitter Collection\n\n`;
-        finalContent += `> Automatically scraped from Twitter/X using Nano Banana Scraper\n`;
+        finalContent += `> Scraped from Twitter/X using Nano Banana Scraper Chrome Extension\n`;
         finalContent += newEntry;
     }
 
     // Commit to GitHub
-    const commitMessage = `Add Twitter case ${caseId} from @${tweetData.authorHandle || 'unknown'}`;
+    const commitMessage = `Add case ${caseId} from @${tweetData.authorHandle || 'unknown'}`;
 
     await updateFile(
         targetFile,
@@ -136,7 +149,8 @@ async function appendToPromptsFile(tweetData) {
     return {
         caseId,
         targetFile,
-        commitMessage
+        commitMessage,
+        skipped: false
     };
 }
 

@@ -174,9 +174,22 @@ async function syncToGitHub(tweetData) {
         console.log('File does not exist, will create new');
     }
 
+    // Generate case ID and check for duplicates
+    const caseId = `twitter-${tweetData.id}`;
+
+    // Check if tweet already exists in file (deduplication)
+    if (existingContent && existingContent.includes(`## Case: ${caseId}`)) {
+        console.log(`Tweet ${caseId} already exists in GitHub, skipping...`);
+        return {
+            caseId,
+            targetFile,
+            skipped: true,
+            reason: '该推文已存在于 GitHub 文件中'
+        };
+    }
+
     // Generate new content entry
     const timestamp = new Date().toISOString();
-    const caseId = `twitter-${tweetData.id}`;
 
     let newEntry = `\n---\n\n## Case: ${caseId}\n\n`;
     newEntry += `**Author:** [@${tweetData.authorHandle || 'unknown'}](https://twitter.com/${tweetData.authorHandle || 'unknown'})\n`;
@@ -241,7 +254,8 @@ async function syncToGitHub(tweetData) {
     return {
         caseId,
         commitUrl: commitData.commit.html_url,
-        targetFile
+        targetFile,
+        skipped: false
     };
 }
 
