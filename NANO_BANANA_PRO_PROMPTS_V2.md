@@ -4469,3 +4469,29 @@ Gemini Nano Banana Pro Prompt:
 
 Design the [Brand Name] logo combining frozen ice and flowing liquid. Contrast between solid crystal ice and glossy fluid sections. High realism, dramatic lighting. Visually striking, cinematic macro style.
 ```
+
+---
+
+## Case: twitter-2000943907610472747
+
+**Author:** [@saniaspeaks_](https://twitter.com/saniaspeaks_)
+**Tweet:** [View Original](https://x.com/saniaspeaks_/status/2000943907610472747)
+**Scraped:** 2025-12-26T13:23:29.199Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8TH3kTaMAE3YCi?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano banana Pro on http://hypermark.ai 
+
+{
+  "type": "image_generation_prompt",
+  "style": "cinematic, symbolic, high-contrast, artistic portrait",
+  "theme": "duality and hidden identity",
+  "identity_preservation": {
+    "use_reference_image": true,
+    "alter_face": false,
+```
