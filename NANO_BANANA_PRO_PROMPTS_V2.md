@@ -1140,3 +1140,28 @@ Gemini Nano Banana Prompt
   "subject_details": {
     "character": "Breathtaking young woman (Trendy visual), charismatic gaze, waist-up
 ```
+
+---
+
+## Case: twitter-1994315222157504735
+
+**Author:** [@kingofdairyque](https://twitter.com/kingofdairyque)
+**Tweet:** [View Original](https://x.com/kingofdairyque/status/1994315222157504735)
+**Scraped:** 2025-12-26T12:53:59.959Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G607H8jawAADY9e?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt for nano banana pro:
+
+{
+  "title": "High-Contrast Monochrome Side-Profile Rim-Lit Portrait (use user face reference)",
+  "model": "stable-diffusion-xl-v1-0", 
+  "size": "2048x3072",
+  "reference_image": "face.jpg",
+  "use_reference_for": ["face", "hairstyle", "skin_tone",
+```
