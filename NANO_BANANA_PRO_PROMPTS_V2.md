@@ -4441,3 +4441,31 @@ Nano Banana Pro on Google Gemini
 Prompt:
 Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage Movie Theater Surrounded By Famous Horror Movie Villains. Im In The Center Seat, Holding A Large Buскет Of Popcorn On My Lap, Sipping A Soda Through A Straw, Looking Slightly Amused And Intrigued. My Hair Is Styled In Soft Curls, Makeup Glam Yet Natural With Glossy Lips And Subtle Shimmer On Eyelids. I'm Wearing A Stylish Oversized Leather Jacket Over A Delicate Τορ, Gold Jewelry Shining Softly In The Dim Light. Around Me Ghostface On One Side Holding Popcorn, Michael Myers Sitting Silently Behind Me, Freddy Krueger Leaning Over The Seat With A Smirk, Pennywise Grinning From The Aisle Holding A Red Balloon, And Сниску Sitting On The Armrest Near My Shoulder. Tне Тнеаter Is Dark Except For The Flickering Light From The Movie Screen İlluminating Faces With Dramatic Shadows. Тне Рното Should Feel Cinematic, Nostalgic, With Soft Film Grain, Gos Tones, And Cozy Halloween Atmosphere.
 ```
+
+---
+
+## Case: twitter-2003024420500292029
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2003024420500292029)
+**Scraped:** 2025-12-26T13:23:12.974Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8wsEGJaMAArZ03?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8wsEIMb0AA28aL?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8wsEMra4AAwWkA?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8wsESQbgAAgm1K?format=jpg&name=orig)
+
+### Prompt
+
+```
+Ice + Liquid Hybrid Logo of Brands
+
+Gemini Nano Banana Pro Prompt:
+
+Design the [Brand Name] logo combining frozen ice and flowing liquid. Contrast between solid crystal ice and glossy fluid sections. High realism, dramatic lighting. Visually striking, cinematic macro style.
+```
