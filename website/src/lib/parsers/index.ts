@@ -17,7 +17,7 @@ export async function getAllCasesFromAllSources(): Promise<Case[]> {
         filePath: string;
     }> = [
             {
-                source: 'youmind',  // Using youmind as source type for parsing format
+                source: 'scraped',  // Use 'scraped' parser for our format
                 owner: 'dracohu2025-cloud',
                 repo: 'awesome-nano-banana',
                 model: 'nano-banana-pro',
@@ -104,6 +104,7 @@ export function getCaseStats(cases: Case[]): {
             picotrex: 0,
             zerolu: 0,
             youmind: 0,
+            scraped: 0,
         } as Record<DataSource, number>,
         byModel: {
             'nano-banana': 0,

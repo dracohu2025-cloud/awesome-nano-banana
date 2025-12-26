@@ -1,5 +1,5 @@
 export type ModelType = 'nano-banana' | 'nano-banana-pro';
-export type DataSource = 'jimmylv' | 'picotrex' | 'zerolu' | 'youmind';
+export type DataSource = 'jimmylv' | 'picotrex' | 'zerolu' | 'youmind' | 'scraped';
 
 export interface SourceLink {
   url: string;
@@ -58,6 +58,11 @@ export const SOURCE_INFO: Record<DataSource, { name: string; url: string; color:
     name: 'YouMind',
     url: 'https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
     color: 'bg-purple-200',
+  },
+  scraped: {
+    name: 'Twitter Scraped',
+    url: 'https://github.com/dracohu2025-cloud/awesome-nano-banana',
+    color: 'bg-cyan-200',
   },
 };
 

@@ -73,6 +73,22 @@ function splitByCases(markdown: string, source: DataSource): string[] {
         return sections;
     }
 
+    if (source === 'scraped') {
+        // Scraped uses "## Case: twitter-xxx" format
+        const parts = markdown.split(/^(## Case: [^\n]+)/m);
+        const sections: string[] = [];
+
+        for (let i = 1; i < parts.length; i += 2) {
+            if (i + 1 < parts.length) {
+                sections.push(parts[i] + parts[i + 1]);
+            } else {
+                sections.push(parts[i]);
+            }
+        }
+
+        return sections;
+    }
+
     // Default: split by any ### header  
     return markdown.split(/(?=###\s+)/);
 }
@@ -132,6 +148,31 @@ export function parseMarkdownCases(
                 caseNumber = parseInt(chineseMatch[1]);
                 title = chineseMatch[2];
                 sourceLink = chineseMatch[3];
+            }
+        }
+
+        // Try Scraped format: ## Case: twitter-xxx
+        if (caseNumber === null) {
+            const scrapedMatch = section.match(/## Case:\s*(twitter-(\d+))/);
+            if (scrapedMatch) {
+                // Use last 6 digits of tweet ID as case number
+                const tweetId = scrapedMatch[2];
+                caseNumber = parseInt(tweetId.slice(-6)) || parseInt(tweetId);
+
+                // Try to get author from **Author:** [@xxx](link)
+                const authorMatch = section.match(/\*\*Author:\*\*\s*\[@([^\]]+)\]\(([^)]+)\)/);
+                if (authorMatch) {
+                    title = `Twitter Prompt by @${authorMatch[1]}`;
+                    sourceLink = authorMatch[2];
+                } else {
+                    title = `Twitter Prompt ${scrapedMatch[1]}`;
+                }
+
+                // Get original tweet link
+                const tweetLinkMatch = section.match(/\*\*Tweet:\*\*\s*\[View Original\]\(([^)]+)\)/);
+                if (tweetLinkMatch && !sourceLink) {
+                    sourceLink = tweetLinkMatch[1];
+                }
             }
         }
 
