@@ -2618,3 +2618,31 @@ Name: Sam Altman
  X (X logo): @sama
  Additional Elements: Tagline: “Advancing safe AGI for humanity”
 ```
+
+---
+
+## Case: twitter-1999014634402062748
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1999014634402062748)
+**Scraped:** 2025-12-26T12:59:07.151Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G73tNgtWgAA0Gh8?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G70EGgcbYAAwj9R?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro Prompt from @KanaWorks_AI 
+
+ A dreamy mermaid café with 3D-cartoon vibes—sip coffee, enjoy sweets, and relax in fantasy!
+
+--- Prompt ---
+
+The illustration features a delicate, soothing, and highly detailed art style rendered in high resolution. On the left side, there's a café wagon modeled in a playful 3D cartoon style typical of video games, charmingly designed and vividly colored. The focal character is a whimsical mermaid, adding a dreamy, magical atmosphere to the scene. 
+
+On the right quarter of the image, neatly arranged menu items showcase realistic photographs of two enticing coffees and one delightful dessert, complete with clearly displayed pricing. The overall composition balances artistic elegance with practical design, evoking a warm, relaxing, and inviting feeling.
+```
