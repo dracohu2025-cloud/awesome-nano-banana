@@ -2958,3 +2958,25 @@ Nano Banana Pro on Gemini app.
 
 A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frosting platform. Details include hand-sculpted clothing, expressive fondant face, glitter dust highlights, and mini edible props referencing their personality. Soft bakery background, warm pastel tones, shallow DOF, 1080×1080.
 ```
+
+---
+
+## Case: twitter-1996609242338669004
+
+**Author:** [@saniaspeaks_](https://twitter.com/saniaspeaks_)
+**Tweet:** [View Original](https://x.com/saniaspeaks_/status/1996609242338669004)
+**Scraped:** 2025-12-26T13:12:04.561Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7VhgdWaEAAZR8I?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano banana Pro on Gemini app.
+
+{
+  "prompt": "A close-up photograph of a young woman with long brown wavy hair, looking over her left shoulder towards the camera. Warm sunlight streams through window blinds to her left, casting distinct horizontal shadow lines across her face, shoulder, and hair. She has brown eyes and her lips are slightly parted. She is wearing a yellow spaghetti strap top. The background is an out-of-focus wall and the window with blinds. The lighting is golden and warm."
+}
+```
