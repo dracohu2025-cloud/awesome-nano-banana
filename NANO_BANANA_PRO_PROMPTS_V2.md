@@ -3547,3 +3547,57 @@ Creative botanical art collage depicting [Scene/Activity]. The image is construc
 ---
 Scene：a girl riding a bicycle through a park
 ```
+
+---
+
+## Case: twitter-2000439814022144346
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/2000439814022144346)
+**Scraped:** 2025-12-26T13:15:53.080Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8L86LlWQAQyWIA?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8F_aPoWoAYdAN9?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt
+
+ One leaf, one world. Intricate leaf-cutout art brings enchanting scenes to life with mesmerizing detail!
+
+--- Prompt Template ---
+
+Inspired by leaf-cutout art, delicately depict 【scene description】 through intricate hollow cutouts on a single, complete 【type of leaf, optional, default: green leaf】.
+All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
+The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
+Background features a softly blurred natural landscape, providing a tranquil atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
+(Optional dynamic effects: drifting dandelion fluff, gently falling water droplets.)
+
+--- Prompt Example 1 ---
+
+Inspired by leaf-cutout art, delicately depict a child running joyfully with a kite through intricate hollow cutouts on a single, complete maple leaf.
+All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
+The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
+Background features a softly blurred spring meadow, providing a vibrant and cheerful atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
+Dynamic effect: drifting dandelion fluff gently floating in the air.
+
+--- Prompt Example 2 ---
+
+Inspired by leaf-cutout art, delicately depict a couple sitting on a bench beneath a blossoming tree through intricate hollow cutouts on a single, complete cherry leaf.
+All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
+The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
+Background features a softly blurred park scene in springtime, providing a romantic atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
+Dynamic effect: gently falling water droplets sliding off the leaf edges.
+
+--- Prompt Example 3 ---
+
+Inspired by leaf-cutout art, delicately depict a fisherman casting a line into a serene lake through intricate hollow cutouts on a single, complete green leaf.
+All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
+The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
+Background features a softly blurred lakeside landscape, providing a calm, peaceful atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
+Dynamic effect: drifting dandelion fluff gently floating through the air.
+```
