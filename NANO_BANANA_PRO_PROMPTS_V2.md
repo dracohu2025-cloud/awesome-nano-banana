@@ -1194,3 +1194,28 @@ Prompt:
     "color_palette": [
       "Warm
 ```
+
+---
+
+## Case: twitter-1993757724564189225
+
+**Author:** [@VibeMarketer_](https://twitter.com/VibeMarketer_)
+**Tweet:** [View Original](https://x.com/VibeMarketer_/status/1993757724564189225)
+**Scraped:** 2025-12-26T12:54:13.818Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6s_-BpXgAA9i4k?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6s__DKW4AEdcPu?format=jpg&name=orig)
+
+### Prompt
+
+```
+nano banana pro
+
+prompt:
+
+Recreate this ad concept using my product instead of theirs. Keep the same mood, lighting, composition, and overall vibe. Remove all competitor branding.
+Replace the product with the one from my uploaded image and adapt all background elements, props,
+```
