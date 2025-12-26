@@ -5537,3 +5537,172 @@ Prompt: High-quality vertical collage (3:4 ratio), three horizontal frames, cozy
 
 Top: super close-up, young Russian woman, natural makeup (soft pink lips: rosy cheeks), matte glowing skin, expressive eyes, defined lashes White voluminous faux fur hood frames face, delicate snowflakes fall, dreamy snowy bokeh, vibrant yet refined colors, warm and luxurious mood. Middle: full-body from behind, same opulent light fur hooded coat, long hair flows down back. Stands on snowy riverbank, background: small wooden cabin, snow roof, evergreen trees, misty mountains, light snowfall, tactile soft fur. Bottom: side profile in car, back seat, looking out at snowy landscape. Elegant winter hat (no ears), soft scarf, luxurious car interior, fogged window, voluminous hood, soft cozy light. Face in every frame matches reference: makeup, features, and expression. Rich fur, white/beige tones, bright warm winter palette, natural lighting for dreamy snow atmosphere. Mood: cozy, luxurious, serene Collage structure highlights winter scenery, clothing details, individuality
 ```
+
+---
+
+## Case: twitter-2004508944266400162
+
+**Author:** [@aiko_u_works](https://twitter.com/aiko_u_works)
+**Tweet:** [View Original](https://x.com/aiko_u_works/status/2004508944266400162)
+**Scraped:** 2025-12-26T14:08:49.286Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FyMKFbEAAdr0S?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FyN5naMAAQYJ-?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9FyPPFbYAAVV_G?format=jpg&name=orig)
+
+### Prompt
+
+```
+季節のイベント画像生成AIプロンプト
+
+お気に入りの写真 × AI
+ChatGPTやNano Bananaを使って
+世界にひとつだけの
+オリジナルおせちを作ってみませんか？
+プロンプトをコピペするだけで
+
+3Dトイ風フィギュア入りの
+きどらない、ハレの日おせちが完成します
+できあがった作品を、ぜひ【引用リプ】で
+
+見せてもらえたら嬉しいです
+それでは、みなさま良いお年を
+
+プロンプトは点線の下にあります。
+ご利用の際のお願いはリプ欄にまとめています。
+#生成AI画像 #おせち料理 #お正月 #リモラボ 
+・・・・・・・・・・・・
+
+画像を目視で確認し参照して画像生成してください。
+3Dトイ風のポートレート。
+日本の伝統的なおせち料理の重箱を
+「丁寧な暮らしの延長線上にある静かなお正月の一場面」として表現する。
+
+【構図・サイズ】
+・アスペクト比：縦長 2:3
+・真上から見下ろした完全な俯瞰構図（トップビュー）
+・誇張のない、落ち着いた視点
+・重箱は画面の完全な中央に配置
+・上下左右の余白は均等
+・わずかな余白を感じる構図
+・詰め込みすぎない静かな画面構成
+
+【重箱】
+・明るい木製の重箱（曲げわっぱ調／わっぱ風）
+・秋田杉のような淡い飴色
+・自然な木目が見える
+・過度な光沢はなく半マット
+・使い込まれたような清潔感
+・9分割〜12分割程度の多区画構成
+・大小さまざまなマスが混在し、完全に均一ではない
+・手仕事で組まれたような、わずかな揺らぎと温かみのある仕切り
+
+【おせち料理】
+・伊達巻
+・紅白かまぼこ
+・黒豆
+・栗きんとん
+・海老
+・煮しめ（蓮根・人参・椎茸・里芋など）
+・れんこんは梅花型の飾り切り（花れんこん）
+・切り口はなめらかすぎず手作業を感じる仕上がり
+・均一すぎない厚み
+・白〜淡い生成り色
+・煮含められほんのり艶がある
+・主張しすぎない自然な存在感
+・盛りつけは整いすぎず演出感を出さない
+・きちんと作られているが生活の延長線上にある佇まい
+・色数は抑えめで素材本来の色味を大切にする
+・料理の形や並びにはごく微妙な個体差がある
+
+【質感・トーン】
+・食材はややツヤがあり瑞々しくしずる感を出す
+・商用写真のような過度なリアルさは禁止
+・わずかにイラストレーション的な柔らかさを残す
+・「映え」よりも「丁寧そう」「清潔そう」を優先
+
+【背景・余白（生成り布）】
+・重箱の周囲にやわらかな生成り色の布を敷く
+・麻や木綿のような自然素材
+・織り目がうっすら見える
+・背景として主張せず、重箱と料理を引き立てる
+
+【光・空気感】
+・自然光に近い、やわらかく均一な光
+・影は強すぎない
+・静かで落ち着いたお正月の空気感
+・清潔感と余韻を大切にする
+
+【お正月の花（白梅）】
+・白梅の小枝を1〜2本まで使用可
+・互いに軽く重なり合う配置
+・1本あたり1〜2輪＋つぼみを含む
+・画面端から自然に入り込む
+・枝は細く、自然な曲線
+・花びらは白〜オフホワイト
+・黄色の雄しべは控えめ
+・飾った印象を出さず「たまたまそこにあった」存在
+・重箱や料理より目立たせない
+
+【ミニチュアフィギュア】
+■ 配置
+・参照画像を再現したチビキャラを1体のみ配置
+・黒豆の間、栗きんとんの上、煮しめの隙間など
+・「料理の一部」として扱う
+・視線を集める配置は禁止
+・画面中心、重箱中央マスへの配置禁止
+・立たせない
+・主張させない
+・この世界にもともと存在していたかのように自然に溶け込ませる
+■ サイズ制御（最重要）
+・極小サイズ
+・黒豆1粒以下の体積
+・栗きんとんの粒より小さい
+・重箱1マスの15％以下
+・最初に気づかなくてもよい存在感
+
+【参照人物の再現指示（厳守）】
+・添付された参照画像を必ず目視で確認する
+・写っている人物の特徴を忠実に再現する
+・輪郭・眉・目・鼻・口・髪型・髪色は一切変更しない
+・元の人物の面影を強く残す
+
+【チビキャラ化】
+・顔パーツの位置・形を変えず、比率のみデフォルメして3Dトイ風のチビキャラにする
+・肌は滑らかなクレイ質感
+・表情は可愛らしく愛らしい
+・完全な陶器感は禁止
+・瞳には光彩を入れる
+
+【人数ルール（最重要）】
+・参照画像に写っている人物と同じ人数のみ生成
+・一人につき1体のみ
+・複製禁止
+・サイズ違い禁止
+・追加キャラクター禁止
+・参照画像に写っていない人物を絶対に追加しない
+
+【厳格禁止事項】
+・招き猫・だるま・鶴・動物・縁起物の追加禁止
+・置物・マスコット・装飾細工の追加禁止
+・ポップ・かわいい・ファンタジー表現禁止
+・キャラクター化・アニメ調禁止
+・文字・ロゴ・ブランド要素禁止
+・現代的・装飾的な演出禁止
+・フィギュアを主役にする構図禁止
+
+【祝箸】
+・祝箸を1膳のみ配置
+・白木または白地に赤金の水引が控えめにあしらわれたもの
+・過度な装飾は禁止
+・紙の箸袋は生成り色または白
+・文字・家紋・ロゴは入れない
+・重箱の外、生成り布の上にそっと置く
+・画面下部または端寄り、やや画面外に寄せた配置
+・重箱や料理より目立たせない
+・「これからいただく前の静かな準備」の空気感
+```
