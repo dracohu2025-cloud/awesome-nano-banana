@@ -4930,3 +4930,42 @@ High contrast, bold black shadows, dramatic lighting.
 Poster-quality, ultra-high resolution, sharp focus.
 -----
 ```
+
+---
+
+## Case: twitter-2003286722139029590
+
+**Author:** [@studio_veco](https://twitter.com/studio_veco)
+**Tweet:** [View Original](https://x.com/studio_veco/status/2003286722139029590)
+**Scraped:** 2025-12-26T13:37:21.516Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G80Zz6YagAUpT6D?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G80Z1DNa8AET9_w?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G80Z2GpbIAAKyAf?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G80Z24ab0AAcyAA?format=jpg&name=orig)
+
+### Prompt
+
+```
+比較してみた！
+1枚目：Seedream 4.5
+2枚目：Nano Banana Pro
+3枚目：GPT Image 1.5
+4枚目：FLUX 2 Pro
+
+けっこう好みの問題かな。
+Seedream 4.5：一番攻めるがアーティファクトが出やすい
+Nano Banana Pro：堅実だと演出少し控えめ
+GPT Image 1.5：個性的に攻めるがアーティファクトがやや出やすい
+FLUX 2 Pro：演出は控えめだがアーティファクトが少ない
+
+現場からは以上です。
+
+プロンプト↓
+Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composition" lens: type: "super wide-angle lens" effects: - "extreme perspective" - "strong spatial compression between foreground, midground, background" Character: identity: ethnicity: "Japanese" gender: "girl" hair: "medium-length hair" outfit: style: "windy, dressy, trendy yumekawa fashion" pose: description: "bold, dynamic action pose" body_orientation: "leaning with momentum implied by the tilt" Hands_and_Gesture: right_hand: gesture: "index finger extended, thumb raised, other fingers curled inward" shape: index_finger: "extended straight forward" thumb: "raised vertically" other_fingers: "tightly curled inward" position: "held in front of her face" gaze_alignment: "her eyes follow the pointing direction" left_hand: gesture: "open hand" fingers: "all five fingers widely spread" position: "placed below and slightly in front of the right hand" palm_direction: "facing upward as if supporting it" perspective_role: "dominates the extreme foreground" perspective: dominance: "left hand is massively enlarged by wide-angle distortion" clarity: "both hands and face in sharp detail" depth_of_field: "full DOF, no background blur" Lighting: type: "soft indoor lighting" mood: "gentle highlights, controlled shadows" background: "neutral, blurred environment" Cinematic_Effects: atmosphere: "action tension + stylized anime dynamism" motion_sense: "perspective and Dutch angle add momentum" Output: aspect_ratio: "16:9" style: "high-quality anime illustration" rendering: "clean lines, sharp details, accurate anatomy"
+```
