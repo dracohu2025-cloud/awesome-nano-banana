@@ -266,3 +266,48 @@ Prompt:
 girl same as reference, standing and posing confidently on a modern busy street at night, wearing bold attractive outfit: fitted jeans + stylish top + cropped blazer jacket, minimal lighting with soft spotlight focused on her, everything around is motion-blurred, cars and people blurred, shallow depth of field, sharp detail only on her face and outfit, cinematic bokeh background, realistic skin texture, natural expression, high-resolution, ultra-realistic, 4k, portrait photography style, street fashion editorial look, moody night ambience
 --ar 2:3 --v 5 --style realistic --camera 85mm --depth-of-field strong
 ```
+
+---
+
+## Case: twitter-2004499933148139876
+
+**Author:** [@amanxdesign](https://twitter.com/amanxdesign)
+**Tweet:** [View Original](https://x.com/amanxdesign/status/2004499933148139876)
+**Scraped:** 2025-12-26T12:15:00.874Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G89z8XebgAAxP0g?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Nano Banana Pro Prompt 
+
+{
+  "description": "A full-body image of a different female American model wearing the exact same outfit as in the reference: a soft gray oversized turtleneck sweater made of wool or cashmere, with ribbed cuffs, collar, and hem, paired with matching gray wide-leg trousers. The model should stand in a relaxed, natural pose with a gentle, welcoming smile and confident yet calm posture. Her hair should be styled simply — shoulder-length or slightly wavy — and she should appear approachable and cozy. The sweater’s color, texture, and proportions must remain completely identical to the reference image.",
+  
+  "style": "High-quality indoor fashion photograph in a cozy, warm, realistic bedroom setting. The focus should be on comfort, softness, and casual elegance. The atmosphere should feel natural, modern, and homely.",
+  
+  "lighting": "Soft, diffused indoor lighting around 3000–3200K, coming from bedside lamps or ceiling lights. There should be no sunlight or window glare. Maintain smooth illumination across the outfit, highlighting the sweater’s soft wool texture and natural folds. Lighting should be warm, gentle, and cozy — no harsh shadows or bright reflections.",
+  
+  "camera": "Full-body shot at eye level, maintaining a natural and flattering angle. The model should be standing comfortably or leaning slightly near a bed or dresser, with a relaxed composition that highlights the outfit from head to toe. Depth of field should be slightly shallow to softly blur the background while keeping the model sharp.",
+  
+  "focus": "Keep the gray turtleneck sweater and trousers exactly as in the reference — same knit texture, ribbed cuffs, and slightly oversized fit. Ensure the wool appears realistic and soft. Preserve the monochrome color scheme and natural draping of the outfit.",
+  
+  "environment": "A modern, cozy bedroom with warm neutral tones — beige or cream walls, a neatly made bed with soft bedding, wooden or carpet flooring, a side lamp, and indoor plants. The space should feel calm, elegant, and inviting, with only indoor light sources visible. No sunlight or window brightness should appear in the frame.",
+  
+  "negative_prompt": [
+    "different sweater color or texture",
+    "tight or fitted outfit",
+    "outdoor or studio background",
+    "sunlight or window glare",
+    "cropped or half-body shot",
+    "harsh shadows or overexposed lighting",
+    "different outfit type",
+    "glossy or synthetic fabric"
+  ]
+}
+
+#nanobanana #NanoBananaPro #Prompt #IdeaGeneration
+```
