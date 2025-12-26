@@ -1011,3 +1011,39 @@ I will now provide the subject. You will instantly apply the creative logic and 
 
 #nanobanana  #NanoBananaPro  #prompt
 ```
+
+---
+
+## Case: twitter-2004030710110408884
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2004030710110408884)
+**Scraped:** 2025-12-26T12:53:21.202Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8-_SQ0b0AEhTBE?format=jpg&name=orig)
+
+### Prompt
+
+```
+Turning the streets into my personal playlist. The future looks and sounds amazing. 
+
+​Created with Gemini Nano Banana Pro
+
+Prompt  {
+  "A hyper-realistic, cinematic 8k image of a man standing in a bustling Indian street market at night. He is wearing a plain grey t-shirt, green cargo pants, and white sneakers, holding a smartphone. The scene is overlaid with a detailed Augmented Reality (AR) visualization: numerous floating, translucent frosted-glass music player interface cards (resembling Spotify/Apple Music UI) orbiting the subject in 3D space. The cards feature colorful album artwork, progress bars, and playback controls with a soft, glowing border luminescence (bloom effect). The composition uses depth of field, with some cards blurred in the foreground and others sharp near the subject. The background features authentic Indian street elements: green and yellow auto-rickshaws, shop signs with Hindi text, and warm ambient street lighting contrasting with the cool blue-white glow of the AR interface.",
+  "negative_prompt": "coat, blazer, suit, formal wear, cartoon, illustration, low quality, blurry, distorted, bad anatomy, extra limbs, text watermark",
+  "subject_attributes": {
+    "clothing": "grey t-shirt, green cargo pants, white sneakers",
+    "pose": "standing, holding phone",
+    "facial_reference": "use uploaded face 100% accuracy"
+  },
+  "environment": {
+    "location": "Indian street market",
+    "time": "night",
+    "details": "auto-rickshaws, crowds, shop lights"
+  },
+  "style": "Augmented Reality, Cyberpunk, Cinematic, Photorealistic"
+}
+```
