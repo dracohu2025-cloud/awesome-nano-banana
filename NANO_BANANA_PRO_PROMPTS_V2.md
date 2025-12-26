@@ -476,3 +476,32 @@ Prompt:
       "eyes": "Brown, looking directly at the camera",
       "skin_tone": "Fair/Light tan",
 ```
+
+---
+
+## Case: twitter-2004490759958130879
+
+**Author:** [@Maercihh](https://twitter.com/Maercihh)
+**Tweet:** [View Original](https://x.com/Maercihh/status/2004490759958130879)
+**Scraped:** 2025-12-26T12:15:49.013Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FhtN8aIAAriGi?format=jpg&name=orig)
+
+### Prompt
+
+```
+She Looks Like a Memory
+
+Nano Banana Pro
+
+Prompt
+
+{
+  "model": "Nano Banana Pro",
+  "subject": "Ethereal young woman with short platinum hair",
+  "scene": "Misty enchanted forest filled with glowing flowers and bioluminescent plants",
+  "appearance": {
+    "expression": "Calm,
+```
