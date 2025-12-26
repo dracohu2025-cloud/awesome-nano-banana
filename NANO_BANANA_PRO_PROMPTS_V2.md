@@ -505,3 +505,63 @@ Prompt
   "appearance": {
     "expression": "Calm,
 ```
+
+---
+
+## Case: twitter-2004486879740309572
+
+**Author:** [@MidjourneyGS](https://twitter.com/MidjourneyGS)
+**Tweet:** [View Original](https://x.com/MidjourneyGS/status/2004486879740309572)
+**Scraped:** 2025-12-26T12:15:58.464Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FeMbIaoAAPMb2?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FeMSMbkAAKmBu?format=jpg&name=orig)
+
+### Prompt
+
+```
+NANO BANANA PRO  
+
+ Create Cinematic Warrior Characters from Any Photo (Custom AI Prompt) 
+With this prompt, anyone can transform a simple photo into an epic, ultra-realistic cinematic character like the ones you see here — powerful pose, dramatic lighting, fantasy-sci-fi atmosphere, and blockbuster-level detail 
+No advanced AI skills required.
+ How to use it (very simple):
+ Upload your own photo (or anyone you want)
+ Paste the prompt below into your AI image generator
+ Modify it freely: outfit, weapons, powers, mood, environment
+ Boom  — insane cinematic results
+The prompt preserves facial identity while completely upgrading style, energy, and realism.
+Perfect for:  AI portraits
+ Warrior / fantasy characters
+ Cinematic avatars
+ Social media visuals
+ Posters & profile images
+ Use this prompt and customize it as you like 
+(Change clothes, colors, weapons, effects, setting — the structure does the heavy work.)
+
+PROMPT (fully customizable): 
+The subject in the photo is: A fierce, futuristic tribal warrior monk charging forward, a dark-skinned man with a muscular physique, a completely bald head with no hair, thin tattoos, wearing round steampunk-style glasses. His torso is covered with intricate black tribal tattoos. He wears a tattered dark brown robe with white symbols over sturdy, dusty warrior pants. He has leather bands and metal bracelets on his arms and battle-worn sandals on his feet. He wields two long sticks/spears, one in each hand, wrapped in cloth and with metal details. Dust and debris explode under his feet as he advances with power and intensity. Dark, minimal studio background, dramatic cinematic lighting, ultra-realistic textures, sharp focus, high contrast, shallow depth of field, epic action pose, hyper-detailed fabrics, leather, and weapons, 8K resolution, fantasy-sci-fi cinematic concept art, Unreal Engine style, Octane rendering, photorealistic, dynamic motion.
+
+ Pro Tip:
+For best results, use a clear, well-lit reference photo.
+Small prompt edits = completely different characters (warrior, monk, superhero, cyberpunk, dark fantasy) 
+
+ Save this post and experiment — every version creates a new cinematic identity. 
+
+#AIArt
+#CinematicAI
+#AICharacter
+#AIAvatar
+#AIPortrait
+#FantasyAI
+#SciFiAI
+#AIImageGeneration
+#AIPrompt
+#CreativeAI
+#PromptEngineering
+#DigitalCreator
+#GenerativeAI
+```
