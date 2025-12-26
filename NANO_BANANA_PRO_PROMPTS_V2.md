@@ -1476,3 +1476,60 @@ Displayed in this exact order:
 - Following count & followers count (left-aligned)
 - Follow button (full-width, transparent background, rounded-full, border with soft neon glow)
 ```
+
+---
+
+## Case: twitter-1996281855503372510
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1996281855503372510)
+**Scraped:** 2025-12-26T12:54:56.575Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7Q1z6SWwAAdgAx?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7Q13IJXoAA-WEk?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7Q3pPFXcAA0IOX?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7Q3sNzXYAAZXnc?format=png&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7OKU8AWoAAejrh?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G7OKYg3W8AA2LST?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G7OKYhEWoAAWQRZ?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G7OKYg_W4AAci0s?format=jpg&name=orig)
+
+### Prompt
+
+```
+nano banana pro prompt
+
+Transform a comic character into an ultra-realistic human
+
+---- prompt ---- 
+Transform this comic character into an ultra-realistic human while preserving the original hairstyle, outfit, facial expression, and overall character identity.
+The entire scene should use deep depth of field, keeping both the model and the environment extremely sharp, creating an immersive, cinematic smartphone photography look.
+
+STYLE:
+- Cinematic ultra-realistic fashion photography
+- High-resolution smartphone camera aesthetic with crisp, sharp details
+- Dramatic lighting contrast between warm work lights and cool twilight tones
+- the model is the main subject while retaining rich environmental details
+
+TECHNICAL SPECS:
+- Camera: flagship smartphone camera
+- Lens: standard built-in phone lens
+- Aperture: f/8–f/11 for deep depth of field
+- Resolution: 4K or higher
+
+NEGATIVE PROMPT:
+- blurry background, shallow depth of field, bokeh
+- out of focus, distorted face
+- cartoon, anime, CGI character, illustration, painting look
+- low quality, pixelation, noise
+- harsh direct sunlight or overexposed lighting
+```
