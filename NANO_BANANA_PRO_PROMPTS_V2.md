@@ -3662,3 +3662,35 @@ Generate a 6x6 grid of variations based on the original image. Keep the same pro
 prompt (for maximum diversity):
 Generate a 6x6 grid showing 36 unique variations of this product. Experiment wildly with color palettes, environments (studio, lifestyle, minimal, textured backgrounds), lighting styles, compositions, and moods. Keep product recognition and professional quality consistent, but make each cell visually distinct.
 ```
+
+---
+
+## Case: twitter-2001305657853755693
+
+**Author:** [@Ankit_patel211](https://twitter.com/Ankit_patel211)
+**Tweet:** [View Original](https://x.com/Ankit_patel211/status/2001305657853755693)
+**Scraped:** 2025-12-26T13:17:24.628Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8YQ1FabgAEZd1N?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G680DJrW8AAuQUu?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro
+
+Base  Prompt @_MehdiSharifi_ 
+
+@sousakuai 
+{
+  "meta": {
+    "image_quality": "High",
+    "image_type": "Photo (Lifestyle/Portrait)",
+    "resolution_estimation": "Vertical Portrait (approx. 1080x1600)"
+  },
+  "global_context": {
+    "scene_description": "A
+```
