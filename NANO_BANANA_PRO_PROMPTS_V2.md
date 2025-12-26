@@ -3183,3 +3183,45 @@ Nano Banana Pro Prompt
   ]
 }
 ```
+
+---
+
+## Case: twitter-1991870830167429185
+
+**Author:** [@lexx_aura](https://twitter.com/lexx_aura)
+**Tweet:** [View Original](https://x.com/lexx_aura/status/1991870830167429185)
+**Scraped:** 2025-12-26T13:12:40.610Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6SL3OoW0AAiEDw?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6SL3OZWMAAtoc-?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro 3.0
+
+Prompt:
+{
+  "image_request": {
+    "style": "Cinematic black and white noir portrait",
+    "subject": {
+      "description": "Man",
+      "attire": [
+        "fedora",
+        "trench coat"
+      ]
+    },
+    "lighting": [
+      "sliced light from blinds",
+      "deep shadows"
+    ],
+    "atmosphere": "grainy vintage",
+    "technical_specs": {
+      "resolution": "4K"
+    }
+  }
+}
+```
