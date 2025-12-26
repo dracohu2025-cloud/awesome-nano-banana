@@ -1075,3 +1075,41 @@ Gemini Nano Banana Pro Prompt:
 
 A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE / SOCIETY] build homes, roads, markets, and infrastructure directly into the object’s structure. Photoreal materials, lived-in wear, soft daylight, wide cinematic perspective with deep storytelling.
 ```
+
+---
+
+## Case: twitter-2004196505243079041
+
+**Author:** [@miilesus](https://twitter.com/miilesus)
+**Tweet:** [View Original](https://x.com/miilesus/status/2004196505243079041)
+**Scraped:** 2025-12-26T12:53:51.326Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9BV4GXXQAAF9I0?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9BV4ZuWUAEjfCG?format=jpg&name=orig)
+
+### Prompt
+
+```
+VOGUE Prompt for Nano Banana Pro 
+
+Create a realistic Vogue magazine cover–style fashion portrait using the uploaded face as the original face reference (100% face identity preservation).
+
+A young elegant woman posing confidently, maintaining her original facial features and natural beauty. She is winking with her left eye and making a playful duck-face expression. Both hands are raised, forming a love/heart gesture near her face.
+
+She is surrounded by multiple DSLR cameras and smartphones held around her, as if paparazzi and photographers are capturing her from all directions. Some phones show her live image on their screens.
+
+Appearance & styling: flawless glowing skin, natural makeup with glossy pink lips, soft blush, subtle highlights. Light brown hair styled in a low, neat updo with a few loose strands.
+
+Outfit & accessories: elegant minimalist beige-white strapless evening dress, Louis Vuitton necklace, diamond ring, luxury fashion jewelry.
+
+Photography style: close-up to half-body fashion portrait, Vogue editorial aesthetic, cinematic professional studio lighting, soft HDR background, shallow depth of field, realistic skin texture, ultra-detailed, 8K quality.
+
+Camera & lens look: professional DSLR look, 85mm lens feel, f/1.8 aperture, crisp focus with smooth background bokeh.
+
+Composition: Vogue magazine layout with large bold logo at the top, editorial fashion cover framing, clean and elegant design.
+
+Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, not AI-looking, photographed by a professional fashion photographer.
+```
