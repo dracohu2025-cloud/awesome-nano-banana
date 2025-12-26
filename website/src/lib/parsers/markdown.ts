@@ -258,7 +258,7 @@ export async function fetchAndParseGitHubReadme(
 
     try {
         const response = await fetch(url, {
-            next: { revalidate: 3600 } // Cache for 1 hour
+            next: { revalidate: 300 } // Cache for 5 minutes
         });
         if (!response.ok) {
             console.warn(`Failed to fetch ${filePath} from ${url}: ${response.status}`);
