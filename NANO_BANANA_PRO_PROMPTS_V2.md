@@ -3694,3 +3694,28 @@ Base  Prompt @_MehdiSharifi_
   "global_context": {
     "scene_description": "A
 ```
+
+---
+
+## Case: twitter-1995440621188976893
+
+**Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
+**Tweet:** [View Original](https://x.com/SimplyAnnisa/status/1995440621188976893)
+**Scraped:** 2025-12-26T13:17:33.755Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7E6qamaIAAtggf?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7E6quDaUAAHcjE?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro prompt:
+A half-body portrait of a young woman, keeping her original facial features exactly the same  no modification to face shape or details.
+She has fair glowing skin, soft blush, light brown eyes, and light natural makeup.
+Her long dark-brown wavy hair with Korean-style see-through bangs shines under bright vintage 1990s camera flash lighting.The outfit represents a youthful, stylish street look inspired by Japanese school uniform fashion — clean, trendy, and confident.
+Her accessories include small earrings, a thin bracelet, and a simple necklace.The background is an indoor wall area decorated with colorful music posters and stickers, giving a retro 1990s visual vibe.She poses casually, looking at the camera with a confident, expressive look.
+Keep her face and hairstyle exactly the same as the original reference.
+```
