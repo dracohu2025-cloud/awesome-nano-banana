@@ -4570,3 +4570,32 @@ Prompt:
     "reference_constraints": {
       "source_image": "uploaded reference image",
 ```
+
+---
+
+## Case: twitter-2003121488950362263
+
+**Author:** [@Arminn_Ai](https://twitter.com/Arminn_Ai)
+**Tweet:** [View Original](https://x.com/Arminn_Ai/status/2003121488950362263)
+**Scraped:** 2025-12-26T13:24:52.017Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8yEUHXWAAAqMRr?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8yEUBQXcAAIbtr?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8yEUegWkAAsFpU?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8yEUJtXAAAeRqy?format=jpg&name=orig)
+
+### Prompt
+
+```
+A miniature world inside a sphere.
+
+with Nano Banana Pro 
+
+- Prompt 
+A hyper-realistic macro shot of an open or cracked open [SPHERE OBJECT] converted into a miniature [ENVIRONMENT TYPE] diorama. Inside the sphere is a tiny, highly detailed world featuring [ENVIRONMENT
+```
