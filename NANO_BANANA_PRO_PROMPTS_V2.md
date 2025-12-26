@@ -4310,3 +4310,32 @@ Prompt: A 2x2 grid of cocktails as tiny living cities
 [Top Left: Manhattan; cherry wood skyline, tiny yellow cabs on vermouth river, glowing Luxardo cherry sun]
 [Top Right: Piña Colada; pineapple
 ```
+
+---
+
+## Case: twitter-2001846727729623464
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2001846727729623464)
+**Scraped:** 2025-12-26T13:22:13.233Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8f88_TagAE95mH?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8f89EtakAIAVBh?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8f89InakAQBd3S?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8f89P-akAIrhVM?format=jpg&name=orig)
+
+### Prompt
+
+```
+Celebrities → Personal Mini Worlds
+
+Gemini Nano Banana Pro Prompt:
+
+Lifestyle scene
+“A miniature diorama of [CELEBRITY] inside a stylized environment inspired by their public persona. Tiny furniture, props, fashion details, cozy cinematic lighting.”
+```
