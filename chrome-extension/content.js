@@ -7,6 +7,12 @@
     // Track processed tweets to avoid duplicates
     const processedTweets = new Set();
 
+    // Debug logging
+    const DEBUG = true;
+    function log(...args) {
+        if (DEBUG) console.log('🍌 [NanoBanana]', ...args);
+    }
+
     // Create scrape button element
     function createScrapeButton(tweetElement) {
         const button = document.createElement('button');
@@ -41,23 +47,28 @@
         };
 
         try {
-            // Get tweet link for ID and URL
-            const tweetLink = tweetElement.querySelector('a[href*="/status/"]');
-            if (tweetLink) {
-                const match = tweetLink.href.match(/\/status\/(\d+)/);
+            // Get tweet link for ID and URL - try multiple selectors
+            const tweetLinks = tweetElement.querySelectorAll('a[href*="/status/"]');
+            for (const link of tweetLinks) {
+                const match = link.href.match(/\/status\/(\d+)/);
                 if (match) {
                     data.id = match[1];
-                    data.url = tweetLink.href;
+                    data.url = link.href;
+                    break;
                 }
             }
 
-            // Get author info
+            // Get author info from various possible selectors
             const authorElement = tweetElement.querySelector('[data-testid="User-Name"]');
             if (authorElement) {
-                const displayName = authorElement.querySelector('span');
-                const handle = authorElement.querySelector('a[href^="/"]');
-                if (displayName) data.author = displayName.textContent;
-                if (handle) data.authorHandle = handle.href.split('/').pop();
+                const spans = authorElement.querySelectorAll('span');
+                if (spans.length > 0) data.author = spans[0].textContent;
+
+                const handleLink = authorElement.querySelector('a[href^="/"]');
+                if (handleLink) {
+                    const handleMatch = handleLink.href.match(/\/([^\/\?]+)(?:\?|$)/);
+                    if (handleMatch) data.authorHandle = handleMatch[1];
+                }
             }
 
             // Get tweet text
@@ -66,18 +77,29 @@
                 data.text = textElement.textContent;
             }
 
-            // Get images
-            const imageElements = tweetElement.querySelectorAll('img[src*="pbs.twimg.com/media"]');
-            imageElements.forEach(img => {
-                // Get the highest quality version
-                let src = img.src;
-                // Convert to original quality if possible
-                src = src.replace(/&name=\w+/, '&name=orig');
-                if (!src.includes('&name=')) {
-                    src += '?format=jpg&name=orig';
-                }
-                data.images.push(src);
-            });
+            // Get images - try multiple patterns
+            const imageSelectors = [
+                'img[src*="pbs.twimg.com/media"]',
+                'img[src*="/media/"]',
+                '[data-testid="tweetPhoto"] img'
+            ];
+
+            for (const selector of imageSelectors) {
+                const imageElements = tweetElement.querySelectorAll(selector);
+                imageElements.forEach(img => {
+                    let src = img.src;
+                    if (!src || data.images.includes(src)) return;
+
+                    // Convert to original quality
+                    src = src.replace(/[?&]name=\w+/, '');
+                    if (src.includes('?')) {
+                        src += '&name=orig';
+                    } else {
+                        src += '?name=orig';
+                    }
+                    data.images.push(src);
+                });
+            }
 
             // Get timestamp
             const timeElement = tweetElement.querySelector('time');
@@ -88,24 +110,25 @@
             console.error('Error extracting tweet data:', error);
         }
 
+        log('Extracted data:', data);
         return data;
     }
 
     // Scrape tweet and save
     async function scrapeTweet(tweetElement, button) {
         const originalContent = button.innerHTML;
-        button.innerHTML = '<span class="loading">Saving...</span>';
+        button.innerHTML = '<span class="loading">保存中...</span>';
         button.disabled = true;
 
         try {
             const tweetData = extractTweetData(tweetElement);
 
             if (!tweetData.id) {
-                throw new Error('Could not extract tweet ID');
+                throw new Error('无法获取推文 ID');
             }
 
             if (tweetData.images.length === 0) {
-                throw new Error('No images found in this tweet');
+                throw new Error('未找到图片');
             }
 
             // Send to background script for storage
@@ -119,11 +142,20 @@
           <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
             <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
           </svg>
-          <span>Saved!</span>
+          <span>已保存!</span>
         `;
                 button.classList.add('saved');
+
+                if (response.synced) {
+                    button.innerHTML = `
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor">
+              <path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+            </svg>
+            <span>已同步!</span>
+          `;
+                }
             } else {
-                throw new Error(response.error || 'Failed to save');
+                throw new Error(response.error || '保存失败');
             }
         } catch (error) {
             console.error('Scrape error:', error);
@@ -146,23 +178,56 @@
 
     // Find and process tweets
     function processTweets() {
-        const tweets = document.querySelectorAll('article[data-testid="tweet"]');
+        // Try multiple selectors for tweet containers
+        const tweetSelectors = [
+            'article[data-testid="tweet"]',
+            'article[role="article"]',
+            '[data-testid="cellInnerDiv"] article'
+        ];
+
+        let tweets = [];
+        for (const selector of tweetSelectors) {
+            const found = document.querySelectorAll(selector);
+            if (found.length > 0) {
+                tweets = Array.from(found);
+                log(`Found ${tweets.length} tweets using: ${selector}`);
+                break;
+            }
+        }
+
+        if (tweets.length === 0) {
+            log('No tweets found on page');
+            return;
+        }
 
         tweets.forEach(tweet => {
             // Skip if already processed
             if (processedTweets.has(tweet)) return;
-            processedTweets.add(tweet);
 
-            // Check if tweet has images from pbs.twimg.com
-            const hasImages = tweet.querySelector('img[src*="pbs.twimg.com/media"]');
-            if (!hasImages) return;
+            // Check if tweet has images - try multiple selectors
+            const hasImages = tweet.querySelector('img[src*="pbs.twimg.com/media"]') ||
+                tweet.querySelector('img[src*="/media/"]') ||
+                tweet.querySelector('[data-testid="tweetPhoto"]');
+
+            if (!hasImages) {
+                log('Tweet has no images, skipping');
+                return;
+            }
 
             // Find the action bar
             const actionBar = tweet.querySelector('[role="group"]');
-            if (!actionBar) return;
+            if (!actionBar) {
+                log('No action bar found, skipping');
+                return;
+            }
 
             // Check if button already exists
-            if (tweet.querySelector('.nano-banana-scrape-btn')) return;
+            if (tweet.querySelector('.nano-banana-scrape-btn')) {
+                return;
+            }
+
+            // Mark as processed
+            processedTweets.add(tweet);
 
             // Create and insert button
             const button = createScrapeButton(tweet);
@@ -173,6 +238,7 @@
             wrapper.appendChild(button);
 
             actionBar.appendChild(wrapper);
+            log('Added Scrape button to tweet');
         });
     }
 
@@ -185,14 +251,23 @@
             }
         });
         if (shouldProcess) {
-            processTweets();
+            // Debounce processing
+            clearTimeout(window._nanoBananaTimeout);
+            window._nanoBananaTimeout = setTimeout(processTweets, 300);
         }
     });
 
-    // Initialize
+    // Initialize with retry
     function init() {
-        // Process existing tweets
+        log('Initializing...');
+
+        // Process immediately
         processTweets();
+
+        // Also process after a delay (for slow-loading content)
+        setTimeout(processTweets, 1000);
+        setTimeout(processTweets, 2000);
+        setTimeout(processTweets, 3000);
 
         // Watch for new tweets (infinite scroll)
         observer.observe(document.body, {
@@ -200,7 +275,7 @@
             subtree: true
         });
 
-        console.log('🍌 Nano Banana Scraper initialized');
+        log('Initialized! Watching for tweets...');
     }
 
     // Wait for page load
