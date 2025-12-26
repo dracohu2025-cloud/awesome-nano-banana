@@ -1113,3 +1113,30 @@ Composition: Vogue magazine layout with large bold logo at the top, editorial fa
 
 Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, not AI-looking, photographed by a professional fashion photographer.
 ```
+
+---
+
+## Case: twitter-2004535706027282467
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004535706027282467)
+**Scraped:** 2025-12-26T12:53:56.949Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GKl-hbEAARCF2?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Modern Noir Fashion",
+    "mood": "Chic, High-Contrast, Sexy, Mysterious"
+  },
+  "subject_details": {
+    "character": "Breathtaking young woman (Trendy visual), charismatic gaze, waist-up
+```
