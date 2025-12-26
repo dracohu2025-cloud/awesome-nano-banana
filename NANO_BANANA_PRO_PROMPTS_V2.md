@@ -5079,3 +5079,53 @@ Maybe you will want to try it out?
 
 #NanoBananaPro
 ```
+
+---
+
+## Case: twitter-2003068519072887147
+
+**Author:** [@SDT_side](https://twitter.com/SDT_side)
+**Tweet:** [View Original](https://x.com/SDT_side/status/2003068519072887147)
+**Scraped:** 2025-12-26T13:39:30.743Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8xUMFkaYAAWvEO?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8wKuMFbsAAASOw?format=jpg&name=orig)
+
+### Prompt
+
+```
+低画質の画像でも大丈夫です
+
+nano banana pro
+Fidelity-Locked Edit Base
+①人物の写真をアップロード
+②好み合わせて調節してください
+Ultra high-resolution upscale edit of the same person from the original image, preserving identity, face, hairstyle, outfit, and overall realism.
+This is a direct edit of the original photo, not a new character.
+
+Change the distance, composition, angle, and perspective
+
+Move extremely close to the face until natural skin texture, visible pores, fine facial details, and subtle tonal variations are clearly visible.
+Skin appears realistic and human — not airbrushed, not plastic, not overly smooth, with natural micro-imperfections preserved.
+No external skin reference images are used.
+
+Transform the original photo into a dramatic, photorealistic ultra wide-angle shot.
+Extreme wide-angle perspective with a very low, bottom-margin camera angle, creating strong perspective distortion.
+
+One or more body parts appear very close to the lens and visually large, while the rest of the body rapidly recedes in depth, emphasizing dynamic scale and spatial tension.
+
+The same person performs a stylish, complex, powerful pose remix, energetic and playful, yet physically believable and natural.
+Pose feels spontaneous and fashion-forward, not stiff, not catalog-like.
+
+Environment remains a consistent, expanded continuation of the original scene, naturally extended in depth and width.
+No environment redesign, only spatial expansion and perspective exaggeration.
+
+Emotion and mood: cute, fun, playful, joyful.
+Natural smile, relaxed eyes, lighthearted energy, still realistic.
+
+Photorealistic lighting, realistic lens behavior, natural depth falloff.
+No character redesign. No face alteration. No hairstyle change. No outfit change.
+```
