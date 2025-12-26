@@ -1219,3 +1219,38 @@ prompt:
 Recreate this ad concept using my product instead of theirs. Keep the same mood, lighting, composition, and overall vibe. Remove all competitor branding.
 Replace the product with the one from my uploaded image and adapt all background elements, props,
 ```
+
+---
+
+## Case: twitter-1995209201522495851
+
+**Author:** [@Arminn_Ai](https://twitter.com/Arminn_Ai)
+**Tweet:** [View Original](https://x.com/Arminn_Ai/status/1995209201522495851)
+**Scraped:** 2025-12-26T12:54:19.905Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7BoKccXgAAimPo?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7BoKeoXcAAq0zA?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro 
+
+prompt:
+
+{
+  "label": "direct-flash-gamer-girl",
+  "tags": [
+    "direct-flash",
+    "retro-gamer-room",
+    "90s-photography",
+    "film-aesthetic",
+    "gamer-girl",
+    "collectibles-shelf",
+    "low-angle",
+    "sitting-pose"
+  ],
+```
