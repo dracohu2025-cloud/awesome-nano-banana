@@ -5234,3 +5234,112 @@ Nano Banana Pro on Gemini app
 
 A hyper-detailed geometric papercraft sculpture of [NAME], created using layered colored cardstock with precise angular folds and clean cut edges. Facial features are stylized using polygonal planes, with subtle shading formed naturally by paper layering. Hair, beard, and clothing are constructed from stacked strips and folded shapes for depth and realism. The figure is displayed against a clean neutral background with soft diffused lighting, highlighting the craftsmanship and texture. Sharp macro focus, studio photography aesthetic, 1080×1080.
 ```
+
+---
+
+## Case: twitter-2004548967632093554
+
+**Author:** [@timedoctor_nft](https://twitter.com/timedoctor_nft)
+**Tweet:** [View Original](https://x.com/timedoctor_nft/status/2004548967632093554)
+**Scraped:** 2025-12-26T13:50:18.170Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GWo82XkAAfCeF?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt:
+
+{
+  "vibe_title_en": "Chaotic Subway Dream",
+  "master_prompt": "A candid, slightly motion-blurred shot of [The Protagonist] standing inside a gritty, vintage subway car interior. The scene is characterized by 'Photographic Surrealism': the car is filled with a chaotic blizzard of thousands of white sheets of paper, manuscripts, and tickets, all frozen in mid-air as if gravity has momentarily failed. The subject is caught completely off-guard, throwing their head back in genuine, surprised laughter, with hands raised to shield themselves from the paper storm. The image is captured THROUGH the scratched, graffiti-etched glass of the connecting subway door, creating heavy foreground texture, reflections, and depth. Lighting combines the greenish hue of flickering overhead fluorescent tubes with a harsh, direct on-camera flash that freezes the flying paper in sharp detail while allowing the subject's movement to blur. Shot on 35mm Kodak Portra 800 film, featuring prominent grain, light leaks, and a raw, tactile atmosphere. No CGI feel; looks like a high-budget practical effect.",
+  "meta": {
+    "intent": "Editorial Surrealism",
+    "priorities": "Texture, Motion, Unexpected Context",
+    "device_profile": "High-End Analog Emulation"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Voyeuristic, framed by window frame",
+    "layout": "Layered depth: Glass -> Paper Storm -> Subject -> Background",
+    "camera_angle": "Eye-level, shooting through an obstruction",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "The Protagonist",
+    "demographics": "Universal Template",
+    "face": "Caught mid-laugh, eyes crinkled, mouth open",
+    "hair": "Wind-blown, messy, dynamic motion",
+    "body": "Reactive pose, hands raised defensively or playfully",
+    "expression": "Genuine surprise and joy",
+    "pose": "Candid, off-balance, mid-motion"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Oversized Leather Biker Jacket",
+        "material": "Distressed Leather",
+        "color": "Black",
+        "fit": "Loose, rebellious"
+      },
+      {
+        "item": "Vintage Band T-Shirt",
+        "material": "Cotton",
+        "color": "Faded Grey",
+        "fit": "Relaxed"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Chunky Silver Rings",
+        "color": "Silver",
+        "material": "Metal",
+        "brand_style": "Punk/Grunge"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Vintage Subway Car",
+    "surfaces": "Scratched glass, metal poles, flying paper texture",
+    "depth": "High complexity due to floating objects",
+    "atmosphere": "Chaotic, kinetic, surreal",
+    "lens_interaction": "Dirty glass foreground, flash reflection"
+  },
+  "lighting": {
+    "key": "Direct On-Camera Flash",
+    "fill": "Ambient Fluorescent (Green/Cyan tint)",
+    "rim": "None",
+    "shadows": "Hard, sharp shadows cast by the papers",
+    "color_temperature": "Mixed (Cool Ambient vs Warm Flash)",
+    "sensor_flare": "Halation from overhead lights"
+  },
+  "camera": {
+    "lens_type": "Prime Lens",
+    "focal_length": "35mm",
+    "aperture": "f/4.0",
+    "focus": "Zone focus on subject, foreground glass slightly out of focus",
+    "sensor_format": "35mm Film",
+    "perspective_distortion": "Minimal"
+  },
+  "post_processing": {
+    "color": "Kodak Portra 800 Emulation",
+    "tonality": "High Contrast, lifted blacks",
+    "texture": "Heavy organic grain",
+    "digital_sharpening": "Low (Soft Film Look)",
+    "chromatic_aberration": "Slight edge fringing"
+  },
+  "negative_specifications": [
+    "CGI",
+    "3D render",
+    "perfect studio lighting",
+    "clean",
+    "minimalist",
+    "neon",
+    "cyberpunk",
+    "static pose"
+  ]
+}
+```
