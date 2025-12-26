@@ -731,3 +731,33 @@ Background: pure black, no gradients, no rim light, no background detail.
 #sentientAGI #sentient #sentientchat
 @SentientAGI
 ```
+
+---
+
+## Case: twitter-2004456695301566748
+
+**Author:** [@meng_dagg695](https://twitter.com/meng_dagg695)
+**Tweet:** [View Original](https://x.com/meng_dagg695/status/2004456695301566748)
+**Scraped:** 2025-12-26T12:17:09.127Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FCvahbQAAvwMx?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FCvOSb0AcDdxY?format=jpg&name=orig)
+
+### Prompt
+
+```
+She doesn't chase.. the danger follows 
+
+Google Gemini Nano Banana pro / ChatGPT image 1.5 
+
+Prompt :
+{
+  "image_type": "photorealistic digital portrait",
+  "resolution_target": "8K UHD",
+  "aspect_ratio": "vertical (portrait orientation)",
+  "framing": {
+    "crop": "tight
+```
