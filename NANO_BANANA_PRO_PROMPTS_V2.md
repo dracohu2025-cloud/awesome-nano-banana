@@ -4108,3 +4108,29 @@ Prompt:{
     "Gender": "Female",
     "Age_Group":
 ```
+
+---
+
+## Case: twitter-2004390964274909676
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004390964274909676)
+**Scraped:** 2025-12-26T13:19:17.675Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Bd_BOW0AA-EGY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Bh3vTWQAAGI7m?format=jpg&name=orig)
+
+### Prompt
+
+```
+This Nano Banana Pro prompt is for superhero fans. It was inspired by one I did for Shanghai poster. Some of you may remember that one from a few months back. It was popping out, so I decided to try it for superheroes. 
+
+Prompt: do this for Iron Man  <instructions>Subject:  An open graphic novel. A superhero character is doing his signature move through a page in 3D, with the right sound effect bubbles floating in the air.
+Style: Pop art mixed with character appropriate style, comic book cel-shading, vibrant primary colors, halftone patterns.
+Environment: A messy [audience appropriate] desk with action figures and soda cans related to the this super hero's universe.
+Lighting: Bright, flat, high-key lighting typical of comic book coloring mixed with character appropriate colors.
+Composition: Dynamic, foreshortened perspective emphasizing the signature move coming toward the viewer.</instructions>
+```
