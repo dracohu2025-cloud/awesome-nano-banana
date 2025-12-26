@@ -4853,3 +4853,80 @@ nano banana pro 提示词
 ----
 场景：上海外滩
 ```
+
+---
+
+## Case: twitter-2001219867870175289
+
+**Author:** [@SSSS_CRYPTOMAN](https://twitter.com/SSSS_CRYPTOMAN)
+**Tweet:** [View Original](https://x.com/SSSS_CRYPTOMAN/status/2001219867870175289)
+**Scraped:** 2025-12-26T13:36:32.149Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XCFwTa4AAeQjX?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8XCFs1a4AIHc9R?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8XCFsya4AMdrZS?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8XCFsybQAA148Q?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro プロンプト集⑰
+数多の作品でオマージュされている伝説的なAKIRAの「スライドブレーキシーン」を再現！
+AKIRAというワードは使わず、プロンプトのみで描けます。
+
+使い方
+画像参照して下記のプロンプトをコピペ。
+背景変更で最初の一文は変えても大丈夫です。また、最後の描画スタイルも自由に変えてみてください。
+
+---プロンプト---
+(VARIABLE SCENE - EDIT HERE):
+Nighttime, expansive Neo-Tokyo highway. Futuristic cityscape background with neon lights.
+Strong one-point perspective: The road stretches straight from the bottom edge to the vanishing point in the center.
+
+(CRITICAL COMPOSITION):
+One-point perspective composition with the subject in the CENTER.
+Subject Orientation: The motorcycle is shown in SIDE PROFILE (facing Screen Left).
+TILT ANGLE: The motorcycle body is LEANING HEAVILY TOWARDS THE CAMERA (The top of the bike is closer to the viewer than the wheels).
+Movement direction: The bike is sliding away from the camera, moving from the foreground deep into the background.
+Placement: Bike is perfectly centered in the frame.
+
+(SUBJECT):
+A futuristic motorcycle and rider.
+Motorcycle:
+- Heavy, solid, rounded silhouette
+- Minimal exposed mechanics, smooth cowling
+- Wide, thick, high-grip tires
+- Color scheme harmonized with rider
+Rider:
+- Face and outfit preserved from reference image
+- Stare straight into the camera, glaring with a powerful, piercing gaze.
+- Left foot planted firmly on the ground, struggling to support the heavy leaning bike
+- Rider's leg is fully extended to brace against the fall
+
+(ACTION & MECHANICS):
+High-speed linear slide braking (NOT cornering).
+The bike is sliding sideways while traveling backwards into the depth of the scene.
+Instability: The bike is on the verge of falling over towards the screen.
+Wheels are locked (not rotating).
+
+(VISUAL EFFECTS - SMOKE TRAILS):
+Three distinct, straight trails of thick white smoke.
+Direction: Smoke stretches from the IMMEDIATE FOREGROUND (bottom of screen) directly to the motorcycle's wheels and rider's foot in the center.
+The smoke trails act as leading lines pointing to the subject.
+Violent debris and asphalt fragments kicking up.
+
+(ENERGY EFFECTS):
+Neon-green lightning energy arcs (1980s anime style) embedded within the white smoke trails.
+Green energy flows through the smoke, following the straight lines from foreground to the bike.
+
+(ART STYLE):
+Cel-shaded animation, 1980s anime aesthetic (Cyberpunk).
+High contrast, bold black shadows, dramatic lighting.
+Poster-quality, ultra-high resolution, sharp focus.
+-----
+```
