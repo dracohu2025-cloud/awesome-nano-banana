@@ -3898,3 +3898,44 @@ Ultra high resolution, extremely sharp details, realistic materials, controlled 
 
 #nanobanana  #NanoBananaPro  #prompt
 ```
+
+---
+
+## Case: twitter-2000043590861378035
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/2000043590861378035)
+**Scraped:** 2025-12-26T13:18:12.646Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8GVC22WgAMUyf6?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8GVC4iWgAE5NDS?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8GVC4pWoAQ7w_n?format=jpg&name=orig)
+
+### Prompt
+
+```
+ CREATE YOUR ULTRA REALISTIC PHOTO WITH DOLPHIN  
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+ 1) Download the Gemini app from the Play Store or App Store.
+ 2) Open the app and tap on the " Create image" button.
+ 3) Tap the + icon, click Gallery, and select a photo of yourself.
+   > Note: For best results, use a photo where your face fills about 70% of the screen.
+ 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
+ 5) Return to the Gemini app and paste that text into the "Describe your image" box.
+ Tap the rocket symbol  in the bottom right corner to generate your image.
+
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
+
+Prompt 
+A beach photograph shows the person attached in the uploaded reference image (keep the face 100% accurate) kneeling at the shore as a dolphin pops its head out of the water near them. They touch the dolphin gently, smiling.
+Aspect ratio 5:3
+```
