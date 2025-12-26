@@ -2017,3 +2017,33 @@ Environmental Details: The Chicago River below is filled with modern architectur
 
 Human Activity: The Riverwalk and bridge sidewalks are packed with hundreds of tiny contemporary figures in modern casual clothing. They are shown jogging, taking photos with smartphones, queuing at street food vendors (hot dog stands), and walking dogs. The entire scene is incredibly detailed, chaotic, and rendered in a muted, antique earth-tone palette.
 ```
+
+---
+
+## Case: twitter-1996756393198539125
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1996756393198539125)
+**Scraped:** 2025-12-26T12:57:02.800Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7XnSI3WwAAK6gB?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7RvrTJXgAA1E3O?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7RvrS7WYAAtckM?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7RvrS7WcAA9fEQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Unlock the cosmos with this all-in-one magical Tarot Reading prompt—complete with zodiac insights, fortune scoring, and four enchanted tarot cards rendered in a mystical ritual circle. 
+
+Try it out and feel free to share your magical results! 
+
+ nano banana pro prompt
+```
