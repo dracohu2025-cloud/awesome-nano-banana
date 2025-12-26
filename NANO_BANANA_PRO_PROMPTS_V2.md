@@ -2733,3 +2733,122 @@ GPT Image 1.5 (左) vs Gemini Nano Banana Pro (右)
 Prompt:
 A photorealistic wide drone shot (16:9 aspect ratio) of a colossal Japanese girl (exact face/body from the reference) casually sitting across
 ```
+
+---
+
+## Case: twitter-2002999380505477512
+
+**Author:** [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
+**Tweet:** [View Original](https://x.com/BeautyVerse_Lab/status/2002999380505477512)
+**Scraped:** 2025-12-26T13:08:26.211Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8wS6QYbsAIfjb5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8vkoBqbkAAwT5Y?format=jpg&name=orig)
+
+### Prompt
+
+```
+[Nano Banana Pro]   
+Urban Fashion x Magazine Effect  
+アーバンファッション × マガジン風エフェクト    
+(Prompt below/プロンプトは下にあります)   
+
+How to use: 
+1. Choose a character reference image. 
+2. Copy and paste the prompt. 
+3. Edit the main_title and sub_title with any text you like.  
+
+使い方： 
+1. 人物のリファレンス画像を1枚選びます。 
+2. プロンプトをコピー＆ペーストします。 
+3. メインタイトルとサブタイトルは、好きな文字に自由に変更してください。  
+
+[prompt]
+
+{
+  "project_title": "Outdoor Urban Fashion Editorial 'Helvetica Compressed' 2x3 Collage",
+  "structure": "Balanced 2-column layout. Left side: 2 stacked panels. Right side: 3 stacked panels. Identical total height. Clean black borders.",
+  "aspect_ratio": "3:4",
+  "aesthetic_theme": {
+    "style": "High-fashion street editorial with professional magazine color grading",
+    "mood": "Sophisticated, kinetic, minimalist, high-end catalog",
+    "color_grading": "Professional fashion filter: Subtle Kodak Portra 400 aesthetics, soft highlights, slightly desaturated cool tones mixed with warm skin tones, and refined contrast.",
+    "textures": [
+      "Fine magazine paper grain",
+      "Motion-blurred light trails",
+      "Smooth editorial skin retouching vibe",
+      "Soft-focus city bokeh"
+    ]
+  },
+  "framing_and_borders": {
+    "type": "Minimalist Black Frame",
+    "details": [
+      "No film sprocket holes or vintage rebate.",
+      "Outer border: Solid, clean black border.",
+      "Internal dividers: Sharp, thin black lines separating all 5 frames."
+    ]
+  },
+  "subject_reference": {
+    "source": "image_1.png",
+    "instruction": "The subject's physical appearance, complete outfit, and accessories must exactly match the person in image_1.png. Maintain visual consistency across all five frames."
+  },
+  "composition_layout": {
+    "left_column_stack": {
+      "dimensions": "Two stacked panels on the left side.",
+      "frames": [
+        {
+          "id": "frame_top_left",
+          "type": "Kinetic Street Shot (Filtered)",
+          "setting": "Busy metropolitan avenue",
+          "visual_effects": "Strong shutter drag: blurred city traffic, sharp subject. Apply cinematic editorial filter.",
+          "pose": "Still, elegant pose amidst motion blur."
+        },
+        {
+          "id": "frame_bottom_left",
+          "type": "Magazine Cover Shot (Filtered)",
+          "setting": "Busy urban intersection",
+          "visual_effects": "Dynamic motion blur background. Apply professional fashion magazine filter.",
+          "magazine_overlay": {
+            "main_title": "BeautyVerse",
+            "subtitle": "Blending Beauty with Fantasy",
+            "style": {
+              "typography": "Helvetica Compressed or Extra Compressed, all-caps, ultra-modern fashion look.",
+              "main_title_size": "Large, bold, prominent.",
+              "subtitle_size": "Smaller, clean, elegant, placed directly underneath.",
+              "color": "Crisp white ink."
+            }
+          }
+        }
+      ]
+    },
+    "right_column_stack": {
+      "dimensions": "Three stacked panels on the right side.",
+      "frames": [
+        {
+          "id": "frame_top_right",
+          "type": "Beauty Close-up (Filtered)",
+          "visual_effects": "Shallow depth of field, creamy bokeh, high-fashion color grading.",
+          "setting": "Modern urban architecture backdrop."
+        },
+        {
+          "id": "frame_middle_right",
+          "type": "Candid Street Fashion (Filtered)",
+          "visual_effects": "Natural light with fashion editorial tint, sharp focus.",
+          "setting": "Urban sidewalk."
+        },
+        {
+          "id": "frame_bottom_right",
+          "type": "Stylized Medium Shot (Filtered)",
+          "visual_effects": "Dramatic side-lighting, professional magazine post-processing.",
+          "setting": "Architectural stairs or plaza."
+        }
+      ]
+    }
+  }
+}
+
+#NanoBananaPro
+```
