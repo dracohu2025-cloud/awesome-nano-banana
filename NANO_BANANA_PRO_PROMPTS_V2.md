@@ -2932,3 +2932,29 @@ Nano Banana Pro Prompt:
 
 https://x.com/TechieBySA/status/2003053984454734030?s=20…
 ```
+
+---
+
+## Case: twitter-2004539994166464526
+
+**Author:** [@Sheldon056](https://twitter.com/Sheldon056)
+**Tweet:** [View Original](https://x.com/Sheldon056/status/2004539994166464526)
+**Scraped:** 2025-12-26T13:11:51.098Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GOHcuagAEA2Kt?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9GOHdRbkAATPj_?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9GOeVoaQAAU_sz?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9GOHckboAAPIeb?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini app.
+
+A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frosting platform. Details include hand-sculpted clothing, expressive fondant face, glitter dust highlights, and mini edible props referencing their personality. Soft bakery background, warm pastel tones, shallow DOF, 1080×1080.
+```
