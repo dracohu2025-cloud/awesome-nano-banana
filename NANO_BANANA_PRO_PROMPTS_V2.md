@@ -2894,3 +2894,41 @@ Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artifi
 Prompt 
 Ultra-realistic cinematic portrait of a man attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) standing in a vast, pale winter landscape with a soft gray sky and light snowfall, wearing an elegant deep-navy embroidered long coat that flares dramatically in the wind; the coat features intricate silver thread patterns, ornate buttons, textured cuffs, and a high collar that frames his face. His hair is long, windswept, and slightly messy, blowing across his face as he looks forward with a calm but intense expression. His beard is thick and frosted with fine snowflakes. Lighting is soft, diffused, and wintry, with no harsh shadows—just natural cold daylight that wraps evenly around him. Snow particles drift across the frame both in front of and behind him, slightly blurred for depth and movement. The background remains minimal and muted, allowing the dark embroidered coat to stand out. Depth of field keeps the man razor sharp while the background stays soft and atmospheric. The final image must capture the same mood: cold wind, drifting snow, elegant motion, rich navy textures, and a dramatic winter-fantasy aesthetic.
 ```
+
+---
+
+## Case: twitter-2004018519239987709
+
+**Author:** [@linxiaobei888](https://twitter.com/linxiaobei888)
+**Tweet:** [View Original](https://x.com/linxiaobei888/status/2004018519239987709)
+**Scraped:** 2025-12-26T13:11:37.506Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8-y4jtb0Akgoee?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8-y4jjaUAAjsOp?format=jpg&name=orig)
+
+### Prompt
+
+```
+节日主题的3D城市微缩，基于原提示词增加了节日模板
+
+Nano Banana Pro Prompt:
+
+呈现一个清晰的、45°俯视的等距 3D 微缩卡通场景，描绘【城市】 的经典建筑或景点，并将其置于构图的中心。
+用【节日】对应的装饰品、闪烁的灯光和合适的【季节，默认冬季】或节日细节，将城市描绘成充满节日气氛的【节日】主题。
+使用柔和细腻的纹理、逼真的 PBR 材质和柔和逼真的光照，并营造微妙的阴影效果。
+制作一个边缘整齐的小型立体模型式城市底座。
+使用干净的【节日】背景色，与场景形成鲜明对比。
+在顶部中央，以粗体大字显示文字【城市】。
+在其正下方，以中等字体显示“【节日】特刊”。
+（可选）在文本下方放置一个小的方形国旗图标。
+所有文字必须自动与背景对比度（白色或黑色）匹配。
+构图：完美居中，1080×1080正方形，超简洁的节日立体模型美学
+
+城市：上海
+节日：元旦节
+
+https://x.com/TechieBySA/status/2003053984454734030?s=20…
+```
