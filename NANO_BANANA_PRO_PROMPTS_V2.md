@@ -4520,3 +4520,23 @@ Prompt:{
     "Appearance": {
       "Hair": "Messy, wind-tousled
 ```
+
+---
+
+## Case: twitter-1992647384212676906
+
+**Author:** [@nmatares](https://twitter.com/nmatares)
+**Tweet:** [View Original](https://x.com/nmatares/status/1992647384212676906)
+**Scraped:** 2025-12-26T13:24:12.768Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6dOLnUbwAACtGY?format=jpg&name=orig)
+
+### Prompt
+
+```
+an alternative way to prompt Nano Banana Pro
+
+“Imagine we have made a camera so small it can be carried by an ant. The image we are seeing was taken from that camera as a golden retriever runs by to catch a tennis ball”
+```
