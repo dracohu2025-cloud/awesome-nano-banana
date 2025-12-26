@@ -3435,3 +3435,36 @@ Prompt:
     "rendering_engine_hints": {
       "realism_level": "Ultra-photorealistic",
 ```
+
+---
+
+## Case: twitter-2004498171100094554
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004498171100094554)
+**Scraped:** 2025-12-26T13:14:16.773Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G85I7KkWEAAoSnf?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G85L21xX0AAdLDV?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro vs. GPT Image 1.5: Same prompt
+
+An open book lying on a desk where the text physically rises from the page to form the scene described. 
+Input Variable: [insert book title or genre]
+
+ Logic Steps: 
+
+1. The Paper: Determine age and quality. (Crisp white for Sci-Fi, yellowed crumbling edges for Horror, vellum for Fantasy). 
+
+2. The Typography: The letters themselves unglue from the page and stack to form the 3D structures. Examples: The word "Castle" forms the bricks of a fortress. "Forest" forms the trunks of trees. 
+
+3. The Atmosphere: Mist or light spilling out from between the pages. 
+
+4. The Desk: The surrounding surface matches the likely reader (Mahogany desk for Sherlock Holmes, metal grate for Cyberpunk). Output Rules: 45-degree angle looking down, focus on the paper texture and text transformation.
+```
