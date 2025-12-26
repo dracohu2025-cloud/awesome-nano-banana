@@ -1726,3 +1726,41 @@ A high-quality 9:16 vertical portrait, 4k resolution. 
 **Quality:** Ultra-photorealistic, sharp focus, cinematic depth.
 --ar 9:16 --v 6.0
 ```
+
+---
+
+## Case: twitter-1997504385761329330
+
+**Author:** [@dotey](https://twitter.com/dotey)
+**Tweet:** [View Original](https://x.com/dotey/status/1997504385761329330)
+**Scraped:** 2025-12-26T12:55:38.844Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7iPmj7WYAAaEoP?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7dzYjAXsAA_msh?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7dzYjAXMAA2r-r?format=jpg&name=orig)
+
+### Prompt
+
+```
+ nano banana pro prompt
+
+ A dreamy, cinematic 3D miniature city floats atop cappuccino foam—explore iconic landmarks in stunning 8K detail! Share your own creations!
+
+---- Prompt ----
+
+Present a clear, 45° top-down view of an isometric miniature 3D cartoon scene, highlighting iconic landmarks centered in the composition to showcase precise and delicate modeling. 
+
+A close-up of a porcelain coffee cup filled with cappuccino foam, subtly floating a detailed city of {city, default to user's current location} occupying most of the composition. Prominently displayed at the scene's center are the city's most iconic landmarks, vividly detailed and illuminated softly. 
+
+Miniature streets feature realistic, tiny vehicles moving seamlessly. With cinematic-quality lighting and depth-of-field blurring, the image creates a magical, dreamlike atmosphere. Exceptionally detailed and highly photorealistic, the scene achieves an 8K cinematic finish. 
+
+Aspect ratio: 1:1.
+
+---
+
+city: Chicago
+```
