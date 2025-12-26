@@ -4599,3 +4599,25 @@ with Nano Banana Pro
 - Prompt 
 A hyper-realistic macro shot of an open or cracked open [SPHERE OBJECT] converted into a miniature [ENVIRONMENT TYPE] diorama. Inside the sphere is a tiny, highly detailed world featuring [ENVIRONMENT
 ```
+
+---
+
+## Case: twitter-1992626902084034962
+
+**Author:** [@umesh_ai](https://twitter.com/umesh_ai)
+**Tweet:** [View Original](https://x.com/umesh_ai/status/1992626902084034962)
+**Scraped:** 2025-12-26T13:25:02.883Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6c7mTGasAAucXk?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/GpIu9UqWEAAcQ1V?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro just upgraded this prompt!
+
+Prompt : A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique
+```
