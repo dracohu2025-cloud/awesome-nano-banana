@@ -2980,3 +2980,26 @@ Nano banana Pro on Gemini app.
   "prompt": "A close-up photograph of a young woman with long brown wavy hair, looking over her left shoulder towards the camera. Warm sunlight streams through window blinds to her left, casting distinct horizontal shadow lines across her face, shoulder, and hair. She has brown eyes and her lips are slightly parted. She is wearing a yellow spaghetti strap top. The background is an out-of-focus wall and the window with blinds. The lighting is golden and warm."
 }
 ```
+
+---
+
+## Case: twitter-2003003721827987592
+
+**Author:** [@linxiaobei888](https://twitter.com/linxiaobei888)
+**Tweet:** [View Original](https://x.com/linxiaobei888/status/2003003721827987592)
+**Scraped:** 2025-12-26T13:12:10.034Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8wZMCTawAAHnqS?format=jpg&name=orig)
+
+### Prompt
+
+```
+上传你的照片，生成不同服装风格的贴纸
+
+Nano Banana Pro Prompt：
+
+一个以上传照片为原型的3*3贴纸包，人物穿着不同服装和时尚风格。边缘干净裁剪，带有粗线条轮廓，姿势富有表现力，整体采用活泼的现代贴纸设计。在每个贴纸旁边采用中英文标注风格，所有贴纸保持相同的面部特征、一致的相似度和比例。
+包含教师装、传统、护士制服、街头潮牌和奇幻灵感等多种服装风格。高分辨率成品，带有柔和阴影和光泽贴纸纸张质感，适合社交分享。
+```
