@@ -761,3 +761,31 @@ Prompt :
   "framing": {
     "crop": "tight
 ```
+
+---
+
+## Case: twitter-2004447524619538764
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2004447524619538764)
+**Scraped:** 2025-12-26T12:17:19.867Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9E6Yg_aIAEz7v5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9E6Yitb0AEkWvb?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9E6YjwbgAAd8Jh?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9E6Ym-bkAAdKuf?format=jpg&name=orig)
+
+### Prompt
+
+```
+Minimalist Editorial Style
+
+Gemini Nano Banana Pro Prompt:
+
+A minimalist illustration showing a small [PERSON] standing beneath a massive [SYMBOLIC SHAPE]. Flat colors, strong negative space, clean lines, editorial magazine cover aesthetic.
+```
