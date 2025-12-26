@@ -5373,3 +5373,63 @@ Concept: A storybook where the text creates the environment. Input: [Input: Moby
 
 Analysis: Extract key
 ```
+
+---
+
+## Case: twitter-2004538724974309872
+
+**Author:** [@MidjourneyGS](https://twitter.com/MidjourneyGS)
+**Tweet:** [View Original](https://x.com/MidjourneyGS/status/2004538724974309872)
+**Scraped:** 2025-12-26T13:52:20.138Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GNWMXbYAAbkbV?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Optimized X Post – New Beginnings AI Prompt (Nano Banana Pro )
+
+ Turn Your Photo into a Powerful “New Beginning” Scene with AI 
+With this prompt, you can transform your own photo into a symbolic, cinematic image that represents breaking the past and stepping into the future — just like the image you see here.
+No editing.
+No design skills.
+Just upload your photo and generate 
+ How it works (super simple):
+ Upload your photo on Nano Banana Pro 
+ Paste the prompt below
+ Generate the image
+ Boom  — a high-impact, motivational, cinematic visual
+The prompt keeps your real facial features unchanged and builds an epic scene around you.
+Perfect for:  Personal branding
+ Motivational content
+ New year / new chapter visuals
+ Social media posts
+ Posters & cover images
+ Use the prompt below (copy & paste) 
+
+PROMPT (ready to use):
+Usando la imagen de referencia, realiza lo siguiente, sin modificar los rasgos de la persona de la foto: El hombre está parado en la cima de un acantilado rocoso y patea con fuerza el número '25' hecho de piedra, que se está rompiendo en pedazos. En el cielo, detrás de él, aparecen unos números gigantes y brillantes '2026' con un borde dorado iluminado. El fondo es un atardecer épico con rayos de sol atravesando las nubes, creando una atmósfera de triunfo y un nuevo comienzo. Estilo de fotografía publicitaria de alta resolución, hiperrealista, con iluminación dramática.
+
+ Pro Tip:
+You can easily customize this prompt by changing: • the year
+• the action
+• the symbolism (numbers, objects, obstacles)
+Perfect to represent goals, growth, transformation, and success 
+
+ Save this post and create your own “new chapter” image in seconds.
+
+#AIArt
+#NanoBananaPro
+#AIImageGeneration
+#AIPrompt
+#CinematicAI
+#MotivationalAI
+#AIPhotography
+#PersonalBranding
+#CreativeAI
+#GenerativeAI
+#PromptEngineering
+#AIVisuals
+```
