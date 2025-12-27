@@ -6077,3 +6077,32 @@ prompt:
     "aspect_ratio": "4:5 vertical",
     "composition": "mirror reflection, subject framed thighs-up on vanity counter, foreground clutter for depth",
 ```
+
+---
+
+## Case: twitter-2003320998771220586
+
+**Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
+**Tweet:** [View Original](https://x.com/Adam38363368936/status/2003320998771220586)
+**Scraped:** 2025-12-27T02:08:33.828Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G805tztbwAA-hgj?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G805u9vbEAAxrTf?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8xCju-aoAAWMX5?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8xCmdUaYAAS01J?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个效果好！
+我把提示词改成了模板，大家可以任意替换主题角色，效果特好！
+
+Nano Banana prompt
+
+一只手拿着智能手机，背景是有落叶和绿色长椅的秋季公园。手机屏幕上显示着一张**{主体}的生动照片。手机屏幕内的背景景观与手机后方真实的虚化背景完美对齐，创造出一种透明的错觉。屏幕上画有白色的手写文字注释和箭头，指向{主体}**的特征。柔和的自然光，照片级真实感，4k分辨率，高细节，创意社交媒体摄影风格。3D 弹出效果：上半身从屏幕中浮现，下半身留在用户界面内。{主体}**的图片如图，保留面部和外形特征不做任何改变。
+```
