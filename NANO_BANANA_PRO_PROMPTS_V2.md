@@ -8560,3 +8560,35 @@ Prompt:
 }
 ```
 
+
+---
+
+## Case: twitter-2004487316463669390
+
+**Author:** [@TanShilong](https://twitter.com/TanShilong)
+**Tweet:** [View Original](https://x.com/TanShilong/status/2004487316463669390)
+**Scraped:** 2025-12-27T05:21:25.721Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Fde9YagAAsBsI?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FeUjvbMAAv0b_?format=jpg&name=orig)
+
+### Prompt
+
+```
+杯中窥人，看的其实是自己
+
+提示词：
+基于上传图片，创作一张极具创意的人像特写
+场景：
+图中人物拿着一个玻璃杯，杯中装着气泡水，气泡翻腾，杯中有一个缩小的小人，仿佛在水中溺水，杯中的小人穿着深色西装，红色领导，杯中的人物恰巧也是附图中的人物。而拿着杯子的人正在自己观察着自己。
+镜头：手拿着玻璃杯观察这一动作的特写镜头，人物会因玻璃和水产生折射
+背景：室内场景，人物在桌子旁
+8K分辨率，极佳的视觉语言，极具创造力的镜头呈现
+3:4竖构图
+
+即将收录在提示词填空器中：
+http://Promptfill.tanshilong.com
+```
