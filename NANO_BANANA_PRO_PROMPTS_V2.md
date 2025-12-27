@@ -6354,3 +6354,25 @@ Gemini Nano Banana Pro Prompt:
 
 A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormous [EVERYDAY_OBJECT]. Paper lanterns strung on wire, confetti made from magazine scraps, warm ambient city-bokeh background, shallow depth of field, cinematic wide-angle close-up, vibrant saturated palette, tactile fabric and wood textures.
 ```
+
+---
+
+## Case: twitter-2004735988073984194
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004735988073984194)
+**Scraped:** 2025-12-27T02:54:19.331Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8_QhTQXIAACQ_j?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G847-lRX0AA23P_?format=jpg&name=orig)
+
+### Prompt
+
+```
+I turned Nano Banana Pro into a food recommendation system. This is version 0.1. Just wanted to give it one or multiple ingredients to find me dishes that use all of them. 
+
+Prompt: do this for bacon and chicken: <instructions> step 1. user enters one or more ingredients. step 2. analyze the ingredients, their taste and delicious meals that can be made with all of them. step 3. pick 4 random countries and their popular food that maybe be less known that use all these ingredients (if given one, only that, if given 2, the meal should have both those). Goal: A cookbook where ingredients and dishes emerge in delicious detail Rules: Base: A vintage cookbook with stained pages and fabric cover, historical timeline of food Scene: 3D Miniature kitchen or market scene with 3D chef & ingredients Details: Detailed and accurate food textures, steam effects, cooking implements Lighting: Warm kitchen lighting with golden hour quality Output: a 2x2 grid, each with a Single 1:1 image of the meals  with appetizing details </instructions>
+```
