@@ -1171,9 +1171,6 @@ Create this referance image image id and face shuld not be changed at all."
 ### Prompt
 
 ```
-Create your cinematic close-up of aiming for a shot 
-
-Prompt 
 Using 100% of the provided face, create a cinematic extreme close-up scene of an archer warrior attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) at the exact moment of drawing the bowstring during a heavy downpour. The camera is positioned frontally, aligned directly with the arrow's axis, creating an intense and dramatic perspective. Extremely shallow depth of field, with absolute focus on the character's eyes, keeping the arrow partially blurred in the foreground. The lens simulates a 135mm telephoto lens with a wide aperture (f/1.8).
 > The character's face is coated in wet mud, dirt, and heavy rain splatters, creating realistic, visceral textures. Rainwater mixes with sweat, streaming down their face. The skin has a drenched, slick sheen with sharp, cool reflections from the wet environment. Soaked, disheveled hair is plastered to the face by the rain, reinforcing the wild, battle-worn look. The eyes, extremely sharp, are light green, piercing through the rain with determination and focus.
 > The lighting is cinematic and moody, provided by a dark, overcast storm sky. Cool, diffused light creates sharp, watery highlights on the drenched skin and deep shadows. Instead of dust, heavy rain streaks diagonally across the frame, with individual droplets visible catching the light, and a fine mist sprays near the bowstring. The background is completely blurred with cool-toned, wet bokeh (greys, blues, and deep greens).
@@ -1358,31 +1355,7 @@ Poster-quality, ultra-high resolution, sharp focus.
 ### Prompt
 
 ```
-Create Cinematic Warrior Characters from Any Photo (Custom AI Prompt) 
-With this prompt, anyone can transform a simple photo into an epic, ultra-realistic cinematic character like the ones you see here — powerful pose, dramatic lighting, fantasy-sci-fi atmosphere, and blockbuster-level detail 
-No advanced AI skills required.
- How to use it (very simple):
- Upload your own photo (or anyone you want)
- Paste the prompt below into your AI image generator
- Modify it freely: outfit, weapons, powers, mood, environment
- Boom  — insane cinematic results
-The prompt preserves facial identity while completely upgrading style, energy, and realism.
-Perfect for:  AI portraits
- Warrior / fantasy characters
- Cinematic avatars
- Social media visuals
- Posters & profile images
- Use this prompt and customize it as you like 
-(Change clothes, colors, weapons, effects, setting — the structure does the heavy work.)
-
-PROMPT (fully customizable): 
 The subject in the photo is: A fierce, futuristic tribal warrior monk charging forward, a dark-skinned man with a muscular physique, a completely bald head with no hair, thin tattoos, wearing round steampunk-style glasses. His torso is covered with intricate black tribal tattoos. He wears a tattered dark brown robe with white symbols over sturdy, dusty warrior pants. He has leather bands and metal bracelets on his arms and battle-worn sandals on his feet. He wields two long sticks/spears, one in each hand, wrapped in cloth and with metal details. Dust and debris explode under his feet as he advances with power and intensity. Dark, minimal studio background, dramatic cinematic lighting, ultra-realistic textures, sharp focus, high contrast, shallow depth of field, epic action pose, hyper-detailed fabrics, leather, and weapons, 8K resolution, fantasy-sci-fi cinematic concept art, Unreal Engine style, Octane rendering, photorealistic, dynamic motion.
-
- Pro Tip:
-For best results, use a clear, well-lit reference photo.
-Small prompt edits = completely different characters (warrior, monk, superhero, cyberpunk, dark fantasy) 
-
- Save this post and experiment — every version creates a new cinematic identity.
 ```
 
 ---
@@ -1553,9 +1526,6 @@ Ultra high resolution, extremely sharp details, realistic materials, controlled 
 ### Prompt
 
 ```
-Create your awesome potrait 
-
-Prompt 
 Ultra-realistic cinematic portrait of a man attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) standing in a vast, pale winter landscape with a soft gray sky and light snowfall, wearing an elegant deep-navy embroidered long coat that flares dramatically in the wind; the coat features intricate silver thread patterns, ornate buttons, textured cuffs, and a high collar that frames his face. His hair is long, windswept, and slightly messy, blowing across his face as he looks forward with a calm but intense expression. His beard is thick and frosted with fine snowflakes. Lighting is soft, diffused, and wintry, with no harsh shadows—just natural cold daylight that wraps evenly around him. Snow particles drift across the frame both in front of and behind him, slightly blurred for depth and movement. The background remains minimal and muted, allowing the dark embroidered coat to stand out. Depth of field keeps the man razor sharp while the background stays soft and atmospheric. The final image must capture the same mood: cold wind, drifting snow, elegant motion, rich navy textures, and a dramatic winter-fantasy aesthetic.
 ```
 
@@ -2548,10 +2518,6 @@ Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage
 ### Prompt
 
 ```
-A portrait in a private library. 
-
-To replicate: open Nano Banana Pro on your favorite surface, upload your reference image and try the prompt below.
-
 The main subject of this image is person in the attached reference image (hereinafter referred to as THE_SUBJECT). THE_SUBJECT is wearing a black turtleneck sweater and the hair is styled professionally. Create a cinematic portrait of THE_SUBJECT sitting in a brown leather high back chair inside an elegant private library with soft dramatic lighting. The face is partly lit with warm golden sunlight coming in through a window on the left and out of view. The lighting design creates a chiaroscuro effect with small highlight areas and deep shadows contributing to a moody atmosphere. THE_SUBJECT’S expression is thoughtful and contemplative, with one hand resting on the chin. The background is softly blurred, emphasizing THE_SUBJECT’S face. The image has a clean aesthetic and relaxed mood.
 ```
 
@@ -2745,8 +2711,6 @@ Atmosphere: lively city energy, movement everywhere except subject
 
 ```
 A photographer's contact sheet displaying multiple exposures of [SUBJECT/SESSION]. 3x3 grid of small sequential frames with sprocket holes along the edges. Some frames are circled in red grease pencil—the selects. Others are crossed out. Handwritten notes in the margins indicate exposure settings, dates, and locations. The images progress slightly—different angles, expressions, moments. Some frames are blurred or overexposed, showing the process of finding the perfect shot. The film stock border displays Kodak or Fujifilm branding. The aesthetic is behind-the-scenes, analog, and nostalgic—the contact sheet as artifact of creative process.
-
-Check ALTs for ideas
 ```
 
 ---
