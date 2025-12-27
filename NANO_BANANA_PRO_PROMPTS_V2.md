@@ -6946,3 +6946,39 @@ Enjoy Prompt:
       "task_type": "text_to_image_photoreal_group_pose_4_people",
       "version": "v1.0",
 ```
+
+---
+
+## Case: twitter-2004613556147548321
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004613556147548321)
+**Scraped:** 2025-12-27T02:57:47.922Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G88iYK6XoAAROMD?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G80jZ9mXUAA21iT?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G80kPLAXQAAGGtW?format=jpg&name=orig)
+
+### Prompt
+
+```
+can I turn fancy fonts into buildings with Nano Banana Pro? Let's see. 
+
+Prompt: 
+
+pick 3 random fancy fonts 
+
+Role: World class Graphic Designer turned Architect.
+Inputs: [Font A], [Font B], [Font C]
+Workflow:
+Step 1: Extrude the font into 3D space.
+Step 2: Turn the letterforms into habitable rooms and corridors.
+Step 3: Discard structural impossibilities.
+Output
+    Grid: Rows = Fonts. Columns = 2D Letter, 3D Wireframe Extrusion, Structural Load Test (showing cracks in weak fonts).
+Bottom: a 2x2 grid: An aerial drone shot of a museum building shaped like the combined typography, titled " The Glyph Gallery" plus  other dynamic views
+```
