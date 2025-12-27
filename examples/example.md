@@ -6,7 +6,6 @@
 
 ## [@IamEmily2050](https://twitter.com/IamEmily2050)
 
-**Tweet:** [View Original](https://x.com/IamEmily2050/status/2004532836846780534)
 
 ### Images
 
@@ -152,7 +151,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 
 ## [@LufzzLiz](https://twitter.com/LufzzLiz)
 
-**Tweet:** [View Original](https://x.com/LufzzLiz/status/2004193839142342792)
 
 ### Images
 
@@ -181,7 +179,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 
 ## [@servasyy_ai](https://twitter.com/servasyy_ai)
 
-**Tweet:** [View Original](https://x.com/servasyy_ai/status/2004805605937254631)
 
 ### Images
 
@@ -274,7 +271,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 
 ## [@munou_ac](https://twitter.com/munou_ac)
 
-**Tweet:** [View Original](https://x.com/munou_ac/status/2001238094457266531)
 
 ### Images
 
@@ -441,7 +437,6 @@ signature:
 
 ## [@astronomerozge1](https://twitter.com/astronomerozge1)
 
-**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004612895389208904)
 
 ### Images
 
@@ -561,7 +556,6 @@ Prompt:
 
 ## [@astronomerozge1](https://twitter.com/astronomerozge1)
 
-**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004640182117531769)
 
 ### Images
 
@@ -673,7 +667,6 @@ Prompt:
 
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
-**Tweet:** [View Original](https://x.com/BeautyVerse_Lab/status/2002999380505477512)
 
 ### Images
 
@@ -790,7 +783,6 @@ How to use:
 
 ## [@timedoctor_nft](https://twitter.com/timedoctor_nft)
 
-**Tweet:** [View Original](https://x.com/timedoctor_nft/status/2004548967632093554)
 
 ### Images
 
@@ -897,7 +889,6 @@ Gemini Nano Banana Prompt:
 
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
-**Tweet:** [View Original](https://x.com/BeautyVerse_Lab/status/2001562159499870510)
 
 ### Images
 
@@ -1006,7 +997,6 @@ Maybe you want to try it out? @underwoodxie96 @SDT_side
 
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
-**Tweet:** [View Original](https://x.com/BeautyVerse_Lab/status/2003652764132606201)
 
 ### Images
 
@@ -1096,7 +1086,6 @@ Maybe you will want to try it out?
 
 ## [@saniaspeaks_](https://twitter.com/saniaspeaks_)
 
-**Tweet:** [View Original](https://x.com/saniaspeaks_/status/2000858454580404608)
 
 ### Images
 
@@ -1201,7 +1190,6 @@ Google Gemini Nano banana Pro.
 
 ## [@saniaspeaks_](https://twitter.com/saniaspeaks_)
 
-**Tweet:** [View Original](https://x.com/saniaspeaks_/status/2004400431561310279)
 
 ### Images
 
@@ -1308,7 +1296,6 @@ Nano banana Pro on Gemini app.
 
 ## [@bananababydoll](https://twitter.com/bananababydoll)
 
-**Tweet:** [View Original](https://x.com/bananababydoll/status/2001321491443400715)
 
 ### Images
 
@@ -1436,7 +1423,6 @@ Nano Banana Pro Prompt
 
 ## [@YeKyaHoRhaHaiBe](https://twitter.com/YeKyaHoRhaHaiBe)
 
-**Tweet:** [View Original](https://x.com/YeKyaHoRhaHaiBe/status/2004774329738031403)
 
 ### Images
 
@@ -1475,7 +1461,6 @@ Create this referance image image id and face shuld not be changed at all."
 
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
-**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1995763810997506466)
 
 ### Images
 
@@ -1515,7 +1500,6 @@ Using 100% of the provided face, create a cinematic extreme close-up scene of an
 
 ## [@dotey](https://twitter.com/dotey)
 
-**Tweet:** [View Original](https://x.com/dotey/status/2000439814022144346)
 
 ### Images
 
@@ -1567,7 +1551,6 @@ Dynamic effect: drifting dandelion fluff gently floating through the air.
 
 ## [@ttmouse](https://twitter.com/ttmouse)
 
-**Tweet:** [View Original](https://x.com/ttmouse/status/2003190555094786470)
 
 ### Images
 
@@ -1622,7 +1605,6 @@ I will now provide the subject. You will instantly apply the creative logic and 
 
 ## [@amanxdesign](https://twitter.com/amanxdesign)
 
-**Tweet:** [View Original](https://x.com/amanxdesign/status/2004499933148139876)
 
 ### Images
 
@@ -1665,7 +1647,6 @@ Google Nano Banana Pro Prompt
 
 ## [@miilesus](https://twitter.com/miilesus)
 
-**Tweet:** [View Original](https://x.com/miilesus/status/2004254066172662180)
 
 ### Images
 
@@ -1741,7 +1722,6 @@ Aspect ratio: vertical 16:9
 
 ## [@Gdgtify](https://twitter.com/Gdgtify)
 
-**Tweet:** [View Original](https://x.com/Gdgtify/status/2004601351146532917)
 
 ### Images
 
@@ -1791,7 +1771,6 @@ Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography
 
 ## [@SSSS_CRYPTOMAN](https://twitter.com/SSSS_CRYPTOMAN)
 
-**Tweet:** [View Original](https://x.com/SSSS_CRYPTOMAN/status/2001219867870175289)
 
 ### Images
 
@@ -1866,7 +1845,6 @@ Poster-quality, ultra-high resolution, sharp focus.
 
 ## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
 
-**Tweet:** [View Original](https://x.com/MidjourneyGS/status/2004486879740309572)
 
 ### Images
 
@@ -1924,7 +1902,6 @@ Small prompt edits = completely different characters (warrior, monk, superhero, 
 
 ## [@linxiaobei888](https://twitter.com/linxiaobei888)
 
-**Tweet:** [View Original](https://x.com/linxiaobei888/status/2000875793279271105)
 
 ### Images
 
@@ -2020,7 +1997,6 @@ https://x.com/hx831126/status/2000793785064939661?s=20…
 
 ## [@Strength04_X](https://twitter.com/Strength04_X)
 
-**Tweet:** [View Original](https://x.com/Strength04_X/status/2004497186961424626)
 
 ### Images
 
@@ -2105,7 +2081,6 @@ Prompt:
 
 ## [@ttmouse](https://twitter.com/ttmouse)
 
-**Tweet:** [View Original](https://x.com/ttmouse/status/2003559023753474431)
 
 ### Images
 
@@ -2175,7 +2150,6 @@ Ultra high resolution, extremely sharp details, realistic materials, controlled 
 
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
-**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1998949737802903974)
 
 ### Images
 
@@ -2215,7 +2189,6 @@ Ultra-realistic cinematic portrait of a man attached in the uploaded reference i
 
 ## [@aiko_u_works](https://twitter.com/aiko_u_works)
 
-**Tweet:** [View Original](https://x.com/aiko_u_works/status/2004508944266400162)
 
 ### Images
 
@@ -2382,7 +2355,6 @@ ChatGPTやNano Bananaを使って
 
 ## [@miilesus](https://twitter.com/miilesus)
 
-**Tweet:** [View Original](https://x.com/miilesus/status/2004620767087263838)
 
 ### Images
 
@@ -2426,7 +2398,6 @@ Aspect ratio: 9:16.
 
 ## [@Samann_ai](https://twitter.com/Samann_ai)
 
-**Tweet:** [View Original](https://x.com/Samann_ai/status/2001665608711049358)
 
 ### Images
 
@@ -2471,7 +2442,6 @@ Discover new Nano Banana PRO Prompts on http://bananaprompts.com/?utm_source=BP1
 
 ## [@dotey](https://twitter.com/dotey)
 
-**Tweet:** [View Original](https://x.com/dotey/status/1996344184840868264)
 
 ### Images
 
@@ -2530,7 +2500,6 @@ Parameters:
 
 ## [@Strength04_X](https://twitter.com/Strength04_X)
 
-**Tweet:** [View Original](https://x.com/Strength04_X/status/2004390027179315659)
 
 ### Images
 
@@ -2617,7 +2586,6 @@ Prompt
 
 ## [@dotey](https://twitter.com/dotey)
 
-**Tweet:** [View Original](https://x.com/dotey/status/1996091290509832533)
 
 ### Images
 
@@ -2678,7 +2646,6 @@ Name: Sam Altman
 
 ## [@studio_veco](https://twitter.com/studio_veco)
 
-**Tweet:** [View Original](https://x.com/studio_veco/status/2003286722139029590)
 
 ### Images
 
@@ -2715,7 +2682,6 @@ Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composit
 
 ## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
 
-**Tweet:** [View Original](https://x.com/MidjourneyGS/status/2004538724974309872)
 
 ### Images
 
@@ -2773,7 +2739,6 @@ Perfect to represent goals, growth, transformation, and success
 
 ## [@lexx_aura](https://twitter.com/lexx_aura)
 
-**Tweet:** [View Original](https://x.com/lexx_aura/status/1994090956916969536)
 
 ### Images
 
@@ -2845,7 +2810,6 @@ Prompt:
 
 ## [@web3btc](https://twitter.com/web3btc)
 
-**Tweet:** [View Original](https://x.com/web3btc/status/2004459437822775516)
 
 ### Images
 
@@ -2901,7 +2865,6 @@ Background: pure black, no gradients, no rim light, no background detail.
 
 ## [@LufzzLiz](https://twitter.com/LufzzLiz)
 
-**Tweet:** [View Original](https://x.com/LufzzLiz/status/2004113573816291353)
 
 ### Images
 
@@ -2933,7 +2896,6 @@ Background: pure black, no gradients, no rim light, no background detail.
 
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
-**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1999721128030597408)
 
 ### Images
 
@@ -2980,7 +2942,6 @@ Mood: Lonely, isolated, a silent big city.
 
 ## [@xmliisu](https://twitter.com/xmliisu)
 
-**Tweet:** [View Original](https://x.com/xmliisu/status/2004429714232955281/photo/1)
 
 ### Images
 
@@ -3063,7 +3024,6 @@ Prompt:
 
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
 
-**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004536786178265283)
 
 ### Images
 
@@ -3120,7 +3080,6 @@ Gemini Nano Banana Prompt
 
 ## [@xIrissy](https://twitter.com/xIrissy)
 
-**Tweet:** [View Original](https://x.com/xIrissy/status/2003060637635604501)
 
 ### Images
 
@@ -3168,7 +3127,6 @@ Prompt:
 
 ## [@SDT_side](https://twitter.com/SDT_side)
 
-**Tweet:** [View Original](https://x.com/SDT_side/status/2003068519072887147)
 
 ### Images
 
@@ -3216,7 +3174,6 @@ No character redesign. No face alteration. No hairstyle change. No outfit change
 
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
 
-**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004536321050603580)
 
 ### Images
 
@@ -3272,7 +3229,6 @@ Gemini Nano Banana Prompt
 
 ## [@miilesus](https://twitter.com/miilesus)
 
-**Tweet:** [View Original](https://x.com/miilesus/status/2004196505243079041)
 
 ### Images
 
@@ -3308,7 +3264,6 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 
 ## [@Strength04_X](https://twitter.com/Strength04_X)
 
-**Tweet:** [View Original](https://x.com/Strength04_X/status/2004030710110408884)
 
 ### Images
 
@@ -3342,7 +3297,6 @@ Prompt  {
 
 ## [@refindai](https://twitter.com/refindai)
 
-**Tweet:** [View Original](https://x.com/refindai/status/2004728088522096649)
 
 ### Images
 
@@ -3365,7 +3319,6 @@ A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover 
 
 ## [@abulu8](https://twitter.com/abulu8)
 
-**Tweet:** [View Original](https://x.com/abulu8/status/2004497370785149384/photo/1)
 
 ### Images
 
@@ -3385,7 +3338,6 @@ Prompt : A bundled toddler sits on father's shoulders in snowy town square, mitt
 
 ## [@gokayfem](https://twitter.com/gokayfem)
 
-**Tweet:** [View Original](https://x.com/gokayfem/status/2001265620449444251)
 
 ### Images
 
@@ -3415,7 +3367,6 @@ Generate a 6x6 grid showing 36 unique variations of this product. Experiment wil
 
 ## [@dhumann](https://twitter.com/dhumann)
 
-**Tweet:** [View Original](https://x.com/dhumann/status/2002904155837648898)
 
 ### Images
 
@@ -3442,7 +3393,6 @@ Lighting is soft, diffused, and cinematic with cool blue tonalities and gentle a
 
 ## [@Gdgtify](https://twitter.com/Gdgtify)
 
-**Tweet:** [View Original](https://x.com/Gdgtify/status/2001132241746059418)
 
 ### Images
 
@@ -3484,7 +3434,6 @@ Output:
 
 ## [@_dailyboost](https://twitter.com/_dailyboost)
 
-**Tweet:** [View Original](https://x.com/_dailyboost/status/2004501026184024249)
 
 ### Images
 
@@ -3512,7 +3461,6 @@ Shot on a full-frame camera, 50mm lens, f/1.8, shallow depth of field, ultra-det
 
 ## [@harboriis](https://twitter.com/harboriis)
 
-**Tweet:** [View Original](https://x.com/harboriis/status/2004532543979442298)
 
 ### Images
 
@@ -3532,7 +3480,6 @@ Top: super close-up, young Russian woman, natural makeup (soft pink lips: rosy c
 
 ## [@harboriis](https://twitter.com/harboriis)
 
-**Tweet:** [View Original](https://x.com/harboriis/status/2003768838111059997)
 
 ### Images
 
@@ -3554,7 +3501,6 @@ The lighting is a warm, evening glow, creating a magical and nostalgic atmospher
 
 ## [@Gdgtify](https://twitter.com/Gdgtify)
 
-**Tweet:** [View Original](https://x.com/Gdgtify/status/2004735988073984194)
 
 ### Images
 
@@ -3574,7 +3520,6 @@ Prompt: do this for bacon and chicken: <instructions> step 1. user enters one or
 
 ## [@harboriis](https://twitter.com/harboriis)
 
-**Tweet:** [View Original](https://x.com/harboriis/status/2004384474776457385)
 
 ### Images
 
@@ -3593,7 +3538,6 @@ Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage
 
 ## [@dhumann](https://twitter.com/dhumann)
 
-**Tweet:** [View Original](https://x.com/dhumann/status/2004626409432526918)
 
 ### Images
 
@@ -3616,7 +3560,6 @@ The main subject of this image is person in the attached reference image (herein
 
 ## [@AIwithSynthia](https://twitter.com/AIwithSynthia)
 
-**Tweet:** [View Original](https://x.com/AIwithSynthia/status/2004472758567346200)
 
 ### Images
 
@@ -3636,7 +3579,6 @@ A cinematic fine-art studio portrait of an elegant woman seated gracefully on a 
 
 ## [@Arminn_Ai](https://twitter.com/Arminn_Ai)
 
-**Tweet:** [View Original](https://x.com/Arminn_Ai/status/2000542241513738424)
 
 ### Images
 
@@ -3664,7 +3606,6 @@ Greatly increase the wear of the photo, including small tears, missing corners, 
 
 ## [@op7418](https://twitter.com/op7418)
 
-**Tweet:** [View Original](https://x.com/op7418/status/1996559812948369454)
 
 ### Images
 
@@ -3711,7 +3652,6 @@ UI 元素： 复古低分辨率单色像素图标和块状文字覆盖
 
 ## [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
 
-**Tweet:** [View Original](https://x.com/SimplyAnnisa/status/1995440621188976893)
 
 ### Images
 
@@ -3734,7 +3674,6 @@ Keep her face and hairstyle exactly the same as the original reference.
 
 ## [@ecommartinez](https://twitter.com/ecommartinez)
 
-**Tweet:** [View Original](https://x.com/ecommartinez/status/2004608477260603674)
 
 ### Images
 
@@ -3759,7 +3698,6 @@ Shallow depth of field, sharp focus on the dogs, professional photography style,
 
 ## [@ttmouse](https://twitter.com/ttmouse)
 
-**Tweet:** [View Original](https://x.com/ttmouse/status/2002132714200129984)
 
 ### Images
 
@@ -3792,7 +3730,6 @@ A high-quality 9:16 vertical portrait, 4k resolution. 
 
 ## [@AIwithkhan](https://twitter.com/AIwithkhan)
 
-**Tweet:** [View Original](https://x.com/AIwithkhan/status/2004784732215935453)
 
 ### Images
 
@@ -3810,7 +3747,6 @@ A minimalist studio portrait of a woman sitting at a smooth concrete table again
 
 ## [@john_my07](https://twitter.com/john_my07)
 
-**Tweet:** [View Original](https://x.com/john_my07/status/2004400809736593906)
 
 ### Images
 
@@ -3841,7 +3777,6 @@ Atmosphere: lively city energy, movement everywhere except subject
 
 ## [@lijigang](https://twitter.com/lijigang)
 
-**Tweet:** [View Original](https://x.com/lijigang/status/2004514549404516664)
 
 ### Images
 
@@ -3903,7 +3838,6 @@ Atmosphere: lively city energy, movement everywhere except subject
 
 ## [@AllaAisling](https://twitter.com/AllaAisling)
 
-**Tweet:** [View Original](https://x.com/AllaAisling/status/2004573164681200004)
 
 ### Images
 
@@ -3929,7 +3863,6 @@ Check ALTs for ideas
 
 ## [@sundyme](https://twitter.com/sundyme)
 
-**Tweet:** [View Original](https://x.com/sundyme/status/2004425000586232256)
 
 ### Images
 
@@ -3953,7 +3886,6 @@ Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matche
 
 ## [@john_my07](https://twitter.com/john_my07)
 
-**Tweet:** [View Original](https://x.com/john_my07/status/2004500768423088469)
 
 ### Images
 
@@ -3976,7 +3908,6 @@ girl same as reference, standing and posing confidently on a modern busy street 
 
 ## [@umesh_ai](https://twitter.com/umesh_ai)
 
-**Tweet:** [View Original](https://x.com/umesh_ai/status/1997265335494595040)
 
 ### Images
 
@@ -3998,7 +3929,6 @@ Prompt on Nano Banana Pro : An image of a [TYPE] landscape, featuring a cave ent
 
 ## [@sundyme](https://twitter.com/sundyme)
 
-**Tweet:** [View Original](https://x.com/sundyme/status/2004156068155609278)
 
 ### Images
 
@@ -4022,7 +3952,6 @@ Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that ma
 
 ## [@oggii_0](https://twitter.com/oggii_0)
 
-**Tweet:** [View Original](https://x.com/oggii_0/status/2004772209118904781)
 
 ### Images
 
@@ -4040,7 +3969,6 @@ Prompt: A close-up profile portrait of a young woman with her eyes closed and a 
 
 ## [@r4jjesh](https://twitter.com/r4jjesh)
 
-**Tweet:** [View Original](https://x.com/r4jjesh/status/2004407949046014441)
 
 ### Images
 
@@ -4076,7 +4004,6 @@ Prompt :
 
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-**Tweet:** [View Original](https://x.com/aleenaamiir/status/2001227733150691435)
 
 ### Images
 
@@ -4106,7 +4033,6 @@ Cinematic macro perspective, botanical realism, ultra-detailed.
 
 ## [@Sheldon056](https://twitter.com/Sheldon056)
 
-**Tweet:** [View Original](https://x.com/Sheldon056/status/2004178587654778928)
 
 ### Images
 
@@ -4130,7 +4056,6 @@ A hyper-detailed geometric papercraft sculpture of [NAME], created using layered
 
 ## [@GaganSingh8u](https://twitter.com/GaganSingh8u)
 
-**Tweet:** [View Original](https://x.com/GaganSingh8u/status/2004646477407420782)
 
 ### Images
 
@@ -4149,7 +4074,6 @@ Girl from the attached picture is sitting in the thinking mode on the chair infr
 
 ## [@saniaspeaks_](https://twitter.com/saniaspeaks_)
 
-**Tweet:** [View Original](https://x.com/saniaspeaks_/status/1996609242338669004)
 
 ### Images
 
@@ -4169,7 +4093,6 @@ Nano banana Pro on Gemini app.
 
 ## [@umesh_ai](https://twitter.com/umesh_ai)
 
-**Tweet:** [View Original](https://x.com/umesh_ai/status/1992626902084034962)
 
 ### Images
 
@@ -4189,7 +4112,6 @@ Prompt : A digital illustration of a [SUBJECT], portrayed with a network of glow
 
 ## [@linxiaobei888](https://twitter.com/linxiaobei888)
 
-**Tweet:** [View Original](https://x.com/linxiaobei888/status/2004018519239987709)
 
 ### Images
 
@@ -4225,7 +4147,6 @@ https://x.com/TechieBySA/status/2003053984454734030?s=20…
 
 ## [@andrew88collins](https://twitter.com/andrew88collins)
 
-**Tweet:** [View Original](https://x.com/andrew88collins/status/2004603989913133246)
 
 ### Images
 
@@ -4245,7 +4166,6 @@ Create an annual summary for the account https://x.com/writing_tips, and use Nan
 
 ## [@lexx_aura](https://twitter.com/lexx_aura)
 
-**Tweet:** [View Original](https://x.com/lexx_aura/status/1991870830167429185)
 
 ### Images
 
@@ -4285,7 +4205,6 @@ Prompt:
 
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-**Tweet:** [View Original](https://x.com/aleenaamiir/status/2004738067618468292)
 
 ### Images
 
@@ -4311,7 +4230,6 @@ A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormo
 
 ## [@linxiaobei888](https://twitter.com/linxiaobei888)
 
-**Tweet:** [View Original](https://x.com/4AAAAart/status/2000599231451861496?s=20)
 
 ### Images
 
@@ -4334,7 +4252,6 @@ https://x.com/4AAAAart/status/2000599231451861496?s=20…
 
 ## [@umesh_ai](https://twitter.com/umesh_ai)
 
-**Tweet:** [View Original](https://x.com/umesh_ai/status/1999076757178360282)
 
 ### Images
 
@@ -4350,7 +4267,6 @@ Prompt on Nano Banana Pro : photorealistic image of a white egg with cracks form
 
 ## [@oggii_0](https://twitter.com/oggii_0)
 
-**Tweet:** [View Original](https://x.com/oggii_0/status/2001232399368380637)
 
 ### Images
 
@@ -4368,7 +4284,6 @@ Prompt: This high-resolution bird's-eye view photograph was taken with a LOMO Ic
 
 ## [@FutureVibesAi](https://twitter.com/FutureVibesAi)
 
-**Tweet:** [View Original](https://x.com/FutureVibesAi/status/2004251884866183312)
 
 ### Images
 
@@ -4387,7 +4302,6 @@ Video by @grok Imagine
 
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-**Tweet:** [View Original](https://x.com/aleenaamiir/status/2004041725074088251)
 
 ### Images
 
@@ -4413,7 +4327,6 @@ A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE 
 
 ## [@Sheldon056](https://twitter.com/Sheldon056)
 
-**Tweet:** [View Original](https://x.com/Sheldon056/status/2004539994166464526)
 
 ### Images
 
@@ -4437,7 +4350,6 @@ A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frostin
 
 ## [@AllaAisling](https://twitter.com/AllaAisling)
 
-**Tweet:** [View Original](https://x.com/AllaAisling/status/2004673828203467087)
 
 ### Images
 
@@ -4463,7 +4375,6 @@ Check ALTs for ideas
 
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
 
-**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004535345829060915)
 
 ### Images
 
@@ -4488,7 +4399,6 @@ Gemini Nano Banana Prompt
 
 ## [@Sheldon056](https://twitter.com/Sheldon056)
 
-**Tweet:** [View Original](https://x.com/Sheldon056/status/2001497637124739363)
 
 ### Images
 
@@ -4512,7 +4422,6 @@ Prompt: A vibrant fantasy-style soda commercial where a playful young man surfs 
 
 ## [@Taaruk_](https://twitter.com/Taaruk_)
 
-**Tweet:** [View Original](https://x.com/Taaruk_/status/2004480282360193150)
 
 ### Images
 
@@ -4534,7 +4443,6 @@ Prompt {
 
 ## [@Samann_ai](https://twitter.com/Samann_ai)
 
-**Tweet:** [View Original](https://x.com/Samann_ai/status/2004584088875962826)
 
 ### Images
 
@@ -4565,7 +4473,6 @@ Prompt
 
 ## [@kaanakz](https://twitter.com/kaanakz)
 
-**Tweet:** [View Original](https://x.com/kaanakz/status/2004621454470496331)
 
 ### Images
 
@@ -4592,7 +4499,6 @@ Thanks for the prompt @miilesus super inspiring
 
 ## [@_MehdiSharifi_](https://twitter.com/_MehdiSharifi_)
 
-**Tweet:** [View Original](https://x.com/_MehdiSharifi_/status/2002324743190409256)
 
 ### Images
 
@@ -4619,7 +4525,6 @@ Nano Banana Pro | Gemini 3.0
 
 ## [@kingofdairyque](https://twitter.com/kingofdairyque)
 
-**Tweet:** [View Original](https://x.com/kingofdairyque/status/1994315222157504735)
 
 ### Images
 
@@ -4642,7 +4547,6 @@ Prompt for nano banana pro:
 
 ## [@Just_sharon7](https://twitter.com/Just_sharon7)
 
-**Tweet:** [View Original](https://x.com/Just_sharon7/status/2004783952989769949)
 
 ### Images
 
@@ -4670,7 +4574,6 @@ Prompt
 
 ## [@NanoInspirate](https://twitter.com/NanoInspirate)
 
-**Tweet:** [View Original](https://x.com/NanoInspirate/status/2004556135089467670)
 
 ### Images
 
@@ -4691,7 +4594,6 @@ Google Gemini Nano Banana pro 3.0
 
 ## [@Emmalaurent0](https://twitter.com/Emmalaurent0)
 
-**Tweet:** [View Original](https://x.com/Emmalaurent0/status/2004659346878464349)
 
 ### Images
 
@@ -4717,7 +4619,6 @@ Google Gemini Nano Banana pro 3.0
 
 ## [@JadoonKhan281](https://twitter.com/JadoonKhan281)
 
-**Tweet:** [View Original](https://x.com/JadoonKhan281/status/2004556367160615387)
 
 ### Images
 
@@ -4743,7 +4644,6 @@ Prompt:
 
 ## [@r4jjesh](https://twitter.com/r4jjesh)
 
-**Tweet:** [View Original](https://x.com/r4jjesh/status/2004477326076383674)
 
 ### Images
 
