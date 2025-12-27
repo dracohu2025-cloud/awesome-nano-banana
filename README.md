@@ -18,39 +18,9 @@
 
 ## 🎨 Showcase Gallery
 
-### 1. [@xmliisu](https://twitter.com/xmliisu)
+### [@astronomerozge1](https://twitter.com/astronomerozge1)
 
-<img src="https://pbs.twimg.com/media/G9EqMXrWYAAEytc?format=jpg&name=orig" alt="Case 1" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Gemini Nano Banana Pro
-
-Prompt:
-
-{
-  "subject": {
-    "gender": "female",
-    "hair": {
-      "color": "light brown with blonde highlights",
-      "style": "long, straight, center part",
-      "length": "extending past shoulders"
-    },
-    "skin": {
-      "tone": "fair",
-      "texture": "smooth"
- ...
-```
-
-</details>
-
----
-
-### 2. [@astronomerozge1](https://twitter.com/astronomerozge1)
-
-<img src="https://pbs.twimg.com/media/G9F7RrhWgAE9w6o?format=jpg&name=orig" alt="Case 2" width="400">
+<img src="https://pbs.twimg.com/media/G9F7RrhWgAE9w6o?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -65,18 +35,16 @@ Prompt:
       "tool": "NanoBanana Pro",
       "task_type": "text_to_image_photoreal_candid_couple_night_street",
       "version": "v1.0",
-      "priority": "high"
-    },
-    "references":...
+      "priority": "hig...
 ```
 
 </details>
 
 ---
 
-### 3. [@_dailyboost](https://twitter.com/_dailyboost)
+### [@_dailyboost](https://twitter.com/_dailyboost)
 
-<img src="https://pbs.twimg.com/media/G9F5IrbaUAABoTL?format=jpg&name=orig" alt="Case 3" width="400">
+<img src="https://pbs.twimg.com/media/G9F5IrbaUAABoTL?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -95,16 +63,16 @@ Prompt
       "blue eyes",
       "natural makeup"
     ],
-    "clothing": "white oversized button-down shirt with black floral lace or...
+    "clothing": "white oversized button-down shirt...
 ```
 
 </details>
 
 ---
 
-### 4. [@Gdgtify](https://twitter.com/Gdgtify)
+### [@Gdgtify](https://twitter.com/Gdgtify)
 
-<img src="https://pbs.twimg.com/media/G85kRMRXIAEaIHM?format=jpg&name=orig" alt="Case 4" width="400">
+<img src="https://pbs.twimg.com/media/G85kRMRXIAEaIHM?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -116,58 +84,16 @@ Input A:  Mona Lisa . <instructions> Act as a world class food expert and artist
 
 Input A: Masterpiece painting (e.g., Mona Lisa, Starry Night, The Scream).
 
- Analyze composition, colors, mood, elements. Pick the righ...
+ Analyze ...
 ```
 
 </details>
 
 ---
 
-### 5. [@ZaraIrahh](https://twitter.com/ZaraIrahh)
+### [@john_my07](https://twitter.com/john_my07)
 
-<img src="https://pbs.twimg.com/media/G9FrP_pboAAMIUO?format=jpg&name=orig" alt="Case 5" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Beauty with standards you can’t reach. 
-
-Gemini Nano Banana Pro 
-
-Prompt: 
-
-{
-  "reference_face": {
-    "instruction": "Use the provided image as the sole facial reference. Match the face exactly with no alterations to facial structure, proportions, skin tone, freckles, eyes,...
-```
-
-</details>
-
----
-
-### 6. [@_dailyboost](https://twitter.com/_dailyboost)
-
-<img src="https://pbs.twimg.com/media/G9Fq9UJbkAAnY1V?format=jpg&name=orig" alt="Case 6" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Gemini Nano Banana Pro
-
-Prompt
-
-A cinematic, ultra-realistic gym portrait of an athletic young woman with a strong, lean physique and clearly defined abs. She is standing indoors in a modern gym after a workout, slightly sweaty, looking down at her torso while gently touching her upper abdomen/chest...
-```
-
-</details>
-
----
-
-### 7. [@john_my07](https://twitter.com/john_my07)
-
-<img src="https://pbs.twimg.com/media/G9Fq0jHa0AEcuq1?format=jpg&name=orig" alt="Case 7" width="400">
+<img src="https://pbs.twimg.com/media/G9Fq0jHa0AEcuq1?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -177,77 +103,16 @@ Nano Banana Pro on Gemini App.
 
 Prompt:
 
-girl same as reference, standing and posing confidently on a modern busy street at night, wearing bold attractive outfit: fitted jeans + stylish top + cropped blazer jacket, minimal lighting with soft spotlight focused on her, everything around is motion-blur...
+girl same as reference, standing and posing confidently on a modern busy street at night, wearing bold attractive outfit: fitted jeans + stylish top + cropped blazer jacket, minimal lighting with soft spotligh...
 ```
 
 </details>
 
 ---
 
-### 8. [@amanxdesign](https://twitter.com/amanxdesign)
+### [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-<img src="https://pbs.twimg.com/media/G89z8XebgAAxP0g?format=jpg&name=orig" alt="Case 8" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Google Nano Banana Pro Prompt 
-
-{
-  "description": "A full-body image of a different female American model wearing the exact same outfit as in the reference: a soft gray oversized turtleneck sweater made of wool or cashmere, with ribbed cuffs, collar, and hem, paired with matching gray wide-leg trou...
-```
-
-</details>
-
----
-
-### 9. [@abulu8](https://twitter.com/abulu8)
-
-<img src="https://pbs.twimg.com/media/G9FnFlgb0AAziIV?format=jpg&name=orig" alt="Case 9" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Experiencing New Year fireworks through their eyes—the greatest gift. Wishing you a bright year ahead! 
-
-Created with Nano Banana Pro inside [@ImagineArt_X] [@imagineart_creo]
-
-Prompt : A bundled toddler sits on father's shoulders in snowy town square, mittened hands reaching toward exploding firewo...
-```
-
-</details>
-
----
-
-### 10. [@Strength04_X](https://twitter.com/Strength04_X)
-
-<img src="https://pbs.twimg.com/media/G9Fni3tbkAEDwRD?format=jpg&name=orig" alt="Case 10" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Created with Gemini Nano Banana Pro
-
-Prompt:
-
-{
-  "scene": {
-    "environment": "Outdoor or semi-outdoor pool or hot tub area at night",
-    "lighting": "Low ambient lighting with soft, warm highlights; background is dim and partially shadowed",
-    "background_elements": [
-      "Dark wall or fence...
-```
-
-</details>
-
----
-
-### 11. [@aleenaamiir](https://twitter.com/aleenaamiir)
-
-<img src="https://pbs.twimg.com/media/G9Fj_IqaoAAppGK?format=jpg&name=orig" alt="Case 11" width="400">
+<img src="https://pbs.twimg.com/media/G9Fj_IqaoAAppGK?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -257,16 +122,16 @@ Japanese Folk Art
 
 Gemini Nano Banana Pro Prompt:
 
-A Japanese folk-art depiction of a [FIGURE], rendered with flat color blocks, delicate linework, and stylized natural motifs, soft muted tones, asymmetrical balance, traditional woodblock-print texture, calm and poetic storybook atmosphere....
+A Japanese folk-art depiction of a [FIGURE], rendered with flat color blocks, delicate linework, and stylized natural motifs, soft muted tones, asymmetrical balance, traditional woodblock-print textu...
 ```
 
 </details>
 
 ---
 
-### 12. [@_dailyboost](https://twitter.com/_dailyboost)
+### [@_dailyboost](https://twitter.com/_dailyboost)
 
-<img src="https://pbs.twimg.com/media/G9FjqHRasAAjK6V?format=jpg&name=orig" alt="Case 12" width="400">
+<img src="https://pbs.twimg.com/media/G9FjqHRasAAjK6V?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -282,16 +147,16 @@ Prompt:
     "appearance": {
       "hair": "Long, blonde, wavy, parted in the middle, draping over shoulders",
       "eyes": "Brown, looking directly at the camera",
-      "skin_tone": "Fair/Light tan",...
+      "skin_tone...
 ```
 
 </details>
 
 ---
 
-### 13. [@Maercihh](https://twitter.com/Maercihh)
+### [@Maercihh](https://twitter.com/Maercihh)
 
-<img src="https://pbs.twimg.com/media/G9FhtN8aIAAriGi?format=jpg&name=orig" alt="Case 13" width="400">
+<img src="https://pbs.twimg.com/media/G9FhtN8aIAAriGi?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -307,61 +172,16 @@ Prompt
   "model": "Nano Banana Pro",
   "subject": "Ethereal young woman with short platinum hair",
   "scene": "Misty enchanted forest filled with glowing flowers and bioluminescent plants",
-  "appearance": {
-    "expression": "Calm,...
+  "appearance":...
 ```
 
 </details>
 
 ---
 
-### 14. [@MidjourneyGS](https://twitter.com/MidjourneyGS)
+### [@NanoInspirate](https://twitter.com/NanoInspirate)
 
-<img src="https://pbs.twimg.com/media/G9FeMbIaoAAPMb2?format=jpg&name=orig" alt="Case 14" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-NANO BANANA PRO  
-
- Create Cinematic Warrior Characters from Any Photo (Custom AI Prompt) 
-With this prompt, anyone can transform a simple photo into an epic, ultra-realistic cinematic character like the ones you see here — powerful pose, dramatic lighting, fantasy-sci-fi atmosphere, and blockbuster...
-```
-
-</details>
-
----
-
-### 15. [@qezbahnai](https://twitter.com/qezbahnai)
-
-<img src="https://pbs.twimg.com/media/G9Fdld7WAAALRph?format=jpg&name=orig" alt="Case 15" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-I feel definitely sexy!
-
-Prompt:
-{
-"meta": {
-"project": "Summer_Car_Selfie_PinkBikini_Flux_V4.2",
-"target_engine": "Flux.1 [dev] / Nano Banana Pro",
-"version": "4.2.0 (Everything in Focus - f/11)",
-"created_at": "2025-12-25T13:40:00Z"
-},
-"engine_configuration": {
-"model": {...
-```
-
-</details>
-
----
-
-### 16. [@NanoInspirate](https://twitter.com/NanoInspirate)
-
-<img src="https://pbs.twimg.com/media/G9FdgnQXoAAUaVO?format=jpg&name=orig" alt="Case 16" width="400">
+<img src="https://pbs.twimg.com/media/G9FdgnQXoAAUaVO?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -372,16 +192,16 @@ Google Gemini Nano Banana pro 3.0
 {
   "prompt_description": {
     "subject": "A young adult female, appearing to be in her early 20s, with a slender and toned athletic build.",
-    "face": "Her face is turned to the side, with a focus on her profile. She has striking blue...
+    "face": "Her face is turned to the side, with a focus on her profi...
 ```
 
 </details>
 
 ---
 
-### 17. [@NeuralPaints](https://twitter.com/NeuralPaints)
+### [@NeuralPaints](https://twitter.com/NeuralPaints)
 
-<img src="https://pbs.twimg.com/media/G9FbLE1aAAAj83J?format=jpg&name=orig" alt="Case 17" width="400">
+<img src="https://pbs.twimg.com/media/G9FbLE1aAAAj83J?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -393,16 +213,16 @@ Please check the ALT text to see the prompt used for each image.
 
 Base prompt:
 
-A [PHOTOGRAPHY STYLE: e.g., grainy black and white film, candid street shot, cinematic telephoto] photograph of [SUBJECT NAME OR DESCRIPTION] [SPECIFIC...
+A [PHOTOGRAPHY STYLE: e.g., grainy black and white film, candid street shot, cinematic telephoto] photograph of [SUBJECT NAME O...
 ```
 
 </details>
 
 ---
 
-### 18. [@Taaruk_](https://twitter.com/Taaruk_)
+### [@Taaruk_](https://twitter.com/Taaruk_)
 
-<img src="https://pbs.twimg.com/media/G9FYMAobwAA1Yuw?format=jpg&name=orig" alt="Case 18" width="400">
+<img src="https://pbs.twimg.com/media/G9FYMAobwAA1Yuw?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -413,40 +233,16 @@ Prompt {
   "Objective": "Generate an ultra-realistic close-up portrait with a minimalist, modern editorial fashion test shoot aesthetic.",
   "Persona_Details": {
     "Subject": "Young adult man",
-    "Facial_Features": {
-      "Skin_Tone":...
+    "Facial_F...
 ```
 
 </details>
 
 ---
 
-### 19. [@web3btc](https://twitter.com/web3btc)
+### [@meng_dagg695](https://twitter.com/meng_dagg695)
 
-<img src="https://pbs.twimg.com/media/G9FEFyAbQAAthBT?format=jpg&name=orig" alt="Case 19" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-GM
-
-我自己优化了下prompt,现在人物稳定性还不错。
-并且加了侧光（见图2），人物脸部层次高级了些。
-
-以下是prompt，需要用Nano Banana Pro 出图。
-
-Hyperrealistic realistic-anime portrait of a female character standing against a completely black background.
-Lighting: a narrow, hard-edged spotlight coming from one side of the face (side lighting / split ligh...
-```
-
-</details>
-
----
-
-### 20. [@meng_dagg695](https://twitter.com/meng_dagg695)
-
-<img src="https://pbs.twimg.com/media/G9FCvahbQAAvwMx?format=jpg&name=orig" alt="Case 20" width="400">
+<img src="https://pbs.twimg.com/media/G9FCvahbQAAvwMx?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -461,17 +257,16 @@ Prompt :
   "image_type": "photorealistic digital portrait",
   "resolution_target": "8K UHD",
   "aspect_ratio": "vertical (portrait orientation)",
-  "framing": {
-    "crop": "tight...
+  "framin...
 ```
 
 </details>
 
 ---
 
-### 21. [@aleenaamiir](https://twitter.com/aleenaamiir)
+### [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-<img src="https://pbs.twimg.com/media/G9E6Yg_aIAEz7v5?format=jpg&name=orig" alt="Case 21" width="400">
+<img src="https://pbs.twimg.com/media/G9E6Yg_aIAEz7v5?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -488,31 +283,9 @@ A minimalist illustration showing a small [PERSON] standing beneath a massive [S
 
 ---
 
-### 22. [@john_my07](https://twitter.com/john_my07)
+### [@VibeMarketer_](https://twitter.com/VibeMarketer_)
 
-<img src="https://pbs.twimg.com/media/G9EP6cBb0AARqys?format=jpg&name=orig" alt="Case 22" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Nano Banana Pro on Gemini App.
-
-Prompt;
-
-Subject: Turkish girl with fair complexion walking through a crowded street  
-Pose: side pose (body facing sideways), head turned toward camera, confident soft expression  
-Focus: subject sharp + crisp, surrounding people blurred with motion blur  
-Scene: bus...
-```
-
-</details>
-
----
-
-### 23. [@VibeMarketer_](https://twitter.com/VibeMarketer_)
-
-<img src="https://pbs.twimg.com/media/G6xPugzXwAAJAp_?format=jpg&name=orig" alt="Case 23" width="400">
+<img src="https://pbs.twimg.com/media/G6xPugzXwAAJAp_?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -529,9 +302,9 @@ Recreate the person in [@]img1 in the same outfit and same pose, but from a diff
 
 ---
 
-### 24. [@dotey](https://twitter.com/dotey)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G7qpEyCX0AATRs4?format=jpg&name=orig" alt="Case 24" width="400">
+<img src="https://pbs.twimg.com/media/G7qpEyCX0AATRs4?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -543,16 +316,16 @@ nano banana pro prompt
 
 --- Prompt ---
 
-A horizontal split-screen cinematic shot of {Scene}, seamlessly blending two different...
+A horizontal split-screen cinematic shot of {Scene}, seamlessly blen...
 ```
 
 </details>
 
 ---
 
-### 25. [@0x00_Krypt](https://twitter.com/0x00_Krypt)
+### [@0x00_Krypt](https://twitter.com/0x00_Krypt)
 
-<img src="https://pbs.twimg.com/media/G88AUwjbsAAMbSt?format=jpg&name=orig" alt="Case 25" width="400">
+<img src="https://pbs.twimg.com/media/G88AUwjbsAAMbSt?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -561,41 +334,16 @@ A horizontal split-screen cinematic shot of {Scene}, seamlessly blending two dif
 来自 @dotey 宝玉老师的灵感
 Banana Prompt
 ---
-Create a 3x3 grid of nine distinct circular stickers, each depicting a different daily life scene. Each sticker should have a flat doodle style with a bold black outline, bright pastel colors, simple flat shapes, minimal shading, and cute rounded proportions. Each...
+Create a 3x3 grid of nine distinct circular stickers, each depicting a different daily life scene. Each sticker should have a flat doodle style with a bold black outline, bright pastel colors, simple flat shapes, m...
 ```
 
 </details>
 
 ---
 
-### 26. [@dotey](https://twitter.com/dotey)
+### [@ttmouse](https://twitter.com/ttmouse)
 
-<img src="https://pbs.twimg.com/media/G83wDhfXAAA5Pbh?format=jpg&name=orig" alt="Case 26" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Level up your fireworks display! Introducing a new ultra-realistic fireworks prompt template: just enter numbers, letters, or symbols, and watch them seamlessly emerge as dazzling fireworks—cinematic realism guaranteed! 
-
-Examples:
-Subject: I  U
-Subject: 
-Subject: 
-Subject: 
-2026
-Happy New Year
-
----...
-```
-
-</details>
-
----
-
-### 27. [@ttmouse](https://twitter.com/ttmouse)
-
-<img src="https://pbs.twimg.com/media/G8y9ElSWYAA1Tdn?format=jpg&name=orig" alt="Case 27" width="400">
+<img src="https://pbs.twimg.com/media/G8y9ElSWYAA1Tdn?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -612,16 +360,16 @@ My Subject:  主题名称
 图片比例：9:16
 
 # Role Definition:
-You are an expert product photographer and creative art director specializing in high-end luxury goods. Your sole task is to generate a photorealistic image of a custom ...
+You are an expert product photographer and creative art director specializing in high-end luxury goods. Your sole task ...
 ```
 
 </details>
 
 ---
 
-### 28. [@Strength04_X](https://twitter.com/Strength04_X)
+### [@Strength04_X](https://twitter.com/Strength04_X)
 
-<img src="https://pbs.twimg.com/media/G8-_SQ0b0AEhTBE?format=jpg&name=orig" alt="Case 28" width="400">
+<img src="https://pbs.twimg.com/media/G8-_SQ0b0AEhTBE?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -632,16 +380,16 @@ Turning the streets into my personal playlist. The future looks and sounds amazi
 ​Created with Gemini Nano Banana Pro
 
 Prompt  {
-  "A hyper-realistic, cinematic 8k image of a man standing in a bustling Indian street market at night. He is wearing a plain grey t-shirt, green cargo pants, and whi...
+  "A hyper-realistic, cinematic 8k image of a man standing in a bustling Indian street market at night. He is wearin...
 ```
 
 </details>
 
 ---
 
-### 29. [@aleenaamiir](https://twitter.com/aleenaamiir)
+### [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-<img src="https://pbs.twimg.com/media/G8_JQaobcAAWlwe?format=jpg&name=orig" alt="Case 29" width="400">
+<img src="https://pbs.twimg.com/media/G8_JQaobcAAWlwe?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -651,59 +399,16 @@ Object Turned Civilization
 
 Gemini Nano Banana Pro Prompt:
 
-A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE / SOCIETY] build homes, roads, markets, and infrastructure directly into the object’s structure. Photoreal materials, lived-in wear, soft daylight, wide cinemat...
+A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE / SOCIETY] build homes, roads, markets, and infrastructure directly into the object’s structure. Photoreal mat...
 ```
 
 </details>
 
 ---
 
-### 30. [@miilesus](https://twitter.com/miilesus)
+### [@kingofdairyque](https://twitter.com/kingofdairyque)
 
-<img src="https://pbs.twimg.com/media/G9BV4GXXQAAF9I0?format=jpg&name=orig" alt="Case 30" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-VOGUE Prompt for Nano Banana Pro 
-
-Create a realistic Vogue magazine cover–style fashion portrait using the uploaded face as the original face reference (100% face identity preservation).
-
-A young elegant woman posing confidently, maintaining her original facial features and natural beauty. She is w...
-```
-
-</details>
-
----
-
-### 31. [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
-
-<img src="https://pbs.twimg.com/media/G9GKl-hbEAARCF2?format=jpg&name=orig" alt="Case 31" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Gemini Nano Banana Prompt
-
-{
-  "aspect_ratio": "4:5",
-  "meta_data": {
-    "concept": "Modern Noir Fashion",
-    "mood": "Chic, High-Contrast, Sexy, Mysterious"
-  },
-  "subject_details": {
-    "character": "Breathtaking young woman (Trendy visual), charismatic gaze, waist-up...
-```
-
-</details>
-
----
-
-### 32. [@kingofdairyque](https://twitter.com/kingofdairyque)
-
-<img src="https://pbs.twimg.com/media/G607H8jawAADY9e?format=jpg&name=orig" alt="Case 32" width="400">
+<img src="https://pbs.twimg.com/media/G607H8jawAADY9e?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -716,16 +421,16 @@ Prompt for nano banana pro:
   "model": "stable-diffusion-xl-v1-0", 
   "size": "2048x3072",
   "reference_image": "face.jpg",
-  "use_reference_for": ["face", "hairstyle", "skin_tone",...
+  "use_reference_for": ["fac...
 ```
 
 </details>
 
 ---
 
-### 33. [@xmliisu](https://twitter.com/xmliisu)
+### [@xmliisu](https://twitter.com/xmliisu)
 
-<img src="https://pbs.twimg.com/media/G8XiFR2WYAAeyId?format=jpg&name=orig" alt="Case 33" width="400">
+<img src="https://pbs.twimg.com/media/G8XiFR2WYAAeyId?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -741,37 +446,16 @@ Prompt:
   "aesthetic_theme": {
     "style": "Editorial poster-style multi-panel collage",
     "mood": "Retro analog–digital fusion",
-    "color_palette": [
-      "Warm...
+    "co...
 ```
 
 </details>
 
 ---
 
-### 34. [@VibeMarketer_](https://twitter.com/VibeMarketer_)
+### [@Arminn_Ai](https://twitter.com/Arminn_Ai)
 
-<img src="https://pbs.twimg.com/media/G6s_-BpXgAA9i4k?format=jpg&name=orig" alt="Case 34" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-nano banana pro
-
-prompt:
-
-Recreate this ad concept using my product instead of theirs. Keep the same mood, lighting, composition, and overall vibe. Remove all competitor branding.
-Replace the product with the one from my uploaded image and adapt all background elements, props,...
-```
-
-</details>
-
----
-
-### 35. [@Arminn_Ai](https://twitter.com/Arminn_Ai)
-
-<img src="https://pbs.twimg.com/media/G7BoKccXgAAimPo?format=jpg&name=orig" alt="Case 35" width="400">
+<img src="https://pbs.twimg.com/media/G7BoKccXgAAimPo?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -792,16 +476,16 @@ prompt:
     "collectibles-shelf",
     "low-angle",
     "sitting-pose"
-  ],...
+  ...
 ```
 
 </details>
 
 ---
 
-### 36. [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+### [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
-<img src="https://pbs.twimg.com/media/G8Bvw5ka0AAVL0N?format=jpg&name=orig" alt="Case 36" width="400">
+<img src="https://pbs.twimg.com/media/G8Bvw5ka0AAVL0N?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -814,17 +498,16 @@ Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
 Bookmark  this now and recreate this with your selfie later.
 
 How to:
- 1) Download the Gemini app from the Play Store or App Store.
- 2) Open the app and tap on the " Create imag...
+ 1) Download the Gemini app from the Play Store or App St...
 ```
 
 </details>
 
 ---
 
-### 37. [@Just_sharon7](https://twitter.com/Just_sharon7)
+### [@Just_sharon7](https://twitter.com/Just_sharon7)
 
-<img src="https://pbs.twimg.com/media/G9E8mQjb0AATVT5?format=jpg&name=orig" alt="Case 37" width="400">
+<img src="https://pbs.twimg.com/media/G9E8mQjb0AATVT5?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -838,16 +521,16 @@ Prompt
 {
   "subject": {
     "person": "A young woman with ethereal features, fair skin, and long, straight platinum blonde/silver hair.",
-    "expression": "Serene, pensive gaze looking...
+    "expression": "Serene, ...
 ```
 
 </details>
 
 ---
 
-### 38. [@linxiaobei888](https://twitter.com/linxiaobei888)
+### [@linxiaobei888](https://twitter.com/linxiaobei888)
 
-<img src="https://pbs.twimg.com/media/G8SJsa9a4AIbZ8p?format=jpg&name=orig" alt="Case 38" width="400">
+<img src="https://pbs.twimg.com/media/G8SJsa9a4AIbZ8p?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -859,16 +542,16 @@ Prompt
 
 Nano Banana  Pro Prompt:
 
-生成一张 9:16 竖版「高端时尚杂志封面级」写实照片：以我上传的 FACE_REF 为人物身份参考，100%还原五官与骨相；人物身穿“明制华丽礼服方向”的重工汉服（多层叠穿、手工刺绣/织金锦、贵重金饰头面），在故宫红墙长廊雪景中拍摄。画面具备《Vogue》《Harper’s Bazaar》《ELLE》《Cosmopolitan》《Marie Claire》《i-D》《Allure》《FLAUNT》级别的摄影、造型与封面设计，以上杂志随机任选一作为杂志的封面设计，并保持选择杂志的一贯...
+生成一张 9:16 竖版「高端时尚杂志封面级」写实照片：以我上传的 FACE_REF 为人物身份参考，100%还原五官与骨相；人物身穿“明制华丽礼服方向”的重工汉服（多层叠穿、手工刺绣/织金锦、贵重金饰头面），在故宫红墙长廊雪景中拍摄。画面具备《Vogue》《Harper’s Bazaar》《ELLE》《Cosmopolitan》《Marie Claire》《i-D》《Allure》《...
 ```
 
 </details>
 
 ---
 
-### 39. [@dotey](https://twitter.com/dotey)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G7HqLdcXcAEVoJq?format=jpg&name=orig" alt="Case 39" width="400">
+<img src="https://pbs.twimg.com/media/G7HqLdcXcAEVoJq?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -882,16 +565,16 @@ Take a screenshot with your X profile, and send it to Gemini/nano banan pro with
 
 --- Prompt ---
 
-A 9:16 vertical, photorealistic cyber-aesthetic futuristic social-app interface. A hand is ho...
+A 9:16 vertical, photorealistic cyber-aesth...
 ```
 
 </details>
 
 ---
 
-### 40. [@dotey](https://twitter.com/dotey)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G7Q1z6SWwAAdgAx?format=jpg&name=orig" alt="Case 40" width="400">
+<img src="https://pbs.twimg.com/media/G7Q1z6SWwAAdgAx?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -902,17 +585,16 @@ nano banana pro prompt
 Transform a comic character into an ultra-realistic human
 
 ---- prompt ---- 
-Transform this comic character into an ultra-realistic human while preserving the original hairstyle, outfit, facial expression, and overall character identity.
-The entire scene should use deep depth...
+Transform this comic character into an ultra-realistic human while preserving the original hairstyle, outfit, facial expression, and overall characte...
 ```
 
 </details>
 
 ---
 
-### 41. [@op7418](https://twitter.com/op7418)
+### [@op7418](https://twitter.com/op7418)
 
-<img src="https://pbs.twimg.com/media/G7U0ZGbaUAAmQAN?format=jpg&name=orig" alt="Case 41" width="400">
+<img src="https://pbs.twimg.com/media/G7U0ZGbaUAAmQAN?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -926,16 +608,16 @@ Nano Banana Pro Prompt:
 
 指令：基于附带的照片，将图像显示在复古手机的屏幕界面内，并进行特定的风格变换。
 
-画面描述：这是一张抓拍的、略微倾斜的复古诺基亚手机特写（经典直板造型，例如 6610 或类似的早期彩屏机型），手机在画面中随意地呈对角线放置。低分辨率的发光 LCD 屏幕占据了构图的主导地位，填满了大部分视野。周围坚固的塑料外壳和物理 T9 键盘/导航键的顶部区域仅部分可见，并在画面边缘被裁剪...
+画面描述：这是一张抓拍的、略微倾斜的复古诺基亚手机特写（经典直板造型，例如 6610 或类似的早期彩屏机型），手机在画面中随意地呈对角线放置。低分辨率的发光 LCD 屏幕占据了构图的主导地位，填...
 ```
 
 </details>
 
 ---
 
-### 42. [@saniaspeaks_](https://twitter.com/saniaspeaks_)
+### [@saniaspeaks_](https://twitter.com/saniaspeaks_)
 
-<img src="https://pbs.twimg.com/media/G9EPi_ib0AAOpcX?format=jpg&name=orig" alt="Case 42" width="400">
+<img src="https://pbs.twimg.com/media/G9EPi_ib0AAOpcX?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -950,17 +632,16 @@ Nano banana Pro on Gemini app.
   "style": "portrait / official photo, professional editorial, photorealistic",
   "composition": {
     "framing": "medium-wide interior shot",
-    "camera_quality": "professional, high-quality camera",
-    "a...
+    "camera_qua...
 ```
 
 </details>
 
 ---
 
-### 43. [@ttmouse](https://twitter.com/ttmouse)
+### [@ttmouse](https://twitter.com/ttmouse)
 
-<img src="https://pbs.twimg.com/media/G8kBFCuW8AAcSTu?format=jpg&name=orig" alt="Case 43" width="400">
+<img src="https://pbs.twimg.com/media/G8kBFCuW8AAcSTu?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -973,16 +654,16 @@ Nano banana Pro on Gemini app.
 基于【参考照片人物】
 A high-quality 9:16 vertical portrait, 4k resolution. 
 **Framing:** Medium-long shot (framed from the knees up, focusing on torso and head). 
-**Subject:** The woman from the reference image, standing in 3/4 profile facing left, looking at the lens. Sh...
+**Subject:** The woman from the reference image, standing i...
 ```
 
 </details>
 
 ---
 
-### 44. [@dotey](https://twitter.com/dotey)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G7iPmj7WYAAaEoP?format=jpg&name=orig" alt="Case 44" width="400">
+<img src="https://pbs.twimg.com/media/G7iPmj7WYAAaEoP?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -994,41 +675,16 @@ nano banana pro prompt
 
 ---- Prompt ----
 
-Present a clear, 45° top-down view of an isometric miniature 3D cartoon scene, highlighting iconic landmarks centere...
+Present a clear, 45° top-down view of an isometric miniature 3D ca...
 ```
 
 </details>
 
 ---
 
-### 45. [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G9GLJbub0AA8KS6?format=jpg&name=orig" alt="Case 45" width="400">
-
-<details>
-<summary>📝 View Prompt</summary>
-
-```
-Gemini Nano Banana Prompt
-
-{
-  "aspect_ratio": "4:5",
-  "meta_data": {
-    "concept": "Epic High Fashion",
-    "mood": "Majestic, Stormy, Dynamic, Ethereal"
-  },
-  "subject_details": {
-    "character": "Breathtaking young woman (Goddess visual), calm face amidst chaos, waist-up shot",
-    "outfit": ...
-```
-
-</details>
-
----
-
-### 46. [@dotey](https://twitter.com/dotey)
-
-<img src="https://pbs.twimg.com/media/G7iQBf4W4AAPRf_?format=jpg&name=orig" alt="Case 46" width="400">
+<img src="https://pbs.twimg.com/media/G7iQBf4W4AAPRf_?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -1039,56 +695,311 @@ nano banana pro 提示词
 
 --- Prompt ----
 
-以45°俯视角度呈现一幅精致的微缩3D场景，凸显精准细腻的模型细节。画面特写一只瓷质咖啡杯，杯中的卡布奇诺奶泡之上，微妙地漂浮着一个迷你城市{city}，占据了画面的大部分，场景中央突出展示该{city}最具代表性的地标建筑，细节清晰可见，主要景点散发柔和的灯光，微型街道上有细致逼真的车辆穿梭。整体采用真实感的电影级光效与景深模糊效果，营造出奇幻而梦境般的氛围。画面细节极致丰富，风格高度写实，呈现8K级电影质感。画面比例1:1。...
+以45°俯视角度呈现一幅精致的微缩3D场景，凸显精准细腻的模型细节。画面特写一只瓷质咖啡杯，杯中的卡布奇诺奶泡之上，微妙地漂浮着一个迷你城市{city}，占据了画面的大部分，场景中央突出展示该{city}最具代表性的地标建筑，细节清晰可见，主要景点散发柔和的灯光，微型街道上有细致逼真的车辆穿梭。整体采用真实感的电影级光效与景深模糊效果，营造出奇幻而梦境般的氛围。画面细节极致丰富，风格高度写...
 ```
 
 </details>
 
 ---
 
-### 47. [@dotey](https://twitter.com/dotey)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G6i09XKXsAAzHUd?format=jpg&name=orig" alt="Case 47" width="400">
+<img src="https://pbs.twimg.com/media/G6aa9VgWcAAklY6?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
 
 ```
-nano banana Pro prompt
- add an image as reference
----
+nano banana pro prompt:
 
-Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown, ensuring accurate depiction of their head accessories.
-
-Arrange the images in a 4x6 layout, featuring common chat phrases or relev...
+A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular bl...
 ```
 
 </details>
 
 ---
 
-### 48. [@MayorKingAI](https://twitter.com/MayorKingAI)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G7ANELZWMAEfO5h?format=jpg&name=orig" alt="Case 48" width="400">
+<img src="https://pbs.twimg.com/media/G6ar-ICXgAAH3TF?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
 
 ```
-Nano Banana Pro Prompt 
- 
-Felt toys  
+nano banana pro prompt
 
-Full body [Subject] toy, [attributes/accessories], [expression], made of felt, in a [place], [lighting], friendly and cartoonish appearance, rich and soft textures...
+A sweeping, highly detailed traditional Chinese ink and color handscroll painting on aged silk, perfectly emulating the artistic style, brushwork, and scattered point perspective of Zhang Zeduan's "Along the River During the Q...
 ```
 
 </details>
 
 ---
 
-### 49. [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+### [@dotey](https://twitter.com/dotey)
 
-<img src="https://pbs.twimg.com/media/G9GLk7fa8AAr1WI?format=jpg&name=orig" alt="Case 49" width="400">
+<img src="https://pbs.twimg.com/media/G7XnSI3WwAAK6gB?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+Unlock the cosmos with this all-in-one magical Tarot Reading prompt—complete with zodiac insights, fortune scoring, and four enchanted tarot cards rendered in a mystical ritual circle. 
+
+Try it out and feel free to share your magical results! 
+
+ nano...
+```
+
+</details>
+
+---
+
+### [@dotey](https://twitter.com/dotey)
+
+<img src="https://pbs.twimg.com/media/G75_mK9WcAAv87k?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+nano banana pro prompt
+
+The Black Pearl awaits its captain. 
+
+--- Prompt ---
+
+A detailed photograph captures a glass bottle containing a miniature scene. Inside is the 'Black Pearl,' a weathered pirate ship with torn black sails and Jolly Roger flags...
+```
+
+</details>
+
+---
+
+### [@dotey](https://twitter.com/dotey)
+
+<img src="https://pbs.twimg.com/media/G6smYVJX0AAmgko?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+nano banana pro prompt (with gemini)
+
+Dynamically generate a current weather card based on a given city name.
+
+--- prompt ---
+
+Present a clear, 45° top-down view of a vertical (9:16) isometric miniature 3D cartoon scene, highlighting iconic landmarks...
+```
+
+</details>
+
+---
+
+### [@linxiaobei888](https://twitter.com/linxiaobei888)
+
+<img src="https://pbs.twimg.com/media/G8RAQXWa4AgpfnJ?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+这个云朵造型很棒！
+
+我把下方景观也整成了模板，填入你要的主体和景观即可！
+
+Nano banana Pro Prompt：
+
+创建一个超写实的天空场景，柔和、自然的云层有机地聚合，形成一个清晰可辨的【主体】轮廓。云朵形态高悬在明亮蔚蓝的天空中，自然漂浮，其下方是清晰可识别的【景观描述】景观，为画面提供稳固的视觉基础。
+画面构图为正方形（1080×1080），云层造型位于画面上半部分，下方的风景使整体场景更加平衡。光线清晰明亮，呈现出日光直射的效果，云朵上有被阳光照亮的高光，增强了层次感、柔软度...
+```
+
+</details>
+
+---
+
+### [@r4jjesh](https://twitter.com/r4jjesh)
+
+<img src="https://pbs.twimg.com/media/G9EWZ4lb0AMn5bM?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+Gemini nano banana pro / Grok 
+
+Prompt :
+
+{
+  "quality": "hyper-realistic 8k",
+  "shot": "medium shot",
+  "lens": "35mm lens",
+  "setting": "dusty warehouse with tall windows",
+  "lighting": "late-afternoon sun beams cutting through suspended dust",
+...
+```
+
+</details>
+
+---
+
+### [@linxiaobei888](https://twitter.com/linxiaobei888)
+
+<img src="https://pbs.twimg.com/media/G8cURQNbkAA-c8m?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+非常喜欢这种极简留白的菜单，看着就很有食欲
+
+尝试用复刻了下，感觉还行，拿去给商家做几张图应该很不错
+
+Nano Banana Pro Prompt:
+一张高角度商业美食摄影照片，展示了[天妇罗]盛放在极简风格的透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称、价格和搭配说明。右上角有一个极简的小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填...
+```
+
+</details>
+
+---
+
+### [@dotey](https://twitter.com/dotey)
+
+<img src="https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+nano banana pro prompt
+
+Isometric Miniature Stock Scene
+
+Enter a company name or stock ticker to generate an exquisite, miniature isometric 3D scene integrating real-time stock data for the specified date.
+
+inspired by @keithso27 's tweet
+
+----
+
+Pres...
+```
+
+</details>
+
+---
+
+### [@Samann_ai](https://twitter.com/Samann_ai)
+
+<img src="https://pbs.twimg.com/media/G9BpIbYWEAA823v?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+Turn your photo into a 𝘁𝗶𝗻𝘆 𝗖𝗵𝗿𝗶𝘀𝘁𝗺𝗮𝘀 nutcracker doll 
+
+ Gemini Nano Banana PRO 4K on @DomoAI_ 
+ Jason Prompt 
+
+{
+  "task": "image_edit_identity_to_doll",
+  "inputs": {
+    "user_face_image": "<UPLOAD_OR_URL_USER_PORTRAIT>",
+    "style_r...
+```
+
+</details>
+
+---
+
+### [@ttmouse](https://twitter.com/ttmouse)
+
+<img src="https://pbs.twimg.com/media/G84ps7GaoAA0HVt?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+Nano banana pro prompt：
+
+一组冷静、高质感的产品摄影画面。
+
+画面主体是一瓶高端营养补充剂，瓶身完整、干净，密封防拆封条仍然保留，整体呈现出高度精密、被严格控制的工业产品状态。产品被放置在一块哑光石材表面上，石材质地粗粝、自然、略显陈旧，与产品的精致形成对比。
+
+画面中出现明显的“功能错位”细节：在营养补充剂瓶旁，摆放着一把比例明显不合理的迷你躺椅，像是为人休息而准备，却无法真正使用，只是象征性地存在。同时，瓶身或附近贴有一张醒目的警示标签，文字理性、冷淡，却无法明确说明...
+```
+
+</details>
+
+---
+
+### [@dotey](https://twitter.com/dotey)
+
+<img src="https://pbs.twimg.com/media/G7RLpGbW8AEDqyA?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+nano banana pro prompt
+
+Create a hand-drawn style infographic card for a topic.
+
+--- Prompt ---
+
+Create a hand-drawn style infographic card in a 9:16 vertical format. The card should have a warm, organic look, with a beige or off-white background fea...
+```
+
+</details>
+
+---
+
+### [@dotey](https://twitter.com/dotey)
+
+<img src="https://pbs.twimg.com/media/G7OKU8AWoAAejrh?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+nano banana pro prompt
+
+A realistic cyber-aesthetic futuristic business card photograph
+
+---- Prompt ----
+
+A realistic cyber-aesthetic futuristic business card photograph: a left hand is holding a horizontal, acrylic, borderless card the size of a st...
+```
+
+</details>
+
+---
+
+### [@dotey](https://twitter.com/dotey)
+
+<img src="https://pbs.twimg.com/media/G73tNgtWgAA0Gh8?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+Nano Banana Pro Prompt from @KanaWorks_AI 
+
+ A dreamy mermaid café with 3D-cartoon vibes—sip coffee, enjoy sweets, and relax in fantasy!
+
+--- Prompt ---
+
+The illustration features a delicate, soothing, and highly detailed art style rendered in high r...
+```
+
+</details>
+
+---
+
+### [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+
+<img src="https://pbs.twimg.com/media/G9GL5Ina0AAYAWD?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
@@ -1099,29 +1010,91 @@ Gemini Nano Banana Prompt
 {
   "aspect_ratio": "4:5",
   "meta_data": {
-    "concept": "Romantic Sunlight Portrait",
-    "mood": "Warm, Nostalgic, Dreamy, Divine"
+    "concept": "Emotional Winter Portrait",
+    "mood": "Melancholic, Romantic, Cold, Pure"
   },
   "subject_details": {
-    "character": "Breathtaking young woman (Nation's first love visual), waist-up shot",
-    "action": "Standi...
+    "character": "Stunning young woman (Innocent first love...
 ```
 
 </details>
 
 ---
 
-### 50. [@dotey](https://twitter.com/dotey)
+### [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
-<img src="https://pbs.twimg.com/media/G6aa9VgWcAAklY6?format=jpg&name=orig" alt="Case 50" width="400">
+<img src="https://pbs.twimg.com/media/G72yMQOakAAJTf5?format=jpg&name=orig" alt="AI Generated Art" width="400">
 
 <details>
 <summary>📝 View Prompt</summary>
 
 ```
-nano banana pro prompt:
+SEE YOURSELF STANDING IN THE SNOW LIKE A CALM WINTER HERO — JUST LIKE THIS. 
 
-A traditional Chinese Gongbi ink and color painting on aged, textured rice paper. A fairy in elaborate Tang dynasty robes of red, beige, and teal ribbons, with a peony flower in her high hair bun, is standing on a circular black robotic vacuum cleaner (Roomba) that flies thr...
+Create your awesome potrait 
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+...
+```
+
+</details>
+
+---
+
+### [@linxiaobei888](https://twitter.com/linxiaobei888)
+
+<img src="https://pbs.twimg.com/media/G8-y4jtb0Akgoee?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+节日主题的3D城市微缩，基于原提示词增加了节日模板
+
+Nano Banana Pro Prompt:
+
+呈现一个清晰的、45°俯视的等距 3D 微缩卡通场景，描绘【城市】 的经典建筑或景点，并将其置于构图的中心。
+用【节日】对应的装饰品、闪烁的灯光和合适的【季节，默认冬季】或节日细节，将城市描绘成充满节日气氛的【节日】主题。
+使用柔和细腻的纹理、逼真的 PBR 材质和柔和逼真的光照，并营造微妙的阴影效果。
+制作一个边缘整齐的小型立体模型式城市底座。
+使用干净的【节日】背景色，与场景形成鲜明对比。...
+```
+
+</details>
+
+---
+
+### [@Sheldon056](https://twitter.com/Sheldon056)
+
+<img src="https://pbs.twimg.com/media/G9GOHcuagAEA2Kt?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+Nano Banana Pro on Gemini app.
+
+A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frosting platform. Details include hand-sculpted clothing, expressive fondant face, glitter dust highlights, and mini edible props referencing th...
+```
+
+</details>
+
+---
+
+### [@saniaspeaks_](https://twitter.com/saniaspeaks_)
+
+<img src="https://pbs.twimg.com/media/G7VhgdWaEAAZR8I?format=jpg&name=orig" alt="AI Generated Art" width="400">
+
+<details>
+<summary>📝 View Prompt</summary>
+
+```
+Nano banana Pro on Gemini app.
+
+{
+  "prompt": "A close-up photograph of a young woman with long brown wavy hair, looking over her left shoulder towards the camera. Warm sunlight streams through window blinds to her left, casting distinct horizontal s...
 ```
 
 </details>
