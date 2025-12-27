@@ -6024,3 +6024,28 @@ Nowadays - Venezuelan people be like: Trump is coming for you, run
 
 Why :
 ```
+
+---
+
+## Case: twitter-1995220978860015706
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1995220978860015706)
+**Scraped:** 2025-12-27T02:00:44.201Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7By58sboAApsa2?format=jpg&name=orig)
+
+### Prompt
+
+```
+Wanna recreate this photo with your own pic? Follow @NanoBanana_labs.
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+ 1) Download the Gemini app from the Play Store or App
+```
