@@ -8814,3 +8814,23 @@ Google Nano Banana Pro Prompt
 {
   "description": "Candid lifestyle image of the *same model* wearing the exact same olive short dress from the reference — identical neckline, waist seam, and fit. The outfit is styled casually with a chunky off-white knit cardigan draped
 ```
+
+---
+
+## Case: twitter-2004772209118904781
+
+**Author:** [@oggii_0](https://twitter.com/oggii_0)
+**Tweet:** [View Original](https://x.com/oggii_0/status/2004772209118904781)
+**Scraped:** 2025-12-27T05:25:27.351Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JhsH7aIAAbzhs?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana pro on Gemini app.
+
+Prompt: A close-up profile portrait of a young woman with her eyes closed and a calm, serene expression. She has a fair complexion with rosy cheeks and long dark brown hair with bangs. She is wearing a light brown teddy faux-fur coat and surreal headphones, where the ear cups are made of white clouds with a brown leather headband. The background is a softly blurred bright blue sky with clouds. The lighting is bright, natural daylight, creating a soft and airy feel. The image has a shallow depth of field with sharp focus on her face, in a dreamy, artistic, surreal, photorealistic style.
+```
