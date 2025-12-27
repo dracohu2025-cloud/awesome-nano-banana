@@ -8689,3 +8689,33 @@ Studio portrait using Google Gemini Nano Banana. You can use your own photo with
 
 A minimalist studio portrait of a woman sitting at a smooth concrete table against a soft light-gray background. She wears a black satin button-up shirt, natural makeup, and has shoulder-length brown hair with soft bangs. In front of her is a tall glass of iced latte with visible ice cubes and a straw. Beside the glass stands a small 3D chibi-style figurine version of the same woman, with a large head, big expressive eyes, rosy cheeks, and simplified features, holding a tiny iced coffee. The chibi has a glossy toy-like texture and soft shadows. Calm, cozy café vibe, cinematic soft lighting, shallow depth of field, ultra-realistic human combined with stylized 3D character, high detail, 1:1 aspect ratio.
 ```
+
+---
+
+## Case: twitter-2004783952989769949
+
+**Author:** [@Just_sharon7](https://twitter.com/Just_sharon7)
+**Tweet:** [View Original](https://x.com/Just_sharon7/status/2004783952989769949)
+**Scraped:** 2025-12-27T05:24:52.562Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JsX8UbsAAuiJI?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JsX9Ka0AANRe5?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Gemini Nano Banana pro 3.0 and Grok imagine 
+
+Prompt
+
+{
+  "subject": {
+    "person": {
+      "gender": "female",
+      "ethnicity": "East Asian",
+      "expression": "cheerful, soft smile",
+      "pose": "playful, standing on one leg with the other bent back at the knee,
+```
