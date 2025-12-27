@@ -6253,3 +6253,25 @@ Gemini Thinking Mode > Upload Your Photo > Create
 
 Prompt: the person in the attachment is wearing an apron in a pottery workshop, retouching their own clay copy.
 ```
+
+---
+
+## Case: twitter-2003388609651454417
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2003388609651454417)
+**Scraped:** 2025-12-27T02:51:34.855Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8qoA5_WcAAU0yh?format=jpg&name=orig)
+
+### Prompt
+
+```
+Here is another prompt to bring books to life. Probably need to refine but fun idea. 
+
+Nano Banana Pro Prompt: 
+
+<instruction> Input A is a classic novel or book title. Analyze the setting, the protagonist’s journey, and the core motif. Goal: A high-end leather-bound book lying open, where the story is physically erupting from the pages in 3D. Rules: - The base: A thick, weathered book with gilded edges. - The scene: Characters and landscapes emerge from the paper as if made of a mix of "ink-wash" and "hyper-real miniatures." - Details: Include "floating" sentences or iconic quotes as tiny physical gold letters swirling in the air. - Lighting: Warm library glow, candlelight flickering, dust motes visible in the air. - Output: ONE image, 4:5. The book title is visible on the spine and cover. </instruction>
+```
