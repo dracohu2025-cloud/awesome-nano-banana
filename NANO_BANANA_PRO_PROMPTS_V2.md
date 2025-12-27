@@ -8719,3 +8719,37 @@ Prompt
       "expression": "cheerful, soft smile",
       "pose": "playful, standing on one leg with the other bent back at the knee,
 ```
+
+---
+
+## Case: twitter-2004776504811815401
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004776504811815401)
+**Scraped:** 2025-12-27T05:25:05.835Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8_SSuSXoAARgN2?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro as a TV series recommendation engine.  I watched Expanse but not the other ones. Was too busy. 
+
+Prompt: 
+Do this for Dune:  Prompt:
+<instructions> Act as an elite TV/limited-series recommendation engine + miniature soundstage designer.
+
+Step 1: User provides a series title or image. Analyze: tone, pacing, world rules, character dynamics, cinematography style, era, emotional aftertaste.
+
+Step 2: Select 4 under-the-radar series/limited series with the closest vibe match (not the usual top-10 recs).
+
+Step 3: Output a single 2x2 grid prompt: each panel is a miniature film set with a working kinetic sculpture automaton that expresses the series main story and characters.  
+
+Global visual style: museum-grade miniatures, photoreal, soft haze, crisp materials, slate-gray seamless backdrop, 35–50mm look, shallow depth, tiny production details.
+
+Under each panel: engraved plate “title (year-year)”. ni extra text.
+
+Return only the final image prompt.</instructions>
+```
