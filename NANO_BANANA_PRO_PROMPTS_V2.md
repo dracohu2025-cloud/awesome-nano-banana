@@ -6004,3 +6004,23 @@ Using 100% of the provided face, create a cinematic extreme close-up scene of an
 > Hands grip the slick, wet bow firmly, showing veins, mud sliding off the skin, and the realistic texture of wet leather and wood. The arrow feathers in the foreground are soaked and matted. Water drips continuously from the arrowhead, catching a cool glint of light near the archer's nose.
 > The composition conveys absolute tension and energy amidst the storm. The framing is extremely tight, filling the entire frame with the face, hands, arrow, and falling rain. Hyper-realistic, cinematic style with high contrast, cool and desaturated colors, dense shadows, and a sense of movement frozen at the perfect instant. Aspect ratio 4:5
 ```
+
+---
+
+## Case: twitter-1995334884706136271
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1995334884706136271)
+**Scraped:** 2025-12-27T02:00:13.708Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7DafnLbMAAvk0C?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nowadays - Venezuelan people be like: Trump is coming for you, run 
+
+Why :
+```
