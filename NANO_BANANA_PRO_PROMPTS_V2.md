@@ -7566,3 +7566,40 @@ A photographer's contact sheet displaying multiple exposures of [SUBJECT/SESSION
 
 Check ALTs for ideas 
 ```
+
+---
+
+## Case: twitter-2004565148623618124
+
+**Author:** [@YaseenK7212](https://twitter.com/YaseenK7212)
+**Tweet:** [View Original](https://x.com/YaseenK7212/status/2004565148623618124)
+**Scraped:** 2025-12-27T03:01:03.740Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Gk_aCWoAAHOk9?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Gk_aEWEAAnc-V?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Gk_aIWYAAHRc4?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Gk_aDWsAErmkp?format=jpg&name=orig)
+
+### Prompt
+
+```
+Starbucks On Gemini Nano Banana 3.0
+
+Prompt:
+
+[
+  {
+    "id": "frappe_strawberry_construction",
+    "subject": {
+      "brand": "Starbucks",
+      "product": "Strawberry Frappuccino",
+      "container": "Towering cup"
+    },
+    "agents": {
+      "type": "Tiny workers",
+```
