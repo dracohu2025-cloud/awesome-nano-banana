@@ -133,19 +133,39 @@ export default async function CasePage({ params }: { params: Promise<{ id: strin
                     </div>
 
                     {/* Image Display */}
-                    {caseData.image_url && (
+                    {(caseData.image_urls?.length || caseData.image_url) && (
                         <div className="mb-8">
                             <div className="neo-card overflow-hidden">
                                 <div className="bg-[var(--accent-mint)] px-4 py-2 border-b-3 border-black flex items-center justify-between">
-                                    <span className="font-black uppercase">{modelInfo.emoji} Generated Image</span>
+                                    <span className="font-black uppercase">
+                                        {modelInfo.emoji} Generated Image{(caseData.image_urls?.length || 1) > 1 ? 's' : ''}
+                                        {(caseData.image_urls?.length || 1) > 1 && ` (${caseData.image_urls?.length})`}
+                                    </span>
                                 </div>
-                                <div className="relative bg-gray-100 flex items-center justify-center p-4">
-                                    <img
-                                        src={caseData.image_url}
-                                        alt={caseData.title_en}
-                                        className="max-w-full max-h-[600px] object-contain"
-                                        loading="eager"
-                                    />
+                                <div className="relative bg-gray-100 p-4">
+                                    {(caseData.image_urls && caseData.image_urls.length > 1) ? (
+                                        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                                            {caseData.image_urls.map((url, index) => (
+                                                <div key={index} className="flex items-center justify-center">
+                                                    <img
+                                                        src={url}
+                                                        alt={`${caseData.title_en} - Image ${index + 1}`}
+                                                        className="max-w-full max-h-[400px] object-contain"
+                                                        loading={index === 0 ? "eager" : "lazy"}
+                                                    />
+                                                </div>
+                                            ))}
+                                        </div>
+                                    ) : (
+                                        <div className="flex items-center justify-center">
+                                            <img
+                                                src={caseData.image_url}
+                                                alt={caseData.title_en}
+                                                className="max-w-full max-h-[600px] object-contain"
+                                                loading="eager"
+                                            />
+                                        </div>
+                                    )}
                                 </div>
                             </div>
                         </div>

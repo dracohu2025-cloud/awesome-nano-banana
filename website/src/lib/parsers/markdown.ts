@@ -163,19 +163,17 @@ export function parseMarkdownCases(
         // Skip if no case found
         if (caseNumber === null) continue;
 
-        // Extract image URL (try multiple patterns)
-        let imageUrl = '';
+        // Extract all image URLs
+        const imageUrls: string[] = [];
         for (const pattern of IMAGE_PATTERNS) {
             const matches = [...section.matchAll(pattern)];
-            if (matches.length > 0) {
-                // Find first valid image
-                const validImage = matches.find(m => isValidImageUrl(m[1]));
-                if (validImage) {
-                    imageUrl = validImage[1];
-                    break;
+            for (const match of matches) {
+                if (isValidImageUrl(match[1]) && !imageUrls.includes(match[1])) {
+                    imageUrls.push(match[1]);
                 }
             }
         }
+        const imageUrl = imageUrls[0] || '';
 
         // Extract prompt from code block
         const codeBlocks = [...section.matchAll(CODE_BLOCK_PATTERN)];
@@ -214,7 +212,8 @@ export function parseMarkdownCases(
                 author,
                 author_link: authorLink,
                 source_link: sourceLink,
-                image_url: imageUrl, // May be empty if no valid image
+                image_url: imageUrl, // First image for backward compatibility
+                image_urls: imageUrls.length > 0 ? imageUrls : undefined,
                 prompt,
                 prompt_en: prompt,
                 model: defaultModel,

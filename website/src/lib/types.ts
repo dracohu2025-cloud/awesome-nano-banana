@@ -20,7 +20,8 @@ export interface Case {
   author: string;
   author_link: string;
   source_link: string;
-  image_url: string;             // External URL or local path
+  image_url: string;             // First image URL (for backward compatibility)
+  image_urls?: string[];         // All image URLs
   prompt: string;
   prompt_en: string;
   prompt_note?: string;
