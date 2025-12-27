@@ -7365,3 +7365,24 @@ Prompt
 
 A hyper-realistic macro photograph of a tiny artist sitting on a miniature stool, carefully painting an ultra-detailed portrait of [subject] on the surface of a giant human fingernail. The [subject] is instantly recognizable,
 ```
+
+---
+
+## Case: twitter-2004251884866183312
+
+**Author:** [@FutureVibesAi](https://twitter.com/FutureVibesAi)
+**Tweet:** [View Original](https://x.com/FutureVibesAi/status/2004251884866183312)
+**Scraped:** 2025-12-27T02:59:36.483Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9CICAzb0AMIVc3?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro Prompt Share 
+Ultra-detailed macro photography of a tiny cartographer standing on a human palm, drawing an antique map that follows the natural palm lines as rivers and borders. Old parchment maps, compass tools, warm studio lighting, shallow depth of field, surreal realism.
+Image by @ImagineArt_X 
+Video by @grok Imagine
+```
