@@ -7603,3 +7603,39 @@ Prompt:
     "agents": {
       "type": "Tiny workers",
 ```
+
+---
+
+## Case: twitter-2004560242676498661
+
+**Author:** [@FitzGPT](https://twitter.com/FitzGPT)
+**Tweet:** [View Original](https://x.com/FitzGPT/status/2004560242676498661)
+**Scraped:** 2025-12-27T03:01:58.813Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Gg6RoWMAA5ZA0?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Gg6RnXIAERorX?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Gg6RlWMAAiE6D?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Gg6RrWQAA-N8T?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9BZb1HXEAA4KQn?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9BZcc2XEAAwnwY?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G9BZvT4XUAAmq-e?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G9BZwjlXQAEaA9N?format=jpg&name=orig)
+
+### Prompt
+
+```
+7# One Sentence Is Enough for Nano Banana
+
+Gemini Thinking Mode > Upload Your Photo > Create 
+
+Prompt: the person in the attachment is looking at a 'Wanted' poster hanging at the entrance of a bar in the Wild West, with their own image on it.
+```
