@@ -7235,3 +7235,55 @@ I used @muset_ai to create a 2025 year-in-review for @writing_tips . Here’s th
 
 Create an annual summary for the account https://x.com/writing_tips, and use Nano Banana Pro to generate a visual that highlights the account’s standout moments and makes the key strengths instantly eye-catching. Color palette options: • Black + Ivory + Champagne Gold • Cool Black + Cool White + Bright Gold • Blue + White + Red • Green + White + Red
 ```
+
+---
+
+## Case: twitter-2004601351146532917
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004601351146532917)
+**Scraped:** 2025-12-27T02:58:47.197Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9B79KwW8AAM_W0?format=jpg&name=orig)
+
+### Prompt
+
+```
+This is the first version of my scientist wars prompt for Nano Banana Pro. Meant to be educational and show two scientists debating science and theories 
+
+Prompt: 
+Do this for Einstein and a competitor of his 
+
+<instructions>
+ Invention = [User Choice, e.g., Electricity, The Airplane, The Telephone]
+
+Phase 1: Historical Conflict Analysis
+1.  Identify Rivals: Determine the two main historical figures associated with this invention (e.g., Tesla vs. Edison, Wright Bros vs. Curtiss).
+2.  Identify The Tech: Distinguish their competing methods (e.g., AC Coils vs. DC Bulbs).
+3.  Identify The Era: Select appropriate "Giant" background clutter (e.g., Victorian newspapers, 1920s fountain pens).
+
+Phase 2: Visual Execution
+Goal: A "Macro Diorama" of a Rivalry. A messy, highly detailed flat-lay of a shared historical workspace where the two rivals exist as tiny living figurines battling over their creation.
+
+Rules:
+The Stage: A large, yellowed Patent Diagram or Blueprint lies flat on a wooden desk. The paper is wrinkled and covered in scribbled corrections.
+
+The Tiny Rivals: Two hyper-realistic miniature figurines (Inventor A and Rival B) are standing on opposite sides of the document. They are positioned at their own tiny wooden desks or workstations on top of the paper.
+
+The Conflict: They are gesturing aggressively at each other. The Invention itself is physically emerging from the center of the paper between them (e.g., a glowing 3D lightbulb or a spinning biplane propeller), acting as the barrier or prize they are fighting over.
+
+The "Giant" Terrain (Surroundings): The scene is surrounded by massive, period-accurate objects acting as a landscape:
+
+A "Giant" wall of newspapers with headlines about their legal battles.
+ Massive burnt fuses or broken prototypes scattered like boulders.
+ A spilled cup of coffee creating a "lake" near one of the figures.
+  Giant tools (calipers, screwdrivers) casting long shadows.
+Perspective: Slightly angled 45-degree macro shot looking down at the patent.
+Texture: Dust motes, scratched mahogany wood, paper grain, metallic reflections.
+Lighting: Cinematic Macro Lighting. A warm desk lamp illuminates the scene, but the Invention in the center emits its own light (e.g., blue electrical arcs vs. yellow filament glow), lighting the faces of the tiny figures.
+
+Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography, tilt-shift effect.
+</instructions>
+```
