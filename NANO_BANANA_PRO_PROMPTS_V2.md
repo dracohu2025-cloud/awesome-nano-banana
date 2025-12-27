@@ -7690,3 +7690,33 @@ Prompt:
     "setting": "Cozy coastal countryside living room, relaxed family holiday gathering",
     "action": "Young female playing digital keyboard and singing; a tuxedo cat walks on the keys; family members observing
 ```
+
+---
+
+## Case: twitter-2004555934719173113
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004555934719173113)
+**Scraped:** 2025-12-27T03:02:19.027Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Gc22NXoAAhwPT?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro @higgsfield_ai  
+
+Prompt:
+
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_cinematic_gala_still",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references": {
+```
