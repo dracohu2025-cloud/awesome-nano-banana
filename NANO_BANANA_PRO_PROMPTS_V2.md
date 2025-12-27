@@ -7639,3 +7639,26 @@ Gemini Thinking Mode > Upload Your Photo > Create
 
 Prompt: the person in the attachment is looking at a 'Wanted' poster hanging at the entrance of a bar in the Wild West, with their own image on it.
 ```
+
+---
+
+## Case: twitter-2004556135089467670
+
+**Author:** [@NanoInspirate](https://twitter.com/NanoInspirate)
+**Tweet:** [View Original](https://x.com/NanoInspirate/status/2004556135089467670)
+**Scraped:** 2025-12-27T03:02:10.610Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GdJ2AWIAAXom6?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Gemini Nano Banana pro 3.0  
+
+{
+  "prompt_description": {
+    "subject": "A young adult woman with fair skin, appearing to be in her early 20s.",
+    "face": "Her face is turned to the left, with her lips slightly parted in a sensual expression. Her skin is smooth with a
+```
