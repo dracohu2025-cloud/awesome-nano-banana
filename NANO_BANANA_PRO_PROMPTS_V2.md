@@ -6817,3 +6817,28 @@ A Smoky Ephemeral Moment capturing [SUBJECT] in charcoal, with soft, blurred edg
 
 Check ALTS
 ```
+
+---
+
+## Case: twitter-2004626409432526918
+
+**Author:** [@dhumann](https://twitter.com/dhumann)
+**Tweet:** [View Original](https://x.com/dhumann/status/2004626409432526918)
+**Scraped:** 2025-12-27T02:56:58.501Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HdF0dW8AAuWrQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Quiet Contemplation
+A portrait in a private library. 
+
+To replicate: open Nano Banana Pro on your favorite surface, upload your reference image and try the prompt below.
+
+The main subject of this image is person in the attached reference image (hereinafter referred to as THE_SUBJECT). THE_SUBJECT is wearing a black turtleneck sweater and the hair is styled professionally. Create a cinematic portrait of THE_SUBJECT sitting in a brown leather high back chair inside an elegant private library with soft dramatic lighting. The face is partly lit with warm golden sunlight coming in through a window on the left and out of view. The lighting design creates a chiaroscuro effect with small highlight areas and deep shadows contributing to a moody atmosphere. THE_SUBJECT’S expression is thoughtful and contemplative, with one hand resting on the chin. The background is softly blurred, emphasizing THE_SUBJECT’S face. The image has a clean aesthetic and relaxed mood.
+
+#NanoBananaPro
+```
