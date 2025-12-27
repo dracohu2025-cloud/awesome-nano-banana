@@ -5900,3 +5900,65 @@ Prompt:
 
 A highly stylized 3D caricature of the person in the uploaded image, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence
 ```
+
+---
+
+## Case: twitter-1996163104862794115
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1996163104862794115)
+**Scraped:** 2025-12-27T01:59:46.519Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7PLvwRakAEssOm?format=jpg&name=orig)
+
+### Prompt
+
+```
+Wanna recreate this photo ?
+Check comment with your own pic?
+
+
+
+ Follow @NanoBanana_labs.
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+
+ 1) Download the Gemini app from the Play Store or App Store.
+ 2) Open the app and tap on the " Create image" button.
+ 3) Tap the + icon, click Gallery, and select a photo of yourself.
+   > Note: For best results, use a photo where your face fills about 70% of the screen.
+ 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
+ 5) Return to the Gemini app and paste that text into the "Describe your image" box.
+ Tap the rocket symbol  in the bottom right corner to generate your image.
+
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
+
+Prompt:
+{
+  "style": "full_ascii_portrait",
+  "canvas": {
+    "background_color": "black",
+    "aspect_ratio": "vertical"
+  },
+  "subject": {
+    "reference": "Face_of_uploaded_reference_image_person",
+    "pose": "front_view",
+    "lighting": "soft_direct_light",
+  },
+  "ascii_rendering": {
+    "character_set": ["f", "r", "i", "d", "a"],
+    "color_mapping": "warm_mexican_palette",
+    "brightness_mapping": "heavier_letters_for_highlights_lighter_for_shadows",
+    "resolution": "very_high"
+  },
+  "effects": {
+    "contrast": "strong",
+  }
+}
+```
