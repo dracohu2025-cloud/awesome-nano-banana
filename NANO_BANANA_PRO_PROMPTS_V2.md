@@ -6206,3 +6206,28 @@ High realism, natural skin texture, not AI-looking.
 
 Aspect ratio: vertical 16:9
 ```
+
+---
+
+## Case: twitter-2000599231451861496
+
+**Author:** [@linxiaobei888](https://twitter.com/linxiaobei888)
+**Tweet:** [View Original](https://x.com/4AAAAart/status/2000599231451861496?s=20)
+**Scraped:** 2025-12-27T02:50:46.924Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8cURQNbkAA-c8m?format=jpg&name=orig)
+
+### Prompt
+
+```
+非常喜欢这种极简留白的菜单，看着就很有食欲
+
+尝试用复刻了下，感觉还行，拿去给商家做几张图应该很不错
+
+Nano Banana Pro Prompt:
+一张高角度商业美食摄影照片，展示了[天妇罗]盛放在极简风格的透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称、价格和搭配说明。右上角有一个极简的小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填满整个 16:9 画面，采用大师级平面设计，配有精致的中式排版、极其克制的植物图案和精致优雅的光线，营造出一种空灵、奢华、精致的氛围，具有最大的精致感和考究感
+
+https://x.com/4AAAAart/status/2000599231451861496?s=20…
+```
