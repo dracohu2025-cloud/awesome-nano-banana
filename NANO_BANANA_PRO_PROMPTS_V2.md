@@ -6759,3 +6759,31 @@ This guide has laid out a structural and philosophical map for constructing a fa
 
 Consider this guide an exploratory map, not a rigid template. Use these principles to master the foundational grammar of the human face, and then use that mastery to create art that is not only technically proficient but emotionally resonant. The goal is to build a face that doesn't just hold a gaze, but invites a connection.
 ```
+
+---
+
+## Case: twitter-2004673828203467087
+
+**Author:** [@AllaAisling](https://twitter.com/AllaAisling)
+**Tweet:** [View Original](https://x.com/AllaAisling/status/2004673828203467087)
+**Scraped:** 2025-12-27T02:56:27.687Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Hufk9XgAAbaaY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9HupaWWcAEucTw?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9HvxVPWYAETsVG?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Hv85UXMAAQEsW?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt Studio: Liquid Pour Product Photography
+
+[PRODUCT] with [liquid: honey, oil, paint, milk] being poured over it, captured at moment of contact, dripping and coating surface, viscous flow frozen in time, studio lighting revealing liquid texture, sensory product photography, indulgent aesthetic
+
+Check ALTs for ideas 
+```
