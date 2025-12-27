@@ -5857,3 +5857,46 @@ Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
 
 Bookmark  this now and recreate this with your
 ```
+
+---
+
+## Case: twitter-1996615090200772828
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1996615090200772828)
+**Scraped:** 2025-12-27T01:59:25.987Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7Vm1HDakAA7pd6?format=jpg&name=orig)
+
+### Prompt
+
+```
+Wanna recreate this photo ?
+Check comment with your own pic?
+
+
+
+ Follow @NanoBanana_labs.
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+
+ 1) Download the Gemini app from the Play Store or App Store.
+ 2) Open the app and tap on the " Create image" button.
+ 3) Tap the + icon, click Gallery, and select a photo of yourself.
+   > Note: For best results, use a photo where your face fills about 70% of the screen.
+ 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
+ 5) Return to the Gemini app and paste that text into the "Describe your image" box.
+ Tap the rocket symbol  in the bottom right corner to generate your image.
+
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
+
+Prompt:
+
+A highly stylized 3D caricature of the person in the uploaded image, with expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Bold color background to emphasize the character’s charm and presence
+```
