@@ -7386,3 +7386,36 @@ Ultra-detailed macro photography of a tiny cartographer standing on a human palm
 Image by @ImagineArt_X 
 Video by @grok Imagine
 ```
+
+---
+
+## Case: twitter-2004584088875962826
+
+**Author:** [@Samann_ai](https://twitter.com/Samann_ai)
+**Tweet:** [View Original](https://x.com/Samann_ai/status/2004584088875962826)
+**Scraped:** 2025-12-27T03:00:15.762Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9G2asrWQAAwL3s?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9G2as_WIAA6M8P?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9G2assXAAAuKRI?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9G2asuXwAAbt28?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Upload your photo 
+ Paste the prompt into Nano Banana Pro (Gemini)
+ Your Christmas selfie is ready 
+………….
+Grab your friends  Try Supawork AI’s newest Christmas effects — no skills, just vibes.
+Up to 30% OFF 
+ http://supawork.ai/christmas?utm_source=xpost_20251223…
+…………
+
+Prompt 
+```
