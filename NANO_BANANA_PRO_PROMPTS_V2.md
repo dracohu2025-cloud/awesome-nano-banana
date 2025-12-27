@@ -6401,3 +6401,25 @@ Inspired by the minimalist aesthetic of design master Huang Hai, every stitch an
 The mega-detailed PROMPT：
 A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover for "Yesterday," inspired by Huang Hai's minimalist aesthetic. The composition features vast pale sepia negative space creating a melancholic, nostalgic atmosphere on a visible woven fabric base. The central focus is an exquisitely dimensionally embroidered vintage wooden record player with a detailed wilted rose resting on the turntable, showing realistic thread texture and natural luster. Subtle, barely visible embroidered details include a tiny reminiscing silhouette (bottom right) and a vinyl record (upper left). Top text in elegant cream embroidery: "Yesterday" and "The Beatles 1965". The bottom section features detailed embroidered musical notation (staff, treble clef, melancholic notes mixed with tiny rose petals) for the song's melody. Below the staff, the complete lyrics are embroidered in elegant script: "Yesterday, all my troubles seemed so far away / Now it looks as though they're here to stay / Oh, I believe in yesterday". Above the music: "YESTERDAY 昨日". Minimal thin border with tiny corner symbols (musical note, record player). The entire piece must feel like tactile, handcrafted textile art.
 ```
+
+---
+
+## Case: twitter-2004688684059373610
+
+**Author:** [@AkatsokK](https://twitter.com/AkatsokK)
+**Tweet:** [View Original](https://x.com/AkatsokK/status/2004688684059373610)
+**Scraped:** 2025-12-27T02:54:56.961Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8z9zMcWEAAVfhO?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro over Gemini
+
+Prompt:
+
+A stylized Art Deco portrait of the person in the uploaded image, featuring sleek, geometric lines, a symmetrical composition, and high glamour. She is adorned in stylized gold and black, reflecting the luxurious Jazz Age aesthetic. The
+```
