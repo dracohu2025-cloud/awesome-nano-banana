@@ -55,42 +55,19 @@ function isValidImageUrl(url: string): boolean {
  * Split markdown by case boundaries - optimized for large files
  */
 function splitByCases(markdown: string, source: DataSource): string[] {
-    if (source === 'youmind') {
-        // YouMind uses "### No. N:" format - use simple split and rejoin
-        // This is much faster than regex lookahead on large files
-        const parts = markdown.split(/^(### No\. \d+:)/m);
-        const sections: string[] = [];
+    // Scraped uses "## Case: twitter-xxx" format
+    const parts = markdown.split(/^(## Case: [^\n]+)/m);
+    const sections: string[] = [];
 
-        for (let i = 1; i < parts.length; i += 2) {
-            // Combine header with content
-            if (i + 1 < parts.length) {
-                sections.push(parts[i] + parts[i + 1]);
-            } else {
-                sections.push(parts[i]);
-            }
+    for (let i = 1; i < parts.length; i += 2) {
+        if (i + 1 < parts.length) {
+            sections.push(parts[i] + parts[i + 1]);
+        } else {
+            sections.push(parts[i]);
         }
-
-        return sections;
     }
 
-    if (source === 'scraped') {
-        // Scraped uses "## Case: twitter-xxx" format
-        const parts = markdown.split(/^(## Case: [^\n]+)/m);
-        const sections: string[] = [];
-
-        for (let i = 1; i < parts.length; i += 2) {
-            if (i + 1 < parts.length) {
-                sections.push(parts[i] + parts[i + 1]);
-            } else {
-                sections.push(parts[i]);
-            }
-        }
-
-        return sections;
-    }
-
-    // Default: split by any ### header  
-    return markdown.split(/(?=###\s+)/);
+    return sections.length > 0 ? sections : markdown.split(/(?=###\s+)/);
 }
 
 export function parseMarkdownCases(
