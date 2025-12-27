@@ -6231,3 +6231,25 @@ Nano Banana Pro Prompt:
 
 https://x.com/4AAAAart/status/2000599231451861496?s=20…
 ```
+
+---
+
+## Case: twitter-2001241526861750354
+
+**Author:** [@FitzGPT](https://twitter.com/FitzGPT)
+**Tweet:** [View Original](https://x.com/FitzGPT/status/2001241526861750354)
+**Scraped:** 2025-12-27T02:51:15.462Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XWXCCXwAAYkKf?format=jpg&name=orig)
+
+### Prompt
+
+```
+3# One Sentence Is Enough for Nano Banana
+
+Gemini Thinking Mode > Upload Your Photo > Create 
+
+Prompt: the person in the attachment is wearing an apron in a pottery workshop, retouching their own clay copy.
+```
