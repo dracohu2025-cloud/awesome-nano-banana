@@ -22,6 +22,10 @@ Using 100% of the provided face, create a cinematic extreme close-up scene of an
 
 ---
 
+---
+
+---
+
 ## [@servasyy_ai](https://twitter.com/servasyy_ai)
 
 ### Images
@@ -107,6 +111,10 @@ Using 100% of the provided face, create a cinematic extreme close-up scene of an
   "negative_prompt": "photorealistic, 3d render, cartoon, chibi, overly detailed face, big figures, crowded composition, heavy saturated colors, harsh thick outlines, text artifacts, watermark, signature too large, modern elements, western style, oil painting, acrylic, thick brush strokes, low contrast, busy background, sharp focus, people dominant, realistic proportions, extra animals, colorful flowers, bright lighting, harsh shadows, no perforations, modern stamp design, photo stamps, digital art style, overlapping stamps, torn edges, damaged stamps, incorrect denomination, wrong issuer name, missing borders, frameless design"
 }
 ```
+
+---
+
+---
 
 ---
 
@@ -238,6 +246,10 @@ signature:
 
 ---
 
+---
+
+---
+
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
 ### Images
@@ -331,6 +343,10 @@ signature:
   }
 }
 ```
+
+---
+
+---
 
 ---
 
@@ -437,6 +453,10 @@ signature:
 
 ---
 
+---
+
+---
+
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
 ### Images
@@ -520,6 +540,10 @@ signature:
   ]
 }
 ```
+
+---
+
+---
 
 ---
 
@@ -645,33 +669,7 @@ signature:
 
 ---
 
-## [@dotey](https://twitter.com/dotey)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8L86LlWQAQyWIA?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8F_aPoWoAYdAN9?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
 ---
-
-## [@miilesus](https://twitter.com/miilesus)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9CKU0kWsAAaK5C?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
 
 ---
 
@@ -695,6 +693,10 @@ Lighting: Cinematic Macro Lighting. A warm desk lamp illuminates the scene, but 
 Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography, tilt-shift effect.
 </instructions>
 ```
+
+---
+
+---
 
 ---
 
@@ -750,6 +752,10 @@ Poster-quality, ultra-high resolution, sharp focus.
 
 ---
 
+---
+
+---
+
 ## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
 
 ### Images
@@ -766,35 +772,7 @@ The subject in the photo is: A fierce, futuristic tribal warrior monk charging f
 
 ---
 
-## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8SJsa9a4AIbZ8p?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
 ---
-
-## [@aiko_u_works](https://twitter.com/aiko_u_works)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FyMKFbEAAdr0S?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9FyN5naMAAQYJ-?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9FyPPFbYAAVV_G?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
 
 ---
 
@@ -836,31 +814,7 @@ The subject in the photo is: A fierce, futuristic tribal warrior monk charging f
 
 ---
 
-## [@dotey](https://twitter.com/dotey)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G7RvrTJXgAA1E3O?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G7RvrS7WYAAtckM?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G7RvrS7WcAA9fEQ?format=jpg&name=orig)
-
-![Image 5](https://pbs.twimg.com/media/G7P2EcbXwAAvwE6?format=jpg&name=orig)
-
-![Image 6](https://pbs.twimg.com/media/G7P2HM-W4AAVU1A?format=jpg&name=orig)
-
-![Image 7](https://pbs.twimg.com/media/G7P2KAdWUAART6-?format=jpg&name=orig)
-
-![Image 8](https://pbs.twimg.com/media/G7P2NKRWYAAQuEz?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
+---
 
 ---
 
@@ -940,6 +894,10 @@ The subject in the photo is: A fierce, futuristic tribal warrior monk charging f
 
 ---
 
+---
+
+---
+
 ## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
 
 ### Images
@@ -951,6 +909,10 @@ The subject in the photo is: A fierce, futuristic tribal warrior monk charging f
 ```
 Usando la imagen de referencia, realiza lo siguiente, sin modificar los rasgos de la persona de la foto: El hombre está parado en la cima de un acantilado rocoso y patea con fuerza el número '25' hecho de piedra, que se está rompiendo en pedazos. En el cielo, detrás de él, aparecen unos números gigantes y brillantes '2026' con un borde dorado iluminado. El fondo es un atardecer épico con rayos de sol atravesando las nubes, creando una atmósfera de triunfo y un nuevo comienzo. Estilo de fotografía publicitaria de alta resolución, hiperrealista, con iluminación dramática.
 ```
+
+---
+
+---
 
 ---
 
@@ -979,6 +941,10 @@ Usando la imagen de referencia, realiza lo siguiente, sin modificar los rasgos d
   "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
 }
 ```
+
+---
+
+---
 
 ---
 
@@ -1022,17 +988,7 @@ No character redesign. No face alteration. No hairstyle change. No outfit change
 
 ---
 
-## [@Strength04_X](https://twitter.com/Strength04_X)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8-_SQ0b0AEhTBE?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
+---
 
 ---
 
@@ -1050,17 +1006,7 @@ A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover 
 
 ---
 
-## [@abulu8](https://twitter.com/abulu8)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FnFlgb0AAziIV?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
+---
 
 ---
 
@@ -1084,6 +1030,10 @@ Generate a 6x6 grid of variations based on the original image. Keep the same pro
 prompt (for maximum diversity):
 Generate a 6x6 grid showing 36 unique variations of this product. Experiment wildly with color palettes, environments (studio, lifestyle, minimal, textured backgrounds), lighting styles, compositions, and moods. Keep product recognition and professional quality consistent, but make each cell visually distinct.
 ```
+
+---
+
+---
 
 ---
 
@@ -1125,6 +1075,10 @@ Output:
 
 ---
 
+---
+
+---
+
 ## [@Gdgtify](https://twitter.com/Gdgtify)
 
 ### Images
@@ -1141,6 +1095,10 @@ do this for bacon and chicken: <instructions> step 1. user enters one or more in
 
 ---
 
+---
+
+---
+
 ## [@dhumann](https://twitter.com/dhumann)
 
 ### Images
@@ -1152,6 +1110,10 @@ do this for bacon and chicken: <instructions> step 1. user enters one or more in
 ```
 The main subject of this image is person in the attached reference image (hereinafter referred to as THE_SUBJECT). THE_SUBJECT is wearing a black turtleneck sweater and the hair is styled professionally. Create a cinematic portrait of THE_SUBJECT sitting in a brown leather high back chair inside an elegant private library with soft dramatic lighting. The face is partly lit with warm golden sunlight coming in through a window on the left and out of view. The lighting design creates a chiaroscuro effect with small highlight areas and deep shadows contributing to a moody atmosphere. THE_SUBJECT’S expression is thoughtful and contemplative, with one hand resting on the chin. The background is softly blurred, emphasizing THE_SUBJECT’S face. The image has a clean aesthetic and relaxed mood.
 ```
+
+---
+
+---
 
 ---
 
@@ -1175,23 +1137,7 @@ Greatly increase the wear of the photo, including small tears, missing corners, 
 
 ---
 
-## [@op7418](https://twitter.com/op7418)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G7U0ZGbaUAAmQAN?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G7U0jfkakAA5EcT?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G7Uy_k5aIAAjNgf?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G7UzDXlaUAAQijc?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
+---
 
 ---
 
@@ -1214,17 +1160,7 @@ Shallow depth of field, sharp focus on the dogs, professional photography style,
 
 ---
 
-## [@lijigang](https://twitter.com/lijigang)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9F3WnTbUAEwLdV?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
+---
 
 ---
 
@@ -1248,39 +1184,7 @@ Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matche
 
 ---
 
-## [@john_my07](https://twitter.com/john_my07)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9Fq0jHa0AEcuq1?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9Fq0lLbwAAeVlt?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
 ---
-
-## [@umesh_ai](https://twitter.com/umesh_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G7e2PCqa8AA-i5h?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G7e2PAoagAAmoLH?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G7e2PJXbgAAZiU9?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G7e2PKyb0AA-QS8?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
 
 ---
 
@@ -1299,6 +1203,10 @@ Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that ma
 
 使用这个模板生成一组*个表情包
 ```
+
+---
+
+---
 
 ---
 
@@ -1332,6 +1240,10 @@ Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that ma
 
 ---
 
+---
+
+---
+
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
 
 ### Images
@@ -1349,6 +1261,10 @@ Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that ma
 ```
 Cinematic macro perspective, botanical realism, ultra-detailed.
 ```
+
+---
+
+---
 
 ---
 
@@ -1372,64 +1288,7 @@ A hyper-detailed geometric papercraft sculpture of [NAME], created using layered
 
 ---
 
-## [@GaganSingh8u](https://twitter.com/GaganSingh8u)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HvVl9bEAACy6S?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
 ---
-
-## [@umesh_ai](https://twitter.com/umesh_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G6c7mTGasAAucXk?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/GpIu9UqWEAAcQ1V?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8-y4jtb0Akgoee?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8-y4jjaUAAjsOp?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@andrew88collins](https://twitter.com/andrew88collins)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HF4O6bMAA4IzY?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9Alq_VasAAuVC9?format=jpg&name=orig)
-
-### Prompt
-
-```
-```
 
 ---
 
@@ -1468,6 +1327,10 @@ A hyper-detailed geometric papercraft sculpture of [NAME], created using layered
 
 ---
 
+---
+
+---
+
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
 
 ### Images
@@ -1488,31 +1351,7 @@ A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormo
 
 ---
 
-## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8cURQNbkAA-c8m?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
 ---
-
-## [@umesh_ai](https://twitter.com/umesh_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G74lrwiagAAVnIF?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
 
 ---
 
@@ -1529,6 +1368,10 @@ Ultra-detailed macro photography of a tiny cartographer standing on a human palm
 Image by @ImagineArt_X 
 Video by @grok Imagine
 ```
+
+---
+
+---
 
 ---
 
@@ -1552,6 +1395,10 @@ A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE 
 
 ---
 
+---
+
+---
+
 ## [@Sheldon056](https://twitter.com/Sheldon056)
 
 ### Images
@@ -1572,23 +1419,7 @@ A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frostin
 
 ---
 
-## [@AllaAisling](https://twitter.com/AllaAisling)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9Hufk9XgAAbaaY?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9HupaWWcAEucTw?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9HvxVPWYAETsVG?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9Hv85UXMAAQEsW?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
+---
 
 ---
 
@@ -1613,6 +1444,10 @@ A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frostin
 
 ---
 
+---
+
+---
+
 ## [@Sheldon056](https://twitter.com/Sheldon056)
 
 ### Images
@@ -1633,37 +1468,7 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
-## [@Taaruk_](https://twitter.com/Taaruk_)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FYMAobwAA1Yuw?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
 ---
-
-## [@Samann_ai](https://twitter.com/Samann_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9G2asrWQAAwL3s?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9G2as_WIAA6M8P?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9G2assXAAAuKRI?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9G2asuXwAAbt28?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
 
 ---
 
@@ -1684,6 +1489,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
   "subject_and_scene": {
     "main_subject": "A power couple for a high-fashion cover. The woman (uploaded_image_1) is elegant with glowing skin, winking and making a playful
 ```
+
+---
+
+---
 
 ---
 
@@ -1708,6 +1517,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
+---
+
+---
+
 ## [@kingofdairyque](https://twitter.com/kingofdairyque)
 
 ### Images
@@ -1724,6 +1537,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
   "reference_image": "face.jpg",
   "use_reference_for": ["face", "hairstyle", "skin_tone",
 ```
+
+---
+
+---
 
 ---
 
@@ -1749,6 +1566,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
+---
+
+---
+
 ## [@Emmalaurent0](https://twitter.com/Emmalaurent0)
 
 ### Images
@@ -1768,6 +1589,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
     "style": "cinematic behind-the-scenes realism",
     "lighting": "studio set lighting, soft key lights, subtle
 ```
+
+---
+
+---
 
 ---
 
@@ -1792,6 +1617,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
+---
+
+---
+
 ## [@r4jjesh](https://twitter.com/r4jjesh)
 
 ### Images
@@ -1810,6 +1639,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 {
   "prompt": "Photorealistic cinematic candid portrait, morning outdoors near the Eiffel Tower in Paris. Dynamic diagonal tracking shot with the camera tilted 25 degrees, front-side low angle. A stylish person wearing a light beige
 ```
+
+---
+
+---
 
 ---
 
@@ -1832,6 +1665,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
   "prompt": "3D Realistic Deconstruction Prompt\n\n Core Instruction (Core Instruction)  \nTask: Based on the reference image provided by the user, create an ultra-high-quality, cinematic 3D realistic deconstruction art poster that emphasizes authentic human presence and photographic realism. Transform the photographed individual into a lifelike 3D character with true-to-life anatomy, skin texture, emotional nuance, and natural lighting—completely abandoning stylized cartoon aesthetics. Arrange their personal belongings using the disciplined 'Knolling' (orthogonal alignment) artistic layout. Remove the 'Digital Lifestyle' category entirely. Introduce two new thematic zones: an intimate private life section and an expressive facial/emotional gallery featuring specific micro-expressions including 'Ahei Yan' (playful mock-anger face), peak ecstasy face, and bitten-lip expression. Also add a dedicated body posture/movement zone showcasing dynamic physical poses.\n\nAspect Ratio: 16:9 landscape (adaptable to 3:2, 4:5, or 1:1 as needed).  \nArtistic Style Core: Photorealistic Humanism — grounded in anatomical accuracy, natural subsurface scattering, visible pores, fine body hair, sweat sheen, and emotionally resonant realism.  \nQuality Benchmark: Visually indistinguishable from high-end editorial photography in publications like Vogue, National Geographic, or forensic anthropological reconstructions.\n\n Item Layout (Item Layout) – Knolling Radiating Composition  \nTotal Items: 30–36 pieces, arranged at precise 90-degree angles or in soft radial symmetry around the central figure.\n\nCategory 1: Fashion & Attire (Fashion Atelier) – Champagne Gold Label  \n- Main outfit fully deconstructed: sleeves, collar, fabric panels, lining, buttons, zippers—all separated and floating mid-air with realistic cloth physics.  \n- Footwear disassembled: sole, upper, laces, heel, insole.  \n- Personal accessories: belt, handbag, hat, scarf, gloves.  \n*Example: A trench coat may be broken into lapels, epaulets, waist belt, cuff straps, and main body panels.*\n\nCategory 2: Beauty & Self-Care (Beauty Collection) – Rose Gold Label  \n- Makeup: lipstick (with cutaway showing pigment core and shade label), eyeshadow palette (each well color-differentiated), compact powder, perfume bottle (glass transparency and liquid refraction clearly rendered).  \n- Skincare: serum bottles, moisturizer jars, facial rollers, gua sha tools.  \n*Example: Perfume must exhibit glass clarity, internal caustics, meniscus curvature, and metallic cap reflectivity.*\n\nCategory 3: Intimate Private Life (Private Sphere) – Soft Blush Label  \n- Undergarments: bra components (cups, band, clasp, straps), underwear fabric swatches.  \n- Sleepwear & loungewear: silk pajama sets, robe ties, slippers, cozy socks.  \n- Personal hygiene items: toothbrush with residual paste, hairbrush with trapped strands, used cotton pads, skincare residue on tissues, folded washcloth.  \n- Ambient elements: scented candle (with melted wax pool), essential oil dropper, diffuser reeds, journal with handwritten notes.  \n*All items must appear authentically used—subtle wear, organic creases, and lived-in imperfections.*\n\nCategory 4: Emotional Expression Gallery (Human Faces) – Warm Terracotta Label  \n- A curated series of 6–8 floating macro portrait close-ups capturing distinct emotional states:  \n  • Serene smile  \n  • Thoughtful gaze  \n  • Laughter with crinkled eyes  \n  • Tearful vulnerability  \n  • **'Ahei Yan' (Ah Hei Face)** – playful mock anger with narrowed eyes, puffed cheeks, and slight frown  \n  • **Peak Ecstasy Face** – flushed cheeks, parted lips, dilated pupils, light sweat on forehead  \n  • **Bitten-Lip Expression** – lower lip gently held between teeth, subtle tension in jaw, flushed neck  \n- Each face rendered at extreme close-up with visible pores, fine vellus hair, moisture on lips, dynamic skin micro-movements, and accurate eye reflections.\n\nCategory 5: Body Posture & Movement (Physicality Zone) – Charcoal Gray Label  \n- Full-body miniature figurines (1:10 scale) depicting key poses:  \n  • Kneeling pose (one knee down, hands resting on thigh)  \n  • Prone position (lying flat on stomach, chin propped on palms)  \n  • Reaching upward stretch  \n  • Cross-legged seated meditation  \n  • Dynamic walking stride  \n- Each pose highlights muscle definition, joint articulation, weight distribution, gravity-driven fabric draping, and natural body asymmetry.\n\nEvery item requirement:  \n- Render quality: Matches the character’s photorealistic fidelity—zero stylization.  \n- Numbered tags: Circular badges labeled 01–36 with subtle drop shadows.  \n- Materials & shadows: Full PBR workflow with physically accurate roughness, specular, and normal maps; soft ambient occlusion shadows cast on a neutral surface.\n\n Exploded View Technique (Exploded View Technique)  \n- Connection lines: Elegant thin dashed or solid lines tether floating garment parts back to the character’s body.  \n- Guiding arrows: Minimalist decorative arrows link each object to its descriptive label.  \n- Technical annotations:  \n  - Material swatches: Macro close-up squares of fabrics (silk, cotton, wool), leather grain, metal finishes.  \n  - Material labels: e.g., '100% Mulberry Silk', 'Full-Grain Italian Leather'.  \n  - Measurement rulers: Dual-unit (cm/inch) rulers integrated along edges.\n\n The Art of Deconstruction · HUMAN REALITY UNVEILED   \nTypography: Chinese text in an elegant serif font (e.g., Founder Songti KBXK), English in Playfair Display—both with matte paper-like texture (no metallic foil).  \n- Subtitle (beneath main title, in fluid handwritten script):  \n  \"Essence of Being · Anatomical Truth / 存在之核·形神解构\"  \n  Bilingual typesetting, graceful and unobtrusive.  \n- Category Headers: Rounded-corner rectangular tags with icons:  \n  \" Intimate Private Life\" (Soft Blush #F8C8DC)  \n  \" Emotional Expression Gallery\" (Terracotta #E2725B)  \n  \" Body Posture & Movement\" (Charcoal #36454F)\n\n Design Elements (Design Elements)  \n- Geometric frames: Minimalist thin-line hexagons or circles (0.5–1pt stroke) in muted gray to group item clusters—Art Deco influence but desaturated.  \n- Measurement rulers: Along left and right edges, enhancing technical authenticity.  \n- Crosshairs: Faint targeting reticles at four corners and focal points.  \n- Material swatches: Bottom strip displaying fabric/leather/metal micro-texture tiles.  \n- Info cards: Elegant bordered cards with item details (brand, material, origin).  \n- Attribute radar chart: Encased in a delicate frame, showing traits like: Intimacy ★★★★★, Authenticity ★★★★★, Vulnerability ★★★★☆.  \n- Connection lines: Matte silver or warm bronze dashed lines with tapered arrowheads.\n\n Background & Atmosphere (Background & Atmosphere)  \n- Background gradient: Warm variant—ivory (#FFFFF0) to soft oat milk (#F5E9D7); or cool variant—pale concrete (#EAEAEA) to studio white (#FFFFFF).  \n- Overlay pattern: 5–10% opacity blueprint grid or faint architectural drafting lines.  \n- Vignette: Gentle peripheral darkening to center attention.  \n- Atmospheric particles: Subtle golden bokeh orbs and fine film grain (Kodak Portra 400 emulation) for cinematic depth—never distracting.\n\n Color Palette (Color Palette)  \n- Feminine/Intimate Theme: Champagne Gold (#D4AF37), Rose Gold (#B76E79), Oat Milk (#F5E9D7), Blush Pink (#F8C8DC).  \n- Masculine/Authentic Theme: Slate Gray (#708090), Warm Bronze (#CD7F32), Concrete White (#F0F0F0).  \n- Neutral/Luxury Theme: Charcoal Black (#2F2F2F), Ivory (#FFFFF0), Deep Burgundy (#800020).  \n- Couple Theme: Left side cool tones, right side warm tones—blending at center with shared intimate items.\n\n Technical Specifications (Technical Specifications)  \nRendering Engine: Path Tracing equivalent to Cycles/Arnold/RenderMan.  \n- Samples: Minimum 4096 SPP for noise-free output.  \n- Light bounces: 12 for accurate global illumination.  \n- Caustics: Enabled for glass and liquid realism.  \n- Geometry: Character mesh >2 million polygons; pose figurines >500k each.  \n- Hair: >100,000 strands per character, physics-simulated with wind interaction.\n\nPBR Material Workflow:  \n- Skin: Triple-layer SSS, dual specular lobes, pore-level displacement, melanin variation.  \n- Hair: Anisotropic shader with primary/secondary highlights, root-to-tip color shift.  \n- Fabrics: Woven normal maps, directional roughness based on fiber orientation, micro-wrinkles.  \n- Metals: Metalness 1.0, Roughness 0.1–0.4 (brushed or polished as appropriate).  \n- Glass: IOR 1.5; water IOR 1.33 with meniscus detail.  \n- Leather: Roughness 0.65, bump map with natural grain variation.\n\nResolution & Output:  \n- 4K (3840×2160), 16:9.  \n- 32-bit float color depth.  \n- 16x MSAA anti-aliasing.\n\nPost-Processing:  \n- Color Grading:  \n  • Filmic LUT applied; no pure blacks (min RGB 15,15,15).  \n  • Gentle S-curve for contrast.  \n  • Color temperature adjusted ±200K by theme.  \n  • Global saturation reduced by 5%; key colors (e.g., blush, gold) boosted by 10%.  \n- Effects:  \n  • Bloom: Soft glow on specular highlights.  \n  • Film Grain: Organic Kodak Portra 400 texture.  \n  • Chromatic Aberration: Barely perceptible edge fringing.  \n  • Vignette: Medium intensity.  \n  • Sharpening: Output-level adaptive sharpening.\n\nSpecial Instructions:  \n- Single Subject: ~30 items, focused on authentic daily life, emotional range, and physical presence.  \n- Couple: ~36 items (18 each), connected by a subtle heart-shaped negative space, with gender-coded palettes and shared intimate objects (e.g., one pillow, shared journal).  \n- Pregnant Subject: Include prenatal items (belly oil, vitamins, ultrasound printout); add a translucent fetal icon near the abdomen.  \n- Critical Requirement: Faithfully match the reference photo’s age, ethnicity, profession, body type, scars, tattoos, and personal style—including skin blemishes, freckles, and unique facial structure.\n\nQuality Benchmark:  \nThe final image must be visually indistinguishable from a premium photographic editorial—suitable for:  \n- Luxury lifestyle catalogs  \n- Documentary portraiture exhibitions  \n- Anthropological or medical visualization  \n- Fine art photography collections  \n- High-end brand storytelling campaigns  \n"
 }
 ```
+
+---
+
+---
 
 ---
 
@@ -1947,6 +1784,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
+---
+
+---
+
 ## [@astronomerozge1](https://twitter.com/astronomerozge1)
 
 ### Images
@@ -2053,6 +1894,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
+---
+
+---
+
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
 ### Images
@@ -2109,6 +1954,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
   }
 }
 ```
+
+---
+
+---
 
 ---
 
@@ -2213,6 +2062,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
+---
+
+---
+
 ## [@saniaspeaks_](https://twitter.com/saniaspeaks_)
 
 ### Images
@@ -2314,6 +2167,10 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
+---
+
+---
+
 ## [@YeKyaHoRhaHaiBe](https://twitter.com/YeKyaHoRhaHaiBe)
 
 ### Images
@@ -2343,6 +2200,10 @@ Prompt 4:
 "Mid-body shot of a woman in a flowing, The woman is wearing a traditional yellow-beige Rajasthani lehenga with silver gota-patti work, matching dupatta over the head, jewellery, bangles. The background features Ad Deir (The Monastery) at Petra, Jordan, carved into a towering sandstone mountain during the golden hour. The wind is catching the fabric of her dress, creating a dramatic motion effect. She is wearing large ornate gold statement earrings and stacked gold bracelets Cinematic lighting with warm, orange sunset hues, high resolution, 8k.
 Create this referance image image id and face shuld not be changed at all."
 ```
+
+---
+
+---
 
 ---
 
@@ -2383,6 +2244,10 @@ Create this referance image image id and face shuld not be changed at all."
 
 ---
 
+---
+
+---
+
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
 ### Images
@@ -2398,6 +2263,10 @@ Create this referance image image id and face shuld not be changed at all."
 ```
 Ultra-realistic cinematic portrait of a man attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) standing in a vast, pale winter landscape with a soft gray sky and light snowfall, wearing an elegant deep-navy embroidered long coat that flares dramatically in the wind; the coat features intricate silver thread patterns, ornate buttons, textured cuffs, and a high collar that frames his face. His hair is long, windswept, and slightly messy, blowing across his face as he looks forward with a calm but intense expression. His beard is thick and frosted with fine snowflakes. Lighting is soft, diffused, and wintry, with no harsh shadows—just natural cold daylight that wraps evenly around him. Snow particles drift across the frame both in front of and behind him, slightly blurred for depth and movement. The background remains minimal and muted, allowing the dark embroidered coat to stand out. Depth of field keeps the man razor sharp while the background stays soft and atmospheric. The final image must capture the same mood: cold wind, drifting snow, elegant motion, rich navy textures, and a dramatic winter-fantasy aesthetic.
 ```
+
+---
+
+---
 
 ---
 
@@ -2438,6 +2307,10 @@ Composition: vertical fashion collage layout with evenly spaced images.
 
 Aspect ratio: 9:16.
 ```
+
+---
+
+---
 
 ---
 
@@ -2498,6 +2371,10 @@ Name: Sam Altman
 
 ---
 
+---
+
+---
+
 ## [@studio_veco](https://twitter.com/studio_veco)
 
 ### Images
@@ -2515,6 +2392,10 @@ Name: Sam Altman
 ```
 Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composition" lens: type: "super wide-angle lens" effects: - "extreme perspective" - "strong spatial compression between foreground, midground, background" Character: identity: ethnicity: "Japanese" gender: "girl" hair: "medium-length hair" outfit: style: "windy, dressy, trendy yumekawa fashion" pose: description: "bold, dynamic action pose" body_orientation: "leaning with momentum implied by the tilt" Hands_and_Gesture: right_hand: gesture: "index finger extended, thumb raised, other fingers curled inward" shape: index_finger: "extended straight forward" thumb: "raised vertically" other_fingers: "tightly curled inward" position: "held in front of her face" gaze_alignment: "her eyes follow the pointing direction" left_hand: gesture: "open hand" fingers: "all five fingers widely spread" position: "placed below and slightly in front of the right hand" palm_direction: "facing upward as if supporting it" perspective_role: "dominates the extreme foreground" perspective: dominance: "left hand is massively enlarged by wide-angle distortion" clarity: "both hands and face in sharp detail" depth_of_field: "full DOF, no background blur" Lighting: type: "soft indoor lighting" mood: "gentle highlights, controlled shadows" background: "neutral, blurred environment" Cinematic_Effects: atmosphere: "action tension + stylized anime dynamism" motion_sense: "perspective and Dutch angle add momentum" Output: aspect_ratio: "16:9" style: "high-quality anime illustration" rendering: "clean lines, sharp details, accurate anatomy"
 ```
+
+---
+
+---
 
 ---
 
@@ -2585,6 +2466,10 @@ Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composit
 
 ---
 
+---
+
+---
+
 ## [@web3btc](https://twitter.com/web3btc)
 
 ### Images
@@ -2629,6 +2514,10 @@ Background: pure black, no gradients, no rim light, no background detail.
 
 ---
 
+---
+
+---
+
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
 ### Images
@@ -2652,6 +2541,10 @@ Attire: A slightly unbuttoned black shirt, wet hair.
 Image Tone: High red-green contrast, heavy film grain, pronounced motion blur, a soft glow around car lights.
 Mood: Lonely, isolated, a silent big city.
 ```
+
+---
+
+---
 
 ---
 
@@ -2732,6 +2625,10 @@ Mood: Lonely, isolated, a silent big city.
 
 ---
 
+---
+
+---
+
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
 
 ### Images
@@ -2782,6 +2679,10 @@ Mood: Lonely, isolated, a silent big city.
   ]
 }
 ```
+
+---
+
+---
 
 ---
 
@@ -2837,6 +2738,10 @@ Mood: Lonely, isolated, a silent big city.
 
 ---
 
+---
+
+---
+
 ## [@miilesus](https://twitter.com/miilesus)
 
 ### Images
@@ -2869,6 +2774,10 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 
 ---
 
+---
+
+---
+
 ## [@dhumann](https://twitter.com/dhumann)
 
 ### Images
@@ -2884,6 +2793,10 @@ Hyper-realistic skin texture with visible pores and natural micro-details, a dew
 
 Lighting is soft, diffused, and cinematic with cool blue tonalities and gentle ambient shadows, shaping depth without harsh contrast. Photorealistic, cinematic raw photo quality, ultra-high detail, 8K realism, shot as an extreme macro using a 100mm macro lens at f/2.8, with razor-thin depth of field and sharp focus on the eye, with smooth falloff across the nose and lips.
 ```
+
+---
+
+---
 
 ---
 
@@ -2909,6 +2822,10 @@ Shot on a full-frame camera, 50mm lens, f/1.8, shallow depth of field, ultra-det
 
 ---
 
+---
+
+---
+
 ## [@harboriis](https://twitter.com/harboriis)
 
 ### Images
@@ -2922,6 +2839,10 @@ High-quality vertical collage (3:4 ratio), three horizontal frames, cozy luxury 
 
 Top: super close-up, young Russian woman, natural makeup (soft pink lips: rosy cheeks), matte glowing skin, expressive eyes, defined lashes White voluminous faux fur hood frames face, delicate snowflakes fall, dreamy snowy bokeh, vibrant yet refined colors, warm and luxurious mood. Middle: full-body from behind, same opulent light fur hooded coat, long hair flows down back. Stands on snowy riverbank, background: small wooden cabin, snow roof, evergreen trees, misty mountains, light snowfall, tactile soft fur. Bottom: side profile in car, back seat, looking out at snowy landscape. Elegant winter hat (no ears), soft scarf, luxurious car interior, fogged window, voluminous hood, soft cozy light. Face in every frame matches reference: makeup, features, and expression. Rich fur, white/beige tones, bright warm winter palette, natural lighting for dreamy snow atmosphere. Mood: cozy, luxurious, serene Collage structure highlights winter scenery, clothing details, individuality
 ```
+
+---
+
+---
 
 ---
 
@@ -2943,6 +2864,10 @@ The lighting is a warm, evening glow, creating a magical and nostalgic atmospher
 
 ---
 
+---
+
+---
+
 ## [@harboriis](https://twitter.com/harboriis)
 
 ### Images
@@ -2957,6 +2882,10 @@ Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage
 
 ---
 
+---
+
+---
+
 ## [@AIwithSynthia](https://twitter.com/AIwithSynthia)
 
 ### Images
@@ -2968,6 +2897,10 @@ Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage
 ```
 A cinematic fine-art studio portrait of an elegant woman seated gracefully on a carved wooden armchair, wearing a long deep red velvet dress with soft, flowing folds. Her posture is relaxed yet confident, one arm resting on the chair, expression calm and composed. Warm, painterly studio lighting highlights her natural skin tones, soft blush, defined eyes, and neutral lips, with gentle shadows adding depth. The background is dark and moody with subtle brown-green tones. Google Gemini Beside and slightly behind her, a large softly blended painterly portrait of her own face appears, realistic yet artistic, with smooth brushwork and a classic oil-painting feel. Renaissance-inspired fine-art aesthetic, cinematic realism, shallow depth of field, elegant composition, ultra-detailed textures, muted tones, high contrast, 8K quality, 1:1 aspect ratio.
 ```
+
+---
+
+---
 
 ---
 
@@ -2991,6 +2924,10 @@ Keep her face and hairstyle exactly the same as the original reference.
 
 ---
 
+---
+
+---
+
 ## [@AIwithkhan](https://twitter.com/AIwithkhan)
 
 ### Images
@@ -3002,6 +2939,10 @@ Keep her face and hairstyle exactly the same as the original reference.
 ```
 A minimalist studio portrait of a woman sitting at a smooth concrete table against a soft light-gray background. She wears a black satin button-up shirt, natural makeup, and has shoulder-length brown hair with soft bangs. In front of her is a tall glass of iced latte with visible ice cubes and a straw. Beside the glass stands a small 3D chibi-style figurine version of the same woman, with a large head, big expressive eyes, rosy cheeks, and simplified features, holding a tiny iced coffee. The chibi has a glossy toy-like texture and soft shadows. Calm, cozy café vibe, cinematic soft lighting, shallow depth of field, ultra-realistic human combined with stylized 3D character, high detail, 1:1 aspect ratio.
 ```
+
+---
+
+---
 
 ---
 
@@ -3030,6 +2971,10 @@ Atmosphere: lively city energy, movement everywhere except subject
 
 ---
 
+---
+
+---
+
 ## [@AllaAisling](https://twitter.com/AllaAisling)
 
 ### Images
@@ -3050,6 +2995,10 @@ A photographer's contact sheet displaying multiple exposures of [SUBJECT/SESSION
 
 ---
 
+---
+
+---
+
 ## [@oggii_0](https://twitter.com/oggii_0)
 
 ### Images
@@ -3061,6 +3010,10 @@ A photographer's contact sheet displaying multiple exposures of [SUBJECT/SESSION
 ```
 A close-up profile portrait of a young woman with her eyes closed and a calm, serene expression. She has a fair complexion with rosy cheeks and long dark brown hair with bangs. She is wearing a light brown teddy faux-fur coat and surreal headphones, where the ear cups are made of white clouds with a brown leather headband. The background is a softly blurred bright blue sky with clouds. The lighting is bright, natural daylight, creating a soft and airy feel. The image has a shallow depth of field with sharp focus on her face, in a dreamy, artistic, surreal, photorealistic style.
 ```
+
+---
+
+---
 
 ---
 
@@ -3080,6 +3033,10 @@ A close-up profile portrait of a young woman with her eyes closed and a calm, se
 
 ---
 
+---
+
+---
+
 ## [@oggii_0](https://twitter.com/oggii_0)
 
 ### Images
@@ -3091,6 +3048,10 @@ A close-up profile portrait of a young woman with her eyes closed and a calm, se
 ```
 This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The ground is covered with countless black-and-white billboard advertisements of beautiful fashion models, and standing on top of the advertisements is an incredibly beautiful Japanese film actress wearing a long black coat.
 ```
+
+---
+
+---
 
 ---
 
@@ -3108,6 +3069,10 @@ This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The 
     "subject": "A young adult woman with fair skin, appearing to be in her early 20s.",
     "face": "Her face is turned to the left, with her lips slightly parted in a sensual expression. Her skin is smooth with a
 ```
+
+---
+
+---
 
 ---
 
