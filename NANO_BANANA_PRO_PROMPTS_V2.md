@@ -6297,3 +6297,32 @@ Gemini Nano Banana Pro Prompt:
 
 A miniature diorama built inside or around a scaled-down [OBJECT], where the object becomes the environment itself. Tiny people interact with it as if it’s a massive structure. Playful realism, macro lens depth, soft lighting.
 ```
+
+---
+
+## Case: twitter-2004739150520746128
+
+**Author:** [@JadoonKhan281](https://twitter.com/JadoonKhan281)
+**Tweet:** [View Original](https://x.com/JadoonKhan281/status/2004739150520746128)
+**Scraped:** 2025-12-27T02:54:03.621Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JDoEFakAA2TUv?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro 3.0  
+
+Prompt :
+{
+  "scene_type": "photorealistic fantasy",
+  "setting": {
+    "location": "vast ancient cavern",
+    "floor": "rugged stone floor",
+    "lighting": {
+      "primary": "dim",
+      "ambient": "soft pink light",
+      "source": "distant
+```
