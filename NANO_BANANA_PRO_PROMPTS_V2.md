@@ -6376,3 +6376,28 @@ I turned Nano Banana Pro into a food recommendation system. This is version 0.1.
 
 Prompt: do this for bacon and chicken: <instructions> step 1. user enters one or more ingredients. step 2. analyze the ingredients, their taste and delicious meals that can be made with all of them. step 3. pick 4 random countries and their popular food that maybe be less known that use all these ingredients (if given one, only that, if given 2, the meal should have both those). Goal: A cookbook where ingredients and dishes emerge in delicious detail Rules: Base: A vintage cookbook with stained pages and fabric cover, historical timeline of food Scene: 3D Miniature kitchen or market scene with 3D chef & ingredients Details: Detailed and accurate food textures, steam effects, cooking implements Lighting: Warm kitchen lighting with golden hour quality Output: a 2x2 grid, each with a Single 1:1 image of the meals  with appetizing details </instructions>
 ```
+
+---
+
+## Case: twitter-2004728088522096649
+
+**Author:** [@refindai](https://twitter.com/refindai)
+**Tweet:** [View Original](https://x.com/refindai/status/2004728088522096649)
+**Scraped:** 2025-12-27T02:54:28.346Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9I5hbXbgAIPmhF?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano banana prompt share 
+
+I pushed the limits of AI texture generation to create this hyper-realistic embroidered knit tribute to The Beatles' "Yesterday." 
+
+Inspired by the minimalist aesthetic of design master Huang Hai, every stitch and thread feels tactile. The nostalgia hits hard with this one. 
+
+The mega-detailed PROMPT：
+A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover for "Yesterday," inspired by Huang Hai's minimalist aesthetic. The composition features vast pale sepia negative space creating a melancholic, nostalgic atmosphere on a visible woven fabric base. The central focus is an exquisitely dimensionally embroidered vintage wooden record player with a detailed wilted rose resting on the turntable, showing realistic thread texture and natural luster. Subtle, barely visible embroidered details include a tiny reminiscing silhouette (bottom right) and a vinyl record (upper left). Top text in elegant cream embroidery: "Yesterday" and "The Beatles 1965". The bottom section features detailed embroidered musical notation (staff, treble clef, melancholic notes mixed with tiny rose petals) for the song's melody. Below the staff, the complete lyrics are embroidered in elegant script: "Yesterday, all my troubles seemed so far away / Now it looks as though they're here to stay / Oh, I believe in yesterday". Above the music: "YESTERDAY 昨日". Minimal thin border with tiny corner symbols (musical note, record player). The entire piece must feel like tactile, handcrafted textile art.
+```
