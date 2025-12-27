@@ -133,6 +133,8 @@
 城市：夏威夷
 ```
 
+```
+
 ---
 
 ## Case: twitter-2001238094457266531
@@ -540,6 +542,8 @@ A minimalist studio portrait of a woman sitting at a smooth concrete table again
 
 G3mini and Nano Banana Pro
 提示词（英文版见评论区）
+```
+
 ---
 人物名称：特斯拉
 
@@ -561,6 +565,8 @@ AI 应根据上述人物的气质、时代特征与标志性风格生成统一�
 #NanoBananaPro
 ```
 
+
+```
 
 ---
 
@@ -4113,6 +4119,8 @@ nano banana pro 提示词
 
 务必确保场景不仅仅是左右简单对比，而是动态的跨时代互动体验，建筑、服饰、道具和人物的动作姿态均清晰地体现两个时代的对比与融合。画面风格为照片级真实感，8K超高清分辨率，电影级光影效果，广角视野，材质细节丰富，具备强烈的时空穿越叙事感。
 
+```
+
 ---
 
 场景：复旦大学校园
@@ -4121,6 +4129,8 @@ nano banana pro 提示词
 ```
 
 
+
+```
 
 ---
 
@@ -5534,11 +5544,15 @@ Dynamic effect: drifting dandelion fluff gently floating through the air.
 
 Creative botanical art collage depicting [Scene/Activity]. The image is constructed entirely from exquisite cut natural leaves, flower petals, plant stems, and wild berries. The silhouettes of figures and objects are formed by the intricate arrangement of these plant elements. The plant surfaces feature a slightly wet, glossy texture adorned with crystal-clear morning dew droplets. Rich, vibrant colors with distinct visual layering. The background is a soft, natural bokeh that harmonizes with the mood of the scene. Macro photography style, hyper-realistic organic textures, 8K resolution, masterpiece.
 
+```
+
 ---
 Scene：a girl riding a bicycle through a park
 ```
 
 
+
+```
 
 ---
 
@@ -6625,12 +6639,16 @@ Organize the layout into 2 to 4 clearly defined sections, each containing short,
 Add small, simple, and engaging hand-drawn illustrations or symbolic icons—such as characters, objects, or conceptual symbols—to reinforce the message and enhance visual interest. Maintain balanced composition and adequate breathing room, ensuring the design remains clean, readable, and visually appealing.
 Theme: {topic}
 
+```
+
 ---
 
 topic: “If you can't explain it simply, you don't understand it well enough.” — Feynman
 ```
 
 
+
+```
 
 ---
 
@@ -6806,6 +6824,8 @@ nano banana pro prompt
 
 Transform a scene into a surreal world where animals and humans become glowing neon-glass beings—radiant, dreamlike, and visually explosive. 
 
+```
+
 ---
 
 Create an imaginative, ultra-surreal image based on the provided picture or description.
@@ -6822,6 +6842,8 @@ SCENE: At the boundary between sunset and nightfall on the African savannah, whe
 ```
 
 
+
+```
 
 ---
 
@@ -6949,6 +6971,8 @@ Parameters:
 * Date: {User input, current date}
 * Company name or stock ticker: {User input}
 
+```
+
 ---
 
 Company Name / Stock Ticker: Google
@@ -6956,6 +6980,8 @@ Date: 12/3/2025
 ```
 
 
+
+```
 
 ---
 
@@ -7361,6 +7387,8 @@ Full body [Subject] toy, [attributes/accessories], [expression], made of felt, i
 ```
  nano banana Pro prompt
  add an image as reference
+```
+
 ---
 
 Create a set of colorful, hand-drawn LINE-style half-body Q-version emoji portraits based on the characters shown, ensuring accurate depiction of their head accessories.
@@ -7372,6 +7400,8 @@ Final image should be in 4K resolution, 16:9 aspect ratio.
 ```
 
 
+
+```
 
 ---
 
@@ -7497,12 +7527,16 @@ Miniature streets feature realistic, tiny vehicles moving seamlessly. With cinem
 
 Aspect ratio: 1:1.
 
+```
+
 ---
 
 city: Chicago
 ```
 
 
+
+```
 
 ---
 
@@ -8407,6 +8441,8 @@ Subject: I  U
 ```
 来自 @dotey 宝玉老师的灵感
 Banana Prompt
+```
+
 ---
 Create a 3x3 grid of nine distinct circular stickers, each depicting a different daily life scene. Each sticker should have a flat doodle style with a bold black outline, bright pastel colors, simple flat shapes, minimal shading, and cute rounded proportions. Each sticker should be isolated on a white background and be high resolution. Below each sticker, add a short, descriptive text label in a cute, readable font.
 The nine scenes should be:
@@ -8423,6 +8459,8 @@ A person tidying up their room with a smile, titled 'Tidy Space'."
 ```
 
 
+
+```
 
 ---
 
