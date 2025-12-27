@@ -10,7 +10,7 @@
 
 | Resource | Link |
 |----------|------|
-| 🌐 Website | [awesome-nano-banana.vercel.app](https://awesome-nano-banana.vercel.app) |
+| 🌐 Website | [https://awesome-nano-banana-53xo.vercel.app/](https://awesome-nano-banana-53xo.vercel.app/) |
 | 📁 Full Prompts | [NANO_BANANA_PRO_PROMPTS_V2.md](./NANO_BANANA_PRO_PROMPTS_V2.md) |
 | 🔧 Chrome Extension | [chrome-extension/](./chrome-extension) |
 
