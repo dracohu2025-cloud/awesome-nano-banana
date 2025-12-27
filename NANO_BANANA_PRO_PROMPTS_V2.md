@@ -7186,3 +7186,30 @@ Gemini App Nano Banana
   "prompt": "Mysterious woman with pale porcelain skin, fiery red hair, emerald-green bikini, leaning against palm tree, cinematic bokeh, saturated color palette, dramatic composition",
   "style":
 ```
+
+---
+
+## Case: twitter-2004608477260603674
+
+**Author:** [@ecommartinez](https://twitter.com/ecommartinez)
+**Tweet:** [View Original](https://x.com/ecommartinez/status/2004608477260603674)
+**Scraped:** 2025-12-27T02:58:23.326Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HMyVcbgAElKWT?format=jpg&name=orig)
+
+### Prompt
+
+```
+Create viral photos with Nano Banana
+
+Prompt Gemini:
+
+Vertical bird's-eye view, ultra-realistic photograph of two dogs sitting side by side on a slightly damp urban sidewalk, dark stone cobblestones with scattered autumn leaves around them.
+One dog with deep, shiny black fur, the other with cream or ivory fur, strong and harmonious contrast.
+Both dogs look directly at the camera with a sweet and curious expression.
+Their long, flexible, and well-furred tails naturally curve inward to form together a perfectly legible heart shape when viewed from above.
+Soft natural light, autumn atmosphere, warm and realistic colors, detailed texture of the ground and fur.
+Shallow depth of field, sharp focus on the dogs, professional photography style, minimalist and poetic composition, tender and symbolic emotion, high resolution, ultra-detailed.
+```
