@@ -7479,3 +7479,31 @@ Prompt:
     "name": "Nano Banana Pro",
     "type":
 ```
+
+---
+
+## Case: twitter-2004581021317292276
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2004581021317292276)
+**Scraped:** 2025-12-27T03:00:28.637Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GzyEraIAAC166?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9GzyHBbUAA8UOH?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9GzyKGbUAAyOAO?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9GzzgSboAAeWwt?format=jpg&name=orig)
+
+### Prompt
+
+```
+Neon Foam Pop Logo of Brands
+
+Gemini Nano Banana Pro Prompt:
+
+A chunky foam logo of [Brand Name] in bold neon colors. Soft matte texture with bright color pops, rounded playful forms. Clean background, fun tech or youth-brand vibe.
+```
