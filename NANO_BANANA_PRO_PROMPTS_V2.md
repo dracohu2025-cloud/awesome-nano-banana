@@ -7743,3 +7743,45 @@ Google Gemini Nano Banana pro 3.0
     "subject": "A young woman with delicate features, appearing to be in her late teens or early twenties. Her body type is slender, with a graceful neck and shoulders.",
     "face": "A fair complexion with
 ```
+
+---
+
+## Case: twitter-2004555026300080557
+
+**Author:** [@eachlabs](https://twitter.com/eachlabs)
+**Tweet:** [View Original](https://x.com/eachlabs/status/2004555026300080557)
+**Scraped:** 2025-12-27T03:02:28.932Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GcAJfXMAAsrGy?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9GcAs6XIAAOt_m?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9GcBHFW4AARanb?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9GcBzIXwAALQpy?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G8DYePvXIAAs77R?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G8DYePvWIAALg9N?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G8DYePwXkAI-5_u?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G8DYePuW4AE4v8z?format=jpg&name=orig)
+
+### Prompt
+
+```
+ New Year themed miniature meals made with Nano Banana Pro
+
+Prompt: 
+{
+  "image_generation_prompts": [
+    {
+      "id": 20,
+      "title": "Christmas Croissant Workshop",
+      "subject": {
+        "main_element": "Freshly baked croissant",
+        "orientation": "Placed
+```
