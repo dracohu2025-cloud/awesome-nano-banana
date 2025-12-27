@@ -6842,3 +6842,32 @@ The main subject of this image is person in the attached reference image (herein
 
 #NanoBananaPro
 ```
+
+---
+
+## Case: twitter-2004621454470496331
+
+**Author:** [@kaanakz](https://twitter.com/kaanakz)
+**Tweet:** [View Original](https://x.com/kaanakz/status/2004621454470496331)
+**Scraped:** 2025-12-27T02:57:16.803Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HYltTWwAA_pG8?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9BV4GXXQAAF9I0?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9BV4ZuWUAEjfCG?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro Couple Prompt
+( 2 reference images )
+
+Thanks for the prompt @miilesus super inspiring
+
+{
+  "subject_and_scene": {
+    "main_subject": "A power couple for a high-fashion cover. The woman (uploaded_image_1) is elegant with glowing skin, winking and making a playful
+```
