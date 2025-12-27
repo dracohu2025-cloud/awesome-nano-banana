@@ -6787,3 +6787,33 @@ Prompt Studio: Liquid Pour Product Photography
 
 Check ALTs for ideas 
 ```
+
+---
+
+## Case: twitter-2004632068718739658
+
+**Author:** [@LudovicCreator](https://twitter.com/LudovicCreator)
+**Tweet:** [View Original](https://x.com/LudovicCreator/status/2004632068718739658)
+**Scraped:** 2025-12-27T02:56:33.403Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HiO1_WgAAzIQJ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9HiPDHWIAA2mjz?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9HiPSwXgAEFew3?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9HiPf9XgAAfBIp?format=jpg&name=orig)
+
+### Prompt
+
+```
+ SMOKY EPHEMERAL MOMENT 
+
+Prompt :
+
+A Smoky Ephemeral Moment capturing [SUBJECT] in charcoal, with soft, blurred edges and dreamy, atmospheric shading. Use the expressive qualities of charcoal to evoke a sense of fragility and impermanence 
+
+Check ALTS
+```
