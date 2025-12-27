@@ -100,10 +100,6 @@ export function getCaseStats(cases: Case[]): {
     const stats = {
         total: cases.length,
         bySource: {
-            jimmylv: 0,
-            picotrex: 0,
-            zerolu: 0,
-            youmind: 0,
             scraped: 0,
         } as Record<DataSource, number>,
         byModel: {

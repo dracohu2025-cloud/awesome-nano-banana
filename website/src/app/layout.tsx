@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   title: "🍌 Nano Banana Gallery - AI Image Prompts Collection",
   description: "Explore 100+ curated Gemini Nano Banana and GPT-4o image generation prompts. Get AI-ready prompts to recreate stunning visuals.",
   keywords: "Nano Banana, Gemini, GPT-4o, AI image generation, prompts, image editing, AI art",
-  authors: [{ name: "JimmyLv" }],
+  authors: [{ name: "Community" }],
   openGraph: {
     title: "🍌 Nano Banana Gallery",
     description: "Explore 100+ curated AI image generation prompts",

@@ -1,5 +1,5 @@
 export type ModelType = 'nano-banana' | 'nano-banana-pro';
-export type DataSource = 'jimmylv' | 'picotrex' | 'zerolu' | 'youmind' | 'scraped';
+export type DataSource = 'scraped';
 
 export interface SourceLink {
   url: string;
@@ -39,26 +39,6 @@ export interface CaseWithPath extends Case {
 
 // Source metadata for display
 export const SOURCE_INFO: Record<DataSource, { name: string; url: string; color: string }> = {
-  jimmylv: {
-    name: 'JimmyLv',
-    url: 'https://github.com/JimmyLv/awesome-nano-banana',
-    color: 'bg-yellow-200',
-  },
-  picotrex: {
-    name: 'PicoTrex',
-    url: 'https://github.com/PicoTrex/Awesome-Nano-Banana-images',
-    color: 'bg-blue-200',
-  },
-  zerolu: {
-    name: 'ZeroLu',
-    url: 'https://github.com/ZeroLu/awesome-nanobanana-pro',
-    color: 'bg-green-200',
-  },
-  youmind: {
-    name: 'YouMind',
-    url: 'https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts',
-    color: 'bg-purple-200',
-  },
   scraped: {
     name: 'Twitter Scraped',
     url: 'https://github.com/dracohu2025-cloud/awesome-nano-banana',
