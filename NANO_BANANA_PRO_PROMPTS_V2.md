@@ -6128,3 +6128,81 @@ Nano Banana prompt
 
 以清晰的45°俯视视角，精致呈现指定公司或股票代码对应企业的3D Q版微缩场景。
 ```
+
+---
+
+## Case: twitter-2004254066172662180
+
+**Author:** [@miilesus](https://twitter.com/miilesus)
+**Tweet:** [View Original](https://x.com/miilesus/status/2004254066172662180)
+**Scraped:** 2025-12-27T02:50:26.545Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9CKU0kWsAAaK5C?format=jpg&name=orig)
+
+### Prompt
+
+```
+2025 is almost over.
+With only a few days left until 2026, are your vision boards ready? 
+
+If not, no worries. I came with a great prompt.
+Update your 2026 wishes in the prompt and give it to nano banana pro.
+
+It will handle the rest. 
+
+Vision Board Prompt: Create a high-aesthetic 2026 vision board collage combining beautiful lifestyle photos with visible inspirational text and affirmations.
+Use the uploaded face image as the main character in several frames, preserving facial identity accurately.
+
+The vision board represents an ideal 2026 life: success, peace, love, confidence, freedom, abundance, and self-alignment.
+Editorial yet dreamy visuals, soft luxury lifestyle, intentional living.
+
+IMPORTANT:
+Text is a key element.
+Short phrases, affirmations, and words must be visibly integrated into the collage.
+Typography should feel aesthetic, handwritten, serif, or clean minimal fonts.
+Text should feel emotional, motivational, and personal — not corporate.
+
+Examples of text to include (can appear across different frames):
+“2026”
+“everything works out”
+“soft life, strong mind”
+“aligned”
+“chosen”
+“abundance”
+“calm success”
+“romanticize your life”
+“she believed herself”
+“slow mornings”
+“healthy, wealthy, loved”
+“this is my year”
+
+Scenes & visuals to include:
+
+- Portrait of the woman in soft natural light, calm confident expression, editorial but intimate.
+- Cozy morning scene: sunlight through curtains, coffee, notebook, peaceful atmosphere.
+- Career / purpose scene: working in a beautiful cafe or modern space, laptop open, focused calm energy.
+- Travel or freedom scene: window, balcony, city view, or open space, cinematic framing.
+- Love & connection: subtle romantic imagery (hands, closeness, warmth), tasteful and minimal.
+- Luxury details: coffee cups, jewelry, bags, flowers, neutral tones.
+- Self-care & health: walking, stretching, slow movement, wellness aesthetic.
+
+Visual style:
+Soft editorial lighting, neutral and warm color palette (beige, cream, taupe, warm whites),
+film look, subtle grain, gentle contrast, elegant composition.
+
+Text placement:
+Some text handwritten over images,
+some typed cleanly,
+some layered like a journal or scrapbook.
+Text should feel organic and emotionally intentional, not perfectly aligned.
+
+Mood & vibe:
+Manifestation energy, feminine calm power, romanticized life, clarity, confidence, peace.
+Beautiful photos first, meaningful words second — balanced and aesthetic.
+
+High realism, natural skin texture, not AI-looking.
+
+Aspect ratio: vertical 16:9
+```
