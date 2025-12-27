@@ -6451,3 +6451,24 @@ A stylized Art Deco portrait of the person in the uploaded image, featuring slee
     "style": "cinematic behind-the-scenes realism",
     "lighting": "studio set lighting, soft key lights, subtle
 ```
+
+---
+
+## Case: twitter-2004646477407420782
+
+**Author:** [@GaganSingh8u](https://twitter.com/GaganSingh8u)
+**Tweet:** [View Original](https://x.com/GaganSingh8u/status/2004646477407420782)
+**Scraped:** 2025-12-27T02:55:26.252Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HvVl9bEAACy6S?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt:
+Girl from the attached picture is sitting in the thinking mode on the chair infront of her study table with books open infront of her, she has 2 good and evil sides of her with exactly same looking like her sitting at her left and right shoulder, where good side who is looking like an Angel is conveincing her for study by a thinking cloud in which study books and success image appearing but on the other hand the evil side of her is suggesting to party and have fun in her side of thinking
+```
