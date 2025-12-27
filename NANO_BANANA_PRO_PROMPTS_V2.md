@@ -7507,3 +7507,34 @@ Gemini Nano Banana Pro Prompt:
 
 A chunky foam logo of [Brand Name] in bold neon colors. Soft matte texture with bright color pops, rounded playful forms. Clean background, fun tech or youth-brand vibe.
 ```
+
+---
+
+## Case: twitter-2004577748170445127
+
+**Author:** [@jw660227](https://twitter.com/jw660227)
+**Tweet:** [View Original](https://x.com/jw660227/status/2004577748170445127)
+**Scraped:** 2025-12-27T03:00:33.839Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GwmiVagAERxky?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9GwmiabgAEgeyv?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9CBwT3WYAA9yfM?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9CBwgpWUAAHcb2?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9CBwsLXcAA9W2Z?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9CBw4PWMAAMpFh?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana pro
+prompt 
+
+3d diorama design, cute and simple [country] cultural scene, a small isometric diorama featuring [main landmark or iconic element] as the central element, surrounded by [list of iconic objects, food, symbols, and lifestyle elements]. pastel
+```
