@@ -1,4 +1,4 @@
-import { getAllCasesFromAllSources, getCaseStats, Case, SOURCE_INFO, MODEL_INFO, ModelType, DataSource } from '@/lib/parsers';
+import { getAllCasesFromAllSources, getCaseStats, Case, MODEL_INFO, ModelType } from '@/lib/parsers';
 import Header from '@/components/Header';
 import CaseCard from '@/components/CaseCard';
 import { ArrowRight, Sparkles, Github, Star } from 'lucide-react';
@@ -82,15 +82,8 @@ export default async function Home() {
         <section className="border-y-4 border-black bg-white">
           <div className="max-w-7xl mx-auto px-4 py-6">
             <div className="flex flex-wrap justify-center gap-4 md:gap-8">
-              {/* Model Stats */}
-              <div className="flex items-center gap-3 px-4 py-2 neo-card bg-[var(--accent-yellow)]">
-                <span className="text-2xl">🍌</span>
-                <div>
-                  <div className="font-black text-lg">{stats.byModel['nano-banana']}</div>
-                  <div className="text-xs font-bold uppercase">Nano Banana</div>
-                </div>
-              </div>
-              <div className="flex items-center gap-3 px-4 py-2 neo-card bg-[var(--accent-coral)]">
+              {/* Nano Banana Pro Count */}
+              <div className="flex items-center gap-3 px-4 py-2 neo-card bg-[var(--accent-coral)] hover:translate-x-1 hover:-translate-y-1 hover:shadow-[6px_6px_0px_0px_#000] transition-all cursor-default">
                 <span className="text-2xl">🍌✨</span>
                 <div>
                   <div className="font-black text-lg">{stats.byModel['nano-banana-pro']}</div>
@@ -98,15 +91,18 @@ export default async function Home() {
                 </div>
               </div>
 
-              {/* Source Stats */}
-              {(Object.entries(stats.bySource) as [DataSource, number][]).map(([source, count]) => (
-                count > 0 && (
-                  <div key={source} className={`flex items-center gap-2 px-3 py-1 neo-tag ${SOURCE_INFO[source].color}`}>
-                    <span className="font-bold">{SOURCE_INFO[source].name}</span>
-                    <span className="font-black">{count}</span>
+              {/* Latest Post */}
+              {cases[0]?.scraped_at && (
+                <div className="flex items-center gap-3 px-4 py-2 neo-card bg-[var(--accent-mint)] hover:translate-x-1 hover:-translate-y-1 hover:shadow-[6px_6px_0px_0px_#000] transition-all cursor-default">
+                  <span className="text-2xl">🕐</span>
+                  <div>
+                    <div className="font-black text-lg">
+                      {new Date(cases[0].scraped_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
+                    </div>
+                    <div className="text-xs font-bold uppercase">Latest Post</div>
                   </div>
-                )
-              ))}
+                </div>
+              )}
             </div>
           </div>
         </section>

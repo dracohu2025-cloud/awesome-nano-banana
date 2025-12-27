@@ -129,6 +129,7 @@ export function parseMarkdownCases(
         }
 
         // Try Scraped format: ## Case: twitter-xxx
+        let scrapedAt = '';
         if (caseNumber === null) {
             const scrapedMatch = section.match(/## Case:\s*(twitter-(\d+))/);
             if (scrapedMatch) {
@@ -140,6 +141,12 @@ export function parseMarkdownCases(
                 const tweetLinkMatch = section.match(/\*\*Tweet:\*\*\s*\[View Original\]\(([^)]+)\)/);
                 if (tweetLinkMatch) {
                     sourceLink = tweetLinkMatch[1];
+                }
+
+                // Get scraped timestamp
+                const scrapedAtMatch = section.match(/\*\*Scraped:\*\*\s*(\d{4}-\d{2}-\d{2}T[\d:.]+Z?)/);
+                if (scrapedAtMatch) {
+                    scrapedAt = scrapedAtMatch[1];
                 }
 
                 // Try to get author from **Author:** [@xxx](link)
@@ -213,6 +220,7 @@ export function parseMarkdownCases(
                 model: defaultModel,
                 source,
                 category,
+                scraped_at: scrapedAt || undefined,
             });
         }
     }

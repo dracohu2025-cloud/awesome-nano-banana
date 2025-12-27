@@ -31,6 +31,7 @@ export interface Case {
   source: DataSource;
   category?: string;
   attribution?: Attribution;
+  scraped_at?: string;           // ISO timestamp when scraped
 }
 
 export interface CaseWithPath extends Case {
