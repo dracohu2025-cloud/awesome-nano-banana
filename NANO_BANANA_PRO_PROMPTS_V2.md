@@ -4,6 +4,42 @@
 
 ---
 
+## Case: twitter-2004113573816291353
+
+**Author:** [@LufzzLiz](https://twitter.com/LufzzLiz)
+**Tweet:** [View Original](https://x.com/LufzzLiz/status/2004113573816291353)
+**Scraped:** 2025-12-27T07:12:52.323Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9AJ_tIb0AQkgJi?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G83wDhfXAAA5Pbh?format=jpg&name=orig)
+
+### Prompt
+
+```
+儿时有个梦想就是山顶看场烟花秀
+借鉴了宝玉老师思路，提示词如下：
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+城市：夏威夷
+```
+
+---
+
 ## Case: twitter-2001238094457266531
 
 **Author:** [@munou_ac](https://twitter.com/munou_ac)
