@@ -7419,3 +7419,33 @@ Up to 30% OFF
 
 Prompt 
 ```
+
+---
+
+## Case: twitter-2004583494144688131
+
+**Author:** [@retvikurmi](https://twitter.com/retvikurmi)
+**Tweet:** [View Original](https://x.com/retvikurmi/status/2004583494144688131)
+**Scraped:** 2025-12-27T03:00:20.337Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9G2EBpawAAkVqQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Caught between the real world and the anime world. 
+
+Google Gemini ai Nano Banana 3.0
+Prompt:
+
+{
+  "meta": {
+    "version": "2.0",
+    "module": "json_forge_core",
+    "timestamp": "2025-12-26T00:00:00Z",
+    "inferred": false
+  },
+  "image_generation_request": {
+```
