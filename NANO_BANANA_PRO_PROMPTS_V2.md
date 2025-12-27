@@ -6472,3 +6472,117 @@ Gemini Nano Banana Pro
 Prompt:
 Girl from the attached picture is sitting in the thinking mode on the chair infront of her study table with books open infront of her, she has 2 good and evil sides of her with exactly same looking like her sitting at her left and right shoulder, where good side who is looking like an Angel is conveincing her for study by a thinking cloud in which study books and success image appearing but on the other hand the evil side of her is suggesting to party and have fun in her side of thinking
 ```
+
+---
+
+## Case: twitter-2004640182117531769
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004640182117531769)
+**Scraped:** 2025-12-27T02:55:37.837Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HpdFKXQAQfox7?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro @NanoBanana  
+
+Prompt:
+
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_fashion_editorial",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references": {
+      "character_reference_image": "UPLOAD_YOUR_CHARACTER_REFERENCE (OPTIONAL_IF_YOU_WANT_SAME_PERSON)",
+      "reference_rules": {
+        "if_character_reference_provided_then_preserve_identity": true,
+        "identity_lock_strength": 0.98,
+        "do_not_copy_any_unprovided_identity": true
+      }
+    },
+    "output_settings": {
+      "aspect_ratio": "4:5",
+      "orientation": "portrait",
+      "resolution": "ultra_high_res",
+      "render_style": "photorealistic_high_flash_editorial",
+      "sharpness": "high",
+      "film_grain": "subtle"
+    },
+    "creative_prompt": {
+      "scene_summary": "High-fashion studio editorial portrait inspired by ornate Southeast Asian ceremonial regalia. Single female model in a maximalist gold costume with heavy jewelry, dramatic makeup, and an elaborate crown-like headdress with dangling chains. Clean white studio background with harsh direct flash for crisp shadows and sparkling specular highlights. No text/logos/watermarks.",
+      "subject": {
+        "type": "adult_woman",
+        "pose": "front-facing, arms raised overhead with wrists crossed, hands resting above the crown; elegant symmetrical pose",
+        "expression": "calm, regal, slightly intense gaze",
+        "hair": "short blunt black bob with straight bangs (or sleek hair hidden under headpiece)",
+        "makeup": {
+          "style": "theatrical editorial",
+          "eyes": "bold eyeliner, heavy lashes, soft colored accents around eyes, high-contrast highlight",
+          "lips": "glossy deep red",
+          "skin": "porcelain-smooth but realistic texture, luminous highlights"
+        }
+      },
+      "wardrobe": {
+        "headpiece": "massive ornate gold crown/headdress with intricate filigree, floral motifs, and long dangling gold chains framing the face and cascading down both sides",
+        "jewelry": [
+          "large decorative nose ring with a delicate chain detail",
+          "layered gold necklaces with red bead accents",
+          "heavy gold earrings",
+          "multiple gold bangles and beaded bracelets",
+          "gold shoulder/arm ornaments with fringe tassels"
+        ],
+        "costume": "full gold embellished dress/armor-like bodice covered in coins, medallions, filigree plates, beadwork, and shimmering fringe; red bead accents throughout; ornate waist belt; dense sparkling texture"
+      },
+      "environment": {
+        "background": "pure white seamless studio backdrop",
+        "floor": "not visible or minimal",
+        "props": "none"
+      },
+      "lighting_and_camera": {
+        "lighting": "harsh direct on-camera flash, strong crisp shadow behind subject, high contrast, specular sparkle on gold, slight overflash highlights but controlled",
+        "camera": "high-end editorial shot with point-and-shoot flash vibe",
+        "lens": "50mm (full-frame look)",
+        "aperture": "f/5.6",
+        "iso": "200",
+        "shutter": "1/160",
+        "focus": "sharp eyes and facial jewelry; crisp detail on gold textures; background clean"
+      },
+      "composition": {
+        "framing": "mid-to-full body portrait (waist to head), centered subject, headpiece and dangling chains fully in frame",
+        "style_notes": "maximalist luxury, museum-like regalia, couture editorial, highly detailed gold surfaces"
+      },
+      "strict_rules": [
+        "NO text",
+        "NO logos",
+        "NO watermark",
+        "single subject only",
+        "white background only",
+        "keep the costume extremely ornate and gold-heavy with dangling chains",
+        "avoid cultural caricature; keep it respectful couture/editorial styling"
+      ]
+    },
+    "negative_prompt": [
+      "text",
+      "logo",
+      "watermark",
+      "extra people",
+      "blurry face",
+      "low resolution",
+      "cheap plastic jewelry",
+      "missing hands",
+      "bad hands, fused fingers, extra fingers",
+      "messy background, studio gear visible",
+      "muted dull gold (must be shiny)",
+      "over-smoothed plastic skin"
+    ]
+  }
+}
+```
