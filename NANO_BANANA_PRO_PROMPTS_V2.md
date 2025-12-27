@@ -8753,3 +8753,44 @@ Under each panel: engraved plate “title (year-year)”. ni extra text.
 
 Return only the final image prompt.</instructions>
 ```
+
+---
+
+## Case: twitter-2004774329738031403
+
+**Author:** [@YeKyaHoRhaHaiBe](https://twitter.com/YeKyaHoRhaHaiBe)
+**Tweet:** [View Original](https://x.com/YeKyaHoRhaHaiBe/status/2004774329738031403)
+**Scraped:** 2025-12-27T05:25:16.893Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Jjn25bgAE7WwB?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JjoJYbgAA60am?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Jjn0ybgAMwl6O?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Jjn5HbUAAyZ7B?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 294
+#Rajasthani  gemini nano banana  pro prompts that you should definitely try 
+
+Prompt 1:
+"A woman with long, flowing hair stands in a golden wheat field at sunset. The woman is wearing a traditional maroon-beige Rajasthani lehenga with maroon gota-patti work, matching dupatta over the head, jewellery, bangles, and looking at the man., billowing around her. Her body is turned slightly to the right, hair blowing behind her, and one hand holds the dress's fabric as she moves gracefully through the tall wheat, silhouetted against a warm, glowing sky with the sun low on the horizon. Create this referance image image id and face shuld not be changed at all.
+Create this referance image image id and face should not be changed at all."
+
+Prompt 2:
+"Create A soft, sunlit portrait of [same face] The woman is wearing a traditional pink lahriya-beige Rajasthani lehenga with pink gota-patti work, matching dupatta over the head, jewellery, bangles, and looking at the man. She hugs lord Krishna gracefully against a beautiful wall bathed in warm natural pink light with a triangular patch of sunlight casting artistic shadows. Her gentle expression, loose strands moving slightly, and the dreamy golden glow create a serene, poetic, and romantic. Picture looking very beautiful She saw Krishna very peacefully.
+Create this referance image image id and face shuld not be changed at all."
+
+Prompt 3:
+"Create an ultra photorealistic cinematic closeup shot of a woman (the reference image uploaded) is sitting gracefully on a sand in desert during golden hour. She is leaning her hands on the backside placed on sand, head slightly turning towards camera, She is wearing a black sleeveless blouse with a red silk saree. The long pallu of the saree is flowing effect against the golden sun. The sky is a clear, soft gradient of pale yellow and soft purple, creating a natural lens. The overall mood is peaceful.100% unchanged face no alteration.
+2. Create an ultra photorealistic cinematic closeup shot of a woman (the reference image uploaded) is sitting straight gracefully on desert leaning back against a seated camel. The camel is light tan with a calm expression. The sky is a clear, soft gradient of pale yellow and blue, creating a natural lens flare effect. She is wearing a black sleeveless blouse with a red silk saree. The sky is a clear soft gradient of pale yellow and soft purple, creating a natural lens. The overall mood is peaceful. 100% unchanged face no alteration."
+
+Prompt 4:
+"Mid-body shot of a woman in a flowing, The woman is wearing a traditional yellow-beige Rajasthani lehenga with silver gota-patti work, matching dupatta over the head, jewellery, bangles. The background features Ad Deir (The Monastery) at Petra, Jordan, carved into a towering sandstone mountain during the golden hour. The wind is catching the fabric of her dress, creating a dramatic motion effect. She is wearing large ornate gold statement earrings and stacked gold bracelets Cinematic lighting with warm, orange sunset hues, high resolution, 8k.
+Create this referance image image id and face shuld not be changed at all."
+```
