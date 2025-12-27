@@ -6326,3 +6326,31 @@ Prompt :
       "ambient": "soft pink light",
       "source": "distant
 ```
+
+---
+
+## Case: twitter-2004738067618468292
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2004738067618468292)
+**Scraped:** 2025-12-27T02:54:10.554Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JCnmqbUAApnGx?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JCnoLaAAAAd6I?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9JCno5asAAMqSW?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9JCnsYbgAIyKXp?format=jpg&name=orig)
+
+### Prompt
+
+```
+Ordinary Object, Extraordinary Festival
+
+Gemini Nano Banana Pro Prompt:
+
+A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormous [EVERYDAY_OBJECT]. Paper lanterns strung on wire, confetti made from magazine scraps, warm ambient city-bokeh background, shallow depth of field, cinematic wide-angle close-up, vibrant saturated palette, tactile fabric and wood textures.
+```
