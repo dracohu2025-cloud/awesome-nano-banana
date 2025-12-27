@@ -5,7 +5,7 @@ import { ArrowRight, Sparkles, Github, Star } from 'lucide-react';
 import Link from 'next/link';
 
 export const dynamic = 'force-static';
-export const revalidate = 3600; // Revalidate every hour
+export const revalidate = 60; // Revalidate every minute
 
 export default async function Home() {
   const cases = await getAllCasesFromAllSources();
