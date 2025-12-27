@@ -7807,3 +7807,25 @@ A frozen moment of love—3D snow, pure emotion, high-fashion minimalism.
 Prompt  
 A breathtaking 3D snow-sculpture art piece captured from a bird's-eye view. A handsome young man made of shimmering white frost is lying in a pristine field of snow, his
 ```
+
+---
+
+## Case: twitter-2004551483203735647
+
+**Author:** [@promptprincess](https://twitter.com/promptprincess)
+**Tweet:** [View Original](https://x.com/promptprincess/status/2004551483203735647)
+**Scraped:** 2025-12-27T03:02:37.846Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GYjWQXcAAf0N9?format=jpg&name=orig)
+
+### Prompt
+
+```
+i then used a product design file that i created a while ago and gave it info on how to ideally prompt nano banana pro and then it invented this toy :)
+
+✧ prompt ✧
+
+Subject: A high-end artisan toy, the "Kál-Húf Lantern," a 15cm spherical object crafted from dark, polished
+```
