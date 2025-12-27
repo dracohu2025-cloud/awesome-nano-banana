@@ -205,7 +205,7 @@ export default async function CasePage({ params }: { params: Promise<{ id: strin
                             <p>
                                 <span className="font-bold">Source:</span>{' '}
                                 <a
-                                    href={sourceInfo.url}
+                                    href={caseData.source_link || sourceInfo.url}
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="underline"
