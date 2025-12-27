@@ -7785,3 +7785,25 @@ Prompt:
         "main_element": "Freshly baked croissant",
         "orientation": "Placed
 ```
+
+---
+
+## Case: twitter-2004552431787790373
+
+**Author:** [@jzaib4269](https://twitter.com/jzaib4269)
+**Tweet:** [View Original](https://x.com/jzaib4269/status/2004552431787790373)
+**Scraped:** 2025-12-27T03:02:34.473Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GZz_hbIAMmhOb?format=jpg&name=orig)
+
+### Prompt
+
+```
+Made with Nano Banana 
+A frozen moment of love—3D snow, pure emotion, high-fashion minimalism.
+
+Prompt  
+A breathtaking 3D snow-sculpture art piece captured from a bird's-eye view. A handsome young man made of shimmering white frost is lying in a pristine field of snow, his
+```
