@@ -6423,3 +6423,31 @@ Prompt:
 
 A stylized Art Deco portrait of the person in the uploaded image, featuring sleek, geometric lines, a symmetrical composition, and high glamour. She is adorned in stylized gold and black, reflecting the luxurious Jazz Age aesthetic. The
 ```
+
+---
+
+## Case: twitter-2004659346878464349
+
+**Author:** [@Emmalaurent0](https://twitter.com/Emmalaurent0)
+**Tweet:** [View Original](https://x.com/Emmalaurent0/status/2004659346878464349)
+**Scraped:** 2025-12-27T02:55:11.949Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9H63x3XgAAuExT?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9H63yTXgAAdKp0?format=jpg&name=orig)
+
+### Prompt
+
+```
+#StrangerThings  #StrangerThings5 nano banana pro prompt: 
+
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "style": "cinematic behind-the-scenes realism",
+    "lighting": "studio set lighting, soft key lights, subtle
+```
