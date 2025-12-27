@@ -4,6 +4,175 @@
 
 ---
 
+## Case: twitter-2001238094457266531
+
+**Author:** [@munou_ac](https://twitter.com/munou_ac)
+**Tweet:** [View Original](https://x.com/munou_ac/status/2001238094457266531)
+**Scraped:** 2025-12-27T06:36:09.964Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XTcGNaAAAmLN5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8XTcGRaAAA3_TA?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8XTcGMbUAAghZN?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8XTcGOaoAALjeQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Let's Play with Nano Banana Pro
+[Figure Product Introduction Style
+　Layout Prompt]
+⠀
+This is a prompt for turning the character from the reference image into a figure and laying it out in a product introduction style. I've properly restructured and released what I shared before.
+⠀
+This is a prompt dedicated for Nano Banana Pro.
+Unauthorized reposting of the prompt is prohibited.
+Modification or deletion of the signature block is prohibited.
+⠀
+・Product Name (product_name)
+・Manufacturer Name (manufacturer_name)
+You can specify arbitrary strings for each.
+Product Name Logo: Inferred from the product name string and the atmosphere of the reference image.
+Manufacturer Logo: Inferred from the manufacturer name string.
+⠀
+・Size
+The overall height inferred from the character's body type and 1/7 scale setting is displayed in centimeters.
+⠀
+・Material
+A material appropriate for a figure is inferred and displayed.
+⠀
+・Price
+Inferred from the figure's scale, sculpting density, and paint expression.
+⠀
+・Partial Close-Up Views
+Each close-up view includes a Japanese caption explaining a different body part or feature.
+⠀
+◆How to Use
+Product Name (product_name)
+Manufacturer Name (manufacturer_name)
+Please replace the content inside the "" below with arbitrary strings for each.
+The manufacturer name is also reflected in "Prototype Sculpting."
+product_name: "{ARBITRARY_PRODUCT_NAME}"
+manufacturer_name: "{ARBITRARY_MANUFACTURER_NAME}"
+⠀
+◆Prompt (Please copy and paste the entire text)
+product_name: "{ARBITRARY_PRODUCT_NAME}"
+manufacturer_name: "{ARBITRARY_MANUFACTURER_NAME}"
+
+subject: >
+  The character from reference image A, faithfully preserved in design, proportions,
+  facial features, hairstyle, outfit details, and color palette.
+  The character is transformed into a highly detailed, photorealistic PVC figure.
+  Sculpting style and overall aesthetic are inferred directly from the reference image.
+  The figure is presented as a 1/7 scale collectible.
+
+composition: >
+  Japanese-language product introduction layout inferred by the model.
+  Vertical composition with a 3:4 aspect ratio.
+  A large main visual of the full figure.
+  A single, clearly defined product information area containing all textual elements.
+  Product name logo and manufacturer name logo are each displayed exactly once.
+  Multiple inset close-up panels are included.
+  Each inset must focus on a different physical area or feature of the figure.
+  No two inset panels may depict the same part or the same visual characteristic.
+  Inset panels must be visually and conceptually distinct from one another.
+
+action: >
+  Static collectible figure pose with no movement.
+  Emphasis on sculpt accuracy, proportions, and surface detail.
+
+location: >
+  Neutral studio-like environment inferred for product photography.
+  Minimal, non-distracting background.
+
+style: >
+  Photorealistic product rendering and photography style.
+  Artistic tone and mood inferred entirely from the reference image.
+
+camera_lighting: >
+  Camera angle and lighting inferred for clear presentation of a collectible figure.
+  Realistic studio lighting interacting with PVC surfaces.
+  Glossy highlights on hair and clothing.
+  Matte finish on skin.
+  Sharp focus with natural depth of field.
+  Soft shadow beneath the figure as if placed on a flat surface.
+
+colors: >
+  Exact color reproduction based on the reference image.
+  Background and graphic elements inferred to support readability of Japanese text.
+
+text: >
+  Product Name:
+  "{{product_name}}"
+  ※ The product name must be displayed, and as a logo, only in one location.
+
+  Manufacturer Name:
+  "{{manufacturer_name}}"
+  ※ The manufacturer name must also be displayed, and as a logo, only in one location.
+
+  Scale:
+  1/7 scale figure
+
+  Prototype Sculpting:
+  {{manufacturer_name}}
+
+  Price:
+  The selling price inferred from the figure's scale, sculpting density, and paint expression
+  is displayed in Japanese yen.
+
+  Size:
+  The overall height inferred from the character's body type and 1/7 scale setting
+  is displayed in centimeters.
+
+  Material:
+  A material appropriate for a figure is inferred and displayed.
+
+  Partial Close-Up View Captions:
+  Each close-up view is given a Japanese caption explaining
+  a different body part or feature.
+  Do not repeat explanations of the same body part, the same perspective, or the same content.
+  Ensure that captions do not overlap in subject, point of focus, or descriptive content.
+  Do not use proper nouns within the captions.
+
+  Specification item names and descriptions are displayed in Japanese.
+  Do not use expressions that evoke real-world company names, trademarks, or brands.
+
+edit_instructions: >
+  Transform the illustration into a photorealistic PVC figure.
+  Keep the original character’s design, pose, proportions, and colors exactly the same.
+  Render realistic painted surfaces with detailed shading.
+  Include subtle seam lines typical of manufactured figures.
+  Apply glossy highlights on hair and clothing, matte finish on skin.
+  Do not include any display bases, stands, or supports.
+
+references: >
+  Reference image A: defines character design, pose, proportions, color palette,
+  and overall artistic direction.
+  Product name and manufacturer name are used to generate fictional logos
+  and must each be displayed exactly once.
+  No real-world brands, trademarks, or logos may be referenced.
+
+extras: >
+  4K resolution output.
+  Aspect ratio 3:4.
+  Clean final image with no watermarks or artifacts.
+  Japanese-language collectible figure product presentation.
+
+signature:
+  content: "Prompt by てんねん@ munou_ac"
+  position: bottom-left
+  font_color: white
+  font_size: small
+  opacity: 0.9
+  layering: text_layer
+```
+
+---
+
 --
 
 ## Case: twitter-2004744328758132831
