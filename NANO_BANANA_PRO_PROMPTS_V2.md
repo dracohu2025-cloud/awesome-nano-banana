@@ -7449,3 +7449,33 @@ Prompt:
   },
   "image_generation_request": {
 ```
+
+---
+
+## Case: twitter-2004582650808295631
+
+**Author:** [@DtheW1995](https://twitter.com/DtheW1995)
+**Tweet:** [View Original](https://x.com/DtheW1995/status/2004582650808295631)
+**Scraped:** 2025-12-27T03:00:25.882Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9G1FBzW0AAIbO0?format=jpg&name=orig)
+
+### Prompt
+
+```
+Steal my Prompt (prompt below)
+
+1. Go to the Gemini App
+2. Copy my prompt 
+3. Add this prompt and your reference image 
+(preferably several options from 3 different camera positions).
+
+Prompt:
+
+{
+  "model_config": {
+    "name": "Nano Banana Pro",
+    "type":
+```
