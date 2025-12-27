@@ -3,6 +3,7 @@ import Header from '@/components/Header';
 import CaseCard from '@/components/CaseCard';
 import { ArrowRight, Sparkles, Github, Star } from 'lucide-react';
 import Link from 'next/link';
+import Script from 'next/script';
 
 export const dynamic = 'force-static';
 export const revalidate = 60; // Revalidate every minute
@@ -11,8 +12,47 @@ export default async function Home() {
   const cases = await getAllCasesFromAllSources();
   const stats = getCaseStats(cases);
 
+  // JSON-LD structured data for SEO
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Nano Banana Pro Prompts Gallery",
+    "alternateName": ["Nano Banana Gallery", "Banana Gallery"],
+    "url": "https://banana.aigc.green",
+    "description": "Explore 200+ curated Nano Banana Pro prompts for Gemini 3.0 Pro AI image generation",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Nano Banana Community"
+    },
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://banana.aigc.green/?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  };
+
+  const collectionJsonLd = {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Nano Banana Pro Prompts Collection",
+    "description": "A curated collection of AI image generation prompts for Gemini 3.0 Pro",
+    "url": "https://banana.aigc.green",
+    "numberOfItems": stats.total,
+    "keywords": ["Nano Banana", "Nano Banana Pro", "Gemini 3.0 Pro", "AI image prompts", "text to image"]
+  };
+
   return (
     <div className="min-h-screen">
+      <Script
+        id="json-ld-website"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+      <Script
+        id="json-ld-collection"
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionJsonLd) }}
+      />
       <Header />
 
       <main>
