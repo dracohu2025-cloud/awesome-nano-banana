@@ -7919,3 +7919,29 @@ Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matche
 
 1:1 aspect ratio, high quality 3D rendering, photorealistic textures with cartoon stylization.  使用这个模板生成一组4个表情包
 ```
+
+---
+
+## Case: twitter-2004156068155609278
+
+**Author:** [@sundyme](https://twitter.com/sundyme)
+**Tweet:** [View Original](https://x.com/sundyme/status/2004156068155609278)
+**Scraped:** 2025-12-27T04:06:42.254Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9AvZKaakAAYqDY?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano banana prompt share
+一个新鲜出炉的可爱动物表情包，从此实现表情包自由！
+
+提示词模板：
+Create a funny anthropomorphic mascot character in Kakao Friends/LINE Friends style. A cute [动物角色] doing [搞笑动作/表情], [情绪状态描述], thick bold black outlines, flat vector illustration, 2D style, solid vibrant colors, minimal shading, no gradients, kawaii aesthetic, large head and small body (chibi proportions), minimalist facial features, sticker art aesthetic, clean simple white background.
+Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that matches the character design - bold, rounded, colorful letters with a kawaii aesthetic.
+1:1 aspect ratio 
+
+使用这个模板生成一组*个表情包
+```
