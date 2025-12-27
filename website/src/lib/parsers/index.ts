@@ -35,15 +35,8 @@ export async function getAllCasesFromAllSources(): Promise<Case[]> {
         }
     }
 
-    // Sort all cases: Pro first, then by case number descending
-    allCases.sort((a, b) => {
-        // Pro models first
-        if (a.model !== b.model) {
-            return a.model === 'nano-banana-pro' ? -1 : 1;
-        }
-        // Then by case number descending
-        return b.case_no - a.case_no;
-    });
+    // Cases are already in order (newest first) as they appear in the markdown file
+    // No need to sort - preserve the original order from the file
 
     return allCases;
 }
