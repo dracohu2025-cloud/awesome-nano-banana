@@ -2,15 +2,15 @@
 
 > A curated showcase of AI-generated images using **Gemini Nano Banana Pro** prompts.
 
-[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://awesome-nano-banana.vercel.app)
+[![Website](https://img.shields.io/badge/Website-Live-brightgreen)](https://banana.aigc.green)
 [![Chrome Extension](https://img.shields.io/badge/Chrome-Extension-blue)](./chrome-extension)
-[![Cases](https://img.shields.io/badge/Cases-50+-yellow)](./NANO_BANANA_PRO_PROMPTS_V2.md)
+[![Cases](https://img.shields.io/badge/Cases-200+-yellow)](./NANO_BANANA_PRO_PROMPTS_V2.md)
 
 ## 🔗 Quick Links
 
 | Resource | Link |
 |----------|------|
-| 🌐 Website | [https://awesome-nano-banana-53xo.vercel.app/](https://awesome-nano-banana-53xo.vercel.app/) |
+| 🌐 Website | [https://banana.aigc.green/](https://banana.aigc.green/) |
 | 📁 Full Prompts | [NANO_BANANA_PRO_PROMPTS_V2.md](./NANO_BANANA_PRO_PROMPTS_V2.md) |
 | 🔧 Chrome Extension | [chrome-extension/](./chrome-extension) |
 
@@ -1101,7 +1101,6 @@ Nano banana Pro on Gemini app.
 
 ---
 
-
 ## 📂 Project Structure
 
 ```
@@ -1114,9 +1113,11 @@ awesome-nano-banana/
 ## 🚀 Getting Started
 
 ### View the Gallery
+
 Visit [https://awesome-nano-banana-53xo.vercel.app/](https://awesome-nano-banana-53xo.vercel.app/)
 
 ### Install Chrome Extension
+
 1. Clone this repo
 2. Go to `chrome://extensions/`
 3. Enable "Developer mode"
