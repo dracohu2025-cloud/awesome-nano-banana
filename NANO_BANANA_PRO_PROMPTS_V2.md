@@ -6871,3 +6871,49 @@ Thanks for the prompt @miilesus super inspiring
   "subject_and_scene": {
     "main_subject": "A power couple for a high-fashion cover. The woman (uploaded_image_1) is elegant with glowing skin, winking and making a playful
 ```
+
+---
+
+## Case: twitter-2004620767087263838
+
+**Author:** [@miilesus](https://twitter.com/miilesus)
+**Tweet:** [View Original](https://x.com/miilesus/status/2004620767087263838)
+**Scraped:** 2025-12-27T02:57:23.114Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HX9jgWYAA-0ba?format=jpg&name=orig)
+
+### Prompt
+
+```
+Black elegance  for nano banana pro
+
+Prompt: Create a realistic high-fashion studio photo collage featuring the same woman in six to eight different poses, using the uploaded face image as the exact facial reference (same facial structure, eyes, nose, lips, skin tone, and overall identity).
+
+The woman has a slim and elegant body, natural proportions, pale to light skin tone, a delicate oval face, soft but sharp facial features, large expressive eyes, thin lips, and a calm, confident expression. Her hair is long, black, styled in a messy bun with loose strands falling naturally around the face.
+
+Outfit: a tight black strapless mini dress, paired with sheer black thigh-high stockings, pointed-toe black stiletto heels with thin heels, and a formal black blazer worn in different ways across poses (fully worn, draped over one shoulder, hanging off one arm, or resting loosely on the arms). Accessories include a thin black choker necklace.
+
+Poses included in the collage:
+
+Standing front-facing full body pose, neutral expression, blazer hanging off the arms.
+
+Standing back-facing pose with the head turned toward the camera, blazer worn on the shoulders, legs straight.
+
+Squatting or semi-crouching pose with one leg forward, sharp gaze toward the camera.
+
+Seated pose on a black chair with legs crossed, blazer off one shoulder, elegant and composed expression.
+
+Seated low pose with knees bent, body leaning slightly forward, blazer worn on one arm only.
+
+Half-body portrait facing the camera, shoulders relaxed, clean editorial look.
+
+Environment: clean white seamless studio background with soft high-key lighting. Large softbox light placed in front and slightly to the side, creating soft shadows beneath the body. Even lighting that clearly shows fabric texture, skin detail, and shoe shine.
+
+Photography style: high-end fashion editorial, professional studio photography, ultra high-definition, sharp focus, natural skin texture, realistic shadows, no lens distortion, accurate anatomy and proportions.
+
+Composition: vertical fashion collage layout with evenly spaced images.
+
+Aspect ratio: 9:16.
+```
