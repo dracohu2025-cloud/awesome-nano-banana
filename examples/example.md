@@ -1817,26 +1817,7 @@ Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composit
 ### Prompt
 
 ```
-Generate the image
- Boom  — a high-impact, motivational, cinematic visual
-The prompt keeps your real facial features unchanged and builds an epic scene around you.
-Perfect for:  Personal branding
- Motivational content
- New year / new chapter visuals
- Social media posts
- Posters & cover images
- Use the prompt below (copy & paste) 
-
-PROMPT (ready to use):
 Usando la imagen de referencia, realiza lo siguiente, sin modificar los rasgos de la persona de la foto: El hombre está parado en la cima de un acantilado rocoso y patea con fuerza el número '25' hecho de piedra, que se está rompiendo en pedazos. En el cielo, detrás de él, aparecen unos números gigantes y brillantes '2026' con un borde dorado iluminado. El fondo es un atardecer épico con rayos de sol atravesando las nubes, creando una atmósfera de triunfo y un nuevo comienzo. Estilo de fotografía publicitaria de alta resolución, hiperrealista, con iluminación dramática.
-
- Pro Tip:
-You can easily customize this prompt by changing: • the year
-• the action
-• the symbolism (numbers, objects, obstacles)
-Perfect to represent goals, growth, transformation, and success 
-
- Save this post and create your own “new chapter” image in seconds.
 ```
 
 ---
