@@ -6917,3 +6917,32 @@ Composition: vertical fashion collage layout with evenly spaced images.
 
 Aspect ratio: 9:16.
 ```
+
+---
+
+## Case: twitter-2004617320895803624
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004617320895803624)
+**Scraped:** 2025-12-27T02:57:33.682Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HT6lUXQAAXZFV?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro x 4 Reference   
+
+My Friends: @SIN_AI_1 @AITalesNBH @_MehdiSharifi_  
+
+Enjoy Prompt:
+
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_group_pose_4_people",
+      "version": "v1.0",
+```
