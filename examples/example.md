@@ -661,28 +661,6 @@ signature:
 
 ---
 
-## [@ttmouse](https://twitter.com/ttmouse)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8y9ElSWYAA1Tdn?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8y9ElRWsAAJrqw?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8y9ElQXoAAKRi5?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8y-6vMXIAEPCzG?format=jpg&name=orig)
-
-### Prompt
-
-```
-Photography Style: Cinematic product photograph, macro lens, extremely shallow depth of field (bokeh), 8k resolution, hyper-detailed.
-# Input Process:
-I will now provide the subject. You will instantly apply the creative logic and generate the final image.
-```
-
----
-
 ## [@miilesus](https://twitter.com/miilesus)
 
 ### Images
@@ -1232,32 +1210,6 @@ Both dogs look directly at the camera with a sweet and curious expression.
 Their long, flexible, and well-furred tails naturally curve inward to form together a perfectly legible heart shape when viewed from above.
 Soft natural light, autumn atmosphere, warm and realistic colors, detailed texture of the ground and fur.
 Shallow depth of field, sharp focus on the dogs, professional photography style, minimalist and poetic composition, tender and symbolic emotion, high resolution, ultra-detailed.
-```
-
----
-
-## [@ttmouse](https://twitter.com/ttmouse)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8kBFCuW8AAcSTu?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8kBFCuXEAA5m5o?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8kBFCsWcAAC3vD?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8a-5rVWoAAfh3G?format=jpg&name=orig)
-
-### Prompt
-
-```
-A high-quality 9:16 vertical portrait, 4k resolution. 
-**Framing:** Medium-long shot (framed from the knees up, focusing on torso and head). 
-**Subject:** The woman from the reference image, standing in 3/4 profile facing left, looking at the lens. She wears a structured black long trench coat. 
-**Background:** An infinite, edge-to-edge gallery wall completely covered in a dense, seamless grid of black and white fashion portraits of herself. The photo wall fills 100% of the background frame behind her. No floor visible, no ceiling visible, just the texture of the photos. 
-**Lighting:** Even, professional gallery lighting highlighting the coat's texture and the details of the background prints. 
-**Quality:** Ultra-photorealistic, sharp focus, cinematic depth.
---ar 9:16 --v 6.0
 ```
 
 ---
@@ -2427,66 +2379,6 @@ Create this referance image image id and face shuld not be changed at all."
     "glossy or synthetic fabric"
   ]
 }
-```
-
----
-
-## [@ttmouse](https://twitter.com/ttmouse)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G84SOava0AAmmHU?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G84SOarakAACwfq?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G84SOataIAAZ7qG?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G84SOatbwAAmuS6?format=jpg&name=orig)
-
-### Prompt
-
-```
-A hyper-detailed, surreal but believable studio scene where an abstract concept is physically contained and made visible.
-
-Main structure:
-A transparent, museum-grade display container (thick glass or acrylic), placed alone in a neutral studio space. Inside the container is a frozen moment in time.
-
-Core subject:
-A human-scale subject (person or symbolic object) partially transformed into another material that contradicts its original nature — for example: skin turning into stone, soft fabric crystallizing, organic elements embedded in mechanical structures. The transformation is incomplete, showing a clear boundary between “before” and “after”.
-
-Conceptual twist:
-The interior of the container is treated like a scientific or archival exhibit:
-– clearly layered composition
-– visible cross-sections or cutaway logic
-– subtle measurement marks, labels, or annotation-style details
-– the feeling that this object is being studied, preserved, or explained
-
-Spatial logic:
-Gravity behaves normally, but time does not — motion is implied yet completely frozen.
-Small secondary elements (dust, droplets, fragments, threads, petals, gears, etc.) are suspended mid-air, reinforcing the sense of paused time.
-
-Lighting:
-Soft, directional studio lighting with strong material definition.
-Light emphasizes texture differences (smooth vs rough, organic vs artificial).
-No dramatic colors — restrained, high-end, museum-like color palette.
-
-Camera & composition:
-Straight-on or slightly elevated perspective.
-Centered composition, calm framing.
-Depth comes from internal layers, not camera tricks.
-Photorealistic, macro-level detail, cinematic clarity.
-
-Mood:
-Quiet, unsettling, contemplative.
-The image should feel intelligent rather than emotional, poetic rather than decorative.
-
-Style constraints:
-No fantasy clichés.
-No obvious sci-fi UI.
-No decorative surrealism.
-Everything should feel physically possible, even if conceptually strange.
-
-Ultra high resolution, extremely sharp details, realistic materials, controlled studio background, premium art photography aesthetic.
 ```
 
 ---
