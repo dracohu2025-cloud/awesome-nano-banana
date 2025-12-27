@@ -2,26 +2,22 @@
 
 > A curated selection of 100 representative Nano Banana Pro prompts
 
----
-
-## [@LufzzLiz](https://twitter.com/LufzzLiz)
+## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
 ### Images
 
-![Image 1](https://pbs.twimg.com/media/G9BRsAdaUAAEpKJ?format=jpg&name=orig)
+![Image 1](https://pbs.twimg.com/media/G7JgnAKW4AANaBs?format=jpg&name=orig)
 
-![Image 2](https://pbs.twimg.com/media/G8_0M3_bsAAw-kb?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8_0M4zbIAAH7g9?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8_0M8Kb0AQ0mez?format=jpg&name=orig)
+![Image 2](https://pbs.twimg.com/media/G7Jgm8BXcAEE8_6?format=jpg&name=orig)
 
 ### Prompt
 
 ```
-{
-  "prompt": "3D Realistic Deconstruction Prompt\n\n Core Instruction (Core Instruction)  \nTask: Based on the reference image provided by the user, create an ultra-high-quality, cinematic 3D realistic deconstruction art poster that emphasizes authentic human presence and photographic realism. Transform the photographed individual into a lifelike 3D character with true-to-life anatomy, skin texture, emotional nuance, and natural lighting—completely abandoning stylized cartoon aesthetics. Arrange their personal belongings using the disciplined 'Knolling' (orthogonal alignment) artistic layout. Remove the 'Digital Lifestyle' category entirely. Introduce two new thematic zones: an intimate private life section and an expressive facial/emotional gallery featuring specific micro-expressions including 'Ahei Yan' (playful mock-anger face), peak ecstasy face, and bitten-lip expression. Also add a dedicated body posture/movement zone showcasing dynamic physical poses.\n\nAspect Ratio: 16:9 landscape (adaptable to 3:2, 4:5, or 1:1 as needed).  \nArtistic Style Core: Photorealistic Humanism — grounded in anatomical accuracy, natural subsurface scattering, visible pores, fine body hair, sweat sheen, and emotionally resonant realism.  \nQuality Benchmark: Visually indistinguishable from high-end editorial photography in publications like Vogue, National Geographic, or forensic anthropological reconstructions.\n\n Item Layout (Item Layout) – Knolling Radiating Composition  \nTotal Items: 30–36 pieces, arranged at precise 90-degree angles or in soft radial symmetry around the central figure.\n\nCategory 1: Fashion & Attire (Fashion Atelier) – Champagne Gold Label  \n- Main outfit fully deconstructed: sleeves, collar, fabric panels, lining, buttons, zippers—all separated and floating mid-air with realistic cloth physics.  \n- Footwear disassembled: sole, upper, laces, heel, insole.  \n- Personal accessories: belt, handbag, hat, scarf, gloves.  \n*Example: A trench coat may be broken into lapels, epaulets, waist belt, cuff straps, and main body panels.*\n\nCategory 2: Beauty & Self-Care (Beauty Collection) – Rose Gold Label  \n- Makeup: lipstick (with cutaway showing pigment core and shade label), eyeshadow palette (each well color-differentiated), compact powder, perfume bottle (glass transparency and liquid refraction clearly rendered).  \n- Skincare: serum bottles, moisturizer jars, facial rollers, gua sha tools.  \n*Example: Perfume must exhibit glass clarity, internal caustics, meniscus curvature, and metallic cap reflectivity.*\n\nCategory 3: Intimate Private Life (Private Sphere) – Soft Blush Label  \n- Undergarments: bra components (cups, band, clasp, straps), underwear fabric swatches.  \n- Sleepwear & loungewear: silk pajama sets, robe ties, slippers, cozy socks.  \n- Personal hygiene items: toothbrush with residual paste, hairbrush with trapped strands, used cotton pads, skincare residue on tissues, folded washcloth.  \n- Ambient elements: scented candle (with melted wax pool), essential oil dropper, diffuser reeds, journal with handwritten notes.  \n*All items must appear authentically used—subtle wear, organic creases, and lived-in imperfections.*\n\nCategory 4: Emotional Expression Gallery (Human Faces) – Warm Terracotta Label  \n- A curated series of 6–8 floating macro portrait close-ups capturing distinct emotional states:  \n  • Serene smile  \n  • Thoughtful gaze  \n  • Laughter with crinkled eyes  \n  • Tearful vulnerability  \n  • **'Ahei Yan' (Ah Hei Face)** – playful mock anger with narrowed eyes, puffed cheeks, and slight frown  \n  • **Peak Ecstasy Face** – flushed cheeks, parted lips, dilated pupils, light sweat on forehead  \n  • **Bitten-Lip Expression** – lower lip gently held between teeth, subtle tension in jaw, flushed neck  \n- Each face rendered at extreme close-up with visible pores, fine vellus hair, moisture on lips, dynamic skin micro-movements, and accurate eye reflections.\n\nCategory 5: Body Posture & Movement (Physicality Zone) – Charcoal Gray Label  \n- Full-body miniature figurines (1:10 scale) depicting key poses:  \n  • Kneeling pose (one knee down, hands resting on thigh)  \n  • Prone position (lying flat on stomach, chin propped on palms)  \n  • Reaching upward stretch  \n  • Cross-legged seated meditation  \n  • Dynamic walking stride  \n- Each pose highlights muscle definition, joint articulation, weight distribution, gravity-driven fabric draping, and natural body asymmetry.\n\nEvery item requirement:  \n- Render quality: Matches the character’s photorealistic fidelity—zero stylization.  \n- Numbered tags: Circular badges labeled 01–36 with subtle drop shadows.  \n- Materials & shadows: Full PBR workflow with physically accurate roughness, specular, and normal maps; soft ambient occlusion shadows cast on a neutral surface.\n\n Exploded View Technique (Exploded View Technique)  \n- Connection lines: Elegant thin dashed or solid lines tether floating garment parts back to the character’s body.  \n- Guiding arrows: Minimalist decorative arrows link each object to its descriptive label.  \n- Technical annotations:  \n  - Material swatches: Macro close-up squares of fabrics (silk, cotton, wool), leather grain, metal finishes.  \n  - Material labels: e.g., '100% Mulberry Silk', 'Full-Grain Italian Leather'.  \n  - Measurement rulers: Dual-unit (cm/inch) rulers integrated along edges.\n\n The Art of Deconstruction · HUMAN REALITY UNVEILED   \nTypography: Chinese text in an elegant serif font (e.g., Founder Songti KBXK), English in Playfair Display—both with matte paper-like texture (no metallic foil).  \n- Subtitle (beneath main title, in fluid handwritten script):  \n  \"Essence of Being · Anatomical Truth / 存在之核·形神解构\"  \n  Bilingual typesetting, graceful and unobtrusive.  \n- Category Headers: Rounded-corner rectangular tags with icons:  \n  \" Intimate Private Life\" (Soft Blush #F8C8DC)  \n  \" Emotional Expression Gallery\" (Terracotta #E2725B)  \n  \" Body Posture & Movement\" (Charcoal #36454F)\n\n Design Elements (Design Elements)  \n- Geometric frames: Minimalist thin-line hexagons or circles (0.5–1pt stroke) in muted gray to group item clusters—Art Deco influence but desaturated.  \n- Measurement rulers: Along left and right edges, enhancing technical authenticity.  \n- Crosshairs: Faint targeting reticles at four corners and focal points.  \n- Material swatches: Bottom strip displaying fabric/leather/metal micro-texture tiles.  \n- Info cards: Elegant bordered cards with item details (brand, material, origin).  \n- Attribute radar chart: Encased in a delicate frame, showing traits like: Intimacy ★★★★★, Authenticity ★★★★★, Vulnerability ★★★★☆.  \n- Connection lines: Matte silver or warm bronze dashed lines with tapered arrowheads.\n\n Background & Atmosphere (Background & Atmosphere)  \n- Background gradient: Warm variant—ivory (#FFFFF0) to soft oat milk (#F5E9D7); or cool variant—pale concrete (#EAEAEA) to studio white (#FFFFFF).  \n- Overlay pattern: 5–10% opacity blueprint grid or faint architectural drafting lines.  \n- Vignette: Gentle peripheral darkening to center attention.  \n- Atmospheric particles: Subtle golden bokeh orbs and fine film grain (Kodak Portra 400 emulation) for cinematic depth—never distracting.\n\n Color Palette (Color Palette)  \n- Feminine/Intimate Theme: Champagne Gold (#D4AF37), Rose Gold (#B76E79), Oat Milk (#F5E9D7), Blush Pink (#F8C8DC).  \n- Masculine/Authentic Theme: Slate Gray (#708090), Warm Bronze (#CD7F32), Concrete White (#F0F0F0).  \n- Neutral/Luxury Theme: Charcoal Black (#2F2F2F), Ivory (#FFFFF0), Deep Burgundy (#800020).  \n- Couple Theme: Left side cool tones, right side warm tones—blending at center with shared intimate items.\n\n Technical Specifications (Technical Specifications)  \nRendering Engine: Path Tracing equivalent to Cycles/Arnold/RenderMan.  \n- Samples: Minimum 4096 SPP for noise-free output.  \n- Light bounces: 12 for accurate global illumination.  \n- Caustics: Enabled for glass and liquid realism.  \n- Geometry: Character mesh >2 million polygons; pose figurines >500k each.  \n- Hair: >100,000 strands per character, physics-simulated with wind interaction.\n\nPBR Material Workflow:  \n- Skin: Triple-layer SSS, dual specular lobes, pore-level displacement, melanin variation.  \n- Hair: Anisotropic shader with primary/secondary highlights, root-to-tip color shift.  \n- Fabrics: Woven normal maps, directional roughness based on fiber orientation, micro-wrinkles.  \n- Metals: Metalness 1.0, Roughness 0.1–0.4 (brushed or polished as appropriate).  \n- Glass: IOR 1.5; water IOR 1.33 with meniscus detail.  \n- Leather: Roughness 0.65, bump map with natural grain variation.\n\nResolution & Output:  \n- 4K (3840×2160), 16:9.  \n- 32-bit float color depth.  \n- 16x MSAA anti-aliasing.\n\nPost-Processing:  \n- Color Grading:  \n  • Filmic LUT applied; no pure blacks (min RGB 15,15,15).  \n  • Gentle S-curve for contrast.  \n  • Color temperature adjusted ±200K by theme.  \n  • Global saturation reduced by 5%; key colors (e.g., blush, gold) boosted by 10%.  \n- Effects:  \n  • Bloom: Soft glow on specular highlights.  \n  • Film Grain: Organic Kodak Portra 400 texture.  \n  • Chromatic Aberration: Barely perceptible edge fringing.  \n  • Vignette: Medium intensity.  \n  • Sharpening: Output-level adaptive sharpening.\n\nSpecial Instructions:  \n- Single Subject: ~30 items, focused on authentic daily life, emotional range, and physical presence.  \n- Couple: ~36 items (18 each), connected by a subtle heart-shaped negative space, with gender-coded palettes and shared intimate objects (e.g., one pillow, shared journal).  \n- Pregnant Subject: Include prenatal items (belly oil, vitamins, ultrasound printout); add a translucent fetal icon near the abdomen.  \n- Critical Requirement: Faithfully match the reference photo’s age, ethnicity, profession, body type, scars, tattoos, and personal style—including skin blemishes, freckles, and unique facial structure.\n\nQuality Benchmark:  \nThe final image must be visually indistinguishable from a premium photographic editorial—suitable for:  \n- Luxury lifestyle catalogs  \n- Documentary portraiture exhibitions  \n- Anthropological or medical visualization  \n- Fine art photography collections  \n- High-end brand storytelling campaigns  \n"
-}
+Using 100% of the provided face, create a cinematic extreme close-up scene of an archer warrior attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) at the exact moment of drawing the bowstring during a heavy downpour. The camera is positioned frontally, aligned directly with the arrow's axis, creating an intense and dramatic perspective. Extremely shallow depth of field, with absolute focus on the character's eyes, keeping the arrow partially blurred in the foreground. The lens simulates a 135mm telephoto lens with a wide aperture (f/1.8).
+> The character's face is coated in wet mud, dirt, and heavy rain splatters, creating realistic, visceral textures. Rainwater mixes with sweat, streaming down their face. The skin has a drenched, slick sheen with sharp, cool reflections from the wet environment. Soaked, disheveled hair is plastered to the face by the rain, reinforcing the wild, battle-worn look. The eyes, extremely sharp, are light green, piercing through the rain with determination and focus.
+> The lighting is cinematic and moody, provided by a dark, overcast storm sky. Cool, diffused light creates sharp, watery highlights on the drenched skin and deep shadows. Instead of dust, heavy rain streaks diagonally across the frame, with individual droplets visible catching the light, and a fine mist sprays near the bowstring. The background is completely blurred with cool-toned, wet bokeh (greys, blues, and deep greens).
+> Hands grip the slick, wet bow firmly, showing veins, mud sliding off the skin, and the realistic texture of wet leather and wood. The arrow feathers in the foreground are soaked and matted. Water drips continuously from the arrowhead, catching a cool glint of light near the archer's nose.
+> The composition conveys absolute tension and energy amidst the storm. The framing is extremely tight, filling the entire frame with the face, hands, arrow, and falling rain. Hyper-realistic, cinematic style with high contrast, cool and desaturated colors, dense shadows, and a sense of movement frozen at the perfect instant. Aspect ratio 4:5
 ```
 
 ---
@@ -238,224 +234,6 @@ signature:
   font_size: small
   opacity: 0.9
   layering: text_layer
-```
-
----
-
-## [@astronomerozge1](https://twitter.com/astronomerozge1)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HQwFtWgAALJI9?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "text_to_image_photoreal_romance_poster_rain_kiss_duo",
-      "version": "v1.0",
-      "priority": "high"
-    },
-    "references": {
-      "reference_images": {
-        "male_reference": "UPLOAD_MALE_REFERENCE_IMAGE (REQUIRED)",
-        "female_reference": "UPLOAD_FEMALE_REFERENCE_IMAGE (REQUIRED)",
-        "layout_mood_reference": "UPLOAD_THIS_NOTEBOOK_POSTER_AS_MOOD_REFERENCE (OPTIONAL)"
-      },
-      "reference_rules": {
-        "preserve_identity_male": true,
-        "preserve_identity_female": true,
-        "identity_lock_strength_male": 0.995,
-        "identity_lock_strength_female": 0.995,
-        "face_similarity_priority": "MAX",
-        "preserve_facial_proportions": true,
-        "preserve_eye_shape_nose_lips_jawline": true,
-        "no_beautify_no_face_morph": true,
-        "keep_age_and_gender_consistent": true,
-        "do_not_copy_any_unprovided_identity": true
-      }
-    },
-    "output_settings": {
-      "aspect_ratio": "2:3",
-      "orientation": "portrait",
-      "resolution": "ultra_high_res",
-      "render_style": "photorealistic_cinematic_poster",
-      "sharpness": "high",
-      "film_grain": "subtle"
-    },
-    "creative_prompt": {
-      "scene_summary": "Create an ORIGINAL photoreal romantic movie poster set in heavy rain. EXACTLY TWO people only (one man + one woman). Their faces must match the uploaded references exactly (100% identity). The couple is in an intimate near-kiss embrace: the woman holds the man's face with both hands; the man supports her waist. Both are soaked with visible rain droplets on skin and clothing, wet hair strands, and realistic water sheen. Cinematic backlight through rain, soft bloom highlights, emotional intensity, premium poster-grade composition. No extra people, no logos, no watermark.",
-      "composition": {
-        "framing": "tight medium shot (waist-to-head), couple dominates the frame",
-        "pose": "woman leaning in, hands on man's cheeks; man holding her securely; faces extremely close, almost kissing",
-        "camera_angle": "eye-level, intimate, cinematic",
-        "background": "stormy pale sky + rain curtain; minimal background clutter; soft haze"
-      },
-      "wardrobe_and_styling": {
-        "male_outfit": "white button-up shirt, fully soaked, fabric clinging naturally, realistic wrinkles and transparency where appropriate (tasteful, non-explicit)",
-        "female_outfit": "soft blue short-sleeve dress, wet fabric texture, subtle period-inspired simplicity",
-        "hair": "wet hair, strands sticking naturally; no glam curls",
-        "makeup": "natural, rain-safe, realistic (no heavy glam)"
-      },
-      "rain_fx": {
-        "rain": "heavy rain streaks + mist + droplets on faces and hands",
-        "water_detail": "beads of water on skin, collar, sleeves; believable physics"
-      },
-      "typography": {
-        "top_tagline": "BEHIND EVERY GREAT LOVE IS A STORY WORTH KEEPING",
-        "main_title": "THE NOTEBOOK",
-        "title_style": "classic elegant serif, large, centered near bottom, high contrast, clean kerning",
-        "placement": "tagline at top; title at bottom; keep generous margins"
-      },
-      "lighting_and_camera": {
-        "lighting": "cinematic backlight + soft key light; rain catches highlights; gentle vignetting",
-        "camera": "full-frame DSLR look",
-        "lens": "85mm",
-        "aperture": "f/2.2",
-        "iso": "200",
-        "shutter": "1/250",
-        "focus": "tack-sharp faces and hands; rain slightly motion-streaked"
-      },
-      "strict_rules": [
-        "Exactly 2 people only",
-        "100% identity match to references (no facial changes)",
-        "No extra characters, no background people",
-        "No watermark, no random text gibberish",
-        "Only include the tagline and title exactly as written",
-        "Photoreal, cinematic, not AI-looking"
-      ]
-    },
-    "negative_prompt": [
-      "extra people",
-      "watermark",
-      "logo",
-      "gibberish text",
-      "misspelled title",
-      "blurry faces",
-      "identity drift",
-      "face swap artifacts",
-      "beautify filter",
-      "plastic skin",
-      "cartoon",
-      "anime",
-      "cgi look",
-      "oversexualized",
-      "nudity",
-      "deformed hands",
-      "extra fingers",
-      "busy background"
-    ]
-  }
-}
-```
-
----
-
-## [@astronomerozge1](https://twitter.com/astronomerozge1)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HpdFKXQAQfox7?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "generation_request": {
-    "meta_data": {
-      "tool": "NanoBanana Pro",
-      "task_type": "text_to_image_photoreal_fashion_editorial",
-      "version": "v1.0",
-      "priority": "high"
-    },
-    "references": {
-      "character_reference_image": "UPLOAD_YOUR_CHARACTER_REFERENCE (OPTIONAL_IF_YOU_WANT_SAME_PERSON)",
-      "reference_rules": {
-        "if_character_reference_provided_then_preserve_identity": true,
-        "identity_lock_strength": 0.98,
-        "do_not_copy_any_unprovided_identity": true
-      }
-    },
-    "output_settings": {
-      "aspect_ratio": "4:5",
-      "orientation": "portrait",
-      "resolution": "ultra_high_res",
-      "render_style": "photorealistic_high_flash_editorial",
-      "sharpness": "high",
-      "film_grain": "subtle"
-    },
-    "creative_prompt": {
-      "scene_summary": "High-fashion studio editorial portrait inspired by ornate Southeast Asian ceremonial regalia. Single female model in a maximalist gold costume with heavy jewelry, dramatic makeup, and an elaborate crown-like headdress with dangling chains. Clean white studio background with harsh direct flash for crisp shadows and sparkling specular highlights. No text/logos/watermarks.",
-      "subject": {
-        "type": "adult_woman",
-        "pose": "front-facing, arms raised overhead with wrists crossed, hands resting above the crown; elegant symmetrical pose",
-        "expression": "calm, regal, slightly intense gaze",
-        "hair": "short blunt black bob with straight bangs (or sleek hair hidden under headpiece)",
-        "makeup": {
-          "style": "theatrical editorial",
-          "eyes": "bold eyeliner, heavy lashes, soft colored accents around eyes, high-contrast highlight",
-          "lips": "glossy deep red",
-          "skin": "porcelain-smooth but realistic texture, luminous highlights"
-        }
-      },
-      "wardrobe": {
-        "headpiece": "massive ornate gold crown/headdress with intricate filigree, floral motifs, and long dangling gold chains framing the face and cascading down both sides",
-        "jewelry": [
-          "large decorative nose ring with a delicate chain detail",
-          "layered gold necklaces with red bead accents",
-          "heavy gold earrings",
-          "multiple gold bangles and beaded bracelets",
-          "gold shoulder/arm ornaments with fringe tassels"
-        ],
-        "costume": "full gold embellished dress/armor-like bodice covered in coins, medallions, filigree plates, beadwork, and shimmering fringe; red bead accents throughout; ornate waist belt; dense sparkling texture"
-      },
-      "environment": {
-        "background": "pure white seamless studio backdrop",
-        "floor": "not visible or minimal",
-        "props": "none"
-      },
-      "lighting_and_camera": {
-        "lighting": "harsh direct on-camera flash, strong crisp shadow behind subject, high contrast, specular sparkle on gold, slight overflash highlights but controlled",
-        "camera": "high-end editorial shot with point-and-shoot flash vibe",
-        "lens": "50mm (full-frame look)",
-        "aperture": "f/5.6",
-        "iso": "200",
-        "shutter": "1/160",
-        "focus": "sharp eyes and facial jewelry; crisp detail on gold textures; background clean"
-      },
-      "composition": {
-        "framing": "mid-to-full body portrait (waist to head), centered subject, headpiece and dangling chains fully in frame",
-        "style_notes": "maximalist luxury, museum-like regalia, couture editorial, highly detailed gold surfaces"
-      },
-      "strict_rules": [
-        "NO text",
-        "NO logos",
-        "NO watermark",
-        "single subject only",
-        "white background only",
-        "keep the costume extremely ornate and gold-heavy with dangling chains",
-        "avoid cultural caricature; keep it respectful couture/editorial styling"
-      ]
-    },
-    "negative_prompt": [
-      "text",
-      "logo",
-      "watermark",
-      "extra people",
-      "blurry face",
-      "low resolution",
-      "cheap plastic jewelry",
-      "missing hands",
-      "bad hands, fused fingers, extra fingers",
-      "messy background, studio gear visible",
-      "muted dull gold (must be shiny)",
-      "over-smoothed plastic skin"
-    ]
-  }
-}
 ```
 
 ---
@@ -745,6 +523,1584 @@ signature:
 
 ---
 
+## [@bananababydoll](https://twitter.com/bananababydoll)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8Rq9BBXQAEajeg?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8Rq9A-XoAEicf5?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "camera": "smartphone rear camera",
+    "lens": "50mm",
+    "style": "candid lifestyle shot, cinematic realism, natural skin texture"
+  },
+
+  "scene": {
+    "location": "Walmart parking lot",
+    "setting": "store entrance behind her, blue Walmart signage visible, open car trunk with shopping bags",
+    "time": "sunset / golden hour",
+    "atmosphere": "post-shopping, spontaneous, confident everyday moment"
+  },
+
+  "lighting": {
+    "type": "natural golden hour light",
+    "source": "low sun reflecting off store facade",
+    "effect": "warm glow on skin, soft rim light around body, subtle lens flare"
+  },
+
+  "camera_perspective": {
+    "pov": "third-person (someone else filming)",
+    "angle": "slightly low, off-center candid angle",
+    "distance": "2 meters",
+    "framing": "mid-thigh to head",
+    "motion": "slight handheld realism"
+  },
+
+  "subject": {
+    "gender": "female",
+    "age": "early 20s (clearly adult)",
+    "ethnicity": "random european / mixed",
+
+    "body": {
+      "type": "extreme hourglass",
+      "waist": "very slim",
+      "hips": "very wide and round",
+      "ass": "full, lifted",
+      "legs": "thick thighs",
+      "stance": "weight on one leg, hip naturally pushed out"
+    },
+
+    "skin": {
+      "tone": "porcelain white",
+      "detail": "natural texture, sunlit highlights"
+    },
+
+    "hair": {
+      "color": "light blonde",
+      "length": "long",
+      "style": "straight",
+      "behavior": "slight breeze moving strands across shoulders"
+    },
+
+    "face": {
+      "eyes": "light blue",
+      "expression": "caught mid-smirk, confident eye contact",
+      "vibe": "unbothered, effortless, main-character energy"
+    },
+
+    "action": {
+      "activity": "walking away from store toward car",
+      "moment": "she turns her head after noticing the camera",
+      "detail": "one hand holding shopping bags, the other resting on car trunk edge"
+    },
+
+    "outfit": {
+      "top": {
+        "type": "tight cropped zip-up hoodie",
+        "color": "soft grey",
+        "fit": "unzipped slightly, naturally stretched over chest",
+        "fabric": "thin cotton, casual streetwear"
+      },
+      "bottom": {
+        "type": "low-rise denim shorts",
+        "color": "light blue",
+        "fit": "very short, hugging hips and thighs"
+      },
+      "shoes": {
+        "type": "white sneakers",
+        "condition": "everyday worn, realistic"
+      }
+    }
+  },
+
+  "product_placement": {
+    "brand": "Walmart",
+    "elements": [
+      "blue Walmart logo and entrance signage in background",
+      "recognizable Walmart shopping bags in her hand and car trunk"
+    ],
+    "integration": "natural post-shopping moment, not staged",
+    "visibility": "brand clearly readable but not dominating frame",
+    "lighting_effect": "warm sunset light reflecting on logo and bags"
+  },
+
+  "details": [
+    "asphalt texture visible",
+    "long sunset shadows",
+    "wind movement in hair",
+    "authentic candid realism",
+    "high-end influencer lifestyle feel"
+  ]
+}
+```
+
+---
+
+## [@dotey](https://twitter.com/dotey)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8L86LlWQAQyWIA?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8F_aPoWoAYdAN9?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@ttmouse](https://twitter.com/ttmouse)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8y9ElSWYAA1Tdn?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8y9ElRWsAAJrqw?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8y9ElQXoAAKRi5?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8y-6vMXIAEPCzG?format=jpg&name=orig)
+
+### Prompt
+
+```
+Photography Style: Cinematic product photograph, macro lens, extremely shallow depth of field (bokeh), 8k resolution, hyper-detailed.
+# Input Process:
+I will now provide the subject. You will instantly apply the creative logic and generate the final image.
+```
+
+---
+
+## [@miilesus](https://twitter.com/miilesus)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9CKU0kWsAAaK5C?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@Gdgtify](https://twitter.com/Gdgtify)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9B79KwW8AAM_W0?format=jpg&name=orig)
+
+### Prompt
+
+```
+A "Giant" wall of newspapers with headlines about their legal battles.
+ Massive burnt fuses or broken prototypes scattered like boulders.
+ A spilled cup of coffee creating a "lake" near one of the figures.
+  Giant tools (calipers, screwdrivers) casting long shadows.
+Perspective: Slightly angled 45-degree macro shot looking down at the patent.
+Texture: Dust motes, scratched mahogany wood, paper grain, metallic reflections.
+Lighting: Cinematic Macro Lighting. A warm desk lamp illuminates the scene, but the Invention in the center emits its own light (e.g., blue electrical arcs vs. yellow filament glow), lighting the faces of the tiny figures.
+
+Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography, tilt-shift effect.
+</instructions>
+```
+
+---
+
+## [@SSSS_CRYPTOMAN](https://twitter.com/SSSS_CRYPTOMAN)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XCFwTa4AAeQjX?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8XCFs1a4AIHc9R?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8XCFsya4AMdrZS?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8XCFsybQAA148Q?format=jpg&name=orig)
+
+### Prompt
+
+```
+A futuristic motorcycle and rider.
+Motorcycle:
+- Heavy, solid, rounded silhouette
+- Minimal exposed mechanics, smooth cowling
+- Wide, thick, high-grip tires
+- Color scheme harmonized with rider
+Rider:
+- Face and outfit preserved from reference image
+- Stare straight into the camera, glaring with a powerful, piercing gaze.
+- Left foot planted firmly on the ground, struggling to support the heavy leaning bike
+- Rider's leg is fully extended to brace against the fall
+
+(ACTION & MECHANICS):
+High-speed linear slide braking (NOT cornering).
+The bike is sliding sideways while traveling backwards into the depth of the scene.
+Instability: The bike is on the verge of falling over towards the screen.
+Wheels are locked (not rotating).
+
+(VISUAL EFFECTS - SMOKE TRAILS):
+Three distinct, straight trails of thick white smoke.
+Direction: Smoke stretches from the IMMEDIATE FOREGROUND (bottom of screen) directly to the motorcycle's wheels and rider's foot in the center.
+The smoke trails act as leading lines pointing to the subject.
+Violent debris and asphalt fragments kicking up.
+
+(ENERGY EFFECTS):
+Neon-green lightning energy arcs (1980s anime style) embedded within the white smoke trails.
+Green energy flows through the smoke, following the straight lines from foreground to the bike.
+
+(ART STYLE):
+Cel-shaded animation, 1980s anime aesthetic (Cyberpunk).
+High contrast, bold black shadows, dramatic lighting.
+Poster-quality, ultra-high resolution, sharp focus.
+-----
+```
+
+---
+
+## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FeMbIaoAAPMb2?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FeMSMbkAAKmBu?format=jpg&name=orig)
+
+### Prompt
+
+```
+The subject in the photo is: A fierce, futuristic tribal warrior monk charging forward, a dark-skinned man with a muscular physique, a completely bald head with no hair, thin tattoos, wearing round steampunk-style glasses. His torso is covered with intricate black tribal tattoos. He wears a tattered dark brown robe with white symbols over sturdy, dusty warrior pants. He has leather bands and metal bracelets on his arms and battle-worn sandals on his feet. He wields two long sticks/spears, one in each hand, wrapped in cloth and with metal details. Dust and debris explode under his feet as he advances with power and intensity. Dark, minimal studio background, dramatic cinematic lighting, ultra-realistic textures, sharp focus, high contrast, shallow depth of field, epic action pose, hyper-detailed fabrics, leather, and weapons, 8K resolution, fantasy-sci-fi cinematic concept art, Unreal Engine style, Octane rendering, photorealistic, dynamic motion.
+```
+
+---
+
+## [@linxiaobei888](https://twitter.com/linxiaobei888)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8SJsa9a4AIbZ8p?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@aiko_u_works](https://twitter.com/aiko_u_works)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FyMKFbEAAdr0S?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FyN5naMAAQYJ-?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9FyPPFbYAAVV_G?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@Samann_ai](https://twitter.com/Samann_ai)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8dYPuPXcAAsr0h?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "task": "image_to_image_style_transfer",
+  "input_image": "{{USER_IMAGE}}",
+  "prompt": "Create a hyper-real 3D studio composition that recreates the main subject from the provided image as a fragmented stone assemblage. The subject must be built from separate, clearly detached rock pieces with small visible gaps between shards (no pieces merging). Material look: fragmented slate + sandstone shards with chiseled edges, crisp fractures, visible stone grain, micro-scratches, and realistic roughness. Color palette: predominantly dark slate with subtle warm-ochre sandstone accents. Lighting: soft studio key light from top-left, gentle fill, subtle contact shadows under each shard, realistic ambient occlusion in crevices, clean reflections kept minimal. Background: minimal off-white seamless backdrop, no texture. Framing: centered, clean, straight-on, subject fully readable. Add a few tiny debris chips floating or resting near the base for depth. Preserve the subject’s identity, proportions, and recognizable silhouette from the input image while transforming all surfaces into stone fragments. Hyper-real, high detail, sharp focus, 8k render quality.",
+  "negative_prompt": "text, typography, logo, watermark, signature, extra props, busy background, fog, heavy bloom, cartoon, illustration, lowpoly, plastic, metal, glossy paint, melted shapes, merged fragments, unreadable subject, blur, noise, low resolution, oversharpening halos, distorted face/body, extra limbs, deformed geometry",
+  "output": {
+    "aspect_ratio": "use_input_aspect_ratio",
+    "background": "off_white",
+    "camera": {
+      "angle": "straight_on",
+      "framing": "centered",
+      "distance": "medium"
+    }
+  },
+  "params": {
+    "style_strength": 0.75,
+    "identity_preservation": 0.9,
+    "detail_level": "very_high",
+    "lighting_preset": "soft_studio_top_left",
+    "shadow_intensity": "subtle",
+    "gap_visibility": "clear",
+    "debris_chips": "few_tiny",
+    "no_text": true
+  }
+}
+```
+
+---
+
+## [@dotey](https://twitter.com/dotey)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7RvrTJXgAA1E3O?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7RvrS7WYAAtckM?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7RvrS7WcAA9fEQ?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7P2EcbXwAAvwE6?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G7P2HM-W4AAVU1A?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G7P2KAdWUAART6-?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G7P2NKRWYAAQuEz?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@Strength04_X](https://twitter.com/Strength04_X)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EGAq-bAAALFtl?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9EGAp9aUAAKvTU?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9EGBNmb0AENX8y?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9EGAr_b0AApJE6?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "type": "image_generation",
+  "style": "ultra_photorealistic",
+  "aspect_ratio": "1:1",
+  "resolution": "8K",
+  "quality": "high_detail_realism",
+  "scene": {
+    "location": "modern city business district",
+    "environment": "open plaza surrounded by glass skyscrapers",
+    "atmosphere": "busy urban lifestyle, premium commercial vibe"
+  },
+  "subject": {
+    "structure": "luxury brand pop-up store",
+    "design": "minimalist modern architecture with bold geometric shape",
+    "material": "wood, glass, metal finishes",
+    "branding": "large clean logo on outer wall",
+    "interior": "well-lit showroom with product displays"
+  },
+  "people": {
+    "crowd": "realistic people walking, shopping, interacting",
+    "style": "casual urban clothing",
+    "motion": "natural movement, candid poses"
+  },
+  "lighting": {
+    "type": "natural daylight",
+    "quality": "soft cinematic lighting",
+    "shadows": "realistic soft shadows",
+    "reflections": "glass and metal reflections visible"
+  },
+  "camera": {
+    "device": "DSLR",
+    "lens": "24mm wide angle",
+    "aperture": "f/4",
+    "iso": 100,
+    "focus": "sharp foreground with deep clarity",
+    "depth_of_field": "natural depth"
+  },
+  "rendering_details": {
+    "texture": "high-detail materials and surfaces",
+    "color_grading": "clean, premium, realistic",
+    "sharpness": "ultra clear",
+    "noise": "none",
+    "artifacts": "none"
+  },
+  "mood": "premium brand experience, futuristic yet realistic",
+  "negative_prompt": [
+    "cartoon",
+    "anime",
+    "illustration",
+    "cgi look",
+    "low quality",
+    "blur",
+    "distorted buildings",
+    "fake lighting",
+    "over-saturated colors"
+  ]
+}
+```
+
+---
+
+## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GNWMXbYAAbkbV?format=jpg&name=orig)
+
+### Prompt
+
+```
+Usando la imagen de referencia, realiza lo siguiente, sin modificar los rasgos de la persona de la foto: El hombre está parado en la cima de un acantilado rocoso y patea con fuerza el número '25' hecho de piedra, que se está rompiendo en pedazos. En el cielo, detrás de él, aparecen unos números gigantes y brillantes '2026' con un borde dorado iluminado. El fondo es un atardecer épico con rayos de sol atravesando las nubes, creando una atmósfera de triunfo y un nuevo comienzo. Estilo de fotografía publicitaria de alta resolución, hiperrealista, con iluminación dramática.
+```
+
+---
+
+## [@LufzzLiz](https://twitter.com/LufzzLiz)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9AJ_tIb0AQkgJi?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G83wDhfXAAA5Pbh?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "template_name": "New Year City Skyline Celebration",
+  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
+  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
+  "input_variables": {
+    "city_fireworks_effect": {
+      "type": "string",
+      "description": "Description of the style, shape, and vibe of the fireworks.",
+      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
+    }
+  },
+  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
+}
+```
+
+---
+
+## [@SDT_side](https://twitter.com/SDT_side)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8xUMFkaYAAWvEO?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8wKuMFbsAAASOw?format=jpg&name=orig)
+
+### Prompt
+
+```
+Ultra high-resolution upscale edit of the same person from the original image, preserving identity, face, hairstyle, outfit, and overall realism.
+This is a direct edit of the original photo, not a new character.
+
+Change the distance, composition, angle, and perspective
+
+Move extremely close to the face until natural skin texture, visible pores, fine facial details, and subtle tonal variations are clearly visible.
+Skin appears realistic and human — not airbrushed, not plastic, not overly smooth, with natural micro-imperfections preserved.
+No external skin reference images are used.
+
+Transform the original photo into a dramatic, photorealistic ultra wide-angle shot.
+Extreme wide-angle perspective with a very low, bottom-margin camera angle, creating strong perspective distortion.
+
+One or more body parts appear very close to the lens and visually large, while the rest of the body rapidly recedes in depth, emphasizing dynamic scale and spatial tension.
+
+The same person performs a stylish, complex, powerful pose remix, energetic and playful, yet physically believable and natural.
+Pose feels spontaneous and fashion-forward, not stiff, not catalog-like.
+
+Environment remains a consistent, expanded continuation of the original scene, naturally extended in depth and width.
+No environment redesign, only spatial expansion and perspective exaggeration.
+
+Emotion and mood: cute, fun, playful, joyful.
+Natural smile, relaxed eyes, lighthearted energy, still realistic.
+
+Photorealistic lighting, realistic lens behavior, natural depth falloff.
+No character redesign. No face alteration. No hairstyle change. No outfit change.
+```
+
+---
+
+## [@Strength04_X](https://twitter.com/Strength04_X)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8-_SQ0b0AEhTBE?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@refindai](https://twitter.com/refindai)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9I5hbXbgAIPmhF?format=jpg&name=orig)
+
+### Prompt
+
+```
+A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover for "Yesterday," inspired by Huang Hai's minimalist aesthetic. The composition features vast pale sepia negative space creating a melancholic, nostalgic atmosphere on a visible woven fabric base. The central focus is an exquisitely dimensionally embroidered vintage wooden record player with a detailed wilted rose resting on the turntable, showing realistic thread texture and natural luster. Subtle, barely visible embroidered details include a tiny reminiscing silhouette (bottom right) and a vinyl record (upper left). Top text in elegant cream embroidery: "Yesterday" and "The Beatles 1965". The bottom section features detailed embroidered musical notation (staff, treble clef, melancholic notes mixed with tiny rose petals) for the song's melody. Below the staff, the complete lyrics are embroidered in elegant script: "Yesterday, all my troubles seemed so far away / Now it looks as though they're here to stay / Oh, I believe in yesterday". Above the music: "YESTERDAY 昨日". Minimal thin border with tiny corner symbols (musical note, record player). The entire piece must feel like tactile, handcrafted textile art.
+```
+
+---
+
+## [@abulu8](https://twitter.com/abulu8)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FnFlgb0AAziIV?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@gokayfem](https://twitter.com/gokayfem)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XoB3PWYAA4hS7?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8XpY_9WQAQKUaL?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8XsB3PXgAA5A8i?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8XsJBFWIAAqGRS?format=jpg&name=orig)
+
+### Prompt
+
+```
+Generate a 6x6 grid of variations based on the original image. Keep the same product but vary the color palettes, backgrounds, lighting, angles, props, and styling dramatically across all 36 cells. Maintain the same professional quality and aesthetic throughout.
+
+prompt (for maximum diversity):
+Generate a 6x6 grid showing 36 unique variations of this product. Experiment wildly with color palettes, environments (studio, lifestyle, minimal, textured backgrounds), lighting styles, compositions, and moods. Keep product recognition and professional quality consistent, but make each cell visually distinct.
+```
+
+---
+
+## [@Gdgtify](https://twitter.com/Gdgtify)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8VII8ZXkAAWZ4D?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8VKEDRXEAsYnLI?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/amplify_video_thumb/2000066761341710339/img/UfnzmwjyvnTfgRHA?format=jpg&name=orig)
+
+### Prompt
+
+```
+<instruction>
+Toyification
+Input A is the subject photo (movie poster or movie name).
+Analyze uploaded movie characters, story line, scenes, and pick the most important or iconic scene. 
+
+Optional Input B is a style reference (toy photography / product shot you like). If B is missing, choose a premium toy-ad aesthetic.
+
+Goal: Turn Input A into a hyper-real miniature DIORAMA inside a clear acrylic “collector toy box” with beautiful packaging design (no text/logos).  
+
+Rules:
+- The subjects becomes a tiny, ultra-detailed figurine or miniature version of themselves inside a miniature scene appropriate for the uploaded image. 
+- Surround it with 6–10 mini props that match the uploaded image's story 
+- Packaging should look premium: clear acrylic front, matte paper backer, subtle emboss feel, color palette inferred from Input A.
+- Lighting: clean studio softbox, crisp reflections, subtle shadow under box.
+- Composition: product hero shot, centered, 3/4 view, shallow depth of field.
+
+Output:
+- ONE image, 4:5 or 1:1 (choose the most “product post” viral crop).
+- movie name 3D printed at the base. 
+- Keep it cute and premium, not uncanny.
+</instruction>
+```
+
+---
+
+## [@Gdgtify](https://twitter.com/Gdgtify)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8_QhTQXIAACQ_j?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G847-lRX0AA23P_?format=jpg&name=orig)
+
+### Prompt
+
+```
+do this for bacon and chicken: <instructions> step 1. user enters one or more ingredients. step 2. analyze the ingredients, their taste and delicious meals that can be made with all of them. step 3. pick 4 random countries and their popular food that maybe be less known that use all these ingredients (if given one, only that, if given 2, the meal should have both those). Goal: A cookbook where ingredients and dishes emerge in delicious detail Rules: Base: A vintage cookbook with stained pages and fabric cover, historical timeline of food Scene: 3D Miniature kitchen or market scene with 3D chef & ingredients Details: Detailed and accurate food textures, steam effects, cooking implements Lighting: Warm kitchen lighting with golden hour quality Output: a 2x2 grid, each with a Single 1:1 image of the meals  with appetizing details </instructions>
+```
+
+---
+
+## [@dhumann](https://twitter.com/dhumann)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HdF0dW8AAuWrQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+The main subject of this image is person in the attached reference image (hereinafter referred to as THE_SUBJECT). THE_SUBJECT is wearing a black turtleneck sweater and the hair is styled professionally. Create a cinematic portrait of THE_SUBJECT sitting in a brown leather high back chair inside an elegant private library with soft dramatic lighting. The face is partly lit with warm golden sunlight coming in through a window on the left and out of view. The lighting design creates a chiaroscuro effect with small highlight areas and deep shadows contributing to a moody atmosphere. THE_SUBJECT’S expression is thoughtful and contemplative, with one hand resting on the chin. The background is softly blurred, emphasizing THE_SUBJECT’S face. The image has a clean aesthetic and relaxed mood.
+```
+
+---
+
+## [@Arminn_Ai](https://twitter.com/Arminn_Ai)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8NahEuWIAUjhoW?format=jpg&name=orig)
+
+### Prompt
+
+```
+a photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period-accurate clothing], [Describe the interaction].
+
+The photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.
+
+Significantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.
+
+Greatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.
+```
+
+---
+
+## [@op7418](https://twitter.com/op7418)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7U0ZGbaUAAmQAN?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7U0jfkakAA5EcT?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7Uy_k5aIAAjNgf?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7UzDXlaUAAQijc?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@ecommartinez](https://twitter.com/ecommartinez)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HMyVcbgAElKWT?format=jpg&name=orig)
+
+### Prompt
+
+```
+Vertical bird's-eye view, ultra-realistic photograph of two dogs sitting side by side on a slightly damp urban sidewalk, dark stone cobblestones with scattered autumn leaves around them.
+One dog with deep, shiny black fur, the other with cream or ivory fur, strong and harmonious contrast.
+Both dogs look directly at the camera with a sweet and curious expression.
+Their long, flexible, and well-furred tails naturally curve inward to form together a perfectly legible heart shape when viewed from above.
+Soft natural light, autumn atmosphere, warm and realistic colors, detailed texture of the ground and fur.
+Shallow depth of field, sharp focus on the dogs, professional photography style, minimalist and poetic composition, tender and symbolic emotion, high resolution, ultra-detailed.
+```
+
+---
+
+## [@ttmouse](https://twitter.com/ttmouse)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8kBFCuW8AAcSTu?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8kBFCuXEAA5m5o?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8kBFCsWcAAC3vD?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8a-5rVWoAAfh3G?format=jpg&name=orig)
+
+### Prompt
+
+```
+A high-quality 9:16 vertical portrait, 4k resolution. 
+**Framing:** Medium-long shot (framed from the knees up, focusing on torso and head). 
+**Subject:** The woman from the reference image, standing in 3/4 profile facing left, looking at the lens. She wears a structured black long trench coat. 
+**Background:** An infinite, edge-to-edge gallery wall completely covered in a dense, seamless grid of black and white fashion portraits of herself. The photo wall fills 100% of the background frame behind her. No floor visible, no ceiling visible, just the texture of the photos. 
+**Lighting:** Even, professional gallery lighting highlighting the coat's texture and the details of the background prints. 
+**Quality:** Ultra-photorealistic, sharp focus, cinematic depth.
+--ar 9:16 --v 6.0
+```
+
+---
+
+## [@lijigang](https://twitter.com/lijigang)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9F3WnTbUAEwLdV?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@sundyme](https://twitter.com/sundyme)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EgKyibkAA-xid?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9AvZKaakAAYqDY?format=jpg&name=orig)
+
+### Prompt
+
+```
+Create a high-quality 3D rendered anthropomorphic mascot character in a cute cartoon style inspired by Kakao Friends/LINE Friends. A cute [角色类型] character in [场景描述], [动作描述], [表情描述], detailed 3D rendering with smooth textures, soft lighting, vibrant colors, kawaii aesthetic, large head and small body proportions, clean white background with subtle shadows.
+
+Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matches the 3D character design - bold, rounded, colorful letters with a kawaii aesthetic.
+
+1:1 aspect ratio, high quality 3D rendering, photorealistic textures with cartoon stylization.  使用这个模板生成一组4个表情包
+```
+
+---
+
+## [@john_my07](https://twitter.com/john_my07)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Fq0jHa0AEcuq1?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Fq0lLbwAAeVlt?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@umesh_ai](https://twitter.com/umesh_ai)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7e2PCqa8AA-i5h?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7e2PAoagAAmoLH?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7e2PJXbgAAZiU9?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7e2PKyb0AA-QS8?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@sundyme](https://twitter.com/sundyme)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9AvZKaakAAYqDY?format=jpg&name=orig)
+
+### Prompt
+
+```
+Create a funny anthropomorphic mascot character in Kakao Friends/LINE Friends style. A cute [动物角色] doing [搞笑动作/表情], [情绪状态描述], thick bold black outlines, flat vector illustration, 2D style, solid vibrant colors, minimal shading, no gradients, kawaii aesthetic, large head and small body (chibi proportions), minimalist facial features, sticker art aesthetic, clean simple white background.
+Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that matches the character design - bold, rounded, colorful letters with a kawaii aesthetic.
+1:1 aspect ratio 
+
+使用这个模板生成一组*个表情包
+```
+
+---
+
+## [@r4jjesh](https://twitter.com/r4jjesh)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EWZ4lb0AMn5bM?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9EWZ9Fa4AA0-9z?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9EWZ51b0AAyYFm?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9EWaCTaAAALmqP?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "quality": "hyper-realistic 8k",
+  "shot": "medium shot",
+  "lens": "35mm lens",
+  "setting": "dusty warehouse with tall windows",
+  "lighting": "late-afternoon sun beams cutting through suspended dust",
+  "subject_location": "sitting on a vintage wooden crate",
+  "pose": "elbows on knees, fingers loosely interlaced, chin slightly up, gaze steady to camera",
+  "outfit": "raw denim jacket, white tee, cuffed dark jeans, worn leather boots, thin silver chain",
+  "texture_details": "crate wood grain and denim twill clearly visible with tactile realism"
+}
+```
+
+---
+
+## [@aleenaamiir](https://twitter.com/aleenaamiir)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8XJ2UiaMAAvcSu?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8XJ2UfbwAAkHGA?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8XJ2UhboAAncKh?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8XJ2Yba4AEpR0M?format=jpg&name=orig)
+
+### Prompt
+
+```
+Cinematic macro perspective, botanical realism, ultra-detailed.
+```
+
+---
+
+## [@Sheldon056](https://twitter.com/Sheldon056)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9BFulgb0AMDjav?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9BFul3b0AUto9G?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9BFumMbIAAIVbV?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9BFumbb0AIQe0D?format=jpg&name=orig)
+
+### Prompt
+
+```
+A hyper-detailed geometric papercraft sculpture of [NAME], created using layered colored cardstock with precise angular folds and clean cut edges. Facial features are stylized using polygonal planes, with subtle shading formed naturally by paper layering. Hair, beard, and clothing are constructed from stacked strips and folded shapes for depth and realism. The figure is displayed against a clean neutral background with soft diffused lighting, highlighting the craftsmanship and texture. Sharp macro focus, studio photography aesthetic, 1080×1080.
+```
+
+---
+
+## [@GaganSingh8u](https://twitter.com/GaganSingh8u)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HvVl9bEAACy6S?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@umesh_ai](https://twitter.com/umesh_ai)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6c7mTGasAAucXk?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/GpIu9UqWEAAcQ1V?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@linxiaobei888](https://twitter.com/linxiaobei888)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8-y4jtb0Akgoee?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8-y4jjaUAAjsOp?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@andrew88collins](https://twitter.com/andrew88collins)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HF4O6bMAA4IzY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Alq_VasAAuVC9?format=jpg&name=orig)
+
+### Prompt
+
+```
+```
+
+---
+
+## [@lexx_aura](https://twitter.com/lexx_aura)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G6SL3OoW0AAiEDw?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G6SL3OZWMAAtoc-?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "image_request": {
+    "style": "Cinematic black and white noir portrait",
+    "subject": {
+      "description": "Man",
+      "attire": [
+        "fedora",
+        "trench coat"
+      ]
+    },
+    "lighting": [
+      "sliced light from blinds",
+      "deep shadows"
+    ],
+    "atmosphere": "grainy vintage",
+    "technical_specs": {
+      "resolution": "4K"
+    }
+  }
+}
+```
+
+---
+
+## [@aleenaamiir](https://twitter.com/aleenaamiir)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JCnmqbUAApnGx?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JCnoLaAAAAd6I?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9JCno5asAAMqSW?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9JCnsYbgAIyKXp?format=jpg&name=orig)
+
+### Prompt
+
+```
+A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormous [EVERYDAY_OBJECT]. Paper lanterns strung on wire, confetti made from magazine scraps, warm ambient city-bokeh background, shallow depth of field, cinematic wide-angle close-up, vibrant saturated palette, tactile fabric and wood textures.
+```
+
+---
+
+## [@linxiaobei888](https://twitter.com/linxiaobei888)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8cURQNbkAA-c8m?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@umesh_ai](https://twitter.com/umesh_ai)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G74lrwiagAAVnIF?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@FutureVibesAi](https://twitter.com/FutureVibesAi)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9CICAzb0AMIVc3?format=jpg&name=orig)
+
+### Prompt
+
+```
+Ultra-detailed macro photography of a tiny cartographer standing on a human palm, drawing an antique map that follows the natural palm lines as rivers and borders. Old parchment maps, compass tools, warm studio lighting, shallow depth of field, surreal realism.
+Image by @ImagineArt_X 
+Video by @grok Imagine
+```
+
+---
+
+## [@aleenaamiir](https://twitter.com/aleenaamiir)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8_JQaobcAAWlwe?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8_JQcsa8AEgSFg?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8_JQg8b0AMAXI_?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8_JQu4asAAlqGl?format=jpg&name=orig)
+
+### Prompt
+
+```
+A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE / SOCIETY] build homes, roads, markets, and infrastructure directly into the object’s structure. Photoreal materials, lived-in wear, soft daylight, wide cinematic perspective with deep storytelling.
+```
+
+---
+
+## [@Sheldon056](https://twitter.com/Sheldon056)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GOHcuagAEA2Kt?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9GOHdRbkAATPj_?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9GOeVoaQAAU_sz?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9GOHckboAAPIeb?format=jpg&name=orig)
+
+### Prompt
+
+```
+A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frosting platform. Details include hand-sculpted clothing, expressive fondant face, glitter dust highlights, and mini edible props referencing their personality. Soft bakery background, warm pastel tones, shallow DOF, 1080×1080.
+```
+
+---
+
+## [@AllaAisling](https://twitter.com/AllaAisling)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Hufk9XgAAbaaY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9HupaWWcAEucTw?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9HvxVPWYAETsVG?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Hv85UXMAAQEsW?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GKQwVacAARC5d?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "High-Energy Youth Portrait",
+    "mood": "Chaotic, Vivid, Explosive, Trendy"
+  },
+  "subject_details": {
+    "character": "Stunning young K-Pop visual, trendy streetwear outfit, waist-up shot",
+```
+
+---
+
+## [@Sheldon056](https://twitter.com/Sheldon056)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8a_ewYakAETk2Y?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8a_ewna4AAYGf6?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8a_ewxakAUH7Fy?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8a_ewfbkAAwosf?format=jpg&name=orig)
+
+### Prompt
+
+```
+A vibrant fantasy-style soda commercial where a playful young man surfs an energetic orange soda wave exploding from a cold Fanta can. Juicy orange slices, bubbly liquid arcs, exaggerated motion, warm sunlight, colorful gradient background,
+```
+
+---
+
+## [@Taaruk_](https://twitter.com/Taaruk_)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FYMAobwAA1Yuw?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@Samann_ai](https://twitter.com/Samann_ai)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9G2asrWQAAwL3s?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9G2as_WIAA6M8P?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9G2assXAAAuKRI?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9G2asuXwAAbt28?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+```
+
+---
+
+## [@kaanakz](https://twitter.com/kaanakz)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HYltTWwAA_pG8?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9BV4GXXQAAF9I0?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9BV4ZuWUAEjfCG?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "subject_and_scene": {
+    "main_subject": "A power couple for a high-fashion cover. The woman (uploaded_image_1) is elegant with glowing skin, winking and making a playful
+```
+
+---
+
+## [@_MehdiSharifi_](https://twitter.com/_MehdiSharifi_)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8mvLQGWQAASpyM?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8mqT2kakAA2v1E?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "objective": "Generate a hyper-realistic black and white dynamic street fashion photograph."
+  "image_type": "photography",
+  "prompt": {
+    "subject": "A stylish woman crossing a busy city intersection",
+    "wardrobe":
+```
+
+---
+
+## [@kingofdairyque](https://twitter.com/kingofdairyque)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G607H8jawAADY9e?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "title": "High-Contrast Monochrome Side-Profile Rim-Lit Portrait (use user face reference)",
+  "model": "stable-diffusion-xl-v1-0", 
+  "size": "2048x3072",
+  "reference_image": "face.jpg",
+  "use_reference_for": ["face", "hairstyle", "skin_tone",
+```
+
+---
+
+## [@Just_sharon7](https://twitter.com/Just_sharon7)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JsX8UbsAAuiJI?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JsX9Ka0AANRe5?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "subject": {
+    "person": {
+      "gender": "female",
+      "ethnicity": "East Asian",
+      "expression": "cheerful, soft smile",
+      "pose": "playful, standing on one leg with the other bent back at the knee,
+```
+
+---
+
+## [@Emmalaurent0](https://twitter.com/Emmalaurent0)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9H63x3XgAAuExT?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9H63yTXgAAdKp0?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "meta": {
+    "aspect_ratio": "9:16",
+    "quality": "ultra_photorealistic",
+    "resolution": "8k",
+    "style": "cinematic behind-the-scenes realism",
+    "lighting": "studio set lighting, soft key lights, subtle
+```
+
+---
+
+## [@JadoonKhan281](https://twitter.com/JadoonKhan281)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GdYqdaoAAEOW2?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9GdYuKb0AE2bcc?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9E7PJIacAAjZ5h?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "scene_description": {
+    "setting": "Cozy coastal countryside living room, relaxed family holiday gathering",
+    "action": "Young female playing digital keyboard and singing; a tuxedo cat walks on the keys; family members observing
+```
+
+---
+
+## [@r4jjesh](https://twitter.com/r4jjesh)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FVgPbbMAAsTrT?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9FVgQ5acAA3caS?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9FVgQFbwAAVAwv?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9FVgTya0AADemh?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "prompt": "Photorealistic cinematic candid portrait, morning outdoors near the Eiffel Tower in Paris. Dynamic diagonal tracking shot with the camera tilted 25 degrees, front-side low angle. A stylish person wearing a light beige
+```
+
+---
+
+## [@LufzzLiz](https://twitter.com/LufzzLiz)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9BRsAdaUAAEpKJ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8_0M3_bsAAw-kb?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8_0M4zbIAAH7g9?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G8_0M8Kb0AQ0mez?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "prompt": "3D Realistic Deconstruction Prompt\n\n Core Instruction (Core Instruction)  \nTask: Based on the reference image provided by the user, create an ultra-high-quality, cinematic 3D realistic deconstruction art poster that emphasizes authentic human presence and photographic realism. Transform the photographed individual into a lifelike 3D character with true-to-life anatomy, skin texture, emotional nuance, and natural lighting—completely abandoning stylized cartoon aesthetics. Arrange their personal belongings using the disciplined 'Knolling' (orthogonal alignment) artistic layout. Remove the 'Digital Lifestyle' category entirely. Introduce two new thematic zones: an intimate private life section and an expressive facial/emotional gallery featuring specific micro-expressions including 'Ahei Yan' (playful mock-anger face), peak ecstasy face, and bitten-lip expression. Also add a dedicated body posture/movement zone showcasing dynamic physical poses.\n\nAspect Ratio: 16:9 landscape (adaptable to 3:2, 4:5, or 1:1 as needed).  \nArtistic Style Core: Photorealistic Humanism — grounded in anatomical accuracy, natural subsurface scattering, visible pores, fine body hair, sweat sheen, and emotionally resonant realism.  \nQuality Benchmark: Visually indistinguishable from high-end editorial photography in publications like Vogue, National Geographic, or forensic anthropological reconstructions.\n\n Item Layout (Item Layout) – Knolling Radiating Composition  \nTotal Items: 30–36 pieces, arranged at precise 90-degree angles or in soft radial symmetry around the central figure.\n\nCategory 1: Fashion & Attire (Fashion Atelier) – Champagne Gold Label  \n- Main outfit fully deconstructed: sleeves, collar, fabric panels, lining, buttons, zippers—all separated and floating mid-air with realistic cloth physics.  \n- Footwear disassembled: sole, upper, laces, heel, insole.  \n- Personal accessories: belt, handbag, hat, scarf, gloves.  \n*Example: A trench coat may be broken into lapels, epaulets, waist belt, cuff straps, and main body panels.*\n\nCategory 2: Beauty & Self-Care (Beauty Collection) – Rose Gold Label  \n- Makeup: lipstick (with cutaway showing pigment core and shade label), eyeshadow palette (each well color-differentiated), compact powder, perfume bottle (glass transparency and liquid refraction clearly rendered).  \n- Skincare: serum bottles, moisturizer jars, facial rollers, gua sha tools.  \n*Example: Perfume must exhibit glass clarity, internal caustics, meniscus curvature, and metallic cap reflectivity.*\n\nCategory 3: Intimate Private Life (Private Sphere) – Soft Blush Label  \n- Undergarments: bra components (cups, band, clasp, straps), underwear fabric swatches.  \n- Sleepwear & loungewear: silk pajama sets, robe ties, slippers, cozy socks.  \n- Personal hygiene items: toothbrush with residual paste, hairbrush with trapped strands, used cotton pads, skincare residue on tissues, folded washcloth.  \n- Ambient elements: scented candle (with melted wax pool), essential oil dropper, diffuser reeds, journal with handwritten notes.  \n*All items must appear authentically used—subtle wear, organic creases, and lived-in imperfections.*\n\nCategory 4: Emotional Expression Gallery (Human Faces) – Warm Terracotta Label  \n- A curated series of 6–8 floating macro portrait close-ups capturing distinct emotional states:  \n  • Serene smile  \n  • Thoughtful gaze  \n  • Laughter with crinkled eyes  \n  • Tearful vulnerability  \n  • **'Ahei Yan' (Ah Hei Face)** – playful mock anger with narrowed eyes, puffed cheeks, and slight frown  \n  • **Peak Ecstasy Face** – flushed cheeks, parted lips, dilated pupils, light sweat on forehead  \n  • **Bitten-Lip Expression** – lower lip gently held between teeth, subtle tension in jaw, flushed neck  \n- Each face rendered at extreme close-up with visible pores, fine vellus hair, moisture on lips, dynamic skin micro-movements, and accurate eye reflections.\n\nCategory 5: Body Posture & Movement (Physicality Zone) – Charcoal Gray Label  \n- Full-body miniature figurines (1:10 scale) depicting key poses:  \n  • Kneeling pose (one knee down, hands resting on thigh)  \n  • Prone position (lying flat on stomach, chin propped on palms)  \n  • Reaching upward stretch  \n  • Cross-legged seated meditation  \n  • Dynamic walking stride  \n- Each pose highlights muscle definition, joint articulation, weight distribution, gravity-driven fabric draping, and natural body asymmetry.\n\nEvery item requirement:  \n- Render quality: Matches the character’s photorealistic fidelity—zero stylization.  \n- Numbered tags: Circular badges labeled 01–36 with subtle drop shadows.  \n- Materials & shadows: Full PBR workflow with physically accurate roughness, specular, and normal maps; soft ambient occlusion shadows cast on a neutral surface.\n\n Exploded View Technique (Exploded View Technique)  \n- Connection lines: Elegant thin dashed or solid lines tether floating garment parts back to the character’s body.  \n- Guiding arrows: Minimalist decorative arrows link each object to its descriptive label.  \n- Technical annotations:  \n  - Material swatches: Macro close-up squares of fabrics (silk, cotton, wool), leather grain, metal finishes.  \n  - Material labels: e.g., '100% Mulberry Silk', 'Full-Grain Italian Leather'.  \n  - Measurement rulers: Dual-unit (cm/inch) rulers integrated along edges.\n\n The Art of Deconstruction · HUMAN REALITY UNVEILED   \nTypography: Chinese text in an elegant serif font (e.g., Founder Songti KBXK), English in Playfair Display—both with matte paper-like texture (no metallic foil).  \n- Subtitle (beneath main title, in fluid handwritten script):  \n  \"Essence of Being · Anatomical Truth / 存在之核·形神解构\"  \n  Bilingual typesetting, graceful and unobtrusive.  \n- Category Headers: Rounded-corner rectangular tags with icons:  \n  \" Intimate Private Life\" (Soft Blush #F8C8DC)  \n  \" Emotional Expression Gallery\" (Terracotta #E2725B)  \n  \" Body Posture & Movement\" (Charcoal #36454F)\n\n Design Elements (Design Elements)  \n- Geometric frames: Minimalist thin-line hexagons or circles (0.5–1pt stroke) in muted gray to group item clusters—Art Deco influence but desaturated.  \n- Measurement rulers: Along left and right edges, enhancing technical authenticity.  \n- Crosshairs: Faint targeting reticles at four corners and focal points.  \n- Material swatches: Bottom strip displaying fabric/leather/metal micro-texture tiles.  \n- Info cards: Elegant bordered cards with item details (brand, material, origin).  \n- Attribute radar chart: Encased in a delicate frame, showing traits like: Intimacy ★★★★★, Authenticity ★★★★★, Vulnerability ★★★★☆.  \n- Connection lines: Matte silver or warm bronze dashed lines with tapered arrowheads.\n\n Background & Atmosphere (Background & Atmosphere)  \n- Background gradient: Warm variant—ivory (#FFFFF0) to soft oat milk (#F5E9D7); or cool variant—pale concrete (#EAEAEA) to studio white (#FFFFFF).  \n- Overlay pattern: 5–10% opacity blueprint grid or faint architectural drafting lines.  \n- Vignette: Gentle peripheral darkening to center attention.  \n- Atmospheric particles: Subtle golden bokeh orbs and fine film grain (Kodak Portra 400 emulation) for cinematic depth—never distracting.\n\n Color Palette (Color Palette)  \n- Feminine/Intimate Theme: Champagne Gold (#D4AF37), Rose Gold (#B76E79), Oat Milk (#F5E9D7), Blush Pink (#F8C8DC).  \n- Masculine/Authentic Theme: Slate Gray (#708090), Warm Bronze (#CD7F32), Concrete White (#F0F0F0).  \n- Neutral/Luxury Theme: Charcoal Black (#2F2F2F), Ivory (#FFFFF0), Deep Burgundy (#800020).  \n- Couple Theme: Left side cool tones, right side warm tones—blending at center with shared intimate items.\n\n Technical Specifications (Technical Specifications)  \nRendering Engine: Path Tracing equivalent to Cycles/Arnold/RenderMan.  \n- Samples: Minimum 4096 SPP for noise-free output.  \n- Light bounces: 12 for accurate global illumination.  \n- Caustics: Enabled for glass and liquid realism.  \n- Geometry: Character mesh >2 million polygons; pose figurines >500k each.  \n- Hair: >100,000 strands per character, physics-simulated with wind interaction.\n\nPBR Material Workflow:  \n- Skin: Triple-layer SSS, dual specular lobes, pore-level displacement, melanin variation.  \n- Hair: Anisotropic shader with primary/secondary highlights, root-to-tip color shift.  \n- Fabrics: Woven normal maps, directional roughness based on fiber orientation, micro-wrinkles.  \n- Metals: Metalness 1.0, Roughness 0.1–0.4 (brushed or polished as appropriate).  \n- Glass: IOR 1.5; water IOR 1.33 with meniscus detail.  \n- Leather: Roughness 0.65, bump map with natural grain variation.\n\nResolution & Output:  \n- 4K (3840×2160), 16:9.  \n- 32-bit float color depth.  \n- 16x MSAA anti-aliasing.\n\nPost-Processing:  \n- Color Grading:  \n  • Filmic LUT applied; no pure blacks (min RGB 15,15,15).  \n  • Gentle S-curve for contrast.  \n  • Color temperature adjusted ±200K by theme.  \n  • Global saturation reduced by 5%; key colors (e.g., blush, gold) boosted by 10%.  \n- Effects:  \n  • Bloom: Soft glow on specular highlights.  \n  • Film Grain: Organic Kodak Portra 400 texture.  \n  • Chromatic Aberration: Barely perceptible edge fringing.  \n  • Vignette: Medium intensity.  \n  • Sharpening: Output-level adaptive sharpening.\n\nSpecial Instructions:  \n- Single Subject: ~30 items, focused on authentic daily life, emotional range, and physical presence.  \n- Couple: ~36 items (18 each), connected by a subtle heart-shaped negative space, with gender-coded palettes and shared intimate objects (e.g., one pillow, shared journal).  \n- Pregnant Subject: Include prenatal items (belly oil, vitamins, ultrasound printout); add a translucent fetal icon near the abdomen.  \n- Critical Requirement: Faithfully match the reference photo’s age, ethnicity, profession, body type, scars, tattoos, and personal style—including skin blemishes, freckles, and unique facial structure.\n\nQuality Benchmark:  \nThe final image must be visually indistinguishable from a premium photographic editorial—suitable for:  \n- Luxury lifestyle catalogs  \n- Documentary portraiture exhibitions  \n- Anthropological or medical visualization  \n- Fine art photography collections  \n- High-end brand storytelling campaigns  \n"
+}
+```
+
+---
+
+## [@astronomerozge1](https://twitter.com/astronomerozge1)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HQwFtWgAALJI9?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_romance_poster_rain_kiss_duo",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references": {
+      "reference_images": {
+        "male_reference": "UPLOAD_MALE_REFERENCE_IMAGE (REQUIRED)",
+        "female_reference": "UPLOAD_FEMALE_REFERENCE_IMAGE (REQUIRED)",
+        "layout_mood_reference": "UPLOAD_THIS_NOTEBOOK_POSTER_AS_MOOD_REFERENCE (OPTIONAL)"
+      },
+      "reference_rules": {
+        "preserve_identity_male": true,
+        "preserve_identity_female": true,
+        "identity_lock_strength_male": 0.995,
+        "identity_lock_strength_female": 0.995,
+        "face_similarity_priority": "MAX",
+        "preserve_facial_proportions": true,
+        "preserve_eye_shape_nose_lips_jawline": true,
+        "no_beautify_no_face_morph": true,
+        "keep_age_and_gender_consistent": true,
+        "do_not_copy_any_unprovided_identity": true
+      }
+    },
+    "output_settings": {
+      "aspect_ratio": "2:3",
+      "orientation": "portrait",
+      "resolution": "ultra_high_res",
+      "render_style": "photorealistic_cinematic_poster",
+      "sharpness": "high",
+      "film_grain": "subtle"
+    },
+    "creative_prompt": {
+      "scene_summary": "Create an ORIGINAL photoreal romantic movie poster set in heavy rain. EXACTLY TWO people only (one man + one woman). Their faces must match the uploaded references exactly (100% identity). The couple is in an intimate near-kiss embrace: the woman holds the man's face with both hands; the man supports her waist. Both are soaked with visible rain droplets on skin and clothing, wet hair strands, and realistic water sheen. Cinematic backlight through rain, soft bloom highlights, emotional intensity, premium poster-grade composition. No extra people, no logos, no watermark.",
+      "composition": {
+        "framing": "tight medium shot (waist-to-head), couple dominates the frame",
+        "pose": "woman leaning in, hands on man's cheeks; man holding her securely; faces extremely close, almost kissing",
+        "camera_angle": "eye-level, intimate, cinematic",
+        "background": "stormy pale sky + rain curtain; minimal background clutter; soft haze"
+      },
+      "wardrobe_and_styling": {
+        "male_outfit": "white button-up shirt, fully soaked, fabric clinging naturally, realistic wrinkles and transparency where appropriate (tasteful, non-explicit)",
+        "female_outfit": "soft blue short-sleeve dress, wet fabric texture, subtle period-inspired simplicity",
+        "hair": "wet hair, strands sticking naturally; no glam curls",
+        "makeup": "natural, rain-safe, realistic (no heavy glam)"
+      },
+      "rain_fx": {
+        "rain": "heavy rain streaks + mist + droplets on faces and hands",
+        "water_detail": "beads of water on skin, collar, sleeves; believable physics"
+      },
+      "typography": {
+        "top_tagline": "BEHIND EVERY GREAT LOVE IS A STORY WORTH KEEPING",
+        "main_title": "THE NOTEBOOK",
+        "title_style": "classic elegant serif, large, centered near bottom, high contrast, clean kerning",
+        "placement": "tagline at top; title at bottom; keep generous margins"
+      },
+      "lighting_and_camera": {
+        "lighting": "cinematic backlight + soft key light; rain catches highlights; gentle vignetting",
+        "camera": "full-frame DSLR look",
+        "lens": "85mm",
+        "aperture": "f/2.2",
+        "iso": "200",
+        "shutter": "1/250",
+        "focus": "tack-sharp faces and hands; rain slightly motion-streaked"
+      },
+      "strict_rules": [
+        "Exactly 2 people only",
+        "100% identity match to references (no facial changes)",
+        "No extra characters, no background people",
+        "No watermark, no random text gibberish",
+        "Only include the tagline and title exactly as written",
+        "Photoreal, cinematic, not AI-looking"
+      ]
+    },
+    "negative_prompt": [
+      "extra people",
+      "watermark",
+      "logo",
+      "gibberish text",
+      "misspelled title",
+      "blurry faces",
+      "identity drift",
+      "face swap artifacts",
+      "beautify filter",
+      "plastic skin",
+      "cartoon",
+      "anime",
+      "cgi look",
+      "oversexualized",
+      "nudity",
+      "deformed hands",
+      "extra fingers",
+      "busy background"
+    ]
+  }
+}
+```
+
+---
+
+## [@astronomerozge1](https://twitter.com/astronomerozge1)
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HpdFKXQAQfox7?format=jpg&name=orig)
+
+### Prompt
+
+```
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_fashion_editorial",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references": {
+      "character_reference_image": "UPLOAD_YOUR_CHARACTER_REFERENCE (OPTIONAL_IF_YOU_WANT_SAME_PERSON)",
+      "reference_rules": {
+        "if_character_reference_provided_then_preserve_identity": true,
+        "identity_lock_strength": 0.98,
+        "do_not_copy_any_unprovided_identity": true
+      }
+    },
+    "output_settings": {
+      "aspect_ratio": "4:5",
+      "orientation": "portrait",
+      "resolution": "ultra_high_res",
+      "render_style": "photorealistic_high_flash_editorial",
+      "sharpness": "high",
+      "film_grain": "subtle"
+    },
+    "creative_prompt": {
+      "scene_summary": "High-fashion studio editorial portrait inspired by ornate Southeast Asian ceremonial regalia. Single female model in a maximalist gold costume with heavy jewelry, dramatic makeup, and an elaborate crown-like headdress with dangling chains. Clean white studio background with harsh direct flash for crisp shadows and sparkling specular highlights. No text/logos/watermarks.",
+      "subject": {
+        "type": "adult_woman",
+        "pose": "front-facing, arms raised overhead with wrists crossed, hands resting above the crown; elegant symmetrical pose",
+        "expression": "calm, regal, slightly intense gaze",
+        "hair": "short blunt black bob with straight bangs (or sleek hair hidden under headpiece)",
+        "makeup": {
+          "style": "theatrical editorial",
+          "eyes": "bold eyeliner, heavy lashes, soft colored accents around eyes, high-contrast highlight",
+          "lips": "glossy deep red",
+          "skin": "porcelain-smooth but realistic texture, luminous highlights"
+        }
+      },
+      "wardrobe": {
+        "headpiece": "massive ornate gold crown/headdress with intricate filigree, floral motifs, and long dangling gold chains framing the face and cascading down both sides",
+        "jewelry": [
+          "large decorative nose ring with a delicate chain detail",
+          "layered gold necklaces with red bead accents",
+          "heavy gold earrings",
+          "multiple gold bangles and beaded bracelets",
+          "gold shoulder/arm ornaments with fringe tassels"
+        ],
+        "costume": "full gold embellished dress/armor-like bodice covered in coins, medallions, filigree plates, beadwork, and shimmering fringe; red bead accents throughout; ornate waist belt; dense sparkling texture"
+      },
+      "environment": {
+        "background": "pure white seamless studio backdrop",
+        "floor": "not visible or minimal",
+        "props": "none"
+      },
+      "lighting_and_camera": {
+        "lighting": "harsh direct on-camera flash, strong crisp shadow behind subject, high contrast, specular sparkle on gold, slight overflash highlights but controlled",
+        "camera": "high-end editorial shot with point-and-shoot flash vibe",
+        "lens": "50mm (full-frame look)",
+        "aperture": "f/5.6",
+        "iso": "200",
+        "shutter": "1/160",
+        "focus": "sharp eyes and facial jewelry; crisp detail on gold textures; background clean"
+      },
+      "composition": {
+        "framing": "mid-to-full body portrait (waist to head), centered subject, headpiece and dangling chains fully in frame",
+        "style_notes": "maximalist luxury, museum-like regalia, couture editorial, highly detailed gold surfaces"
+      },
+      "strict_rules": [
+        "NO text",
+        "NO logos",
+        "NO watermark",
+        "single subject only",
+        "white background only",
+        "keep the costume extremely ornate and gold-heavy with dangling chains",
+        "avoid cultural caricature; keep it respectful couture/editorial styling"
+      ]
+    },
+    "negative_prompt": [
+      "text",
+      "logo",
+      "watermark",
+      "extra people",
+      "blurry face",
+      "low resolution",
+      "cheap plastic jewelry",
+      "missing hands",
+      "bad hands, fused fingers, extra fingers",
+      "messy background, studio gear visible",
+      "muted dull gold (must be shiny)",
+      "over-smoothed plastic skin"
+    ]
+  }
+}
+```
+
+---
+
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
 ### Images
@@ -1006,128 +2362,6 @@ signature:
 
 ---
 
-## [@bananababydoll](https://twitter.com/bananababydoll)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8Rq9BBXQAEajeg?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8Rq9A-XoAEicf5?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "meta": {
-    "aspect_ratio": "9:16",
-    "quality": "ultra_photorealistic",
-    "resolution": "8k",
-    "camera": "smartphone rear camera",
-    "lens": "50mm",
-    "style": "candid lifestyle shot, cinematic realism, natural skin texture"
-  },
-
-  "scene": {
-    "location": "Walmart parking lot",
-    "setting": "store entrance behind her, blue Walmart signage visible, open car trunk with shopping bags",
-    "time": "sunset / golden hour",
-    "atmosphere": "post-shopping, spontaneous, confident everyday moment"
-  },
-
-  "lighting": {
-    "type": "natural golden hour light",
-    "source": "low sun reflecting off store facade",
-    "effect": "warm glow on skin, soft rim light around body, subtle lens flare"
-  },
-
-  "camera_perspective": {
-    "pov": "third-person (someone else filming)",
-    "angle": "slightly low, off-center candid angle",
-    "distance": "2 meters",
-    "framing": "mid-thigh to head",
-    "motion": "slight handheld realism"
-  },
-
-  "subject": {
-    "gender": "female",
-    "age": "early 20s (clearly adult)",
-    "ethnicity": "random european / mixed",
-
-    "body": {
-      "type": "extreme hourglass",
-      "waist": "very slim",
-      "hips": "very wide and round",
-      "ass": "full, lifted",
-      "legs": "thick thighs",
-      "stance": "weight on one leg, hip naturally pushed out"
-    },
-
-    "skin": {
-      "tone": "porcelain white",
-      "detail": "natural texture, sunlit highlights"
-    },
-
-    "hair": {
-      "color": "light blonde",
-      "length": "long",
-      "style": "straight",
-      "behavior": "slight breeze moving strands across shoulders"
-    },
-
-    "face": {
-      "eyes": "light blue",
-      "expression": "caught mid-smirk, confident eye contact",
-      "vibe": "unbothered, effortless, main-character energy"
-    },
-
-    "action": {
-      "activity": "walking away from store toward car",
-      "moment": "she turns her head after noticing the camera",
-      "detail": "one hand holding shopping bags, the other resting on car trunk edge"
-    },
-
-    "outfit": {
-      "top": {
-        "type": "tight cropped zip-up hoodie",
-        "color": "soft grey",
-        "fit": "unzipped slightly, naturally stretched over chest",
-        "fabric": "thin cotton, casual streetwear"
-      },
-      "bottom": {
-        "type": "low-rise denim shorts",
-        "color": "light blue",
-        "fit": "very short, hugging hips and thighs"
-      },
-      "shoes": {
-        "type": "white sneakers",
-        "condition": "everyday worn, realistic"
-      }
-    }
-  },
-
-  "product_placement": {
-    "brand": "Walmart",
-    "elements": [
-      "blue Walmart logo and entrance signage in background",
-      "recognizable Walmart shopping bags in her hand and car trunk"
-    ],
-    "integration": "natural post-shopping moment, not staged",
-    "visibility": "brand clearly readable but not dominating frame",
-    "lighting_effect": "warm sunset light reflecting on logo and bags"
-  },
-
-  "details": [
-    "asphalt texture visible",
-    "long sunset shadows",
-    "wind movement in hair",
-    "authentic candid realism",
-    "high-end influencer lifestyle feel"
-  ]
-}
-```
-
----
-
 ## [@YeKyaHoRhaHaiBe](https://twitter.com/YeKyaHoRhaHaiBe)
 
 ### Images
@@ -1156,64 +2390,6 @@ Prompt 3:
 Prompt 4:
 "Mid-body shot of a woman in a flowing, The woman is wearing a traditional yellow-beige Rajasthani lehenga with silver gota-patti work, matching dupatta over the head, jewellery, bangles. The background features Ad Deir (The Monastery) at Petra, Jordan, carved into a towering sandstone mountain during the golden hour. The wind is catching the fabric of her dress, creating a dramatic motion effect. She is wearing large ornate gold statement earrings and stacked gold bracelets Cinematic lighting with warm, orange sunset hues, high resolution, 8k.
 Create this referance image image id and face shuld not be changed at all."
-```
-
----
-
-## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G7JgnAKW4AANaBs?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G7Jgm8BXcAEE8_6?format=jpg&name=orig)
-
-### Prompt
-
-```
-Using 100% of the provided face, create a cinematic extreme close-up scene of an archer warrior attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) at the exact moment of drawing the bowstring during a heavy downpour. The camera is positioned frontally, aligned directly with the arrow's axis, creating an intense and dramatic perspective. Extremely shallow depth of field, with absolute focus on the character's eyes, keeping the arrow partially blurred in the foreground. The lens simulates a 135mm telephoto lens with a wide aperture (f/1.8).
-> The character's face is coated in wet mud, dirt, and heavy rain splatters, creating realistic, visceral textures. Rainwater mixes with sweat, streaming down their face. The skin has a drenched, slick sheen with sharp, cool reflections from the wet environment. Soaked, disheveled hair is plastered to the face by the rain, reinforcing the wild, battle-worn look. The eyes, extremely sharp, are light green, piercing through the rain with determination and focus.
-> The lighting is cinematic and moody, provided by a dark, overcast storm sky. Cool, diffused light creates sharp, watery highlights on the drenched skin and deep shadows. Instead of dust, heavy rain streaks diagonally across the frame, with individual droplets visible catching the light, and a fine mist sprays near the bowstring. The background is completely blurred with cool-toned, wet bokeh (greys, blues, and deep greens).
-> Hands grip the slick, wet bow firmly, showing veins, mud sliding off the skin, and the realistic texture of wet leather and wood. The arrow feathers in the foreground are soaked and matted. Water drips continuously from the arrowhead, catching a cool glint of light near the archer's nose.
-> The composition conveys absolute tension and energy amidst the storm. The framing is extremely tight, filling the entire frame with the face, hands, arrow, and falling rain. Hyper-realistic, cinematic style with high contrast, cool and desaturated colors, dense shadows, and a sense of movement frozen at the perfect instant. Aspect ratio 4:5
-```
-
----
-
-## [@dotey](https://twitter.com/dotey)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8L86LlWQAQyWIA?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8F_aPoWoAYdAN9?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@ttmouse](https://twitter.com/ttmouse)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8y9ElSWYAA1Tdn?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8y9ElRWsAAJrqw?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8y9ElQXoAAKRi5?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8y-6vMXIAEPCzG?format=jpg&name=orig)
-
-### Prompt
-
-```
-Photography Style: Cinematic product photograph, macro lens, extremely shallow depth of field (bokeh), 8k resolution, hyper-detailed.
-# Input Process:
-I will now provide the subject. You will instantly apply the creative logic and generate the final image.
 ```
 
 ---
@@ -1250,204 +2426,6 @@ I will now provide the subject. You will instantly apply the creative logic and 
     "different outfit type",
     "glossy or synthetic fabric"
   ]
-}
-```
-
----
-
-## [@miilesus](https://twitter.com/miilesus)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9CKU0kWsAAaK5C?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@Gdgtify](https://twitter.com/Gdgtify)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9B79KwW8AAM_W0?format=jpg&name=orig)
-
-### Prompt
-
-```
-A "Giant" wall of newspapers with headlines about their legal battles.
- Massive burnt fuses or broken prototypes scattered like boulders.
- A spilled cup of coffee creating a "lake" near one of the figures.
-  Giant tools (calipers, screwdrivers) casting long shadows.
-Perspective: Slightly angled 45-degree macro shot looking down at the patent.
-Texture: Dust motes, scratched mahogany wood, paper grain, metallic reflections.
-Lighting: Cinematic Macro Lighting. A warm desk lamp illuminates the scene, but the Invention in the center emits its own light (e.g., blue electrical arcs vs. yellow filament glow), lighting the faces of the tiny figures.
-
-Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography, tilt-shift effect.
-</instructions>
-```
-
----
-
-## [@SSSS_CRYPTOMAN](https://twitter.com/SSSS_CRYPTOMAN)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8XCFwTa4AAeQjX?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8XCFs1a4AIHc9R?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8XCFsya4AMdrZS?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8XCFsybQAA148Q?format=jpg&name=orig)
-
-### Prompt
-
-```
-A futuristic motorcycle and rider.
-Motorcycle:
-- Heavy, solid, rounded silhouette
-- Minimal exposed mechanics, smooth cowling
-- Wide, thick, high-grip tires
-- Color scheme harmonized with rider
-Rider:
-- Face and outfit preserved from reference image
-- Stare straight into the camera, glaring with a powerful, piercing gaze.
-- Left foot planted firmly on the ground, struggling to support the heavy leaning bike
-- Rider's leg is fully extended to brace against the fall
-
-(ACTION & MECHANICS):
-High-speed linear slide braking (NOT cornering).
-The bike is sliding sideways while traveling backwards into the depth of the scene.
-Instability: The bike is on the verge of falling over towards the screen.
-Wheels are locked (not rotating).
-
-(VISUAL EFFECTS - SMOKE TRAILS):
-Three distinct, straight trails of thick white smoke.
-Direction: Smoke stretches from the IMMEDIATE FOREGROUND (bottom of screen) directly to the motorcycle's wheels and rider's foot in the center.
-The smoke trails act as leading lines pointing to the subject.
-Violent debris and asphalt fragments kicking up.
-
-(ENERGY EFFECTS):
-Neon-green lightning energy arcs (1980s anime style) embedded within the white smoke trails.
-Green energy flows through the smoke, following the straight lines from foreground to the bike.
-
-(ART STYLE):
-Cel-shaded animation, 1980s anime aesthetic (Cyberpunk).
-High contrast, bold black shadows, dramatic lighting.
-Poster-quality, ultra-high resolution, sharp focus.
------
-```
-
----
-
-## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FeMbIaoAAPMb2?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9FeMSMbkAAKmBu?format=jpg&name=orig)
-
-### Prompt
-
-```
-The subject in the photo is: A fierce, futuristic tribal warrior monk charging forward, a dark-skinned man with a muscular physique, a completely bald head with no hair, thin tattoos, wearing round steampunk-style glasses. His torso is covered with intricate black tribal tattoos. He wears a tattered dark brown robe with white symbols over sturdy, dusty warrior pants. He has leather bands and metal bracelets on his arms and battle-worn sandals on his feet. He wields two long sticks/spears, one in each hand, wrapped in cloth and with metal details. Dust and debris explode under his feet as he advances with power and intensity. Dark, minimal studio background, dramatic cinematic lighting, ultra-realistic textures, sharp focus, high contrast, shallow depth of field, epic action pose, hyper-detailed fabrics, leather, and weapons, 8K resolution, fantasy-sci-fi cinematic concept art, Unreal Engine style, Octane rendering, photorealistic, dynamic motion.
-```
-
----
-
-## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8SJsa9a4AIbZ8p?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@Strength04_X](https://twitter.com/Strength04_X)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9Fni3tbkAEDwRD?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9Fni3AasAADvGC?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9FdPqNXUAAkA4X?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "scene": {
-    "environment": "Outdoor or semi-outdoor pool or hot tub area at night",
-    "lighting": "Low ambient lighting with soft, warm highlights; background is dim and partially shadowed",
-    "background_elements": [
-      "Dark wall or fence",
-      "Soft light sources reflected in background",
-      "Water surface with gentle ripples",
-      "Dark tiled pool or hot tub edge"
-    ],
-    "camera_angle": "Slightly elevated and angled from the side",
-    "framing": "Medium-full body shot, horizontal orientation"
-  },
-  "subject": {
-    "gender_presentation": "Feminine",
-    "age_group": "Young adult",
-    "pose": "Lying on stomach with upper body propped on forearms, legs extended behind",
-    "expression": "Relaxed facial expression with a soft, neutral gaze toward the camera",
-    "body_position": "Upper body resting on tiled edge, lower body near or partially over water",
-    "skin_tone": "Light skin tone"
-  },
-  "appearance": {
-    "hair": {
-      "color": "Light brown to dark blonde",
-      "length": "Long",
-      "style": "Loose, slightly damp or sleek, parted near the center"
-    },
-    "face": {
-      "makeup": "Subtle makeup with visible blush and defined eyelashes",
-      "features": "Soft facial features, relaxed eyes, natural lips"
-    },
-    "clothing": {
-      "type": "Bikini",
-      "top": {
-        "color": "Pink with orange accents",
-        "style": "Triangle bikini top with thin straps"
-      },
-      "bottom": {
-        "color": "Pink with orange side ties",
-        "style": "Tie-side bikini bottoms"
-      }
-    },
-    "accessories": [
-      "Small wrist tattoo on left arm",
-      "Manicured nails with light pink polish"
-    ]
-  },
-  "materials_and_textures": {
-    "tiles": "Small square dark tiles with glossy finish",
-    "water": "Clear water with subtle reflections",
-    "fabric": "Smooth, stretchy swimwear material"
-  },
-  "mood_and_aesthetic": {
-    "overall_mood": "Calm, relaxed, intimate",
-    "visual_style": "Lifestyle photography with low-light ambiance",
-    "color_palette": [
-      "Warm skin tones",
-      "Pink and orange accents",
-      "Dark neutrals from tiles and background"
-    ]
-  }
 }
 ```
 
@@ -1531,24 +2509,6 @@ Ultra-realistic cinematic portrait of a man attached in the uploaded reference i
 
 ---
 
-## [@aiko_u_works](https://twitter.com/aiko_u_works)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FyMKFbEAAdr0S?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9FyN5naMAAQYJ-?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9FyPPFbYAAVV_G?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
 ## [@miilesus](https://twitter.com/miilesus)
 
 ### Images
@@ -1585,148 +2545,6 @@ Photography style: high-end fashion editorial, professional studio photography, 
 Composition: vertical fashion collage layout with evenly spaced images.
 
 Aspect ratio: 9:16.
-```
-
----
-
-## [@Samann_ai](https://twitter.com/Samann_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8dYPuPXcAAsr0h?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "task": "image_to_image_style_transfer",
-  "input_image": "{{USER_IMAGE}}",
-  "prompt": "Create a hyper-real 3D studio composition that recreates the main subject from the provided image as a fragmented stone assemblage. The subject must be built from separate, clearly detached rock pieces with small visible gaps between shards (no pieces merging). Material look: fragmented slate + sandstone shards with chiseled edges, crisp fractures, visible stone grain, micro-scratches, and realistic roughness. Color palette: predominantly dark slate with subtle warm-ochre sandstone accents. Lighting: soft studio key light from top-left, gentle fill, subtle contact shadows under each shard, realistic ambient occlusion in crevices, clean reflections kept minimal. Background: minimal off-white seamless backdrop, no texture. Framing: centered, clean, straight-on, subject fully readable. Add a few tiny debris chips floating or resting near the base for depth. Preserve the subject’s identity, proportions, and recognizable silhouette from the input image while transforming all surfaces into stone fragments. Hyper-real, high detail, sharp focus, 8k render quality.",
-  "negative_prompt": "text, typography, logo, watermark, signature, extra props, busy background, fog, heavy bloom, cartoon, illustration, lowpoly, plastic, metal, glossy paint, melted shapes, merged fragments, unreadable subject, blur, noise, low resolution, oversharpening halos, distorted face/body, extra limbs, deformed geometry",
-  "output": {
-    "aspect_ratio": "use_input_aspect_ratio",
-    "background": "off_white",
-    "camera": {
-      "angle": "straight_on",
-      "framing": "centered",
-      "distance": "medium"
-    }
-  },
-  "params": {
-    "style_strength": 0.75,
-    "identity_preservation": 0.9,
-    "detail_level": "very_high",
-    "lighting_preset": "soft_studio_top_left",
-    "shadow_intensity": "subtle",
-    "gap_visibility": "clear",
-    "debris_chips": "few_tiny",
-    "no_text": true
-  }
-}
-```
-
----
-
-## [@dotey](https://twitter.com/dotey)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G7RvrTJXgAA1E3O?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G7RvrS7WYAAtckM?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G7RvrS7WcAA9fEQ?format=jpg&name=orig)
-
-![Image 5](https://pbs.twimg.com/media/G7P2EcbXwAAvwE6?format=jpg&name=orig)
-
-![Image 6](https://pbs.twimg.com/media/G7P2HM-W4AAVU1A?format=jpg&name=orig)
-
-![Image 7](https://pbs.twimg.com/media/G7P2KAdWUAART6-?format=jpg&name=orig)
-
-![Image 8](https://pbs.twimg.com/media/G7P2NKRWYAAQuEz?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@Strength04_X](https://twitter.com/Strength04_X)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9EGAq-bAAALFtl?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9EGAp9aUAAKvTU?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9EGBNmb0AENX8y?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9EGAr_b0AApJE6?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "type": "image_generation",
-  "style": "ultra_photorealistic",
-  "aspect_ratio": "1:1",
-  "resolution": "8K",
-  "quality": "high_detail_realism",
-  "scene": {
-    "location": "modern city business district",
-    "environment": "open plaza surrounded by glass skyscrapers",
-    "atmosphere": "busy urban lifestyle, premium commercial vibe"
-  },
-  "subject": {
-    "structure": "luxury brand pop-up store",
-    "design": "minimalist modern architecture with bold geometric shape",
-    "material": "wood, glass, metal finishes",
-    "branding": "large clean logo on outer wall",
-    "interior": "well-lit showroom with product displays"
-  },
-  "people": {
-    "crowd": "realistic people walking, shopping, interacting",
-    "style": "casual urban clothing",
-    "motion": "natural movement, candid poses"
-  },
-  "lighting": {
-    "type": "natural daylight",
-    "quality": "soft cinematic lighting",
-    "shadows": "realistic soft shadows",
-    "reflections": "glass and metal reflections visible"
-  },
-  "camera": {
-    "device": "DSLR",
-    "lens": "24mm wide angle",
-    "aperture": "f/4",
-    "iso": 100,
-    "focus": "sharp foreground with deep clarity",
-    "depth_of_field": "natural depth"
-  },
-  "rendering_details": {
-    "texture": "high-detail materials and surfaces",
-    "color_grading": "clean, premium, realistic",
-    "sharpness": "ultra clear",
-    "noise": "none",
-    "artifacts": "none"
-  },
-  "mood": "premium brand experience, futuristic yet realistic",
-  "negative_prompt": [
-    "cartoon",
-    "anime",
-    "illustration",
-    "cgi look",
-    "low quality",
-    "blur",
-    "distorted buildings",
-    "fake lighting",
-    "over-saturated colors"
-  ]
-}
 ```
 
 ---
@@ -1804,20 +2622,6 @@ Name: Sam Altman
 
 ```
 Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composition" lens: type: "super wide-angle lens" effects: - "extreme perspective" - "strong spatial compression between foreground, midground, background" Character: identity: ethnicity: "Japanese" gender: "girl" hair: "medium-length hair" outfit: style: "windy, dressy, trendy yumekawa fashion" pose: description: "bold, dynamic action pose" body_orientation: "leaning with momentum implied by the tilt" Hands_and_Gesture: right_hand: gesture: "index finger extended, thumb raised, other fingers curled inward" shape: index_finger: "extended straight forward" thumb: "raised vertically" other_fingers: "tightly curled inward" position: "held in front of her face" gaze_alignment: "her eyes follow the pointing direction" left_hand: gesture: "open hand" fingers: "all five fingers widely spread" position: "placed below and slightly in front of the right hand" palm_direction: "facing upward as if supporting it" perspective_role: "dominates the extreme foreground" perspective: dominance: "left hand is massively enlarged by wide-angle distortion" clarity: "both hands and face in sharp detail" depth_of_field: "full DOF, no background blur" Lighting: type: "soft indoor lighting" mood: "gentle highlights, controlled shadows" background: "neutral, blurred environment" Cinematic_Effects: atmosphere: "action tension + stylized anime dynamism" motion_sense: "perspective and Dutch angle add momentum" Output: aspect_ratio: "16:9" style: "high-quality anime illustration" rendering: "clean lines, sharp details, accurate anatomy"
-```
-
----
-
-## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9GNWMXbYAAbkbV?format=jpg&name=orig)
-
-### Prompt
-
-```
-Usando la imagen de referencia, realiza lo siguiente, sin modificar los rasgos de la persona de la foto: El hombre está parado en la cima de un acantilado rocoso y patea con fuerza el número '25' hecho de piedra, que se está rompiendo en pedazos. En el cielo, detrás de él, aparecen unos números gigantes y brillantes '2026' con un borde dorado iluminado. El fondo es un atardecer épico con rayos de sol atravesando las nubes, creando una atmósfera de triunfo y un nuevo comienzo. Estilo de fotografía publicitaria de alta resolución, hiperrealista, con iluminación dramática.
 ```
 
 ---
@@ -1929,34 +2733,6 @@ Extreme contrast.
 High realism only in the illuminated portion of the face.
 Everything outside the spotlight should be nearly invisible.
 Background: pure black, no gradients, no rim light, no background detail.
-```
-
----
-
-## [@LufzzLiz](https://twitter.com/LufzzLiz)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9AJ_tIb0AQkgJi?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G83wDhfXAAA5Pbh?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "template_name": "New Year City Skyline Celebration",
-  "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
-  "prompt_template": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with {city_fireworks_effect}. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape.",
-  "input_variables": {
-    "city_fireworks_effect": {
-      "type": "string",
-      "description": "Description of the style, shape, and vibe of the fireworks.",
-      "default_value": "a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks"
-    }
-  },
-  "full_prompt_example": "A stunning cinematic shot of a joyful child in silhouette, wearing a whimsical party hat, standing on a high mountain peak with arms outstretched in wonder. The background is a breathtaking aerial night view of the Shanghai skyline, featuring the Oriental Pearl Tower, The Bund, and the winding Huangpu River under a starry night sky. The sky erupts with a spectacular Disney-style fireworks show, featuring Mickey Mouse shaped bursts, fairy-tale pastel colors, glittering magic dust, and dreamlike cascading sparks. A massive, glowing firework display clearly spells out '2026' in the center. 8k resolution, photorealistic, magical atmosphere, highly detailed urban nightscape."
-}
 ```
 
 ---
@@ -2117,88 +2893,6 @@ Mood: Lonely, isolated, a silent big city.
 
 ---
 
-## [@xIrissy](https://twitter.com/xIrissy)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8xNBd6asAAorNE?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "generation_request": {
-    "subject_reference": {
-      "Gender": "Female", A Beautiful Woman in her 20s.
-      "facial_preservation": "High fidelity, exact features, no stylization, no alteration to identity"
-    },
-    "prompts": {
-      "positive_prompt": "High-resolution aerial action photography of [Reference Woman] paragliding. Low-angle wide-angle selfie shot captured via a selfie stick held in her left hand. She is suspended in a professional paragliding harness with legs freely dangling, wearing a black bikini and simple flip-flops. Her right hand grips the paragliding control handle. The background is an expansive, vibrant tropical coastline with deep turquoise ocean and clear blue sky. Bright natural daylight, sharp focus, hyper-realistic skin texture, cinematic composition, dynamic motion, true-to-life proportions.",
-      "negative_prompt": "CG, 3d render, anime, cartoon, painting, drawing, illustration, altered face, distorted features, bad anatomy, deformed hands, missing fingers, helmet, sunglasses, wetsuit, sneakers, cloudy, dark lighting, blurry, noise, grain, low resolution"
-    },
-    "scene_details": {
-      "camera_angle": "Low perspective, wide-angle, looking up from selfie stick",
-      "lighting": "Bright natural daylight, hard sunlight",
-      "attire": [
-        "Black bikini",
-        "Simple flip-flops"
-      ],
-      "pose_constraints": {
-        "left_hand": "Holding selfie stick pointed toward self",
-        "right_hand": "Holding paragliding control handle",
-        "legs": "Dangling freely"
-      }
-    },
-    "technical_settings": {
-      "aspect_ratio": "9:16",
-      "style": "Ultra-realistic, raw photography"
-    }
-  }
-}
-```
-
----
-
-## [@SDT_side](https://twitter.com/SDT_side)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8xUMFkaYAAWvEO?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8wKuMFbsAAASOw?format=jpg&name=orig)
-
-### Prompt
-
-```
-Ultra high-resolution upscale edit of the same person from the original image, preserving identity, face, hairstyle, outfit, and overall realism.
-This is a direct edit of the original photo, not a new character.
-
-Change the distance, composition, angle, and perspective
-
-Move extremely close to the face until natural skin texture, visible pores, fine facial details, and subtle tonal variations are clearly visible.
-Skin appears realistic and human — not airbrushed, not plastic, not overly smooth, with natural micro-imperfections preserved.
-No external skin reference images are used.
-
-Transform the original photo into a dramatic, photorealistic ultra wide-angle shot.
-Extreme wide-angle perspective with a very low, bottom-margin camera angle, creating strong perspective distortion.
-
-One or more body parts appear very close to the lens and visually large, while the rest of the body rapidly recedes in depth, emphasizing dynamic scale and spatial tension.
-
-The same person performs a stylish, complex, powerful pose remix, energetic and playful, yet physically believable and natural.
-Pose feels spontaneous and fashion-forward, not stiff, not catalog-like.
-
-Environment remains a consistent, expanded continuation of the original scene, naturally extended in depth and width.
-No environment redesign, only spatial expansion and perspective exaggeration.
-
-Emotion and mood: cute, fun, playful, joyful.
-Natural smile, relaxed eyes, lighthearted energy, still realistic.
-
-Photorealistic lighting, realistic lens behavior, natural depth falloff.
-No character redesign. No face alteration. No hairstyle change. No outfit change.
-```
-
----
-
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
 
 ### Images
@@ -2283,71 +2977,6 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 
 ---
 
-## [@Strength04_X](https://twitter.com/Strength04_X)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8-_SQ0b0AEhTBE?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@refindai](https://twitter.com/refindai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9I5hbXbgAIPmhF?format=jpg&name=orig)
-
-### Prompt
-
-```
-A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover for "Yesterday," inspired by Huang Hai's minimalist aesthetic. The composition features vast pale sepia negative space creating a melancholic, nostalgic atmosphere on a visible woven fabric base. The central focus is an exquisitely dimensionally embroidered vintage wooden record player with a detailed wilted rose resting on the turntable, showing realistic thread texture and natural luster. Subtle, barely visible embroidered details include a tiny reminiscing silhouette (bottom right) and a vinyl record (upper left). Top text in elegant cream embroidery: "Yesterday" and "The Beatles 1965". The bottom section features detailed embroidered musical notation (staff, treble clef, melancholic notes mixed with tiny rose petals) for the song's melody. Below the staff, the complete lyrics are embroidered in elegant script: "Yesterday, all my troubles seemed so far away / Now it looks as though they're here to stay / Oh, I believe in yesterday". Above the music: "YESTERDAY 昨日". Minimal thin border with tiny corner symbols (musical note, record player). The entire piece must feel like tactile, handcrafted textile art.
-```
-
----
-
-## [@abulu8](https://twitter.com/abulu8)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FnFlgb0AAziIV?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@gokayfem](https://twitter.com/gokayfem)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8XoB3PWYAA4hS7?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8XpY_9WQAQKUaL?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8XsB3PXgAA5A8i?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8XsJBFWIAAqGRS?format=jpg&name=orig)
-
-### Prompt
-
-```
-Generate a 6x6 grid of variations based on the original image. Keep the same product but vary the color palettes, backgrounds, lighting, angles, props, and styling dramatically across all 36 cells. Maintain the same professional quality and aesthetic throughout.
-
-prompt (for maximum diversity):
-Generate a 6x6 grid showing 36 unique variations of this product. Experiment wildly with color palettes, environments (studio, lifestyle, minimal, textured backgrounds), lighting styles, compositions, and moods. Keep product recognition and professional quality consistent, but make each cell visually distinct.
-```
-
----
-
 ## [@dhumann](https://twitter.com/dhumann)
 
 ### Images
@@ -2362,44 +2991,6 @@ An extreme close-up macro portrait of the subject, using the uploaded reference 
 Hyper-realistic skin texture with visible pores and natural micro-details, a dewy fresh complexion, finely rendered eyelashes with a crisp catchlight, and an intimate, calm gaze. Loose, messy strands of hair fall naturally across the face and partially over the eye. Lips appear soft and naturally pink with subtle texture, no heavy makeup.
 
 Lighting is soft, diffused, and cinematic with cool blue tonalities and gentle ambient shadows, shaping depth without harsh contrast. Photorealistic, cinematic raw photo quality, ultra-high detail, 8K realism, shot as an extreme macro using a 100mm macro lens at f/2.8, with razor-thin depth of field and sharp focus on the eye, with smooth falloff across the nose and lips.
-```
-
----
-
-## [@Gdgtify](https://twitter.com/Gdgtify)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8VII8ZXkAAWZ4D?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8VKEDRXEAsYnLI?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/amplify_video_thumb/2000066761341710339/img/UfnzmwjyvnTfgRHA?format=jpg&name=orig)
-
-### Prompt
-
-```
-<instruction>
-Toyification
-Input A is the subject photo (movie poster or movie name).
-Analyze uploaded movie characters, story line, scenes, and pick the most important or iconic scene. 
-
-Optional Input B is a style reference (toy photography / product shot you like). If B is missing, choose a premium toy-ad aesthetic.
-
-Goal: Turn Input A into a hyper-real miniature DIORAMA inside a clear acrylic “collector toy box” with beautiful packaging design (no text/logos).  
-
-Rules:
-- The subjects becomes a tiny, ultra-detailed figurine or miniature version of themselves inside a miniature scene appropriate for the uploaded image. 
-- Surround it with 6–10 mini props that match the uploaded image's story 
-- Packaging should look premium: clear acrylic front, matte paper backer, subtle emboss feel, color palette inferred from Input A.
-- Lighting: clean studio softbox, crisp reflections, subtle shadow under box.
-- Composition: product hero shot, centered, 3/4 view, shallow depth of field.
-
-Output:
-- ONE image, 4:5 or 1:1 (choose the most “product post” viral crop).
-- movie name 3D printed at the base. 
-- Keep it cute and premium, not uncanny.
-</instruction>
 ```
 
 ---
@@ -2460,22 +3051,6 @@ The lighting is a warm, evening glow, creating a magical and nostalgic atmospher
 
 ---
 
-## [@Gdgtify](https://twitter.com/Gdgtify)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8_QhTQXIAACQ_j?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G847-lRX0AA23P_?format=jpg&name=orig)
-
-### Prompt
-
-```
-do this for bacon and chicken: <instructions> step 1. user enters one or more ingredients. step 2. analyze the ingredients, their taste and delicious meals that can be made with all of them. step 3. pick 4 random countries and their popular food that maybe be less known that use all these ingredients (if given one, only that, if given 2, the meal should have both those). Goal: A cookbook where ingredients and dishes emerge in delicious detail Rules: Base: A vintage cookbook with stained pages and fabric cover, historical timeline of food Scene: 3D Miniature kitchen or market scene with 3D chef & ingredients Details: Detailed and accurate food textures, steam effects, cooking implements Lighting: Warm kitchen lighting with golden hour quality Output: a 2x2 grid, each with a Single 1:1 image of the meals  with appetizing details </instructions>
-```
-
----
-
 ## [@harboriis](https://twitter.com/harboriis)
 
 ### Images
@@ -2490,20 +3065,6 @@ Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage
 
 ---
 
-## [@dhumann](https://twitter.com/dhumann)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HdF0dW8AAuWrQ?format=jpg&name=orig)
-
-### Prompt
-
-```
-The main subject of this image is person in the attached reference image (hereinafter referred to as THE_SUBJECT). THE_SUBJECT is wearing a black turtleneck sweater and the hair is styled professionally. Create a cinematic portrait of THE_SUBJECT sitting in a brown leather high back chair inside an elegant private library with soft dramatic lighting. The face is partly lit with warm golden sunlight coming in through a window on the left and out of view. The lighting design creates a chiaroscuro effect with small highlight areas and deep shadows contributing to a moody atmosphere. THE_SUBJECT’S expression is thoughtful and contemplative, with one hand resting on the chin. The background is softly blurred, emphasizing THE_SUBJECT’S face. The image has a clean aesthetic and relaxed mood.
-```
-
----
-
 ## [@AIwithSynthia](https://twitter.com/AIwithSynthia)
 
 ### Images
@@ -2514,46 +3075,6 @@ The main subject of this image is person in the attached reference image (herein
 
 ```
 A cinematic fine-art studio portrait of an elegant woman seated gracefully on a carved wooden armchair, wearing a long deep red velvet dress with soft, flowing folds. Her posture is relaxed yet confident, one arm resting on the chair, expression calm and composed. Warm, painterly studio lighting highlights her natural skin tones, soft blush, defined eyes, and neutral lips, with gentle shadows adding depth. The background is dark and moody with subtle brown-green tones. Google Gemini Beside and slightly behind her, a large softly blended painterly portrait of her own face appears, realistic yet artistic, with smooth brushwork and a classic oil-painting feel. Renaissance-inspired fine-art aesthetic, cinematic realism, shallow depth of field, elegant composition, ultra-detailed textures, muted tones, high contrast, 8K quality, 1:1 aspect ratio.
-```
-
----
-
-## [@Arminn_Ai](https://twitter.com/Arminn_Ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8NahEuWIAUjhoW?format=jpg&name=orig)
-
-### Prompt
-
-```
-a photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period-accurate clothing], [Describe the interaction].
-
-The photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.
-
-Significantly reduce the sharpness so that the details of the [SUBJECT] are not crisp, making the [SUBJECT] blurry and low-fidelity.
-
-Greatly increase the wear of the photo, including small tears, missing corners, water damage, and small wormholes caused by insect damage. Add a prominent, jagged diagonal cut across the photo, mended clumsily with old, discolored tape.
-```
-
----
-
-## [@op7418](https://twitter.com/op7418)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G7U0ZGbaUAAmQAN?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G7U0jfkakAA5EcT?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G7Uy_k5aIAAjNgf?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G7UzDXlaUAAQijc?format=jpg&name=orig)
-
-### Prompt
-
-```
-
 ```
 
 ---
@@ -2574,51 +3095,6 @@ She has fair glowing skin, soft blush, light brown eyes, and light natural makeu
 Her long dark-brown wavy hair with Korean-style see-through bangs shines under bright vintage 1990s camera flash lighting.The outfit represents a youthful, stylish street look inspired by Japanese school uniform fashion — clean, trendy, and confident.
 Her accessories include small earrings, a thin bracelet, and a simple necklace.The background is an indoor wall area decorated with colorful music posters and stickers, giving a retro 1990s visual vibe.She poses casually, looking at the camera with a confident, expressive look.
 Keep her face and hairstyle exactly the same as the original reference.
-```
-
----
-
-## [@ecommartinez](https://twitter.com/ecommartinez)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HMyVcbgAElKWT?format=jpg&name=orig)
-
-### Prompt
-
-```
-Vertical bird's-eye view, ultra-realistic photograph of two dogs sitting side by side on a slightly damp urban sidewalk, dark stone cobblestones with scattered autumn leaves around them.
-One dog with deep, shiny black fur, the other with cream or ivory fur, strong and harmonious contrast.
-Both dogs look directly at the camera with a sweet and curious expression.
-Their long, flexible, and well-furred tails naturally curve inward to form together a perfectly legible heart shape when viewed from above.
-Soft natural light, autumn atmosphere, warm and realistic colors, detailed texture of the ground and fur.
-Shallow depth of field, sharp focus on the dogs, professional photography style, minimalist and poetic composition, tender and symbolic emotion, high resolution, ultra-detailed.
-```
-
----
-
-## [@ttmouse](https://twitter.com/ttmouse)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8kBFCuW8AAcSTu?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8kBFCuXEAA5m5o?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8kBFCsWcAAC3vD?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8a-5rVWoAAfh3G?format=jpg&name=orig)
-
-### Prompt
-
-```
-A high-quality 9:16 vertical portrait, 4k resolution. 
-**Framing:** Medium-long shot (framed from the knees up, focusing on torso and head). 
-**Subject:** The woman from the reference image, standing in 3/4 profile facing left, looking at the lens. She wears a structured black long trench coat. 
-**Background:** An infinite, edge-to-edge gallery wall completely covered in a dense, seamless grid of black and white fashion portraits of herself. The photo wall fills 100% of the background frame behind her. No floor visible, no ceiling visible, just the texture of the photos. 
-**Lighting:** Even, professional gallery lighting highlighting the coat's texture and the details of the background prints. 
-**Quality:** Ultra-photorealistic, sharp focus, cinematic depth.
---ar 9:16 --v 6.0
 ```
 
 ---
@@ -2662,20 +3138,6 @@ Atmosphere: lively city energy, movement everywhere except subject
 
 ---
 
-## [@lijigang](https://twitter.com/lijigang)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9F3WnTbUAEwLdV?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
 ## [@AllaAisling](https://twitter.com/AllaAisling)
 
 ### Images
@@ -2696,80 +3158,6 @@ A photographer's contact sheet displaying multiple exposures of [SUBJECT/SESSION
 
 ---
 
-## [@sundyme](https://twitter.com/sundyme)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9EgKyibkAA-xid?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9AvZKaakAAYqDY?format=jpg&name=orig)
-
-### Prompt
-
-```
-Create a high-quality 3D rendered anthropomorphic mascot character in a cute cartoon style inspired by Kakao Friends/LINE Friends. A cute [角色类型] character in [场景描述], [动作描述], [表情描述], detailed 3D rendering with smooth textures, soft lighting, vibrant colors, kawaii aesthetic, large head and small body proportions, clean white background with subtle shadows.
-
-Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matches the 3D character design - bold, rounded, colorful letters with a kawaii aesthetic.
-
-1:1 aspect ratio, high quality 3D rendering, photorealistic textures with cartoon stylization.  使用这个模板生成一组4个表情包
-```
-
----
-
-## [@john_my07](https://twitter.com/john_my07)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9Fq0jHa0AEcuq1?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9Fq0lLbwAAeVlt?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@umesh_ai](https://twitter.com/umesh_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G7e2PCqa8AA-i5h?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G7e2PAoagAAmoLH?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G7e2PJXbgAAZiU9?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G7e2PKyb0AA-QS8?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@sundyme](https://twitter.com/sundyme)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9AvZKaakAAYqDY?format=jpg&name=orig)
-
-### Prompt
-
-```
-Create a funny anthropomorphic mascot character in Kakao Friends/LINE Friends style. A cute [动物角色] doing [搞笑动作/表情], [情绪状态描述], thick bold black outlines, flat vector illustration, 2D style, solid vibrant colors, minimal shading, no gradients, kawaii aesthetic, large head and small body (chibi proportions), minimalist facial features, sticker art aesthetic, clean simple white background.
-Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that matches the character design - bold, rounded, colorful letters with a kawaii aesthetic.
-1:1 aspect ratio 
-
-使用这个模板生成一组*个表情包
-```
-
----
-
 ## [@oggii_0](https://twitter.com/oggii_0)
 
 ### Images
@@ -2780,90 +3168,6 @@ Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that ma
 
 ```
 A close-up profile portrait of a young woman with her eyes closed and a calm, serene expression. She has a fair complexion with rosy cheeks and long dark brown hair with bangs. She is wearing a light brown teddy faux-fur coat and surreal headphones, where the ear cups are made of white clouds with a brown leather headband. The background is a softly blurred bright blue sky with clouds. The lighting is bright, natural daylight, creating a soft and airy feel. The image has a shallow depth of field with sharp focus on her face, in a dreamy, artistic, surreal, photorealistic style.
-```
-
----
-
-## [@r4jjesh](https://twitter.com/r4jjesh)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9EWZ4lb0AMn5bM?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9EWZ9Fa4AA0-9z?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9EWZ51b0AAyYFm?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9EWaCTaAAALmqP?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "quality": "hyper-realistic 8k",
-  "shot": "medium shot",
-  "lens": "35mm lens",
-  "setting": "dusty warehouse with tall windows",
-  "lighting": "late-afternoon sun beams cutting through suspended dust",
-  "subject_location": "sitting on a vintage wooden crate",
-  "pose": "elbows on knees, fingers loosely interlaced, chin slightly up, gaze steady to camera",
-  "outfit": "raw denim jacket, white tee, cuffed dark jeans, worn leather boots, thin silver chain",
-  "texture_details": "crate wood grain and denim twill clearly visible with tactile realism"
-}
-```
-
----
-
-## [@aleenaamiir](https://twitter.com/aleenaamiir)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8XJ2UiaMAAvcSu?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8XJ2UfbwAAkHGA?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8XJ2UhboAAncKh?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8XJ2Yba4AEpR0M?format=jpg&name=orig)
-
-### Prompt
-
-```
-Cinematic macro perspective, botanical realism, ultra-detailed.
-```
-
----
-
-## [@Sheldon056](https://twitter.com/Sheldon056)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9BFulgb0AMDjav?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9BFul3b0AUto9G?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9BFumMbIAAIVbV?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9BFumbb0AIQe0D?format=jpg&name=orig)
-
-### Prompt
-
-```
-A hyper-detailed geometric papercraft sculpture of [NAME], created using layered colored cardstock with precise angular folds and clean cut edges. Facial features are stylized using polygonal planes, with subtle shading formed naturally by paper layering. Hair, beard, and clothing are constructed from stacked strips and folded shapes for depth and realism. The figure is displayed against a clean neutral background with soft diffused lighting, highlighting the craftsmanship and texture. Sharp macro focus, studio photography aesthetic, 1080×1080.
-```
-
----
-
-## [@GaganSingh8u](https://twitter.com/GaganSingh8u)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HvVl9bEAACy6S?format=jpg&name=orig)
-
-### Prompt
-
-```
-
 ```
 
 ---
@@ -2884,136 +3188,6 @@ A hyper-detailed geometric papercraft sculpture of [NAME], created using layered
 
 ---
 
-## [@umesh_ai](https://twitter.com/umesh_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G6c7mTGasAAucXk?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/GpIu9UqWEAAcQ1V?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8-y4jtb0Akgoee?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8-y4jjaUAAjsOp?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@andrew88collins](https://twitter.com/andrew88collins)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HF4O6bMAA4IzY?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9Alq_VasAAuVC9?format=jpg&name=orig)
-
-### Prompt
-
-```
-```
-
----
-
-## [@lexx_aura](https://twitter.com/lexx_aura)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G6SL3OoW0AAiEDw?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G6SL3OZWMAAtoc-?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "image_request": {
-    "style": "Cinematic black and white noir portrait",
-    "subject": {
-      "description": "Man",
-      "attire": [
-        "fedora",
-        "trench coat"
-      ]
-    },
-    "lighting": [
-      "sliced light from blinds",
-      "deep shadows"
-    ],
-    "atmosphere": "grainy vintage",
-    "technical_specs": {
-      "resolution": "4K"
-    }
-  }
-}
-```
-
----
-
-## [@aleenaamiir](https://twitter.com/aleenaamiir)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9JCnmqbUAApnGx?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9JCnoLaAAAAd6I?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9JCno5asAAMqSW?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9JCnsYbgAIyKXp?format=jpg&name=orig)
-
-### Prompt
-
-```
-A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormous [EVERYDAY_OBJECT]. Paper lanterns strung on wire, confetti made from magazine scraps, warm ambient city-bokeh background, shallow depth of field, cinematic wide-angle close-up, vibrant saturated palette, tactile fabric and wood textures.
-```
-
----
-
-## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8cURQNbkAA-c8m?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@umesh_ai](https://twitter.com/umesh_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G74lrwiagAAVnIF?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
 ## [@oggii_0](https://twitter.com/oggii_0)
 
 ### Images
@@ -3024,239 +3198,6 @@ A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormo
 
 ```
 This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The ground is covered with countless black-and-white billboard advertisements of beautiful fashion models, and standing on top of the advertisements is an incredibly beautiful Japanese film actress wearing a long black coat.
-```
-
----
-
-## [@FutureVibesAi](https://twitter.com/FutureVibesAi)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9CICAzb0AMIVc3?format=jpg&name=orig)
-
-### Prompt
-
-```
-Ultra-detailed macro photography of a tiny cartographer standing on a human palm, drawing an antique map that follows the natural palm lines as rivers and borders. Old parchment maps, compass tools, warm studio lighting, shallow depth of field, surreal realism.
-Image by @ImagineArt_X 
-Video by @grok Imagine
-```
-
----
-
-## [@aleenaamiir](https://twitter.com/aleenaamiir)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8_JQaobcAAWlwe?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8_JQcsa8AEgSFg?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8_JQg8b0AMAXI_?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8_JQu4asAAlqGl?format=jpg&name=orig)
-
-### Prompt
-
-```
-A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE / SOCIETY] build homes, roads, markets, and infrastructure directly into the object’s structure. Photoreal materials, lived-in wear, soft daylight, wide cinematic perspective with deep storytelling.
-```
-
----
-
-## [@Sheldon056](https://twitter.com/Sheldon056)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9GOHcuagAEA2Kt?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9GOHdRbkAATPj_?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9GOeVoaQAAU_sz?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9GOHckboAAPIeb?format=jpg&name=orig)
-
-### Prompt
-
-```
-A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frosting platform. Details include hand-sculpted clothing, expressive fondant face, glitter dust highlights, and mini edible props referencing their personality. Soft bakery background, warm pastel tones, shallow DOF, 1080×1080.
-```
-
----
-
-## [@AllaAisling](https://twitter.com/AllaAisling)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9Hufk9XgAAbaaY?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9HupaWWcAEucTw?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9HvxVPWYAETsVG?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9Hv85UXMAAQEsW?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9GKQwVacAARC5d?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "aspect_ratio": "4:5",
-  "meta_data": {
-    "concept": "High-Energy Youth Portrait",
-    "mood": "Chaotic, Vivid, Explosive, Trendy"
-  },
-  "subject_details": {
-    "character": "Stunning young K-Pop visual, trendy streetwear outfit, waist-up shot",
-```
-
----
-
-## [@Sheldon056](https://twitter.com/Sheldon056)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8a_ewYakAETk2Y?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8a_ewna4AAYGf6?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G8a_ewxakAUH7Fy?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G8a_ewfbkAAwosf?format=jpg&name=orig)
-
-### Prompt
-
-```
-A vibrant fantasy-style soda commercial where a playful young man surfs an energetic orange soda wave exploding from a cold Fanta can. Juicy orange slices, bubbly liquid arcs, exaggerated motion, warm sunlight, colorful gradient background,
-```
-
----
-
-## [@Taaruk_](https://twitter.com/Taaruk_)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FYMAobwAA1Yuw?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@Samann_ai](https://twitter.com/Samann_ai)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9G2asrWQAAwL3s?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9G2as_WIAA6M8P?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9G2assXAAAuKRI?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9G2asuXwAAbt28?format=jpg&name=orig)
-
-### Prompt
-
-```
-
-```
-
----
-
-## [@kaanakz](https://twitter.com/kaanakz)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9HYltTWwAA_pG8?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9BV4GXXQAAF9I0?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9BV4ZuWUAEjfCG?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "subject_and_scene": {
-    "main_subject": "A power couple for a high-fashion cover. The woman (uploaded_image_1) is elegant with glowing skin, winking and making a playful
-```
-
----
-
-## [@_MehdiSharifi_](https://twitter.com/_MehdiSharifi_)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G8mvLQGWQAASpyM?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G8mqT2kakAA2v1E?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "objective": "Generate a hyper-realistic black and white dynamic street fashion photograph."
-  "image_type": "photography",
-  "prompt": {
-    "subject": "A stylish woman crossing a busy city intersection",
-    "wardrobe":
-```
-
----
-
-## [@kingofdairyque](https://twitter.com/kingofdairyque)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G607H8jawAADY9e?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "title": "High-Contrast Monochrome Side-Profile Rim-Lit Portrait (use user face reference)",
-  "model": "stable-diffusion-xl-v1-0", 
-  "size": "2048x3072",
-  "reference_image": "face.jpg",
-  "use_reference_for": ["face", "hairstyle", "skin_tone",
-```
-
----
-
-## [@Just_sharon7](https://twitter.com/Just_sharon7)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9JsX8UbsAAuiJI?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9JsX9Ka0AANRe5?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "subject": {
-    "person": {
-      "gender": "female",
-      "ethnicity": "East Asian",
-      "expression": "cheerful, soft smile",
-      "pose": "playful, standing on one leg with the other bent back at the knee,
 ```
 
 ---
@@ -3278,66 +3219,3 @@ A vibrant fantasy-style soda commercial where a playful young man surfs an energ
 
 ---
 
-## [@Emmalaurent0](https://twitter.com/Emmalaurent0)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9H63x3XgAAuExT?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9H63yTXgAAdKp0?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "meta": {
-    "aspect_ratio": "9:16",
-    "quality": "ultra_photorealistic",
-    "resolution": "8k",
-    "style": "cinematic behind-the-scenes realism",
-    "lighting": "studio set lighting, soft key lights, subtle
-```
-
----
-
-## [@JadoonKhan281](https://twitter.com/JadoonKhan281)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9GdYqdaoAAEOW2?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9GdYuKb0AE2bcc?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9E7PJIacAAjZ5h?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "scene_description": {
-    "setting": "Cozy coastal countryside living room, relaxed family holiday gathering",
-    "action": "Young female playing digital keyboard and singing; a tuxedo cat walks on the keys; family members observing
-```
-
----
-
-## [@r4jjesh](https://twitter.com/r4jjesh)
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9FVgPbbMAAsTrT?format=jpg&name=orig)
-
-![Image 2](https://pbs.twimg.com/media/G9FVgQ5acAA3caS?format=jpg&name=orig)
-
-![Image 3](https://pbs.twimg.com/media/G9FVgQFbwAAVAwv?format=jpg&name=orig)
-
-![Image 4](https://pbs.twimg.com/media/G9FVgTya0AADemh?format=jpg&name=orig)
-
-### Prompt
-
-```
-{
-  "prompt": "Photorealistic cinematic candid portrait, morning outdoors near the Eiffel Tower in Paris. Dynamic diagonal tracking shot with the camera tilted 25 degrees, front-side low angle. A stylish person wearing a light beige
-```
-
----
