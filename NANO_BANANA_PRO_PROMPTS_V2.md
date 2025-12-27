@@ -7310,3 +7310,30 @@ Create a giant Funko Pop version of yourself with Nano Banana Pro on @itsPolloAI
 - Prompt 
 A hyper-realistic, wide-angle, three-quarter view photograph showing [DESCRIPTION OF PERSON] sitting casually on the top edge of a giant, life-sized "Funko Pop" action figure box. The
 ```
+
+---
+
+## Case: twitter-2004597812554862648
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2004597812554862648)
+**Scraped:** 2025-12-27T02:59:00.827Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HDEaqaAAA9red?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9HDEc2akAAXu4L?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9HDEerbAAALiiJ?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9HDEeqbgAAr-cv?format=jpg&name=orig)
+
+### Prompt
+
+```
+This image was created by me using Gemini Nano Banana 3.0
+
+Prompt:-
+Ultra-realistic premium beverage product photography of a chilled aluminum soda can standing upright at the center of the frame, featuring a glossy deep-pink metallic body covered in condensation droplets, with a
+```
