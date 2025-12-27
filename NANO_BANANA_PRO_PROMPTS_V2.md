@@ -7829,3 +7829,67 @@ i then used a product design file that i created a while ago and gave it info on
 
 Subject: A high-end artisan toy, the "Kál-Húf Lantern," a 15cm spherical object crafted from dark, polished
 ```
+
+---
+
+## Case: twitter-2004514549404516664
+
+**Author:** [@lijigang](https://twitter.com/lijigang)
+**Tweet:** [View Original](https://x.com/lijigang/status/2004514549404516664)
+**Scraped:** 2025-12-27T03:16:42.642Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9F3WnTbUAEwLdV?format=jpg&name=orig)
+
+### Prompt
+
+```
+练习之作，将画面内容部分替换为你想要的即可：
+
+────────
+
+1.  画面调性 
+   
+核心气质: 日系空气感写真, 清新唯美, 高调摄影
+
+关键词: Soft Focus, Dreamy Atmosphere, Clean Minimalism, Portrait Photography, Natural Light
+
+2. 视觉逻辑
+   
+空间构建:
+- 视角: 平视视角与微距特写混合。
+- 布局: 极简主义构图，主体突出，背景留白或弱化。
+- 景深: 浅景深，背景虚化以强调主体与环境的隔离感。
+  
+3. 视觉渲染 
+   
+成像质感:
+- 光影: 极柔和的漫射光，模拟自然窗光。无死黑阴影，整体画面通透，高光部分略微过曝营造梦幻感。
+- 材质: 细腻真实的摄影质感，但在皮肤和织物处理上带有轻微的“柔光滤镜”效果。
+- 清晰度: 边缘柔和，非锐利数字渲染，追求胶片摄影的自然颗粒感。
+  
+4. 色彩系统
+   
+核心主色:
+- Sakura Pink: #F2C4CE (作为视觉主体色，柔和粉嫩)
+- Creamy White: #F9F6F0 (作为环境基调，暖白)
+- Light Wood: #D8C6A8 (作为自然点缀，原木色)
+- 色彩逻辑: 低饱和度，高明度。整体色温偏暖，营造温馨、无害的视觉心理。
+  
+5. 负向约束
+   
+绝对禁止:
+- 严禁低调暗光、强烈的明暗对比。
+- 严禁硬边缘阴影。
+- 严禁脏旧、粗糙、赛博朋克式的噪点。
+- 严禁高饱和霓虹色或人造塑料质感。
+- 严禁二次元描边或矢量扁平化处理。
+- 严禁出现任何文字。
+
+6. 画面内容
+   
+请生成多角度特写的写真海报图：
+
+下雪天，初恋男女，在学校操场上玩闹。
+```
