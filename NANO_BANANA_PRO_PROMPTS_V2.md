@@ -7720,3 +7720,26 @@ Prompt:
     },
     "references": {
 ```
+
+---
+
+## Case: twitter-2004555081589350499
+
+**Author:** [@NanoInspirate](https://twitter.com/NanoInspirate)
+**Tweet:** [View Original](https://x.com/NanoInspirate/status/2004555081589350499)
+**Scraped:** 2025-12-27T03:02:22.512Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GcKPXWYAEU2SB?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Gemini Nano Banana pro 3.0  
+
+{
+  "prompt_description": {
+    "subject": "A young woman with delicate features, appearing to be in her late teens or early twenties. Her body type is slender, with a graceful neck and shoulders.",
+    "face": "A fair complexion with
+```
