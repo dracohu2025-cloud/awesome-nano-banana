@@ -7213,3 +7213,25 @@ Their long, flexible, and well-furred tails naturally curve inward to form toget
 Soft natural light, autumn atmosphere, warm and realistic colors, detailed texture of the ground and fur.
 Shallow depth of field, sharp focus on the dogs, professional photography style, minimalist and poetic composition, tender and symbolic emotion, high resolution, ultra-detailed.
 ```
+
+---
+
+## Case: twitter-2004603989913133246
+
+**Author:** [@andrew88collins](https://twitter.com/andrew88collins)
+**Tweet:** [View Original](https://x.com/andrew88collins/status/2004603989913133246)
+**Scraped:** 2025-12-27T02:58:41.477Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HF4O6bMAA4IzY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Alq_VasAAuVC9?format=jpg&name=orig)
+
+### Prompt
+
+```
+I used @muset_ai to create a 2025 year-in-review for @writing_tips . Here’s the prompt I used:
+
+Create an annual summary for the account https://x.com/writing_tips, and use Nano Banana Pro to generate a visual that highlights the account’s standout moments and makes the key strengths instantly eye-catching. Color palette options: • Black + Ivory + Champagne Gold • Cool Black + Cool White + Bright Gold • Blue + White + Red • Green + White + Red
+```
