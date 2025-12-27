@@ -5962,3 +5962,45 @@ Prompt:
   }
 }
 ```
+
+---
+
+## Case: twitter-1995763810997506466
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1995763810997506466)
+**Scraped:** 2025-12-27T01:59:57.501Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7JgnAKW4AANaBs?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7Jgm8BXcAEE8_6?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Create your cinematic close-up of aiming for a shot 
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+ 1) Download the Gemini app from the Play Store or App Store.
+ 2) Open the app and tap on the " Create image" button.
+ 3) Tap the + icon, click Gallery, and select a photo of yourself.
+   > Note: For best results, use a photo where your face fills about 70% of the screen.
+ 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
+ 5) Return to the Gemini app and paste that text into the "Describe your image" box.
+ Tap the rocket symbol  in the bottom right corner to generate your image.
+
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
+
+Prompt 
+Using 100% of the provided face, create a cinematic extreme close-up scene of an archer warrior attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) at the exact moment of drawing the bowstring during a heavy downpour. The camera is positioned frontally, aligned directly with the arrow's axis, creating an intense and dramatic perspective. Extremely shallow depth of field, with absolute focus on the character's eyes, keeping the arrow partially blurred in the foreground. The lens simulates a 135mm telephoto lens with a wide aperture (f/1.8).
+> The character's face is coated in wet mud, dirt, and heavy rain splatters, creating realistic, visceral textures. Rainwater mixes with sweat, streaming down their face. The skin has a drenched, slick sheen with sharp, cool reflections from the wet environment. Soaked, disheveled hair is plastered to the face by the rain, reinforcing the wild, battle-worn look. The eyes, extremely sharp, are light green, piercing through the rain with determination and focus.
+> The lighting is cinematic and moody, provided by a dark, overcast storm sky. Cool, diffused light creates sharp, watery highlights on the drenched skin and deep shadows. Instead of dust, heavy rain streaks diagonally across the frame, with individual droplets visible catching the light, and a fine mist sprays near the bowstring. The background is completely blurred with cool-toned, wet bokeh (greys, blues, and deep greens).
+> Hands grip the slick, wet bow firmly, showing veins, mud sliding off the skin, and the realistic texture of wet leather and wood. The arrow feathers in the foreground are soaked and matted. Water drips continuously from the arrowhead, catching a cool glint of light near the archer's nose.
+> The composition conveys absolute tension and energy amidst the storm. The framing is extremely tight, filling the entire frame with the face, hands, arrow, and falling rain. Hyper-realistic, cinematic style with high contrast, cool and desaturated colors, dense shadows, and a sense of movement frozen at the perfect instant. Aspect ratio 4:5
+```
