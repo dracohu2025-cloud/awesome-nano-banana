@@ -6275,3 +6275,25 @@ Nano Banana Pro Prompt:
 
 <instruction> Input A is a classic novel or book title. Analyze the setting, the protagonist’s journey, and the core motif. Goal: A high-end leather-bound book lying open, where the story is physically erupting from the pages in 3D. Rules: - The base: A thick, weathered book with gilded edges. - The scene: Characters and landscapes emerge from the paper as if made of a mix of "ink-wash" and "hyper-real miniatures." - Details: Include "floating" sentences or iconic quotes as tiny physical gold letters swirling in the air. - Lighting: Warm library glow, candlelight flickering, dust motes visible in the air. - Output: ONE image, 4:5. The book title is visible on the spine and cover. </instruction>
 ```
+
+---
+
+## Case: twitter-2001926457443135528
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2001926457443135528)
+**Scraped:** 2025-12-27T02:52:19.762Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8hFemWaIAIVwwe?format=jpg&name=orig)
+
+### Prompt
+
+```
+Objects → Miniature Ecosystems
+
+Gemini Nano Banana Pro Prompt:
+
+A miniature diorama built inside or around a scaled-down [OBJECT], where the object becomes the environment itself. Tiny people interact with it as if it’s a massive structure. Playful realism, macro lens depth, soft lighting.
+```
