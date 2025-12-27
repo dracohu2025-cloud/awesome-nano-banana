@@ -7160,3 +7160,29 @@ Prompt:
     "module": "json_forge_core",
     "timestamp": "2025-12-26T00:00:00Z",
 ```
+
+---
+
+## Case: twitter-2004608978144395298
+
+**Author:** [@mert_aura](https://twitter.com/mert_aura)
+**Tweet:** [View Original](https://x.com/mert_aura/status/2004608978144395298)
+**Scraped:** 2025-12-27T02:58:18.222Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HNPfAW4AAZ9OI?format=jpg&name=orig)
+
+### Prompt
+
+```
+New Prompt 
+
+Save, share, and like the post.
+
+Gemini App Nano Banana
+
+{
+  "prompt": "Mysterious woman with pale porcelain skin, fiery red hair, emerald-green bikini, leaning against palm tree, cinematic bokeh, saturated color palette, dramatic composition",
+  "style":
+```
