@@ -7662,3 +7662,31 @@ Google Gemini Nano Banana pro 3.0
     "subject": "A young adult woman with fair skin, appearing to be in her early 20s.",
     "face": "Her face is turned to the left, with her lips slightly parted in a sensual expression. Her skin is smooth with a
 ```
+
+---
+
+## Case: twitter-2004556367160615387
+
+**Author:** [@JadoonKhan281](https://twitter.com/JadoonKhan281)
+**Tweet:** [View Original](https://x.com/JadoonKhan281/status/2004556367160615387)
+**Scraped:** 2025-12-27T03:02:14.814Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9GdYqdaoAAEOW2?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9GdYuKb0AE2bcc?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9E7PJIacAAjZ5h?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro 3.0  
+
+Prompt: 
+{
+  "scene_description": {
+    "setting": "Cozy coastal countryside living room, relaxed family holiday gathering",
+    "action": "Young female playing digital keyboard and singing; a tuxedo cat walks on the keys; family members observing
+```
