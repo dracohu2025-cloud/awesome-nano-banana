@@ -4,6 +4,101 @@
 
 ---
 
+## Case: twitter-2004805605937254631
+
+**Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
+**Tweet:** [View Original](https://x.com/servasyy_ai/status/2004805605937254631)
+**Scraped:** 2025-12-27T07:15:25.562Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9J-Ho-acAAqWlK?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9J_6_NaEAAD90F?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Di07KX0AAQAZw?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个很清秀，我把它做成邮票版本了
+
+提示词：
+{
+  "style": "Chinese postage stamp design, Neo-Chinese ink wash painting shuimo style, official commemorative stamp series format",
+  "composition": "A vertical sheet of four connected postage stamps arranged top to bottom: spring - summer - autumn - winter. Each stamp has perforated edges and independent design while maintaining cohesive series aesthetic",
+  "overall_mood": "tranquil serene zen-like dreamy ethereal mood with gentle seasonal feeling, elegant postage stamp refinement, ample negative white space, soft natural transitions between stamps with subtle ink gradients",
+  "artistic_quality": "highly artistic masterpiece quality stamp design, subtle ink gradients, official commemorative series standard",
+  "stamp_format": {
+    "border": "each stamp has classic perforated edges (齿孔边缘) all around",
+    "margins": "clean white margins surrounding the entire stamp sheet",
+    "denomination": "¥1.20 face value printed on each stamp",
+    "issuer": "中国邮政 CHINA POST text at bottom of each stamp",
+    "series_info": "四季长卷系列 Four Seasons Series at sheet bottom",
+    "issue_year": "2025"
+  },
+  "sections": [
+    {
+      "season": "spring",
+      "stamp_label": "春 Spring",
+      "foliage": "dense soft pink cherry blossoms and tender light green willow leaves with clear rhythmic textures and veins",
+      "edges": "leaf/petal edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny young lady in pale pink flowing hanfu walking beside a white deer",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "fresh elegant pale pink and light green color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching spring theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 春 Spring label"
+    },
+    {
+      "season": "summer",
+      "stamp_label": "夏 Summer",
+      "foliage": "dense pale cyan and light green lotus leaves and pads with clear rhythmic textures and veins",
+      "edges": "leaf edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny monk in simple gray long robe walking beside a black donkey",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "fresh elegant pale cyan and light green color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching summer theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 夏 Summer label"
+    },
+    {
+      "season": "autumn",
+      "stamp_label": "秋 Autumn",
+      "foliage": "dense warm orange-red and amber maple leaves with clear rhythmic textures and veins",
+      "edges": "leaf edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny scholar in flowing indigo hanfu robe riding a white horse",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "elegant warm pale orange and soft gold color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching autumn theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 秋 Autumn label"
+    },
+    {
+      "season": "winter",
+      "stamp_label": "冬 Winter",
+      "foliage": "dense pale gray-white plum blossoms branches and sparse dark green pine needles lightly dusted with snow, clear rhythmic textures",
+      "edges": "edges gradually blur and fade creating soft depth layering and ethereal misty atmosphere",
+      "figure": "tiny traveler in deep crimson cloak leading a white horse",
+      "rendering": "figures and animal simply outlined with minimal delicate ink lines, no unnecessary details",
+      "color": "cool elegant pale silver-gray and soft crimson color scheme dominant",
+      "poem": "short elegant ancient Chinese poem inscription (4-7 characters or brief couplet) in delicate calligraphy matching winter theme placed tastefully within stamp",
+      "seal": "poetic small vermilion red seal stamp (zhuwen red seal) with elegant ancient Chinese poetic phrase in corner",
+      "stamp_text": "denomination ¥1.20, 中国邮政 CHINA POST at bottom, 冬 Winter label"
+    }
+  ],
+  "global_elements": {
+    "sheet_bottom": "series title '四季长卷系列 Four Seasons Series', issue year '2025'",
+    "bottom_right": "small text '94vanAI'",
+    "stamp_sheet_format": "four stamps connected vertically with perforated edges between each, clean white margins around entire sheet",
+    "parameters": "--ar 3:4 --stylize 400 --v 6"
+  },
+  "negative_prompt": "photorealistic, 3d render, cartoon, chibi, overly detailed face, big figures, crowded composition, heavy saturated colors, harsh thick outlines, text artifacts, watermark, signature too large, modern elements, western style, oil painting, acrylic, thick brush strokes, low contrast, busy background, sharp focus, people dominant, realistic proportions, extra animals, colorful flowers, bright lighting, harsh shadows, no perforations, modern stamp design, photo stamps, digital art style, overlapping stamps, torn edges, damaged stamps, incorrect denomination, wrong issuer name, missing borders, frameless design"
+}
+```
+
+---
+
 ## Case: twitter-2004113573816291353
 
 **Author:** [@LufzzLiz](https://twitter.com/LufzzLiz)
