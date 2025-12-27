@@ -6049,3 +6049,31 @@ Bookmark  this now and recreate this with your selfie later.
 How to:
  1) Download the Gemini app from the Play Store or App
 ```
+
+---
+
+## Case: twitter-1999784969363681297
+
+**Author:** [@Arminn_Ai](https://twitter.com/Arminn_Ai)
+**Tweet:** [View Original](https://x.com/Arminn_Ai/status/1999784969363681297)
+**Scraped:** 2025-12-27T02:06:50.251Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8CpwxyXQAIDRNT?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8CpxDRWwAAR_SS?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro 
+
+prompt:
+
+{
+  "intent": "a raw candid flash-style mirror photograph of a young woman.",
+  "frame": {
+    "aspect_ratio": "4:5 vertical",
+    "composition": "mirror reflection, subject framed thighs-up on vanity counter, foreground clutter for depth",
+```
