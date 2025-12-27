@@ -5830,3 +5830,30 @@ Prompt
 A cozy indoor photo shows the person attached in the uploaded reference image (keep the face 100% accurate) resting their forehead on a rainy window. They smile softly as droplets slide down the glass. Warm room light glows behind them.
 Aspect ratio 4:5
 ```
+
+---
+
+## Case: twitter-1997961011039760753
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/1997961011039760753)
+**Scraped:** 2025-12-27T01:58:44.190Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G7ou7e7awAARKVv?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G7ou7jpbsAA4gEq?format=jpg&name=orig)
+
+### Prompt
+
+```
+ SEE @realDonaldTrump and @TomCruise as a HOBBIT .
+
+ NOW ANYONE CAN BE HOBBIT !!!!!
+ UPLOAD YOUR SELFIE AND SEE YOURSELF AS A HOBBIT  
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your
+```
