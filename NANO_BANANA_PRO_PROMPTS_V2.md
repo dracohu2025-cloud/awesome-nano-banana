@@ -7287,3 +7287,26 @@ Lighting: Cinematic Macro Lighting. A warm desk lamp illuminates the scene, but 
 Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography, tilt-shift effect.
 </instructions>
 ```
+
+---
+
+## Case: twitter-2004598274171269272
+
+**Author:** [@Arminn_Ai](https://twitter.com/Arminn_Ai)
+**Tweet:** [View Original](https://x.com/Arminn_Ai/status/2004598274171269272)
+**Scraped:** 2025-12-27T02:58:54.468Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HDemCX0AAh_Fg?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9HDeo1WIAA1rmY?format=jpg&name=orig)
+
+### Prompt
+
+```
+Create a giant Funko Pop version of yourself with Nano Banana Pro on @itsPolloAI 
+
+- Prompt 
+A hyper-realistic, wide-angle, three-quarter view photograph showing [DESCRIPTION OF PERSON] sitting casually on the top edge of a giant, life-sized "Funko Pop" action figure box. The
+```
