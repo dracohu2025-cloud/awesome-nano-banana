@@ -6586,3 +6586,28 @@ Prompt:
   }
 }
 ```
+
+---
+
+## Case: twitter-2004630760624689406
+
+**Author:** [@AIwithSanchit](https://twitter.com/AIwithSanchit)
+**Tweet:** [View Original](https://x.com/AIwithSanchit/status/2004630760624689406)
+**Scraped:** 2025-12-27T02:55:42.692Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HhDVIbgAM4h6N?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Nano Banana Pro on @GeminiApp
+
+Prompt:
+{
+  "objective": "Generate a hyper-realistic black and white fashion photograph with a cinematic, modern mood.",
+  "image_type": "photography",
+  "prompt": {
+    "subject": "A woman with short grey hair walking alone down a city
+```
