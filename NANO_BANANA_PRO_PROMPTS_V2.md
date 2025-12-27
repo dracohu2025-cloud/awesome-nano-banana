@@ -6982,3 +6982,125 @@ Output
     Grid: Rows = Fonts. Columns = 2D Letter, 3D Wireframe Extrusion, Structural Load Test (showing cracks in weak fonts).
 Bottom: a 2x2 grid: An aerial drone shot of a museum building shaped like the combined typography, titled " The Glyph Gallery" plus  other dynamic views
 ```
+
+---
+
+## Case: twitter-2004612895389208904
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004612895389208904)
+**Scraped:** 2025-12-27T02:58:00.870Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HQwFtWgAALJI9?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro @bageldotcom 
+
+Notebook Movie & 2 Reference 
+
+Prompt:
+
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_romance_poster_rain_kiss_duo",
+      "version": "v1.0",
+      "priority": "high"
+    },
+    "references": {
+      "reference_images": {
+        "male_reference": "UPLOAD_MALE_REFERENCE_IMAGE (REQUIRED)",
+        "female_reference": "UPLOAD_FEMALE_REFERENCE_IMAGE (REQUIRED)",
+        "layout_mood_reference": "UPLOAD_THIS_NOTEBOOK_POSTER_AS_MOOD_REFERENCE (OPTIONAL)"
+      },
+      "reference_rules": {
+        "preserve_identity_male": true,
+        "preserve_identity_female": true,
+        "identity_lock_strength_male": 0.995,
+        "identity_lock_strength_female": 0.995,
+        "face_similarity_priority": "MAX",
+        "preserve_facial_proportions": true,
+        "preserve_eye_shape_nose_lips_jawline": true,
+        "no_beautify_no_face_morph": true,
+        "keep_age_and_gender_consistent": true,
+        "do_not_copy_any_unprovided_identity": true
+      }
+    },
+    "output_settings": {
+      "aspect_ratio": "2:3",
+      "orientation": "portrait",
+      "resolution": "ultra_high_res",
+      "render_style": "photorealistic_cinematic_poster",
+      "sharpness": "high",
+      "film_grain": "subtle"
+    },
+    "creative_prompt": {
+      "scene_summary": "Create an ORIGINAL photoreal romantic movie poster set in heavy rain. EXACTLY TWO people only (one man + one woman). Their faces must match the uploaded references exactly (100% identity). The couple is in an intimate near-kiss embrace: the woman holds the man's face with both hands; the man supports her waist. Both are soaked with visible rain droplets on skin and clothing, wet hair strands, and realistic water sheen. Cinematic backlight through rain, soft bloom highlights, emotional intensity, premium poster-grade composition. No extra people, no logos, no watermark.",
+      "composition": {
+        "framing": "tight medium shot (waist-to-head), couple dominates the frame",
+        "pose": "woman leaning in, hands on man's cheeks; man holding her securely; faces extremely close, almost kissing",
+        "camera_angle": "eye-level, intimate, cinematic",
+        "background": "stormy pale sky + rain curtain; minimal background clutter; soft haze"
+      },
+      "wardrobe_and_styling": {
+        "male_outfit": "white button-up shirt, fully soaked, fabric clinging naturally, realistic wrinkles and transparency where appropriate (tasteful, non-explicit)",
+        "female_outfit": "soft blue short-sleeve dress, wet fabric texture, subtle period-inspired simplicity",
+        "hair": "wet hair, strands sticking naturally; no glam curls",
+        "makeup": "natural, rain-safe, realistic (no heavy glam)"
+      },
+      "rain_fx": {
+        "rain": "heavy rain streaks + mist + droplets on faces and hands",
+        "water_detail": "beads of water on skin, collar, sleeves; believable physics"
+      },
+      "typography": {
+        "top_tagline": "BEHIND EVERY GREAT LOVE IS A STORY WORTH KEEPING",
+        "main_title": "THE NOTEBOOK",
+        "title_style": "classic elegant serif, large, centered near bottom, high contrast, clean kerning",
+        "placement": "tagline at top; title at bottom; keep generous margins"
+      },
+      "lighting_and_camera": {
+        "lighting": "cinematic backlight + soft key light; rain catches highlights; gentle vignetting",
+        "camera": "full-frame DSLR look",
+        "lens": "85mm",
+        "aperture": "f/2.2",
+        "iso": "200",
+        "shutter": "1/250",
+        "focus": "tack-sharp faces and hands; rain slightly motion-streaked"
+      },
+      "strict_rules": [
+        "Exactly 2 people only",
+        "100% identity match to references (no facial changes)",
+        "No extra characters, no background people",
+        "No watermark, no random text gibberish",
+        "Only include the tagline and title exactly as written",
+        "Photoreal, cinematic, not AI-looking"
+      ]
+    },
+    "negative_prompt": [
+      "extra people",
+      "watermark",
+      "logo",
+      "gibberish text",
+      "misspelled title",
+      "blurry faces",
+      "identity drift",
+      "face swap artifacts",
+      "beautify filter",
+      "plastic skin",
+      "cartoon",
+      "anime",
+      "cgi look",
+      "oversexualized",
+      "nudity",
+      "deformed hands",
+      "extra fingers",
+      "busy background"
+    ]
+  }
+}
+```
