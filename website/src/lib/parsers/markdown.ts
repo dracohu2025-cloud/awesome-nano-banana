@@ -136,19 +136,19 @@ export function parseMarkdownCases(
                 const tweetId = scrapedMatch[2];
                 caseNumber = parseInt(tweetId.slice(-6)) || parseInt(tweetId);
 
+                // Get original tweet link FIRST (this is the source_link)
+                const tweetLinkMatch = section.match(/\*\*Tweet:\*\*\s*\[View Original\]\(([^)]+)\)/);
+                if (tweetLinkMatch) {
+                    sourceLink = tweetLinkMatch[1];
+                }
+
                 // Try to get author from **Author:** [@xxx](link)
                 const authorMatch = section.match(/\*\*Author:\*\*\s*\[@([^\]]+)\]\(([^)]+)\)/);
                 if (authorMatch) {
                     title = `Twitter Prompt by @${authorMatch[1]}`;
-                    sourceLink = authorMatch[2];
+                    // Note: authorMatch[2] is the author's profile link, not the tweet link
                 } else {
                     title = `Twitter Prompt ${scrapedMatch[1]}`;
-                }
-
-                // Get original tweet link
-                const tweetLinkMatch = section.match(/\*\*Tweet:\*\*\s*\[View Original\]\(([^)]+)\)/);
-                if (tweetLinkMatch && !sourceLink) {
-                    sourceLink = tweetLinkMatch[1];
                 }
             }
         }
