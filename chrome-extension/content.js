@@ -77,28 +77,51 @@
                 data.text = textElement.textContent;
             }
 
-            // Get images - ONLY from tweetPhoto containers (main tweet images)
-            // This avoids capturing profile pics, quote tweet avatars, etc.
-            const photoContainers = tweetElement.querySelectorAll('[data-testid="tweetPhoto"]');
-            photoContainers.forEach(container => {
-                const img = container.querySelector('img');
-                if (img && img.src) {
-                    let src = img.src;
-                    // Skip if already added
-                    if (data.images.includes(src)) return;
-                    // Skip profile pics and emojis (they're typically < 100px or from profile_images)
-                    if (src.includes('profile_images') || src.includes('emoji')) return;
+            // Get images - Check for Photo View mode first (high-res image stored earlier)
+            if (tweetElement._photoViewImage) {
+                let src = tweetElement._photoViewImage;
+                src = src.replace(/[?&]name=\w+/, '');
+                if (src.includes('?')) {
+                    src += '&name=orig';
+                } else {
+                    src += '?name=orig';
+                }
+                data.images.push(src);
+            }
 
-                    // Convert to original quality
+            // Also try to get large image from photo view modal directly
+            if (window.location.pathname.includes('/photo/') && data.images.length === 0) {
+                const largeImg = document.querySelector('img[src*="pbs.twimg.com/media"][src*="name=large"]') ||
+                    document.querySelector('img[src*="pbs.twimg.com/media"][src*="name=orig"]') ||
+                    document.querySelector('[role="dialog"] img[src*="pbs.twimg.com/media"]');
+                if (largeImg) {
+                    let src = largeImg.src;
                     src = src.replace(/[?&]name=\w+/, '');
-                    if (src.includes('?')) {
-                        src += '&name=orig';
-                    } else {
-                        src += '?name=orig';
-                    }
+                    src += (src.includes('?') ? '&' : '?') + 'name=orig';
                     data.images.push(src);
                 }
-            });
+            }
+
+            // Fallback: Get images from tweetPhoto containers
+            if (data.images.length === 0) {
+                const photoContainers = tweetElement.querySelectorAll('[data-testid="tweetPhoto"]');
+                photoContainers.forEach(container => {
+                    const img = container.querySelector('img');
+                    if (img && img.src) {
+                        let src = img.src;
+                        if (data.images.includes(src)) return;
+                        if (src.includes('profile_images') || src.includes('emoji')) return;
+
+                        src = src.replace(/[?&]name=\w+/, '');
+                        if (src.includes('?')) {
+                            src += '&name=orig';
+                        } else {
+                            src += '?name=orig';
+                        }
+                        data.images.push(src);
+                    }
+                });
+            }
 
             // Get timestamp
             const timeElement = tweetElement.querySelector('time');
@@ -182,6 +205,71 @@
 
     // Find and process tweets
     function processTweets() {
+        // Check if we're in Photo View mode (URL contains /photo/)
+        if (window.location.pathname.includes('/photo/')) {
+            processPhotoView();
+            return;
+        }
+
+        // Normal tweet view processing
+        processNormalTweets();
+    }
+
+    // Process Photo View mode (sidebar layout)
+    function processPhotoView() {
+        log('Detected Photo View mode');
+
+        // Find the sidebar/aside container with tweet content
+        const sidebar = document.querySelector('[data-testid="sidebarColumn"]') ||
+            document.querySelector('aside') ||
+            document.querySelector('[aria-label]')?.closest('div[class*="sidebar"]');
+
+        // Also try to find the tweet article in the modal/overlay area
+        const modalTweet = document.querySelector('[role="dialog"] article[data-testid="tweet"]') ||
+            document.querySelector('[aria-modal="true"] article') ||
+            document.querySelector('[data-testid="tweet"]');
+
+        if (!modalTweet) {
+            log('No tweet found in photo view');
+            return;
+        }
+
+        // Skip if already processed
+        if (modalTweet.querySelector('.nano-banana-scrape-btn')) {
+            return;
+        }
+
+        // Get the large image from the modal center
+        const largeImage = document.querySelector('[role="dialog"] img[src*="pbs.twimg.com/media"]') ||
+            document.querySelector('img[src*="pbs.twimg.com/media"][src*="name=large"]') ||
+            document.querySelector('img[src*="pbs.twimg.com/media"][src*="name=orig"]') ||
+            document.querySelector('[data-testid="tweetPhoto"] img');
+
+        // Find action bar in the tweet
+        const actionBar = modalTweet.querySelector('[role="group"]');
+        if (!actionBar) {
+            log('No action bar in photo view tweet');
+            return;
+        }
+
+        // Create and insert button
+        const button = createScrapeButton(modalTweet);
+
+        // Store reference to large image for extraction
+        if (largeImage) {
+            modalTweet._photoViewImage = largeImage.src;
+        }
+
+        const wrapper = document.createElement('div');
+        wrapper.className = 'nano-banana-btn-wrapper';
+        wrapper.appendChild(button);
+
+        actionBar.appendChild(wrapper);
+        log('Added Scrape button to photo view');
+    }
+
+    // Process normal tweet view
+    function processNormalTweets() {
         // Try multiple selectors for tweet containers
         const tweetSelectors = [
             'article[data-testid="tweet"]',
