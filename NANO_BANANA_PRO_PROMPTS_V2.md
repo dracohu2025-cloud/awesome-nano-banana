@@ -7893,3 +7893,29 @@ Subject: A high-end artisan toy, the "Kál-Húf Lantern," a 15cm spherical objec
 
 下雪天，初恋男女，在学校操场上玩闹。
 ```
+
+---
+
+## Case: twitter-2004425000586232256
+
+**Author:** [@sundyme](https://twitter.com/sundyme)
+**Tweet:** [View Original](https://x.com/sundyme/status/2004425000586232256)
+**Scraped:** 2025-12-27T04:06:36.044Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EgKyibkAA-xid?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9AvZKaakAAYqDY?format=jpg&name=orig)
+
+### Prompt
+
+```
+一句话改成了 3D 版，搞笑表情包生成模板。
+提示词模板：
+Create a high-quality 3D rendered anthropomorphic mascot character in a cute cartoon style inspired by Kakao Friends/LINE Friends. A cute [角色类型] character in [场景描述], [动作描述], [表情描述], detailed 3D rendering with smooth textures, soft lighting, vibrant colors, kawaii aesthetic, large head and small body proportions, clean white background with subtle shadows.
+
+Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matches the 3D character design - bold, rounded, colorful letters with a kawaii aesthetic.
+
+1:1 aspect ratio, high quality 3D rendering, photorealistic textures with cartoon stylization.  使用这个模板生成一组4个表情包
+```
