@@ -7104,3 +7104,30 @@ Prompt:
   }
 }
 ```
+
+---
+
+## Case: twitter-2004611631985107345
+
+**Author:** [@David_eficaz](https://twitter.com/David_eficaz)
+**Tweet:** [View Original](https://x.com/David_eficaz/status/2004611631985107345)
+**Scraped:** 2025-12-27T02:58:05.595Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HPp_4W8AEyW0x?format=jpg&name=orig)
+
+### Prompt
+
+```
+Crea alucinantes caricaturas con  Nano Banana Pro.
+
+ Te regalo el prompt completo 
+
+{
+  "style": {
+    "type": "hand-drawn caricature",
+    "technique": "cross-hatching, fine ink lines",
+    "mood": "serious, slightly exaggerated expression",
+    "medium": "black and white
+```
