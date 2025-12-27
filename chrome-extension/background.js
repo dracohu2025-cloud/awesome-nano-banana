@@ -208,10 +208,20 @@ async function syncToGitHub(tweetData) {
     newEntry += `### Prompt\n\n`;
     newEntry += `\`\`\`\n${tweetData.prompt || '(待添加)'}\n\`\`\`\n`;
 
-    // Combine content
+    // Combine content - Insert new entry at the beginning (newest first)
     let finalContent;
     if (existingContent) {
-        finalContent = existingContent + newEntry;
+        // Find the end of the header section (after the first > blockquote line)
+        const headerEndMatch = existingContent.match(/^(# .+\n\n>.*\n)/m);
+        if (headerEndMatch) {
+            const header = headerEndMatch[1];
+            const restContent = existingContent.slice(header.length);
+            // Insert new entry right after header
+            finalContent = header + newEntry + restContent;
+        } else {
+            // No header found, just prepend
+            finalContent = newEntry + existingContent;
+        }
     } else {
         finalContent = `# Nano Banana Pro - Twitter Collection\n\n`;
         finalContent += `> Scraped from Twitter/X using Nano Banana Scraper Chrome Extension\n`;

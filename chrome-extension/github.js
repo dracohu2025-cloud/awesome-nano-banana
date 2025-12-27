@@ -125,10 +125,18 @@ async function appendToPromptsFile(tweetData) {
     newEntry += `### Prompt\n\n`;
     newEntry += `\`\`\`\n${tweetData.prompt || '(Prompt to be added)'}\n\`\`\`\n`;
 
-    // Combine with existing content
+    // Combine with existing content - Insert new entry at beginning (newest first)
     let finalContent;
     if (existing) {
-        finalContent = existing.content + newEntry;
+        // Find the end of the header section
+        const headerEndMatch = existing.content.match(/^(# .+\n\n>.*\n)/m);
+        if (headerEndMatch) {
+            const header = headerEndMatch[1];
+            const restContent = existing.content.slice(header.length);
+            finalContent = header + newEntry + restContent;
+        } else {
+            finalContent = newEntry + existing.content;
+        }
     } else {
         // Create new file with header
         finalContent = `# Nano Banana Pro - Twitter Collection\n\n`;
