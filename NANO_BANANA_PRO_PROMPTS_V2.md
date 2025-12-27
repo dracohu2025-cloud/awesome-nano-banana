@@ -8834,3 +8834,29 @@ Nano Banana pro on Gemini app.
 
 Prompt: A close-up profile portrait of a young woman with her eyes closed and a calm, serene expression. She has a fair complexion with rosy cheeks and long dark brown hair with bangs. She is wearing a light brown teddy faux-fur coat and surreal headphones, where the ear cups are made of white clouds with a brown leather headband. The background is a softly blurred bright blue sky with clouds. The lighting is bright, natural daylight, creating a soft and airy feel. The image has a shallow depth of field with sharp focus on her face, in a dreamy, artistic, surreal, photorealistic style.
 ```
+
+---
+
+## Case: twitter-2004744328758132831
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2004744328758132831)
+**Scraped:** 2025-12-27T05:25:35.171Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JIU-ebgAQKGA5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JIVD9aIAAe7Qi?format=jpg&name=orig)
+
+### Prompt
+
+```
+Cinematic vibes created on Gemini Nano Banana Pro 
+
+Next level realism 
+
+Prompt 
+{
+  "prompt": "Vertical, high-contrast black and white cinematic portrait. A stylish young man with a goatee in a fitted black suit and Chelsea boots leans against a matte black Mercedes G-Wagon.
+```
