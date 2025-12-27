@@ -7131,3 +7131,32 @@ Crea alucinantes caricaturas con  Nano Banana Pro.
     "mood": "serious, slightly exaggerated expression",
     "medium": "black and white
 ```
+
+---
+
+## Case: twitter-2004610543873917025
+
+**Author:** [@retvikurmi](https://twitter.com/retvikurmi)
+**Tweet:** [View Original](https://x.com/retvikurmi/status/2004610543873917025)
+**Scraped:** 2025-12-27T02:58:10.371Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HOqlVbgAMMcIP?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9F6KfPXsAA7ZWl?format=jpg&name=orig)
+
+### Prompt
+
+```
+Strength doesn't come from what you can do. It comes from overcoming the things you once thought you couldn't 
+
+Try with Gemini Nano Banana 3.0
+Prompt:
+
+{
+  "meta": {
+    "version": "2.0",
+    "module": "json_forge_core",
+    "timestamp": "2025-12-26T00:00:00Z",
+```
