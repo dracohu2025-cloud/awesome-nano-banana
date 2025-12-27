@@ -1114,7 +1114,7 @@ awesome-nano-banana/
 ## 🚀 Getting Started
 
 ### View the Gallery
-Visit [awesome-nano-banana.vercel.app](https://awesome-nano-banana.vercel.app)
+Visit [https://awesome-nano-banana-53xo.vercel.app/](https://awesome-nano-banana-53xo.vercel.app/)
 
 ### Install Chrome Extension
 1. Clone this repo
