@@ -7538,3 +7538,31 @@ prompt
 
 3d diorama design, cute and simple [country] cultural scene, a small isometric diorama featuring [main landmark or iconic element] as the central element, surrounded by [list of iconic objects, food, symbols, and lifestyle elements]. pastel
 ```
+
+---
+
+## Case: twitter-2004573164681200004
+
+**Author:** [@AllaAisling](https://twitter.com/AllaAisling)
+**Tweet:** [View Original](https://x.com/AllaAisling/status/2004573164681200004)
+**Scraped:** 2025-12-27T03:00:49.609Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9EwiVrWkAAx_Li?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9EwyGiXoAAsNjK?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Ew7znXcAAbsWG?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9ExJmYXgAEedzz?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt Studio: Nano Banana Photographer's Contact Sheet, in Firefly
+
+A photographer's contact sheet displaying multiple exposures of [SUBJECT/SESSION]. 3x3 grid of small sequential frames with sprocket holes along the edges. Some frames are circled in red grease pencil—the selects. Others are crossed out. Handwritten notes in the margins indicate exposure settings, dates, and locations. The images progress slightly—different angles, expressions, moments. Some frames are blurred or overexposed, showing the process of finding the perfect shot. The film stock border displays Kodak or Fujifilm branding. The aesthetic is behind-the-scenes, analog, and nostalgic—the contact sheet as artifact of creative process.
+
+Check ALTs for ideas 
+```
