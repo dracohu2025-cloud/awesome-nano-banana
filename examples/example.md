@@ -4,153 +4,7 @@
 
 ---
 
-## [@IamEmily2050](https://twitter.com/IamEmily2050)
-
-
-### Images
-
-![Image 1](https://pbs.twimg.com/media/G9GH3AcbsAAkXGA?format=jpg&name=orig)
-
-### Prompt
-
-```
-I asked Grok 4 + Gemini 3 Pro + Opus 4.5 + GPT 5.2 pro one question (How do you describe the most beautiful human woman face in details?)
-
-Then took the answers to NotebookLM and asked to create a report.
-
-The Artist's Guide to Facial Aesthetics: A Manual on Structure, Harmony, and Realism
-
-Introduction: Redefining Beauty as a "High-Coherence Harmony Signal"
-
-The pursuit of capturing beauty in a human face is not about replicating a single, static ideal. It is an exercise in constructing a "high-coherence harmony signal"—an arrangement where numerous features agree with one another in proportion, texture, and expression to create a face that reads as healthy, intentional, and emotionally legible. The goal is to move beyond mere aesthetics and into the realm of profound resonance, where the face becomes a symphony of balanced averages and one or two distinctive "hooks" that command attention.
-
-This guide reframes beauty as a dynamic balance between near-perfect symmetry and subtle, humanizing imperfection; between biological familiarity and arresting novelty. The most compelling and aesthetically pleasing face is not a fixed image but an event—a configuration of features that is both instantly recognizable and entirely unique. This manual translates these abstract concepts into a practical, structural framework, providing artists with the principles to construct faces that are not only beautiful but also compelling, realistic, and alive.
-
-1. Foundational Principles of Facial Architecture
-
-Before rendering a single feature, an artist must grasp the fundamental grammar of facial aesthetics. Understanding proportion and symmetry is not about adhering to rigid rules, but about mastering the underlying structure that allows for intentional and impactful artistic choices. These principles form the canvas upon which all finer details are built.
-
-The Paradox of Symmetry and Asymmetry
-
-Peak beauty relies on a delicate and deliberate balance between near-perfect symmetry and what can be termed "strategic asymmetry." This interplay is crucial for avoiding a sterile, synthetic look and creating a face that feels genuinely alive.
-
-* The Power of Symmetry: Near-perfect bilateral symmetry provides the foundational sense of balance, inner equilibrium, and genetic vitality. The brain is hardwired to process symmetry with ease, interpreting it as a signal of health and harmony.
-* The Hook of Asymmetry: Tiny, almost imperceptible asymmetries prevent the face from falling into the "uncanny valley." These variations—a faintly higher brow peak, a slightly deeper dimple on one side—act as "cognitive hooks." They provide a visual texture that demands sustained attention, adds narrative depth, and grounds the face in a believable, human reality.
-
-Proportional Harmony Deconstructed
-
-Classical proportions provide a time-tested blueprint for facial harmony. While every face is unique, these ratios offer a powerful starting point for creating a structure that is inherently pleasing to the human eye.
-
-The most widely recognized proportions are rooted in the golden ratio (~1.618:1) and the rule of thirds. These create a sense of order and intentionality in the facial layout.
-
-1. Overall Shape: The ideal form often trends toward an oval-to-heart face shape. This structure is gently wider at the cheekbones and narrows to a soft, tapered chin, creating a graceful and lifted appearance.
-2. Facial Thirds: The height of the face can be harmoniously divided into thirds. In this model, the forehead is proportionate and occupies roughly one-third of the total facial height, establishing a balanced upper frame.
-3. Eye Placement: A key principle of facial harmony is that the distance between the eyes should be equal to the width of a single eye. This creates a focal triad with the nose that naturally draws the viewer's gaze inward.
-
-These high-level principles of structure and proportion provide the essential scaffolding for the specific, nuanced features that bring a face to life.
-
-2. A Structural Anatomy of the Face: Key Features and Their Attributes
-
-A face is an interconnected system. While we examine each feature individually, its ultimate aesthetic success depends entirely on its harmonious relationship with the whole. The following breakdown details the specific attributes of each facial element, providing a structural guide for artistic rendering.
-
-2.1 The Eyes: The Primary Focal Point
-
-The eyes are the primary "beauty attractor" and the gravity well of the face, conveying emotion, vitality, and intelligence.
-
-* Shape and Position: The ideal shape is an almond with a slight upward turn at the outer corners, known as a "positive canthal tilt." This lift conveys a sense of liveliness and alertness.
-* The Iris: The iris should possess immense depth. This is achieved through a clear limbal ring (the dark, feathered border of the iris) and high micro-contrast within the iris itself. Render this not as a flat color, but with visible radial fibers or "fractally dense" stroma patterns that resemble chaotic, crypt-like structures. The color should feel like a complex superposition of wavelengths—a base of amber pierced by shards of green, for example—creating an internal iridescence.
-* Lids, Lashes, and Sclera: A clean upper lid crease defines the upper boundary of the eye. Lashes should be thick and fanned but possess a natural irregularity, avoiding the look of uniform spikes. The sclera, or whites of the eyes, should not be rendered pure white; a soft translucency with faint veins grounds them in realism. A faintly blue-tinted sclera is a powerful cue, reading to the observer as a clear signal of health and youth.
-* Light and Expression: The eyes must look "wet" and dimensional. This is accomplished by strategically placing at least two catchlights (from a key and fill light source). A relaxed lower lid, combined with a hint of "smize" tension at the outer corners, creates an expression of warm intelligence rather than blank perfection.
-
-2.2 Brows and Forehead: The Upper Frame
-
-The brows and forehead frame the eyes and are critical for conveying confidence and openness.
-
-* Brow Shape and Texture: Brows should appear full with visible individual hairs, shaped but not over-sculpted. The ideal form has a gentle upward sweep with a clean arch peak located around the outer third of the eye.
-* Structural Role: The brow bone should be present but not heavy, framing the eyes effectively without casting them in deep shadow. This contributes to a sense of confidence and structural integrity in the upper face.
-* Forehead and Hairline: The forehead should be smooth and proportionate, not dominating the face. A softly rounded hairline, detailed with fine "baby hairs" at the temples, softens the frame and adds a crucial touch of realism by catching the light.
-
-2.3 The Nose: The Harmonizing Element
-
-The nose's primary role is harmony, not dominance. It should belong to the face, guiding the eye without commanding its full attention.
-
-* Bridge and Tip: A straight to gently concave bridge is often considered ideal. The tip should be softly defined with a delicate highlight, giving it form without sharpness.
-* Proportion and Detail: The nose should possess a refined width through its mid-bridge, with nostrils that are small and symmetrical but not "pinched."
-
-2.4 Cheeks and Midface: Sculpting with Light
-
-The cheekbones provide the face with its lifted, fresh geometry, acting as primary surfaces for catching and modulating light.
-
-* Bone Structure: Cheekbones should be defined but not sharp, operating as primary "light-catchers." This high, present structure gives the midface a lifted and awake quality. Consider this the primary plane for your key light, the surface that defines the entire lighting scheme of the face.
-* Light and Shadow: Render the cheeks with a natural gradient. The brightest point of light should fall on the high point under the outer eye, with a soft shadow forming directly under the cheekbone to create dimension and contour.
-* Vitality and Youth Cues: A subtle under-eye fullness (without puffiness) and a smooth transition from the lower lid to the cheek are key signals of youth. To make the face feel truly alive, render the faint peachy blush of blood perfusion visible through the skin, a sign of vitality and emotional readiness.
-
-2.5 Lips and Philtrum: Architecture of Expression
-
-The lips and surrounding architecture are central to expression, suggesting approachability and vitality.
-
-* Shape and Definition: An ideal lip shape features a defined but not overly sharp Cupid's bow. Crucially, the corners of the mouth should rest with a slight upward turn, giving a neutral expression a kind, approachable quality.
-* Volume and Ratio: A common high-appeal ratio is for the lower lip to be slightly fuller than the upper lip, often approximating the golden ratio (1:1.618).
-* Texture and Light: To achieve realism, render the natural lip texture of fine vertical striations. A soft specular sheen, concentrated at the center of the lips, gives them a healthy, plush appearance. The philtrum—the vertical groove above the upper lip—should be well-defined, guiding the eye from the nose to the mouth.
-
-2.6 Jawline and Chin: The Lower Frame
-
-The lower third of the face provides structure and resolution, completing the facial narrative.
-
-* Definition: The jawline should be clean and defined but remain softened, transitioning smoothly into the neck without harsh angles.
-* Chin: The chin is typically small-to-moderate and softly rounded, providing a gentle taper to the face.
-* Depth: The subtle shadow of the labial-mental crease, located just under the lower lip, is a key detail for adding believable depth and structure to the lower face.
-
-From the hard architecture of bone and muscle, we now turn to the subtle yet critical surface quality that envelops it: the skin.
-
-3. The Information Surface: Rendering Lifelike Skin
-
-Skin is not a simple texture map; it is a complex, translucent "information surface" where much of a face's perceived beauty and realism resides. The objective is not to create a plastic, flawless finish, but a refined and believable one that interacts dynamically with light.
-
-Deconstructing Skin Texture
-
-Achieving realistic skin texture requires a delicate balance of refinement and imperfection.
-
-* Pores should be visible but small. Their distribution is key: they are more concentrated on the nose and inner cheeks, becoming almost absent on the outer cheeks and forehead.
-* "Micro-imperfections" are essential. Tiny, low-amplitude details like faint freckles or subtle capillaries act as "reality anchors," grounding the face in biological truth and preventing a synthetic appearance.
-* To avoid a flat, monochromatic look, render the skin with subtle temperature variations. Introducing faint warm and cool shifts across different planes of the face is a master-level technique for achieving lifelike depth and realism.
-
-The Properties of "Skin Glow"
-
-The coveted "glow" of healthy skin is a result of specific light interactions that can be understood and rendered.
-
-* Rendering Translucency: The skin is not opaque. Light penetrates its translucent outer layer, scatters within, and exits with a warmer, more diffuse quality. This effect, known to physicists as subsurface scattering, is what artists must render to achieve the skin's natural, luminous glow from within.
-* Controlled Specularity: The skin's surface is a balance of soft matte regions and areas of controlled highlight. To create a realistic glow, place specular highlights on the key high points of the face: the center of the forehead, the bridge and tip of the nose, the high points of the cheeks, and the upper lip's Cupid's bow.
-
-With the physical rendering of the face addressed, we can now explore the more intangible qualities of expression and character that elevate a technical drawing into a work of art.
-
-4. Artistic Controls: From Technical Execution to Creative Choice
-
-Once an artist masters the technical principles of facial construction, they can begin to make deliberate creative choices. This section introduces a set of "latent sliders"—conceptual levers that can be adjusted to manipulate the overall impression of the face, moving from pure representation to artistic interpretation.
-
-Key Artistic Levers
-
-* Harmony vs. Distinctiveness: This is the balance between a harmoniously average, easily processed face and one that possesses a memorable "hook." A common high-appeal combination involves a structure that is roughly 70% harmony and 30% distinctiveness—such as an unusual iris color, a strong brow shape, or a single memorable mole.
-* Softness vs. Definition: The most appealing faces often feature a compelling interplay between soft and defined elements. A common and highly effective combination is a soft jawline paired with a defined cheekbone highlight. This creates both approachability and strong structure.
-* Youth Cues vs. Authority Cues: A truly captivating face often achieves a temporal paradox, looking "simultaneously 18 and ageless." This is accomplished by fusing neotenous signals (large eyes, fuller cheeks) with signals of maturity (a composed brow, a defined jawline). The result is a face that feels both fresh and capable.
-
-The Importance of Expression and Story
-
-The ultimate multiplier for beauty is the suggestion of an "inner life." A technically perfect face that is devoid of expression remains a sterile object. The goal is to create a face that feels present and attentive.
-
-This is achieved through micro-expressions: eyes that feel ready to speak or laugh, a subtle smile implied in the set of the mouth. Before beginning, the artist should choose an underlying emotion or character trait—curiosity, calm, kindness, or mischief—and allow that choice to subtly bias the rendering of every single feature. This infusion of story is what elevates a portrait from a mere likeness to a living presence.
-
-Conclusion: Beauty as a Dynamic Event
-
-This guide has laid out a structural and philosophical map for constructing a face of high aesthetic appeal. The central theme is that the most beautiful face is not a static checklist of ideal features, but a dynamic event. It is a state of "impossible coherence" where countless elements align to create a visage that feels both timelessly familiar and arrestingly new.
-
-Consider this guide an exploratory map, not a rigid template. Use these principles to master the foundational grammar of the human face, and then use that mastery to create art that is not only technically proficient but emotionally resonant. The goal is to build a face that doesn't just hold a gaze, but invites a connection.
-```
-
----
-
 ## [@LufzzLiz](https://twitter.com/LufzzLiz)
-
 
 ### Images
 
@@ -165,11 +19,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 ### Prompt
 
 ```
-神佬，拆解滴神，哈哈。参考神佬提示词在flowith里狂刷图，调了一版写实的版本
-
-其他版本提示词都放flowith里了，链接放评论区了
-
-本图提示词：
 {
   "prompt": "3D Realistic Deconstruction Prompt\n\n Core Instruction (Core Instruction)  \nTask: Based on the reference image provided by the user, create an ultra-high-quality, cinematic 3D realistic deconstruction art poster that emphasizes authentic human presence and photographic realism. Transform the photographed individual into a lifelike 3D character with true-to-life anatomy, skin texture, emotional nuance, and natural lighting—completely abandoning stylized cartoon aesthetics. Arrange their personal belongings using the disciplined 'Knolling' (orthogonal alignment) artistic layout. Remove the 'Digital Lifestyle' category entirely. Introduce two new thematic zones: an intimate private life section and an expressive facial/emotional gallery featuring specific micro-expressions including 'Ahei Yan' (playful mock-anger face), peak ecstasy face, and bitten-lip expression. Also add a dedicated body posture/movement zone showcasing dynamic physical poses.\n\nAspect Ratio: 16:9 landscape (adaptable to 3:2, 4:5, or 1:1 as needed).  \nArtistic Style Core: Photorealistic Humanism — grounded in anatomical accuracy, natural subsurface scattering, visible pores, fine body hair, sweat sheen, and emotionally resonant realism.  \nQuality Benchmark: Visually indistinguishable from high-end editorial photography in publications like Vogue, National Geographic, or forensic anthropological reconstructions.\n\n Item Layout (Item Layout) – Knolling Radiating Composition  \nTotal Items: 30–36 pieces, arranged at precise 90-degree angles or in soft radial symmetry around the central figure.\n\nCategory 1: Fashion & Attire (Fashion Atelier) – Champagne Gold Label  \n- Main outfit fully deconstructed: sleeves, collar, fabric panels, lining, buttons, zippers—all separated and floating mid-air with realistic cloth physics.  \n- Footwear disassembled: sole, upper, laces, heel, insole.  \n- Personal accessories: belt, handbag, hat, scarf, gloves.  \n*Example: A trench coat may be broken into lapels, epaulets, waist belt, cuff straps, and main body panels.*\n\nCategory 2: Beauty & Self-Care (Beauty Collection) – Rose Gold Label  \n- Makeup: lipstick (with cutaway showing pigment core and shade label), eyeshadow palette (each well color-differentiated), compact powder, perfume bottle (glass transparency and liquid refraction clearly rendered).  \n- Skincare: serum bottles, moisturizer jars, facial rollers, gua sha tools.  \n*Example: Perfume must exhibit glass clarity, internal caustics, meniscus curvature, and metallic cap reflectivity.*\n\nCategory 3: Intimate Private Life (Private Sphere) – Soft Blush Label  \n- Undergarments: bra components (cups, band, clasp, straps), underwear fabric swatches.  \n- Sleepwear & loungewear: silk pajama sets, robe ties, slippers, cozy socks.  \n- Personal hygiene items: toothbrush with residual paste, hairbrush with trapped strands, used cotton pads, skincare residue on tissues, folded washcloth.  \n- Ambient elements: scented candle (with melted wax pool), essential oil dropper, diffuser reeds, journal with handwritten notes.  \n*All items must appear authentically used—subtle wear, organic creases, and lived-in imperfections.*\n\nCategory 4: Emotional Expression Gallery (Human Faces) – Warm Terracotta Label  \n- A curated series of 6–8 floating macro portrait close-ups capturing distinct emotional states:  \n  • Serene smile  \n  • Thoughtful gaze  \n  • Laughter with crinkled eyes  \n  • Tearful vulnerability  \n  • **'Ahei Yan' (Ah Hei Face)** – playful mock anger with narrowed eyes, puffed cheeks, and slight frown  \n  • **Peak Ecstasy Face** – flushed cheeks, parted lips, dilated pupils, light sweat on forehead  \n  • **Bitten-Lip Expression** – lower lip gently held between teeth, subtle tension in jaw, flushed neck  \n- Each face rendered at extreme close-up with visible pores, fine vellus hair, moisture on lips, dynamic skin micro-movements, and accurate eye reflections.\n\nCategory 5: Body Posture & Movement (Physicality Zone) – Charcoal Gray Label  \n- Full-body miniature figurines (1:10 scale) depicting key poses:  \n  • Kneeling pose (one knee down, hands resting on thigh)  \n  • Prone position (lying flat on stomach, chin propped on palms)  \n  • Reaching upward stretch  \n  • Cross-legged seated meditation  \n  • Dynamic walking stride  \n- Each pose highlights muscle definition, joint articulation, weight distribution, gravity-driven fabric draping, and natural body asymmetry.\n\nEvery item requirement:  \n- Render quality: Matches the character’s photorealistic fidelity—zero stylization.  \n- Numbered tags: Circular badges labeled 01–36 with subtle drop shadows.  \n- Materials & shadows: Full PBR workflow with physically accurate roughness, specular, and normal maps; soft ambient occlusion shadows cast on a neutral surface.\n\n Exploded View Technique (Exploded View Technique)  \n- Connection lines: Elegant thin dashed or solid lines tether floating garment parts back to the character’s body.  \n- Guiding arrows: Minimalist decorative arrows link each object to its descriptive label.  \n- Technical annotations:  \n  - Material swatches: Macro close-up squares of fabrics (silk, cotton, wool), leather grain, metal finishes.  \n  - Material labels: e.g., '100% Mulberry Silk', 'Full-Grain Italian Leather'.  \n  - Measurement rulers: Dual-unit (cm/inch) rulers integrated along edges.\n\n The Art of Deconstruction · HUMAN REALITY UNVEILED   \nTypography: Chinese text in an elegant serif font (e.g., Founder Songti KBXK), English in Playfair Display—both with matte paper-like texture (no metallic foil).  \n- Subtitle (beneath main title, in fluid handwritten script):  \n  \"Essence of Being · Anatomical Truth / 存在之核·形神解构\"  \n  Bilingual typesetting, graceful and unobtrusive.  \n- Category Headers: Rounded-corner rectangular tags with icons:  \n  \" Intimate Private Life\" (Soft Blush #F8C8DC)  \n  \" Emotional Expression Gallery\" (Terracotta #E2725B)  \n  \" Body Posture & Movement\" (Charcoal #36454F)\n\n Design Elements (Design Elements)  \n- Geometric frames: Minimalist thin-line hexagons or circles (0.5–1pt stroke) in muted gray to group item clusters—Art Deco influence but desaturated.  \n- Measurement rulers: Along left and right edges, enhancing technical authenticity.  \n- Crosshairs: Faint targeting reticles at four corners and focal points.  \n- Material swatches: Bottom strip displaying fabric/leather/metal micro-texture tiles.  \n- Info cards: Elegant bordered cards with item details (brand, material, origin).  \n- Attribute radar chart: Encased in a delicate frame, showing traits like: Intimacy ★★★★★, Authenticity ★★★★★, Vulnerability ★★★★☆.  \n- Connection lines: Matte silver or warm bronze dashed lines with tapered arrowheads.\n\n Background & Atmosphere (Background & Atmosphere)  \n- Background gradient: Warm variant—ivory (#FFFFF0) to soft oat milk (#F5E9D7); or cool variant—pale concrete (#EAEAEA) to studio white (#FFFFFF).  \n- Overlay pattern: 5–10% opacity blueprint grid or faint architectural drafting lines.  \n- Vignette: Gentle peripheral darkening to center attention.  \n- Atmospheric particles: Subtle golden bokeh orbs and fine film grain (Kodak Portra 400 emulation) for cinematic depth—never distracting.\n\n Color Palette (Color Palette)  \n- Feminine/Intimate Theme: Champagne Gold (#D4AF37), Rose Gold (#B76E79), Oat Milk (#F5E9D7), Blush Pink (#F8C8DC).  \n- Masculine/Authentic Theme: Slate Gray (#708090), Warm Bronze (#CD7F32), Concrete White (#F0F0F0).  \n- Neutral/Luxury Theme: Charcoal Black (#2F2F2F), Ivory (#FFFFF0), Deep Burgundy (#800020).  \n- Couple Theme: Left side cool tones, right side warm tones—blending at center with shared intimate items.\n\n Technical Specifications (Technical Specifications)  \nRendering Engine: Path Tracing equivalent to Cycles/Arnold/RenderMan.  \n- Samples: Minimum 4096 SPP for noise-free output.  \n- Light bounces: 12 for accurate global illumination.  \n- Caustics: Enabled for glass and liquid realism.  \n- Geometry: Character mesh >2 million polygons; pose figurines >500k each.  \n- Hair: >100,000 strands per character, physics-simulated with wind interaction.\n\nPBR Material Workflow:  \n- Skin: Triple-layer SSS, dual specular lobes, pore-level displacement, melanin variation.  \n- Hair: Anisotropic shader with primary/secondary highlights, root-to-tip color shift.  \n- Fabrics: Woven normal maps, directional roughness based on fiber orientation, micro-wrinkles.  \n- Metals: Metalness 1.0, Roughness 0.1–0.4 (brushed or polished as appropriate).  \n- Glass: IOR 1.5; water IOR 1.33 with meniscus detail.  \n- Leather: Roughness 0.65, bump map with natural grain variation.\n\nResolution & Output:  \n- 4K (3840×2160), 16:9.  \n- 32-bit float color depth.  \n- 16x MSAA anti-aliasing.\n\nPost-Processing:  \n- Color Grading:  \n  • Filmic LUT applied; no pure blacks (min RGB 15,15,15).  \n  • Gentle S-curve for contrast.  \n  • Color temperature adjusted ±200K by theme.  \n  • Global saturation reduced by 5%; key colors (e.g., blush, gold) boosted by 10%.  \n- Effects:  \n  • Bloom: Soft glow on specular highlights.  \n  • Film Grain: Organic Kodak Portra 400 texture.  \n  • Chromatic Aberration: Barely perceptible edge fringing.  \n  • Vignette: Medium intensity.  \n  • Sharpening: Output-level adaptive sharpening.\n\nSpecial Instructions:  \n- Single Subject: ~30 items, focused on authentic daily life, emotional range, and physical presence.  \n- Couple: ~36 items (18 each), connected by a subtle heart-shaped negative space, with gender-coded palettes and shared intimate objects (e.g., one pillow, shared journal).  \n- Pregnant Subject: Include prenatal items (belly oil, vitamins, ultrasound printout); add a translucent fetal icon near the abdomen.  \n- Critical Requirement: Faithfully match the reference photo’s age, ethnicity, profession, body type, scars, tattoos, and personal style—including skin blemishes, freckles, and unique facial structure.\n\nQuality Benchmark:  \nThe final image must be visually indistinguishable from a premium photographic editorial—suitable for:  \n- Luxury lifestyle catalogs  \n- Documentary portraiture exhibitions  \n- Anthropological or medical visualization  \n- Fine art photography collections  \n- High-end brand storytelling campaigns  \n"
 }
@@ -178,7 +27,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 ---
 
 ## [@servasyy_ai](https://twitter.com/servasyy_ai)
-
 
 ### Images
 
@@ -191,9 +39,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 ### Prompt
 
 ```
-这个很清秀，我把它做成邮票版本了
-
-提示词：
 {
   "style": "Chinese postage stamp design, Neo-Chinese ink wash painting shuimo style, official commemorative stamp series format",
   "composition": "A vertical sheet of four connected postage stamps arranged top to bottom: spring - summer - autumn - winter. Each stamp has perforated edges and independent design while maintaining cohesive series aesthetic",
@@ -271,7 +116,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 
 ## [@munou_ac](https://twitter.com/munou_ac)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8XTcGNaAAAmLN5?format=jpg&name=orig)
@@ -285,43 +129,6 @@ Consider this guide an exploratory map, not a rigid template. Use these principl
 ### Prompt
 
 ```
-Let's Play with Nano Banana Pro
-[Figure Product Introduction Style
-　Layout Prompt]
-⠀
-This is a prompt for turning the character from the reference image into a figure and laying it out in a product introduction style. I've properly restructured and released what I shared before.
-⠀
-This is a prompt dedicated for Nano Banana Pro.
-Unauthorized reposting of the prompt is prohibited.
-Modification or deletion of the signature block is prohibited.
-⠀
-・Product Name (product_name)
-・Manufacturer Name (manufacturer_name)
-You can specify arbitrary strings for each.
-Product Name Logo: Inferred from the product name string and the atmosphere of the reference image.
-Manufacturer Logo: Inferred from the manufacturer name string.
-⠀
-・Size
-The overall height inferred from the character's body type and 1/7 scale setting is displayed in centimeters.
-⠀
-・Material
-A material appropriate for a figure is inferred and displayed.
-⠀
-・Price
-Inferred from the figure's scale, sculpting density, and paint expression.
-⠀
-・Partial Close-Up Views
-Each close-up view includes a Japanese caption explaining a different body part or feature.
-⠀
-◆How to Use
-Product Name (product_name)
-Manufacturer Name (manufacturer_name)
-Please replace the content inside the "" below with arbitrary strings for each.
-The manufacturer name is also reflected in "Prototype Sculpting."
-product_name: "{ARBITRARY_PRODUCT_NAME}"
-manufacturer_name: "{ARBITRARY_MANUFACTURER_NAME}"
-⠀
-◆Prompt (Please copy and paste the entire text)
 product_name: "{ARBITRARY_PRODUCT_NAME}"
 manufacturer_name: "{ARBITRARY_MANUFACTURER_NAME}"
 
@@ -437,7 +244,6 @@ signature:
 
 ## [@astronomerozge1](https://twitter.com/astronomerozge1)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9HQwFtWgAALJI9?format=jpg&name=orig)
@@ -445,12 +251,6 @@ signature:
 ### Prompt
 
 ```
-Nano Banana Pro @bageldotcom 
-
-Notebook Movie & 2 Reference 
-
-Prompt:
-
 {
   "generation_request": {
     "meta_data": {
@@ -556,7 +356,6 @@ Prompt:
 
 ## [@astronomerozge1](https://twitter.com/astronomerozge1)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9HpdFKXQAQfox7?format=jpg&name=orig)
@@ -564,10 +363,6 @@ Prompt:
 ### Prompt
 
 ```
-Nano Banana Pro @NanoBanana  
-
-Prompt:
-
 {
   "generation_request": {
     "meta_data": {
@@ -667,7 +462,6 @@ Prompt:
 
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8wS6QYbsAIfjb5?format=jpg&name=orig)
@@ -677,23 +471,6 @@ Prompt:
 ### Prompt
 
 ```
-[Nano Banana Pro]   
-Urban Fashion x Magazine Effect  
-アーバンファッション × マガジン風エフェクト    
-(Prompt below/プロンプトは下にあります)   
-
-How to use: 
-1. Choose a character reference image. 
-2. Copy and paste the prompt. 
-3. Edit the main_title and sub_title with any text you like.  
-
-使い方： 
-1. 人物のリファレンス画像を1枚選びます。 
-2. プロンプトをコピー＆ペーストします。 
-3. メインタイトルとサブタイトルは、好きな文字に自由に変更してください。  
-
-[prompt]
-
 {
   "project_title": "Outdoor Urban Fashion Editorial 'Helvetica Compressed' 2x3 Collage",
   "structure": "Balanced 2-column layout. Left side: 2 stacked panels. Right side: 3 stacked panels. Identical total height. Clean black borders.",
@@ -775,14 +552,11 @@ How to use:
     }
   }
 }
-
-#NanoBananaPro
 ```
 
 ---
 
 ## [@timedoctor_nft](https://twitter.com/timedoctor_nft)
-
 
 ### Images
 
@@ -791,8 +565,6 @@ How to use:
 ### Prompt
 
 ```
-Gemini Nano Banana Prompt:
-
 {
   "vibe_title_en": "Chaotic Subway Dream",
   "master_prompt": "A candid, slightly motion-blurred shot of [The Protagonist] standing inside a gritty, vintage subway car interior. The scene is characterized by 'Photographic Surrealism': the car is filled with a chaotic blizzard of thousands of white sheets of paper, manuscripts, and tickets, all frozen in mid-air as if gravity has momentarily failed. The subject is caught completely off-guard, throwing their head back in genuine, surprised laughter, with hands raised to shield themselves from the paper storm. The image is captured THROUGH the scratched, graffiti-etched glass of the connecting subway door, creating heavy foreground texture, reflections, and depth. Lighting combines the greenish hue of flickering overhead fluorescent tubes with a harsh, direct on-camera flash that freezes the flying paper in sharp detail while allowing the subject's movement to blur. Shot on 35mm Kodak Portra 800 film, featuring prominent grain, light leaks, and a raw, tactile atmosphere. No CGI feel; looks like a high-budget practical effect.",
@@ -889,7 +661,6 @@ Gemini Nano Banana Prompt:
 
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8b6K18akAEhq-J?format=jpg&name=orig)
@@ -899,25 +670,6 @@ Gemini Nano Banana Prompt:
 ### Prompt
 
 ```
-[Nano Banana Pro] 
-Photo × Music Playback Effect
-写真 × 音楽再生エフェクト
-
-(Prompt below/プロンプトは下にあります)
-
-How to use:
-1.Prepare two images: one character reference and one album cover.
-2.Copy and paste the prompt.
-3.Feel free to change the song, album, or artist name as you like.
-
-使い方：
-1.画像を2枚用意します。1枚は人物リファレンス、もう1枚はアルバムジャケットです。
-2.プロンプトをコピー＆ペーストします。
-3.曲名・アルバム名・アーティスト名は、お好みに合わせて自由に変更してください。
-
-Maybe you want to try it out? @underwoodxie96 @SDT_side 
-[Prompt]
-
 {
   "project_title": "Urban Streetwear Editorial Collage (Japan Edition)",
    "structure": "Asymmetric 3-panel triptych layout (Exactly 3 distinct frames, NO 4th panel)",
@@ -989,14 +741,11 @@ Maybe you want to try it out? @underwoodxie96 @SDT_side
     "Futuristic sci-fi elements"
   ]
 }
-
-#NanoBananaPro
 ```
 
 ---
 
 ## [@BeautyVerse_Lab](https://twitter.com/BeautyVerse_Lab)
-
 
 ### Images
 
@@ -1009,33 +758,6 @@ Maybe you want to try it out? @underwoodxie96 @SDT_side
 ### Prompt
 
 ```
-[Nano Banana Pro]   
-Green Realm × Tilted Stele Effect
-グリーンレルム × 傾いた石碑エフェクト
-綠境 × 斜碑效果
-
-(Prompt below/プロンプトは下にあります)   
-
-How to use: 
-1. Choose a character reference image. 
-2. Copy and paste the prompt. 
-3. Edit the text you want to appear on the tilted stone.  
-
-使い方： 
-1. 人物のリファレンス画像を1枚選びます。 
-2. プロンプトをコピー＆ペーストします。 
-3. 斜めの石碑に表示したい文字を編集してください。
-  
-使用方式：
-1.選一張你要套用效果的人物圖片
-2.複製貼上prompt
-3.修改你想要出現在斜碑上的字
-
-Maybe you will want to try it out?
-@SDT_side @underwoodxie96 @zayleeai @joshesye 
-
-[prompt]
-
 {
   "project_title": "High-Fashion Garden Editorial - Borderless Diagonal Supine Recline with Direct Gaze",
   "structure": "Single full-frame composition. Edge-to-edge photography. No borders or collage elements.",
@@ -1078,14 +800,11 @@ Maybe you will want to try it out?
     }
   }
 }
-
-#NanoBananaPro
 ```
 
 ---
 
 ## [@saniaspeaks_](https://twitter.com/saniaspeaks_)
-
 
 ### Images
 
@@ -1094,8 +813,6 @@ Maybe you will want to try it out?
 ### Prompt
 
 ```
-Google Gemini Nano banana Pro.
-
 {
   "type": "image_generation_prompt",
   "style": "hyper-realistic, cinematic, magical surrealism, studio editorial",
@@ -1190,7 +907,6 @@ Google Gemini Nano banana Pro.
 
 ## [@saniaspeaks_](https://twitter.com/saniaspeaks_)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9EPi_ib0AAOpcX?format=jpg&name=orig)
@@ -1198,10 +914,6 @@ Google Gemini Nano banana Pro.
 ### Prompt
 
 ```
-I meet trump today!
-
-Nano banana Pro on Gemini app.
-
 {
   "type": "image_generation_prompt",
   "style": "portrait / official photo, professional editorial, photorealistic",
@@ -1296,7 +1008,6 @@ Nano banana Pro on Gemini app.
 
 ## [@bananababydoll](https://twitter.com/bananababydoll)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8Rq9BBXQAEajeg?format=jpg&name=orig)
@@ -1306,10 +1017,6 @@ Nano banana Pro on Gemini app.
 ### Prompt
 
 ```
-Just a quick Walmart run… somehow turned into this.
-
-Nano Banana Pro Prompt
-
 {
   "meta": {
     "aspect_ratio": "9:16",
@@ -1423,7 +1130,6 @@ Nano Banana Pro Prompt
 
 ## [@YeKyaHoRhaHaiBe](https://twitter.com/YeKyaHoRhaHaiBe)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9Jjn25bgAE7WwB?format=jpg&name=orig)
@@ -1437,11 +1143,6 @@ Nano Banana Pro Prompt
 ### Prompt
 
 ```
-Trend 294
-#Rajasthani  gemini nano banana  pro prompts that you should definitely try 
-
-Prompt 1:
-"A woman with long, flowing hair stands in a golden wheat field at sunset. The woman is wearing a traditional maroon-beige Rajasthani lehenga with maroon gota-patti work, matching dupatta over the head, jewellery, bangles, and looking at the man., billowing around her. Her body is turned slightly to the right, hair blowing behind her, and one hand holds the dress's fabric as she moves gracefully through the tall wheat, silhouetted against a warm, glowing sky with the sun low on the horizon. Create this referance image image id and face shuld not be changed at all.
 Create this referance image image id and face should not be changed at all."
 
 Prompt 2:
@@ -1461,7 +1162,6 @@ Create this referance image image id and face shuld not be changed at all."
 
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G7JgnAKW4AANaBs?format=jpg&name=orig)
@@ -1472,21 +1172,6 @@ Create this referance image image id and face shuld not be changed at all."
 
 ```
 Create your cinematic close-up of aiming for a shot 
-
-Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
-
-Bookmark  this now and recreate this with your selfie later.
-
-How to:
- 1) Download the Gemini app from the Play Store or App Store.
- 2) Open the app and tap on the " Create image" button.
- 3) Tap the + icon, click Gallery, and select a photo of yourself.
-   > Note: For best results, use a photo where your face fills about 70% of the screen.
- 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
- 5) Return to the Gemini app and paste that text into the "Describe your image" box.
- Tap the rocket symbol  in the bottom right corner to generate your image.
-
-Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
 
 Prompt 
 Using 100% of the provided face, create a cinematic extreme close-up scene of an archer warrior attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) at the exact moment of drawing the bowstring during a heavy downpour. The camera is positioned frontally, aligned directly with the arrow's axis, creating an intense and dramatic perspective. Extremely shallow depth of field, with absolute focus on the character's eyes, keeping the arrow partially blurred in the foreground. The lens simulates a 135mm telephoto lens with a wide aperture (f/1.8).
@@ -1500,7 +1185,6 @@ Using 100% of the provided face, create a cinematic extreme close-up scene of an
 
 ## [@dotey](https://twitter.com/dotey)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8L86LlWQAQyWIA?format=jpg&name=orig)
@@ -1510,47 +1194,12 @@ Using 100% of the provided face, create a cinematic extreme close-up scene of an
 ### Prompt
 
 ```
-nano banana pro prompt
 
- One leaf, one world. Intricate leaf-cutout art brings enchanting scenes to life with mesmerizing detail!
-
---- Prompt Template ---
-
-Inspired by leaf-cutout art, delicately depict 【scene description】 through intricate hollow cutouts on a single, complete 【type of leaf, optional, default: green leaf】.
-All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
-The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
-Background features a softly blurred natural landscape, providing a tranquil atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
-(Optional dynamic effects: drifting dandelion fluff, gently falling water droplets.)
-
---- Prompt Example 1 ---
-
-Inspired by leaf-cutout art, delicately depict a child running joyfully with a kite through intricate hollow cutouts on a single, complete maple leaf.
-All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
-The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
-Background features a softly blurred spring meadow, providing a vibrant and cheerful atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
-Dynamic effect: drifting dandelion fluff gently floating in the air.
-
---- Prompt Example 2 ---
-
-Inspired by leaf-cutout art, delicately depict a couple sitting on a bench beneath a blossoming tree through intricate hollow cutouts on a single, complete cherry leaf.
-All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
-The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
-Background features a softly blurred park scene in springtime, providing a romantic atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
-Dynamic effect: gently falling water droplets sliding off the leaf edges.
-
---- Prompt Example 3 ---
-
-Inspired by leaf-cutout art, delicately depict a fisherman casting a line into a serene lake through intricate hollow cutouts on a single, complete green leaf.
-All elements are organically connected by thin natural veins, ensuring no isolated or floating segments.
-The leaf surface has a glossy, wet appearance with tiny sparkling water droplets. Soft sunlight gently illuminates the leaf, creating subtle highlights and shadows.
-Background features a softly blurred lakeside landscape, providing a calm, peaceful atmosphere, captured in ultra-detailed 8K resolution for macro-level realism.
-Dynamic effect: drifting dandelion fluff gently floating through the air.
 ```
 
 ---
 
 ## [@ttmouse](https://twitter.com/ttmouse)
-
 
 ### Images
 
@@ -1565,46 +1214,14 @@ Dynamic effect: drifting dandelion fluff gently floating through the air.
 ### Prompt
 
 ```
-生成漂亮的3D激光内雕水晶
-
-1. 可以直接指定主题
-2. 也可以通过上传图片作为附件，让其提炼图片中的元素。
-
- Nano Banana Pro prompt：
-
-My Subject:  主题名称
-图片比例：9:16
-
-# Role Definition:
-You are an expert product photographer and creative art director specializing in high-end luxury goods. Your sole task is to generate a photorealistic image of a custom 3D subsurface laser-engraved crystal ornament based on a simple subject provided by the user.
-# Core Directive:
-The user will provide only the [Subject]. You must autonomously analyze this subject to determine the most aesthetically appropriate and enhancing configuration for the entire scene. You must decide on the crystal's shape, the base material, the surrounding environment, and the lighting mood to best complement the vibe of the user's subject.
-# Creative Analysis Logic (Art Director Instructions):
-Analyze the Vibe: Is the subject elegant (e.g., ballerina, swan), cozy (e.g., sleeping cat, family photo), powerful (e.g., lion, sports car), or architectural?
-Determine Crystal Shape:
-Elegant/Tall Subjects -> Use a tall, multi-faceted prism or diamond shape to enhance verticality.
-Solid/Cozy Subjects -> Use a hefty, thick rectangular block or cube to convey weight and warmth.
-Dynamic Subjects -> Use complex geometric shapes with many bevels to refract light dramatically.
-Determine Environment & Lighting:
-Elegant Vibe: Place it in a luxurious, dark, moody environment (art gallery, velvet study). Use dramatic, cool ambient light contrasting with warmth from the base.
-Cozy/Warm Vibe: Place it in a homey, soft environment (wooden desk, near a fireplace). Use warm, soft, golden-hour lighting with cozy bokeh.
-Modern/Tech Vibe: Place it on a sleek, minimalist surface (polished concrete, dark glass). Use clean, neutral lighting.
-# Image Generation Template (Mandatory Technical Specs):
-Whatever artistic choices you make based on the logic above, the final image MUST adhere to these technical specifications to ensure a realistic "3D Laser Engraving" look:
-Engraving Style: The subject inside must NOT look like a solid 3D print. It MUST be described as a "volumetric white point-cloud engraving," having a "frosty, granular, subsurface texture" made of millions of micro-cracks inside the glass.
-Lighting Interaction: The engraving must "glow brilliantly from within," illuminated entirely by warm, golden LED light originating from the base beneath it.
-Material: The crystal must be heavy, clear, flawless K9 optical glass with beveled edges that catch and split the light.
 Photography Style: Cinematic product photograph, macro lens, extremely shallow depth of field (bokeh), 8k resolution, hyper-detailed.
 # Input Process:
 I will now provide the subject. You will instantly apply the creative logic and generate the final image.
-
-#nanobanana  #NanoBananaPro  #prompt
 ```
 
 ---
 
 ## [@amanxdesign](https://twitter.com/amanxdesign)
-
 
 ### Images
 
@@ -1613,8 +1230,6 @@ I will now provide the subject. You will instantly apply the creative logic and 
 ### Prompt
 
 ```
-Google Nano Banana Pro Prompt 
-
 {
   "description": "A full-body image of a different female American model wearing the exact same outfit as in the reference: a soft gray oversized turtleneck sweater made of wool or cashmere, with ribbed cuffs, collar, and hem, paired with matching gray wide-leg trousers. The model should stand in a relaxed, natural pose with a gentle, welcoming smile and confident yet calm posture. Her hair should be styled simply — shoulder-length or slightly wavy — and she should appear approachable and cozy. The sweater’s color, texture, and proportions must remain completely identical to the reference image.",
   
@@ -1639,14 +1254,11 @@ Google Nano Banana Pro Prompt
     "glossy or synthetic fabric"
   ]
 }
-
-#nanobanana #NanoBananaPro #Prompt #IdeaGeneration
 ```
 
 ---
 
 ## [@miilesus](https://twitter.com/miilesus)
-
 
 ### Images
 
@@ -1655,73 +1267,12 @@ Google Nano Banana Pro Prompt
 ### Prompt
 
 ```
-2025 is almost over.
-With only a few days left until 2026, are your vision boards ready? 
 
-If not, no worries. I came with a great prompt.
-Update your 2026 wishes in the prompt and give it to nano banana pro.
-
-It will handle the rest. 
-
-Vision Board Prompt: Create a high-aesthetic 2026 vision board collage combining beautiful lifestyle photos with visible inspirational text and affirmations.
-Use the uploaded face image as the main character in several frames, preserving facial identity accurately.
-
-The vision board represents an ideal 2026 life: success, peace, love, confidence, freedom, abundance, and self-alignment.
-Editorial yet dreamy visuals, soft luxury lifestyle, intentional living.
-
-IMPORTANT:
-Text is a key element.
-Short phrases, affirmations, and words must be visibly integrated into the collage.
-Typography should feel aesthetic, handwritten, serif, or clean minimal fonts.
-Text should feel emotional, motivational, and personal — not corporate.
-
-Examples of text to include (can appear across different frames):
-“2026”
-“everything works out”
-“soft life, strong mind”
-“aligned”
-“chosen”
-“abundance”
-“calm success”
-“romanticize your life”
-“she believed herself”
-“slow mornings”
-“healthy, wealthy, loved”
-“this is my year”
-
-Scenes & visuals to include:
-
-- Portrait of the woman in soft natural light, calm confident expression, editorial but intimate.
-- Cozy morning scene: sunlight through curtains, coffee, notebook, peaceful atmosphere.
-- Career / purpose scene: working in a beautiful cafe or modern space, laptop open, focused calm energy.
-- Travel or freedom scene: window, balcony, city view, or open space, cinematic framing.
-- Love & connection: subtle romantic imagery (hands, closeness, warmth), tasteful and minimal.
-- Luxury details: coffee cups, jewelry, bags, flowers, neutral tones.
-- Self-care & health: walking, stretching, slow movement, wellness aesthetic.
-
-Visual style:
-Soft editorial lighting, neutral and warm color palette (beige, cream, taupe, warm whites),
-film look, subtle grain, gentle contrast, elegant composition.
-
-Text placement:
-Some text handwritten over images,
-some typed cleanly,
-some layered like a journal or scrapbook.
-Text should feel organic and emotionally intentional, not perfectly aligned.
-
-Mood & vibe:
-Manifestation energy, feminine calm power, romanticized life, clarity, confidence, peace.
-Beautiful photos first, meaningful words second — balanced and aesthetic.
-
-High realism, natural skin texture, not AI-looking.
-
-Aspect ratio: vertical 16:9
 ```
 
 ---
 
 ## [@Gdgtify](https://twitter.com/Gdgtify)
-
 
 ### Images
 
@@ -1730,31 +1281,6 @@ Aspect ratio: vertical 16:9
 ### Prompt
 
 ```
-This is the first version of my scientist wars prompt for Nano Banana Pro. Meant to be educational and show two scientists debating science and theories 
-
-Prompt: 
-Do this for Einstein and a competitor of his 
-
-<instructions>
- Invention = [User Choice, e.g., Electricity, The Airplane, The Telephone]
-
-Phase 1: Historical Conflict Analysis
-1.  Identify Rivals: Determine the two main historical figures associated with this invention (e.g., Tesla vs. Edison, Wright Bros vs. Curtiss).
-2.  Identify The Tech: Distinguish their competing methods (e.g., AC Coils vs. DC Bulbs).
-3.  Identify The Era: Select appropriate "Giant" background clutter (e.g., Victorian newspapers, 1920s fountain pens).
-
-Phase 2: Visual Execution
-Goal: A "Macro Diorama" of a Rivalry. A messy, highly detailed flat-lay of a shared historical workspace where the two rivals exist as tiny living figurines battling over their creation.
-
-Rules:
-The Stage: A large, yellowed Patent Diagram or Blueprint lies flat on a wooden desk. The paper is wrinkled and covered in scribbled corrections.
-
-The Tiny Rivals: Two hyper-realistic miniature figurines (Inventor A and Rival B) are standing on opposite sides of the document. They are positioned at their own tiny wooden desks or workstations on top of the paper.
-
-The Conflict: They are gesturing aggressively at each other. The Invention itself is physically emerging from the center of the paper between them (e.g., a glowing 3D lightbulb or a spinning biplane propeller), acting as the barrier or prize they are fighting over.
-
-The "Giant" Terrain (Surroundings): The scene is surrounded by massive, period-accurate objects acting as a landscape:
-
 A "Giant" wall of newspapers with headlines about their legal battles.
  Massive burnt fuses or broken prototypes scattered like boulders.
  A spilled cup of coffee creating a "lake" near one of the figures.
@@ -1771,7 +1297,6 @@ Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography
 
 ## [@SSSS_CRYPTOMAN](https://twitter.com/SSSS_CRYPTOMAN)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8XCFwTa4AAeQjX?format=jpg&name=orig)
@@ -1785,27 +1310,6 @@ Output: ONE image, 4:5 aspect ratio, photorealistic historical macro photography
 ### Prompt
 
 ```
-Nano Banana Pro プロンプト集⑰
-数多の作品でオマージュされている伝説的なAKIRAの「スライドブレーキシーン」を再現！
-AKIRAというワードは使わず、プロンプトのみで描けます。
-
-使い方
-画像参照して下記のプロンプトをコピペ。
-背景変更で最初の一文は変えても大丈夫です。また、最後の描画スタイルも自由に変えてみてください。
-
----プロンプト---
-(VARIABLE SCENE - EDIT HERE):
-Nighttime, expansive Neo-Tokyo highway. Futuristic cityscape background with neon lights.
-Strong one-point perspective: The road stretches straight from the bottom edge to the vanishing point in the center.
-
-(CRITICAL COMPOSITION):
-One-point perspective composition with the subject in the CENTER.
-Subject Orientation: The motorcycle is shown in SIDE PROFILE (facing Screen Left).
-TILT ANGLE: The motorcycle body is LEANING HEAVILY TOWARDS THE CAMERA (The top of the bike is closer to the viewer than the wheels).
-Movement direction: The bike is sliding away from the camera, moving from the foreground deep into the background.
-Placement: Bike is perfectly centered in the frame.
-
-(SUBJECT):
 A futuristic motorcycle and rider.
 Motorcycle:
 - Heavy, solid, rounded silhouette
@@ -1845,7 +1349,6 @@ Poster-quality, ultra-high resolution, sharp focus.
 
 ## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9FeMbIaoAAPMb2?format=jpg&name=orig)
@@ -1855,9 +1358,7 @@ Poster-quality, ultra-high resolution, sharp focus.
 ### Prompt
 
 ```
-NANO BANANA PRO  
-
- Create Cinematic Warrior Characters from Any Photo (Custom AI Prompt) 
+Create Cinematic Warrior Characters from Any Photo (Custom AI Prompt) 
 With this prompt, anyone can transform a simple photo into an epic, ultra-realistic cinematic character like the ones you see here — powerful pose, dramatic lighting, fantasy-sci-fi atmosphere, and blockbuster-level detail 
 No advanced AI skills required.
  How to use it (very simple):
@@ -1881,27 +1382,12 @@ The subject in the photo is: A fierce, futuristic tribal warrior monk charging f
 For best results, use a clear, well-lit reference photo.
 Small prompt edits = completely different characters (warrior, monk, superhero, cyberpunk, dark fantasy) 
 
- Save this post and experiment — every version creates a new cinematic identity. 
-
-#AIArt
-#CinematicAI
-#AICharacter
-#AIAvatar
-#AIPortrait
-#FantasyAI
-#SciFiAI
-#AIImageGeneration
-#AIPrompt
-#CreativeAI
-#PromptEngineering
-#DigitalCreator
-#GenerativeAI
+ Save this post and experiment — every version creates a new cinematic identity.
 ```
 
 ---
 
 ## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
 
 ### Images
 
@@ -1910,93 +1396,12 @@ Small prompt edits = completely different characters (warrior, monk, superhero, 
 ### Prompt
 
 ```
-故宫汉服版本，小红书的最爱
 
-帮作者提取了文字版的提示词
-
-Nano Banana  Pro Prompt:
-
-生成一张 9:16 竖版「高端时尚杂志封面级」写实照片：以我上传的 FACE_REF 为人物身份参考，100%还原五官与骨相；人物身穿“明制华丽礼服方向”的重工汉服（多层叠穿、手工刺绣/织金锦、贵重金饰头面），在故宫红墙长廊雪景中拍摄。画面具备《Vogue》《Harper’s Bazaar》《ELLE》《Cosmopolitan》《Marie Claire》《i-D》《Allure》《FLAUNT》级别的摄影、造型与封面设计，以上杂志随机任选一作为杂志的封面设计，并保持选择杂志的一贯设计风格（中英文设计）
-【INPUTS | 输入】
-
-FACE_REF：我上传的人物五官参考图（身份锁定）
-【ABSOLUTE PRIORITY | 身份锁定（最高优先级）】
-
-100%还原 FACE_REF 的五官与骨相：眼距、鼻梁鼻翼、唇形、下颌线、颧骨结构完全一致，不得漂移。
-真实皮肤质感：可见细微纹理与毛孔，不要过度磨皮与网红化。
-成年女性形象（adult）。
-【SHOT TYPE | 景别二选一（由模型随机选其一，且必须真实统一）】
-A) 半身封面：胸口到腰上方，头面与上身刺绣最清晰，眼睛对焦最锐利（主推）
-B) 全身封面：从头到脚完整呈现层叠礼服与裙摆纹样，长廊纵深与红墙透视更强（备选）
-（无论A/B：都必须保持“封面构图”，有留白空间给排版，但不要撕纸/手绘效果。）
-【LOCATION | 场景（故宫/紫禁城）】
-
-北京故宫红墙长廊：朱红墙、红柱、雕花窗棂、彩绘梁坊细节与强调透视纵深。
-天气二选一（随机）：1) 细雪飘落 2) 雪后晴朗（檐下/台阶残雪、空气通透）
-背景干净：无游客、无现代标识、无手机状态栏UI、无水印字幕。
-【LIGHTING & CAMERA | 摄影质感（杂志级）】
-
-镜头感：85mm人像质感（半身）或 50mm/70mm（全身），浅景深，眼睛最清晰。
-光线：冬日自然光 + 柔和补光；金饰/珠翠有真实高光但不爆；刺绣纹理清晰可辨。
-色彩：高级电影感，红墙与服装主色不互相脏染；整体干净、通透、质感厚。
-【WARDROBE | 明制华丽礼服（重工、多层叠、可读的硬锚点）】
-目标审美：“金饰为主、流苏密集、凤冠、衣服大面积织金刺绣、层叠繁复但高级不俗艳”。
-
-轮廓与层次（必须多层叠穿）
-内层：白色里衣立领/里领清晰可见（干净、挺括，做出层次边界）
-中层：对襟袄/衫（或方领/立领结构感），袖口宽大、滚边精细
-外层：披帛/霞帔式的礼服结构（有明显“压襟/佩饰”承托），整体层次厚重
-下装：长裙/马面裙方向，裙摆纹样连续，底边有织金边或刺绣边（全身版本必须明显）
-面料与工艺（重手艺必须“看得见”）
-主面料：织金锦/提花锦（真实纤维感，暗纹浮起）
-主要工艺：盘金绣、金线绣、立体刺绣、贴布绣（让花纹有“微微起伏”的厚度）
-纹样主题：牡丹/团花/祥云/瑞兽（精致、密度高、但图案边缘清晰，瑞兽不能是龙）
-细节：滚边、暗扣、系带、护领、胸前“压襟/璎珞感”层叠装饰（但不杂乱）
-头面（黄金为主的重工头饰，必须华丽）
-金色为主的方向：金丝累珠、点翠/珠翠、密集簪钗、左右对称的长流苏坠饰，凤冠
-流苏长度与密度要“明显”：走动或微风时有轻微摆动
-耳饰/颈饰：金+珍珠+玉（贵重但不廉价闪）
-【COLOR MATRIX | 颜色矩阵搭配（必须执行，且必须“多彩刺绣”）】
-从以下三套“主色方案”中随机选 1 套作为【底色/大面积主面料色】。
-注意：主色只决定“底色”，刺绣必须是【宫廷织锦式多色刺绣】（不允许只有金色刺绣）。
-
-Scheme G（翡翠绿底）：
-底色：翡翠绿/孔雀绿（大面积主面料）
-刺绣：多色绣线 + 盘金绣混用（至少包含：金色、朱红/胭脂红、宝蓝/靛蓝、米白、淡紫或藕粉）
-层次点亮：米白里领/内衬边 + 少量朱红与宝蓝作为“宫廷撞色”点缀
-Scheme A（杏底）：
-底色：暖杏/米杏（大面积主面料）
-刺绣：多色绣线 + 盘金绣混用（至少包含：金色、翡翠绿/松石绿、朱红/珊瑚红、孔雀蓝/靛蓝、米白）
-层次点亮：用翡翠绿与朱红做小面积宫廷撞色，保持“雅而不素、贵而不艳”
-Scheme R（红底）：
-底色：深朱红/绛红（大面积主面料）
-刺绣：多色绣线 + 盘金绣混用（至少包含：金色、孔雀蓝/靛蓝、松石绿、米白、胭脂粉或珊瑚红）
-层次点亮：米白里领/内衬边 + 少量翡翠绿或孔雀蓝作冷暖对比
-【颜色执行规则】
-
-“多彩刺绣”必须看得见：至少 4 种以上彩色绣线清晰可辨，且与金线叠加，形成丰富层次。
-纹样边缘要清晰，不糊成一片；红墙背景下服装与背景必须分离，层次清楚、低脏度、厚而不闷。
-禁止出现“单一金色刺绣覆盖全身”的单调效果。
-【POSE | 封面姿态（端庄、贵气、非摆拍俗气）】
-
-半身：双手在身前轻持团扇/宫扇（扇面刺绣清晰），或一手轻拢袖口一手自然垂落
-全身：站姿端正、重心稳定，裙摆自然垂坠；袖摆形成优雅弧线
-表情：沉静、克制、自信；不要夸张大笑，不要做短视频“眨眼比心”。
-【OUTPUT | 输出】
-
-1 张 9:16 竖版写实杂志封面级照片
-随机：半身 or 全身（A/B二选一）
-随机：雪中 or 雪后晴朗（天气二选一）
-随机：翡翠绿 / 杏/红 /（颜色矩阵三选一）
-造型：明制华丽礼服方向 + 金色重工凤冠头面 + 多层叠穿 + 大面积织金刺绣
-
-https://x.com/hx831126/status/2000793785064939661?s=20…
 ```
 
 ---
 
 ## [@Strength04_X](https://twitter.com/Strength04_X)
-
 
 ### Images
 
@@ -2009,10 +1414,6 @@ https://x.com/hx831126/status/2000793785064939661?s=20…
 ### Prompt
 
 ```
-Created with Gemini Nano Banana Pro
-
-Prompt:
-
 {
   "scene": {
     "environment": "Outdoor or semi-outdoor pool or hot tub area at night",
@@ -2081,7 +1482,6 @@ Prompt:
 
 ## [@ttmouse](https://twitter.com/ttmouse)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G84SOava0AAmmHU?format=jpg&name=orig)
@@ -2095,12 +1495,6 @@ Prompt:
 ### Prompt
 
 ```
-有了提示词，连做创意都不需要自己动了。
-
-每生成一次，都是随机的组合。
-
- Nano Banana Pro  Prompt：
-
 A hyper-detailed, surreal but believable studio scene where an abstract concept is physically contained and made visible.
 
 Main structure:
@@ -2142,14 +1536,11 @@ No decorative surrealism.
 Everything should feel physically possible, even if conceptually strange.
 
 Ultra high resolution, extremely sharp details, realistic materials, controlled studio background, premium art photography aesthetic.
-
-#nanobanana  #NanoBananaPro  #prompt
 ```
 
 ---
 
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
-
 
 ### Images
 
@@ -2162,24 +1553,7 @@ Ultra high resolution, extremely sharp details, realistic materials, controlled 
 ### Prompt
 
 ```
-SEE YOURSELF STANDING IN THE SNOW LIKE A CALM WINTER HERO — JUST LIKE THIS. 
-
 Create your awesome potrait 
-
-Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
-
-Bookmark  this now and recreate this with your selfie later.
-
-How to:
- 1) Download the Gemini app from the Play Store or App Store.
- 2) Open the app and tap on the " Create image" button.
- 3) Tap the + icon, click Gallery, and select a photo of yourself.
-   > Note: For best results, use a photo where your face fills about 70% of the screen.
- 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
- 5) Return to the Gemini app and paste that text into the "Describe your image" box.
- Tap the rocket symbol  in the bottom right corner to generate your image.
-
-Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
 
 Prompt 
 Ultra-realistic cinematic portrait of a man attached in the uploaded reference image ( Keep the face of the person 100% accurate from the reference image ) standing in a vast, pale winter landscape with a soft gray sky and light snowfall, wearing an elegant deep-navy embroidered long coat that flares dramatically in the wind; the coat features intricate silver thread patterns, ornate buttons, textured cuffs, and a high collar that frames his face. His hair is long, windswept, and slightly messy, blowing across his face as he looks forward with a calm but intense expression. His beard is thick and frosted with fine snowflakes. Lighting is soft, diffused, and wintry, with no harsh shadows—just natural cold daylight that wraps evenly around him. Snow particles drift across the frame both in front of and behind him, slightly blurred for depth and movement. The background remains minimal and muted, allowing the dark embroidered coat to stand out. Depth of field keeps the man razor sharp while the background stays soft and atmospheric. The final image must capture the same mood: cold wind, drifting snow, elegant motion, rich navy textures, and a dramatic winter-fantasy aesthetic.
@@ -2188,7 +1562,6 @@ Ultra-realistic cinematic portrait of a man attached in the uploaded reference i
 ---
 
 ## [@aiko_u_works](https://twitter.com/aiko_u_works)
-
 
 ### Images
 
@@ -2201,160 +1574,12 @@ Ultra-realistic cinematic portrait of a man attached in the uploaded reference i
 ### Prompt
 
 ```
-季節のイベント画像生成AIプロンプト
 
-お気に入りの写真 × AI
-ChatGPTやNano Bananaを使って
-世界にひとつだけの
-オリジナルおせちを作ってみませんか？
-プロンプトをコピペするだけで
-
-3Dトイ風フィギュア入りの
-きどらない、ハレの日おせちが完成します
-できあがった作品を、ぜひ【引用リプ】で
-
-見せてもらえたら嬉しいです
-それでは、みなさま良いお年を
-
-プロンプトは点線の下にあります。
-ご利用の際のお願いはリプ欄にまとめています。
-#生成AI画像 #おせち料理 #お正月 #リモラボ 
-・・・・・・・・・・・・
-
-画像を目視で確認し参照して画像生成してください。
-3Dトイ風のポートレート。
-日本の伝統的なおせち料理の重箱を
-「丁寧な暮らしの延長線上にある静かなお正月の一場面」として表現する。
-
-【構図・サイズ】
-・アスペクト比：縦長 2:3
-・真上から見下ろした完全な俯瞰構図（トップビュー）
-・誇張のない、落ち着いた視点
-・重箱は画面の完全な中央に配置
-・上下左右の余白は均等
-・わずかな余白を感じる構図
-・詰め込みすぎない静かな画面構成
-
-【重箱】
-・明るい木製の重箱（曲げわっぱ調／わっぱ風）
-・秋田杉のような淡い飴色
-・自然な木目が見える
-・過度な光沢はなく半マット
-・使い込まれたような清潔感
-・9分割〜12分割程度の多区画構成
-・大小さまざまなマスが混在し、完全に均一ではない
-・手仕事で組まれたような、わずかな揺らぎと温かみのある仕切り
-
-【おせち料理】
-・伊達巻
-・紅白かまぼこ
-・黒豆
-・栗きんとん
-・海老
-・煮しめ（蓮根・人参・椎茸・里芋など）
-・れんこんは梅花型の飾り切り（花れんこん）
-・切り口はなめらかすぎず手作業を感じる仕上がり
-・均一すぎない厚み
-・白〜淡い生成り色
-・煮含められほんのり艶がある
-・主張しすぎない自然な存在感
-・盛りつけは整いすぎず演出感を出さない
-・きちんと作られているが生活の延長線上にある佇まい
-・色数は抑えめで素材本来の色味を大切にする
-・料理の形や並びにはごく微妙な個体差がある
-
-【質感・トーン】
-・食材はややツヤがあり瑞々しくしずる感を出す
-・商用写真のような過度なリアルさは禁止
-・わずかにイラストレーション的な柔らかさを残す
-・「映え」よりも「丁寧そう」「清潔そう」を優先
-
-【背景・余白（生成り布）】
-・重箱の周囲にやわらかな生成り色の布を敷く
-・麻や木綿のような自然素材
-・織り目がうっすら見える
-・背景として主張せず、重箱と料理を引き立てる
-
-【光・空気感】
-・自然光に近い、やわらかく均一な光
-・影は強すぎない
-・静かで落ち着いたお正月の空気感
-・清潔感と余韻を大切にする
-
-【お正月の花（白梅）】
-・白梅の小枝を1〜2本まで使用可
-・互いに軽く重なり合う配置
-・1本あたり1〜2輪＋つぼみを含む
-・画面端から自然に入り込む
-・枝は細く、自然な曲線
-・花びらは白〜オフホワイト
-・黄色の雄しべは控えめ
-・飾った印象を出さず「たまたまそこにあった」存在
-・重箱や料理より目立たせない
-
-【ミニチュアフィギュア】
-■ 配置
-・参照画像を再現したチビキャラを1体のみ配置
-・黒豆の間、栗きんとんの上、煮しめの隙間など
-・「料理の一部」として扱う
-・視線を集める配置は禁止
-・画面中心、重箱中央マスへの配置禁止
-・立たせない
-・主張させない
-・この世界にもともと存在していたかのように自然に溶け込ませる
-■ サイズ制御（最重要）
-・極小サイズ
-・黒豆1粒以下の体積
-・栗きんとんの粒より小さい
-・重箱1マスの15％以下
-・最初に気づかなくてもよい存在感
-
-【参照人物の再現指示（厳守）】
-・添付された参照画像を必ず目視で確認する
-・写っている人物の特徴を忠実に再現する
-・輪郭・眉・目・鼻・口・髪型・髪色は一切変更しない
-・元の人物の面影を強く残す
-
-【チビキャラ化】
-・顔パーツの位置・形を変えず、比率のみデフォルメして3Dトイ風のチビキャラにする
-・肌は滑らかなクレイ質感
-・表情は可愛らしく愛らしい
-・完全な陶器感は禁止
-・瞳には光彩を入れる
-
-【人数ルール（最重要）】
-・参照画像に写っている人物と同じ人数のみ生成
-・一人につき1体のみ
-・複製禁止
-・サイズ違い禁止
-・追加キャラクター禁止
-・参照画像に写っていない人物を絶対に追加しない
-
-【厳格禁止事項】
-・招き猫・だるま・鶴・動物・縁起物の追加禁止
-・置物・マスコット・装飾細工の追加禁止
-・ポップ・かわいい・ファンタジー表現禁止
-・キャラクター化・アニメ調禁止
-・文字・ロゴ・ブランド要素禁止
-・現代的・装飾的な演出禁止
-・フィギュアを主役にする構図禁止
-
-【祝箸】
-・祝箸を1膳のみ配置
-・白木または白地に赤金の水引が控えめにあしらわれたもの
-・過度な装飾は禁止
-・紙の箸袋は生成り色または白
-・文字・家紋・ロゴは入れない
-・重箱の外、生成り布の上にそっと置く
-・画面下部または端寄り、やや画面外に寄せた配置
-・重箱や料理より目立たせない
-・「これからいただく前の静かな準備」の空気感
 ```
 
 ---
 
 ## [@miilesus](https://twitter.com/miilesus)
-
 
 ### Images
 
@@ -2363,8 +1588,6 @@ ChatGPTやNano Bananaを使って
 ### Prompt
 
 ```
-Black elegance  for nano banana pro
-
 Prompt: Create a realistic high-fashion studio photo collage featuring the same woman in six to eight different poses, using the uploaded face image as the exact facial reference (same facial structure, eyes, nose, lips, skin tone, and overall identity).
 
 The woman has a slim and elegant body, natural proportions, pale to light skin tone, a delicate oval face, soft but sharp facial features, large expressive eyes, thin lips, and a calm, confident expression. Her hair is long, black, styled in a messy bun with loose strands falling naturally around the face.
@@ -2398,7 +1621,6 @@ Aspect ratio: 9:16.
 
 ## [@Samann_ai](https://twitter.com/Samann_ai)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8dYPuPXcAAsr0h?format=jpg&name=orig)
@@ -2406,11 +1628,6 @@ Aspect ratio: 9:16.
 ### Prompt
 
 ```
-Turn any image to stone
-
-Discover new Nano Banana PRO Prompts on http://bananaprompts.com/?utm_source=BP1218…
-
-𝗣𝗿𝗼𝗺𝗽𝘁 
 {
   "task": "image_to_image_style_transfer",
   "input_image": "{{USER_IMAGE}}",
@@ -2442,7 +1659,6 @@ Discover new Nano Banana PRO Prompts on http://bananaprompts.com/?utm_source=BP1
 
 ## [@dotey](https://twitter.com/dotey)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G7RvpdEWgAALFQZ?format=jpg&name=orig)
@@ -2464,42 +1680,12 @@ Discover new Nano Banana PRO Prompts on http://bananaprompts.com/?utm_source=BP1
 ### Prompt
 
 ```
-nano banana pro prompt
 
-Isometric Miniature Stock Scene
-
-Enter a company name or stock ticker to generate an exquisite, miniature isometric 3D scene integrating real-time stock data for the specified date.
-
-inspired by @keithso27 's tweet
-
-----
-
-Present an exquisite, miniature 3D cartoon-style scene of the company corresponding to the user-specified company name or stock ticker, clearly viewed from a 45° top-down perspective.
-
-Place the company's most iconic building or campus prominently at the center, complemented by proportionally-sized icons of its key products, charming cartoon-style figures, vehicles, and other elements illustrating everyday company activities. The scene should be detailed, finely crafted, and playful.
-
-Rendered with Cinema 4D, the modeling should be refined, smoothly rounded, and rich in texture, accurately capturing realistic PBR materials. Gentle, lifelike lighting and soft shadows should create a warm, comfortable ambiance.
-
-Creatively integrate the company's real-time stock market data for the user-specified date (or automatically retrieved current date) into the scene, maintaining a clean, minimalist layout and a solid-color background to highlight the primary content.
-
-At the top-center of the scene, prominently display the company name or stock ticker in a large font size, followed by the specified date in extra-small font, and the stock price range in a medium-sized font. Include clear, intuitive stock trend icons and charts.
-
-All texts should be displayed in the language specified or entered by the user, without any background, and may subtly overlap with the scene elements to enhance overall design integration.
-
-Very Important:
-Before generating, ensure accurate and up-to-date stock market data based on the user-inputted company name or stock ticker and the specified date. If such data is unavailable, notify the user immediately and stop the generation process.
-
-Parameters:
-
-* Aspect ratio: {User input, default 1:1}
-* Date: {User input, current date}
-* Company name or stock ticker: {User input}
 ```
 
 ---
 
 ## [@Strength04_X](https://twitter.com/Strength04_X)
-
 
 ### Images
 
@@ -2514,15 +1700,6 @@ Parameters:
 ### Prompt
 
 ```
-☞︎︎︎ Opened Gemini app 
-
-☞︎︎︎ Used Nano Banana Pro to create these visuals
-
-These photos are fully AI-generated but look insanely real 
-
-AI creativity is on another level now.
-
-Prompt 
 {
   "type": "image_generation",
   "style": "ultra_photorealistic",
@@ -2586,7 +1763,6 @@ Prompt
 
 ## [@dotey](https://twitter.com/dotey)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G7OKU8AWoAAejrh?format=jpg&name=orig)
@@ -2604,8 +1780,6 @@ Prompt
 ### Prompt
 
 ```
-nano banana pro prompt
-
 A realistic cyber-aesthetic futuristic business card photograph
 
 ---- Prompt ----
@@ -2646,7 +1820,6 @@ Name: Sam Altman
 
 ## [@studio_veco](https://twitter.com/studio_veco)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G80Zz6YagAUpT6D?format=jpg&name=orig)
@@ -2660,28 +1833,12 @@ Name: Sam Altman
 ### Prompt
 
 ```
-比較してみた！
-1枚目：Seedream 4.5
-2枚目：Nano Banana Pro
-3枚目：GPT Image 1.5
-4枚目：FLUX 2 Pro
-
-けっこう好みの問題かな。
-Seedream 4.5：一番攻めるがアーティファクトが出やすい
-Nano Banana Pro：堅実だと演出少し控えめ
-GPT Image 1.5：個性的に攻めるがアーティファクトがやや出やすい
-FLUX 2 Pro：演出は控えめだがアーティファクトが少ない
-
-現場からは以上です。
-
-プロンプト↓
 Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composition" lens: type: "super wide-angle lens" effects: - "extreme perspective" - "strong spatial compression between foreground, midground, background" Character: identity: ethnicity: "Japanese" gender: "girl" hair: "medium-length hair" outfit: style: "windy, dressy, trendy yumekawa fashion" pose: description: "bold, dynamic action pose" body_orientation: "leaning with momentum implied by the tilt" Hands_and_Gesture: right_hand: gesture: "index finger extended, thumb raised, other fingers curled inward" shape: index_finger: "extended straight forward" thumb: "raised vertically" other_fingers: "tightly curled inward" position: "held in front of her face" gaze_alignment: "her eyes follow the pointing direction" left_hand: gesture: "open hand" fingers: "all five fingers widely spread" position: "placed below and slightly in front of the right hand" palm_direction: "facing upward as if supporting it" perspective_role: "dominates the extreme foreground" perspective: dominance: "left hand is massively enlarged by wide-angle distortion" clarity: "both hands and face in sharp detail" depth_of_field: "full DOF, no background blur" Lighting: type: "soft indoor lighting" mood: "gentle highlights, controlled shadows" background: "neutral, blurred environment" Cinematic_Effects: atmosphere: "action tension + stylized anime dynamism" motion_sense: "perspective and Dutch angle add momentum" Output: aspect_ratio: "16:9" style: "high-quality anime illustration" rendering: "clean lines, sharp details, accurate anatomy"
 ```
 
 ---
 
 ## [@MidjourneyGS](https://twitter.com/MidjourneyGS)
-
 
 ### Images
 
@@ -2690,17 +1847,7 @@ Scene: type: "battle scene" camera_angle: "dramatic dutch angle, tilted composit
 ### Prompt
 
 ```
-Optimized X Post – New Beginnings AI Prompt (Nano Banana Pro )
-
- Turn Your Photo into a Powerful “New Beginning” Scene with AI 
-With this prompt, you can transform your own photo into a symbolic, cinematic image that represents breaking the past and stepping into the future — just like the image you see here.
-No editing.
-No design skills.
-Just upload your photo and generate 
- How it works (super simple):
- Upload your photo on Nano Banana Pro 
- Paste the prompt below
- Generate the image
+Generate the image
  Boom  — a high-impact, motivational, cinematic visual
 The prompt keeps your real facial features unchanged and builds an epic scene around you.
 Perfect for:  Personal branding
@@ -2720,25 +1867,11 @@ You can easily customize this prompt by changing: • the year
 Perfect to represent goals, growth, transformation, and success 
 
  Save this post and create your own “new chapter” image in seconds.
-
-#AIArt
-#NanoBananaPro
-#AIImageGeneration
-#AIPrompt
-#CinematicAI
-#MotivationalAI
-#AIPhotography
-#PersonalBranding
-#CreativeAI
-#GenerativeAI
-#PromptEngineering
-#AIVisuals
 ```
 
 ---
 
 ## [@lexx_aura](https://twitter.com/lexx_aura)
-
 
 ### Images
 
@@ -2747,9 +1880,6 @@ Perfect to represent goals, growth, transformation, and success
 ### Prompt
 
 ```
-Gemini Nano Banana Pro
-
-Prompt:
 {
   "image_specification": {
     "reference_id": "Figure 1",
@@ -2810,7 +1940,6 @@ Prompt:
 
 ## [@web3btc](https://twitter.com/web3btc)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9FEFyAbQAAthBT?format=jpg&name=orig)
@@ -2828,13 +1957,6 @@ Prompt:
 ### Prompt
 
 ```
-GM
-
-我自己优化了下prompt,现在人物稳定性还不错。
-并且加了侧光（见图2），人物脸部层次高级了些。
-
-以下是prompt，需要用Nano Banana Pro 出图。
-
 Hyperrealistic realistic-anime portrait of a female character standing against a completely black background.
 Lighting: a narrow, hard-edged spotlight coming from one side of the face (side lighting / split lighting), striking the center of the face at a slight angle.
 The light beam is tightly focused, with sharp, clearly defined edges, creating strong chiaroscuro contrast.
@@ -2856,15 +1978,11 @@ Extreme contrast.
 High realism only in the illuminated portion of the face.
 Everything outside the spotlight should be nearly invisible.
 Background: pure black, no gradients, no rim light, no background detail.
-
-#sentientAGI #sentient #sentientchat
-@SentientAGI
 ```
 
 ---
 
 ## [@LufzzLiz](https://twitter.com/LufzzLiz)
-
 
 ### Images
 
@@ -2875,8 +1993,6 @@ Background: pure black, no gradients, no rim light, no background detail.
 ### Prompt
 
 ```
-儿时有个梦想就是山顶看场烟花秀
-借鉴了宝玉老师思路，提示词如下：
 {
   "template_name": "New Year City Skyline Celebration",
   "description": "A cinematic shot of a child overlooking a city skyline with custom fireworks effects.",
@@ -2896,7 +2012,6 @@ Background: pure black, no gradients, no rim light, no background detail.
 
 ## [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8Bvw5ka0AAVL0N?format=jpg&name=orig)
@@ -2908,25 +2023,6 @@ Background: pure black, no gradients, no rim light, no background detail.
 ### Prompt
 
 ```
-SEE YOURSELF IN A LONELY BIG-CITY FRAME 
-
-Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
-
-Bookmark  this now and recreate this with your selfie later.
-
-How to:
- 1) Download the Gemini app from the Play Store or App Store.
- 2) Open the app and tap on the " Create image" button.
- 3) Tap the + icon, click Gallery, and select a photo of yourself.
-   > Note: For best results, use a photo where your face fills about 70% of the screen.
- 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
- 5) Return to the Gemini app and paste that text into the "Describe your image" box.
- Tap the rocket symbol  in the bottom right corner to generate your image.
-
-Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
-
-Prompt 
-Wong Kar-wai Style Cinematic Portrait
 A photorealistic, cinematic portrait in the style of Wong Kar-wai, using the uploaded image as a face reference. Emphasize the jawline and neck to be sharp, almost sculptural, while maintaining the original facial features and identity.
 Pose: Sitting, head leaning against the window, hands resting on the edge, eyes gazing wistfully at the streetlights.
 Setting: Inside an old taxi with faded leather seats. 
@@ -2942,7 +2038,6 @@ Mood: Lonely, isolated, a silent big city.
 
 ## [@xmliisu](https://twitter.com/xmliisu)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9EqMXrWYAAEytc?format=jpg&name=orig)
@@ -2950,10 +2045,6 @@ Mood: Lonely, isolated, a silent big city.
 ### Prompt
 
 ```
-Gemini Nano Banana Pro
-
-Prompt:
-
 {
   "subject": {
     "gender": "female",
@@ -3024,7 +2115,6 @@ Prompt:
 
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9GLk7fa8AAr1WI?format=jpg&name=orig)
@@ -3032,8 +2122,6 @@ Prompt:
 ### Prompt
 
 ```
-Gemini Nano Banana Prompt
-
 {
   "aspect_ratio": "4:5",
   "meta_data": {
@@ -3080,7 +2168,6 @@ Gemini Nano Banana Prompt
 
 ## [@xIrissy](https://twitter.com/xIrissy)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8xNBd6asAAorNE?format=jpg&name=orig)
@@ -3088,10 +2175,6 @@ Gemini Nano Banana Prompt
 ### Prompt
 
 ```
-Gemini Nano Banana Pro
-
-Prompt:
-
 {
   "generation_request": {
     "subject_reference": {
@@ -3127,7 +2210,6 @@ Prompt:
 
 ## [@SDT_side](https://twitter.com/SDT_side)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8xUMFkaYAAWvEO?format=jpg&name=orig)
@@ -3137,12 +2219,6 @@ Prompt:
 ### Prompt
 
 ```
-低画質の画像でも大丈夫です
-
-nano banana pro
-Fidelity-Locked Edit Base
-①人物の写真をアップロード
-②好み合わせて調節してください
 Ultra high-resolution upscale edit of the same person from the original image, preserving identity, face, hairstyle, outfit, and overall realism.
 This is a direct edit of the original photo, not a new character.
 
@@ -3174,7 +2250,6 @@ No character redesign. No face alteration. No hairstyle change. No outfit change
 
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9GLJbub0AA8KS6?format=jpg&name=orig)
@@ -3182,8 +2257,6 @@ No character redesign. No face alteration. No hairstyle change. No outfit change
 ### Prompt
 
 ```
-Gemini Nano Banana Prompt
-
 {
   "aspect_ratio": "4:5",
   "meta_data": {
@@ -3229,7 +2302,6 @@ Gemini Nano Banana Prompt
 
 ## [@miilesus](https://twitter.com/miilesus)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9BV4GXXQAAF9I0?format=jpg&name=orig)
@@ -3239,8 +2311,6 @@ Gemini Nano Banana Prompt
 ### Prompt
 
 ```
-VOGUE Prompt for Nano Banana Pro 
-
 Create a realistic Vogue magazine cover–style fashion portrait using the uploaded face as the original face reference (100% face identity preservation).
 
 A young elegant woman posing confidently, maintaining her original facial features and natural beauty. She is winking with her left eye and making a playful duck-face expression. Both hands are raised, forming a love/heart gesture near her face.
@@ -3264,7 +2334,6 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 
 ## [@Strength04_X](https://twitter.com/Strength04_X)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8-_SQ0b0AEhTBE?format=jpg&name=orig)
@@ -3272,31 +2341,12 @@ Mood & vibe: playful yet luxurious, high-fashion beauty editorial, realistic, no
 ### Prompt
 
 ```
-Turning the streets into my personal playlist. The future looks and sounds amazing. 
 
-​Created with Gemini Nano Banana Pro
-
-Prompt  {
-  "A hyper-realistic, cinematic 8k image of a man standing in a bustling Indian street market at night. He is wearing a plain grey t-shirt, green cargo pants, and white sneakers, holding a smartphone. The scene is overlaid with a detailed Augmented Reality (AR) visualization: numerous floating, translucent frosted-glass music player interface cards (resembling Spotify/Apple Music UI) orbiting the subject in 3D space. The cards feature colorful album artwork, progress bars, and playback controls with a soft, glowing border luminescence (bloom effect). The composition uses depth of field, with some cards blurred in the foreground and others sharp near the subject. The background features authentic Indian street elements: green and yellow auto-rickshaws, shop signs with Hindi text, and warm ambient street lighting contrasting with the cool blue-white glow of the AR interface.",
-  "negative_prompt": "coat, blazer, suit, formal wear, cartoon, illustration, low quality, blurry, distorted, bad anatomy, extra limbs, text watermark",
-  "subject_attributes": {
-    "clothing": "grey t-shirt, green cargo pants, white sneakers",
-    "pose": "standing, holding phone",
-    "facial_reference": "use uploaded face 100% accuracy"
-  },
-  "environment": {
-    "location": "Indian street market",
-    "time": "night",
-    "details": "auto-rickshaws, crowds, shop lights"
-  },
-  "style": "Augmented Reality, Cyberpunk, Cinematic, Photorealistic"
-}
 ```
 
 ---
 
 ## [@refindai](https://twitter.com/refindai)
-
 
 ### Images
 
@@ -3305,20 +2355,12 @@ Prompt  {
 ### Prompt
 
 ```
-Nano banana prompt share 
-
-I pushed the limits of AI texture generation to create this hyper-realistic embroidered knit tribute to The Beatles' "Yesterday." 
-
-Inspired by the minimalist aesthetic of design master Huang Hai, every stitch and thread feels tactile. The nostalgia hits hard with this one. 
-
-The mega-detailed PROMPT：
 A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover for "Yesterday," inspired by Huang Hai's minimalist aesthetic. The composition features vast pale sepia negative space creating a melancholic, nostalgic atmosphere on a visible woven fabric base. The central focus is an exquisitely dimensionally embroidered vintage wooden record player with a detailed wilted rose resting on the turntable, showing realistic thread texture and natural luster. Subtle, barely visible embroidered details include a tiny reminiscing silhouette (bottom right) and a vinyl record (upper left). Top text in elegant cream embroidery: "Yesterday" and "The Beatles 1965". The bottom section features detailed embroidered musical notation (staff, treble clef, melancholic notes mixed with tiny rose petals) for the song's melody. Below the staff, the complete lyrics are embroidered in elegant script: "Yesterday, all my troubles seemed so far away / Now it looks as though they're here to stay / Oh, I believe in yesterday". Above the music: "YESTERDAY 昨日". Minimal thin border with tiny corner symbols (musical note, record player). The entire piece must feel like tactile, handcrafted textile art.
 ```
 
 ---
 
 ## [@abulu8](https://twitter.com/abulu8)
-
 
 ### Images
 
@@ -3327,17 +2369,12 @@ A vertical (1:1 aspect ratio) ultra-detailed embroidered knit style album cover 
 ### Prompt
 
 ```
-Experiencing New Year fireworks through their eyes—the greatest gift. Wishing you a bright year ahead! 
 
-Created with Nano Banana Pro inside [@ImagineArt_X] [@imagineart_creo]
-
-Prompt : A bundled toddler sits on father's shoulders in snowy town square, mittened hands reaching toward exploding fireworks painting the night sky in cascading colors, face tilted upward in pure wonder. Shot with Sony A7RV at 35mm f/1.4, brilliant bursts of gold and crimson and emerald reflect in wide astonished eyes, mouth forming perfect O of amazement. Oversized knitted hat slides backward from craning neck, scarf unwinding with excitement. Father's gloved hands grip small ankles secure, his own face watching the child not the sky, finding better fireworks in that expression. Crowd blurs around them, other families pointing upward, but these two exist in private bubble of shared wonder. Snow catches colored light as it falls, becoming rainbow confetti. Hot chocolate forgotten in father's other hand, steam rising into the spectacle. Church clock visible striking midnight behind the explosions. Heavy grain saturates the celebratory chaos while firework colors paint the snow and faces in shifting hues, motion blur traces rocket trails and falling sparks. New year begins in that upturned face. Old year ends in that protective grip. The composition lifts innocence toward tomorrow, creating midnight measured in wonder shared between generations.
 ```
 
 ---
 
 ## [@gokayfem](https://twitter.com/gokayfem)
-
 
 ### Images
 
@@ -3352,11 +2389,6 @@ Prompt : A bundled toddler sits on father's shoulders in snowy town square, mitt
 ### Prompt
 
 ```
-nano banana pro cost saving trick for product photography. instead of burning credits for experimenting one image at a time. show it an example, ask for a 6x6 grid, pick your favorite
-
-prompt (for different and similar mood and quality): Generate a 6x6 grid of professional product photography. Reference the original image's mood, quality, and aesthetic. Each cell should showcase a completely different product (bags, bottles, hats, cosmetics, jewelry, food, electronics, etc.) in a unique studio setting with a distinct color palette. Maintain the same high-end commercial photography style throughout. Vary the products, lighting, backgrounds, props, and styling dramatically across all 36 images.
-
-prompt (for balanced diversity):
 Generate a 6x6 grid of variations based on the original image. Keep the same product but vary the color palettes, backgrounds, lighting, angles, props, and styling dramatically across all 36 cells. Maintain the same professional quality and aesthetic throughout.
 
 prompt (for maximum diversity):
@@ -3367,7 +2399,6 @@ Generate a 6x6 grid showing 36 unique variations of this product. Experiment wil
 
 ## [@dhumann](https://twitter.com/dhumann)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8u7hzjbEAAf6nz?format=jpg&name=orig)
@@ -3375,24 +2406,16 @@ Generate a 6x6 grid showing 36 unique variations of this product. Experiment wil
 ### Prompt
 
 ```
-Skin Deep
-Experimenting with realistic skin textures.
-
-Open Nano Banana Pro on your favorite surface, upload a reference image for the subject and try the prompt below.
-
 An extreme close-up macro portrait of the subject, using the uploaded reference image as a strict identity source with zero deviation. The composition is left-eye dominant, cropped at the closest possible macro distance while still keeping the left eye, the bridge of the nose, and softly parted lips within the frame. Only a partial facial view is visible, with the opposite side of the face falling out of frame.
 
 Hyper-realistic skin texture with visible pores and natural micro-details, a dewy fresh complexion, finely rendered eyelashes with a crisp catchlight, and an intimate, calm gaze. Loose, messy strands of hair fall naturally across the face and partially over the eye. Lips appear soft and naturally pink with subtle texture, no heavy makeup.
 
 Lighting is soft, diffused, and cinematic with cool blue tonalities and gentle ambient shadows, shaping depth without harsh contrast. Photorealistic, cinematic raw photo quality, ultra-high detail, 8K realism, shot as an extreme macro using a 100mm macro lens at f/2.8, with razor-thin depth of field and sharp focus on the eye, with smooth falloff across the nose and lips.
-
-#NanoBananaPro
 ```
 
 ---
 
 ## [@Gdgtify](https://twitter.com/Gdgtify)
-
 
 ### Images
 
@@ -3405,8 +2428,6 @@ Lighting is soft, diffused, and cinematic with cool blue tonalities and gentle a
 ### Prompt
 
 ```
-This Nano Banana Pro prompt turns famous movie scenes into toys. I tested with two movies I like. What are your favorites? 
-
 Prompt: <instruction>
 Toyification
 Input A is the subject photo (movie poster or movie name).
@@ -3434,7 +2455,6 @@ Output:
 
 ## [@_dailyboost](https://twitter.com/_dailyboost)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9Fq9UJbkAAnY1V?format=jpg&name=orig)
@@ -3442,10 +2462,6 @@ Output:
 ### Prompt
 
 ```
-Gemini Nano Banana Pro
-
-Prompt
-
 A cinematic, ultra-realistic gym portrait of an athletic young woman with a strong, lean physique and clearly defined abs. She is standing indoors in a modern gym after a workout, slightly sweaty, looking down at her torso while gently touching her upper abdomen/chest area as if checking muscle engagement or breathing.
 
 She is wearing a soft pink sports bra and matching pink jogger pants, minimal accessories, no visible branding. Her dark hair is tied back in a low, slightly messy bun, with a few loose strands near her face. Her skin has natural texture and a light sheen of sweat for realism.
@@ -3461,7 +2477,6 @@ Shot on a full-frame camera, 50mm lens, f/1.8, shallow depth of field, ultra-det
 
 ## [@harboriis](https://twitter.com/harboriis)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9GHtQ_a4AAYTer?format=jpg&name=orig)
@@ -3469,8 +2484,6 @@ Shot on a full-frame camera, 50mm lens, f/1.8, shallow depth of field, ultra-det
 ### Prompt
 
 ```
-Nano Banana Pro on Gemini app. 
-
 Prompt: High-quality vertical collage (3:4 ratio), three horizontal frames, cozy luxury winter style, always featuring my face from the reference photo
 
 Top: super close-up, young Russian woman, natural makeup (soft pink lips: rosy cheeks), matte glowing skin, expressive eyes, defined lashes White voluminous faux fur hood frames face, delicate snowflakes fall, dreamy snowy bokeh, vibrant yet refined colors, warm and luxurious mood. Middle: full-body from behind, same opulent light fur hooded coat, long hair flows down back. Stands on snowy riverbank, background: small wooden cabin, snow roof, evergreen trees, misty mountains, light snowfall, tactile soft fur. Bottom: side profile in car, back seat, looking out at snowy landscape. Elegant winter hat (no ears), soft scarf, luxurious car interior, fogged window, voluminous hood, soft cozy light. Face in every frame matches reference: makeup, features, and expression. Rich fur, white/beige tones, bright warm winter palette, natural lighting for dreamy snow atmosphere. Mood: cozy, luxurious, serene Collage structure highlights winter scenery, clothing details, individuality
@@ -3480,7 +2493,6 @@ Top: super close-up, young Russian woman, natural makeup (soft pink lips: rosy c
 
 ## [@harboriis](https://twitter.com/harboriis)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G87RHVgaAAAQPU_?format=jpg&name=orig)
@@ -3488,8 +2500,6 @@ Top: super close-up, young Russian woman, natural makeup (soft pink lips: rosy c
 ### Prompt
 
 ```
-Nano Banana pro on Gemini
-
 Prompt:  Hyperrealistic photograph, 8K, cinematic shot, a young woman (with my exact facial features) standing on the iconic Platform 934, awaiting the Hogwarts Express. She holds a vintage trunk, and her face shows a mix of excitement and eager anticipation. She is dressed in a detailed Hogwarts robe.
 
 The platform is bustling with other students carrying suitcases and owl cages, rushing towards the train. In the background, the famous brick wall, through which passengers are magically passing, is visible. The magnificent Hogwarts Express has already arrived, billowing thick white steam that illuminates the station with warm, glowing lights.
@@ -3501,7 +2511,6 @@ The lighting is a warm, evening glow, creating a magical and nostalgic atmospher
 
 ## [@Gdgtify](https://twitter.com/Gdgtify)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8_QhTQXIAACQ_j?format=jpg&name=orig)
@@ -3511,15 +2520,12 @@ The lighting is a warm, evening glow, creating a magical and nostalgic atmospher
 ### Prompt
 
 ```
-I turned Nano Banana Pro into a food recommendation system. This is version 0.1. Just wanted to give it one or multiple ingredients to find me dishes that use all of them. 
-
 Prompt: do this for bacon and chicken: <instructions> step 1. user enters one or more ingredients. step 2. analyze the ingredients, their taste and delicious meals that can be made with all of them. step 3. pick 4 random countries and their popular food that maybe be less known that use all these ingredients (if given one, only that, if given 2, the meal should have both those). Goal: A cookbook where ingredients and dishes emerge in delicious detail Rules: Base: A vintage cookbook with stained pages and fabric cover, historical timeline of food Scene: 3D Miniature kitchen or market scene with 3D chef & ingredients Details: Detailed and accurate food textures, steam effects, cooking implements Lighting: Warm kitchen lighting with golden hour quality Output: a 2x2 grid, each with a Single 1:1 image of the meals  with appetizing details </instructions>
 ```
 
 ---
 
 ## [@harboriis](https://twitter.com/harboriis)
-
 
 ### Images
 
@@ -3528,16 +2534,12 @@ Prompt: do this for bacon and chicken: <instructions> step 1. user enters one or
 ### Prompt
 
 ```
-Nano Banana Pro on Google Gemini
-
-Prompt:
 Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage Movie Theater Surrounded By Famous Horror Movie Villains. Im In The Center Seat, Holding A Large Buскет Of Popcorn On My Lap, Sipping A Soda Through A Straw, Looking Slightly Amused And Intrigued. My Hair Is Styled In Soft Curls, Makeup Glam Yet Natural With Glossy Lips And Subtle Shimmer On Eyelids. I'm Wearing A Stylish Oversized Leather Jacket Over A Delicate Τορ, Gold Jewelry Shining Softly In The Dim Light. Around Me Ghostface On One Side Holding Popcorn, Michael Myers Sitting Silently Behind Me, Freddy Krueger Leaning Over The Seat With A Smirk, Pennywise Grinning From The Aisle Holding A Red Balloon, And Сниску Sitting On The Armrest Near My Shoulder. Tне Тнеаter Is Dark Except For The Flickering Light From The Movie Screen İlluminating Faces With Dramatic Shadows. Тне Рното Should Feel Cinematic, Nostalgic, With Soft Film Grain, Gos Tones, And Cozy Halloween Atmosphere.
 ```
 
 ---
 
 ## [@dhumann](https://twitter.com/dhumann)
-
 
 ### Images
 
@@ -3546,20 +2548,16 @@ Create A Cinematic And Reali̇sti̇c. Halloween Photo Of Me Sitting In A Vintage
 ### Prompt
 
 ```
-Quiet Contemplation
 A portrait in a private library. 
 
 To replicate: open Nano Banana Pro on your favorite surface, upload your reference image and try the prompt below.
 
 The main subject of this image is person in the attached reference image (hereinafter referred to as THE_SUBJECT). THE_SUBJECT is wearing a black turtleneck sweater and the hair is styled professionally. Create a cinematic portrait of THE_SUBJECT sitting in a brown leather high back chair inside an elegant private library with soft dramatic lighting. The face is partly lit with warm golden sunlight coming in through a window on the left and out of view. The lighting design creates a chiaroscuro effect with small highlight areas and deep shadows contributing to a moody atmosphere. THE_SUBJECT’S expression is thoughtful and contemplative, with one hand resting on the chin. The background is softly blurred, emphasizing THE_SUBJECT’S face. The image has a clean aesthetic and relaxed mood.
-
-#NanoBananaPro
 ```
 
 ---
 
 ## [@AIwithSynthia](https://twitter.com/AIwithSynthia)
-
 
 ### Images
 
@@ -3568,17 +2566,12 @@ The main subject of this image is person in the attached reference image (herein
 ### Prompt
 
 ```
-I used my own image to create this using Nano Banana on @Somake_ai  . Create yours and show me how it goes
-
-Prompt :
-
 A cinematic fine-art studio portrait of an elegant woman seated gracefully on a carved wooden armchair, wearing a long deep red velvet dress with soft, flowing folds. Her posture is relaxed yet confident, one arm resting on the chair, expression calm and composed. Warm, painterly studio lighting highlights her natural skin tones, soft blush, defined eyes, and neutral lips, with gentle shadows adding depth. The background is dark and moody with subtle brown-green tones. Google Gemini Beside and slightly behind her, a large softly blended painterly portrait of her own face appears, realistic yet artistic, with smooth brushwork and a classic oil-painting feel. Renaissance-inspired fine-art aesthetic, cinematic realism, shallow depth of field, elegant composition, ultra-detailed textures, muted tones, high contrast, 8K quality, 1:1 aspect ratio.
 ```
 
 ---
 
 ## [@Arminn_Ai](https://twitter.com/Arminn_Ai)
-
 
 ### Images
 
@@ -3587,12 +2580,6 @@ A cinematic fine-art studio portrait of an elegant woman seated gracefully on a 
 ### Prompt
 
 ```
-Create vintage found-footage photographs that never existed with Nano Banana Pro 
-
-More ideas in the comments.
-Drop your own version in the comments, I’d love to see it 
-
-- Prompt 
 a photographic image in the style of 1870, [SCENE DESCRIPTION], with [CHARACTERS described in period-accurate clothing], [Describe the interaction].
 
 The photo has an aged and worn appearance, as it was taken in 1870. It features prominent time-induced chemical stains, heavy grain, sepia toning, and deep scratches.
@@ -3605,7 +2592,6 @@ Greatly increase the wear of the photo, including small tears, missing corners, 
 ---
 
 ## [@op7418](https://twitter.com/op7418)
-
 
 ### Images
 
@@ -3620,38 +2606,12 @@ Greatly increase the wear of the photo, including small tears, missing corners, 
 ### Prompt
 
 ```
-Nano Banana Pro Prompt:
 
-将照片放入复古诺基亚手机中，灵感来自原推，我这个会直接转换照片人像，同时增加复古 UI 增加真实感。
-
----------------------------------
-
-指令：基于附带的照片，将图像显示在复古手机的屏幕界面内，并进行特定的风格变换。
-
-画面描述：这是一张抓拍的、略微倾斜的复古诺基亚手机特写（经典直板造型，例如 6610 或类似的早期彩屏机型），手机在画面中随意地呈对角线放置。低分辨率的发光 LCD 屏幕占据了构图的主导地位，填满了大部分视野。周围坚固的塑料外壳和物理 T9 键盘/导航键的顶部区域仅部分可见，并在画面边缘被裁剪掉。
-
-屏幕内容：像素化的屏幕上显示着一个实时的“相机预览”界面：
-
-照片内容： 附带照片中的人物经过转换，身穿明显的千禧年 Y2K 流行时装（例如闪亮的金属面料、天鹅绒运动装、水钻细节或层叠网眼织物）。整个场景呈现出浓重的早期拍照手机美学：明显的像素网格（纱窗效应）、有限且略微褪色的调色板，以及块状的压缩伪影。
-
-复古 UI 叠加： 覆盖在照片视图之上的是低像素、单色的诺基亚用户界面元素。 屏幕顶部边缘：像素化的信号强度条（左）、“Camera”文字（中）、块状电池图标（右）。 屏幕底部角落：块状像素字体的软键（Soft-key）标签，左侧显示“Options”（选项），右侧显示“Back”（返回）。
-氛围与光影：屏幕发出特有的绿蓝色 LCD 背光色调，微弱的光线投射在周围的塑料边框上。整体氛围怀旧、具有互动感，且呈现出真实的低保真（Lo-fi）科技感。
-参数设置：
-
-比例： 4:5 竖幅
-
-相机视角： 复古手机屏幕微距特写，手持视角
-
-屏幕模拟： 早期 CSTN 或 TFT LCD 屏幕，可见像素颗粒，特有的绿色色偏
-UI 元素： 复古低分辨率单色像素图标和块状文字覆盖
-内容变换： 将人物服装替换为 Y2K 千禧年流行风格
-调色风格： 低饱和度冷色调，数字噪点，颜色抖动伪影，屏幕荧光
 ```
 
 ---
 
 ## [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
-
 
 ### Images
 
@@ -3662,7 +2622,6 @@ UI 元素： 复古低分辨率单色像素图标和块状文字覆盖
 ### Prompt
 
 ```
-Nano Banana Pro prompt:
 A half-body portrait of a young woman, keeping her original facial features exactly the same  no modification to face shape or details.
 She has fair glowing skin, soft blush, light brown eyes, and light natural makeup.
 Her long dark-brown wavy hair with Korean-style see-through bangs shines under bright vintage 1990s camera flash lighting.The outfit represents a youthful, stylish street look inspired by Japanese school uniform fashion — clean, trendy, and confident.
@@ -3674,7 +2633,6 @@ Keep her face and hairstyle exactly the same as the original reference.
 
 ## [@ecommartinez](https://twitter.com/ecommartinez)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9HMyVcbgAElKWT?format=jpg&name=orig)
@@ -3682,10 +2640,6 @@ Keep her face and hairstyle exactly the same as the original reference.
 ### Prompt
 
 ```
-Create viral photos with Nano Banana
-
-Prompt Gemini:
-
 Vertical bird's-eye view, ultra-realistic photograph of two dogs sitting side by side on a slightly damp urban sidewalk, dark stone cobblestones with scattered autumn leaves around them.
 One dog with deep, shiny black fur, the other with cream or ivory fur, strong and harmonious contrast.
 Both dogs look directly at the camera with a sweet and curious expression.
@@ -3697,7 +2651,6 @@ Shallow depth of field, sharp focus on the dogs, professional photography style,
 ---
 
 ## [@ttmouse](https://twitter.com/ttmouse)
-
 
 ### Images
 
@@ -3712,11 +2665,6 @@ Shallow depth of field, sharp focus on the dogs, professional photography style,
 ### Prompt
 
 ```
-作为背景墙也很不错。
-
- Nano Banana Pro Prompt：
-
-基于【参考照片人物】
 A high-quality 9:16 vertical portrait, 4k resolution. 
 **Framing:** Medium-long shot (framed from the knees up, focusing on torso and head). 
 **Subject:** The woman from the reference image, standing in 3/4 profile facing left, looking at the lens. She wears a structured black long trench coat. 
@@ -3730,7 +2678,6 @@ A high-quality 9:16 vertical portrait, 4k resolution. 
 
 ## [@AIwithkhan](https://twitter.com/AIwithkhan)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9JtFsAbgAMpwSN?format=jpg&name=orig)
@@ -3738,15 +2685,12 @@ A high-quality 9:16 vertical portrait, 4k resolution. 
 ### Prompt
 
 ```
-Studio portrait using Google Gemini Nano Banana. You can use your own photo with the prompt 
-
 A minimalist studio portrait of a woman sitting at a smooth concrete table against a soft light-gray background. She wears a black satin button-up shirt, natural makeup, and has shoulder-length brown hair with soft bangs. In front of her is a tall glass of iced latte with visible ice cubes and a straw. Beside the glass stands a small 3D chibi-style figurine version of the same woman, with a large head, big expressive eyes, rosy cheeks, and simplified features, holding a tiny iced coffee. The chibi has a glossy toy-like texture and soft shadows. Calm, cozy café vibe, cinematic soft lighting, shallow depth of field, ultra-realistic human combined with stylized 3D character, high detail, 1:1 aspect ratio.
 ```
 
 ---
 
 ## [@john_my07](https://twitter.com/john_my07)
-
 
 ### Images
 
@@ -3757,10 +2701,6 @@ A minimalist studio portrait of a woman sitting at a smooth concrete table again
 ### Prompt
 
 ```
-Nano Banana Pro on Gemini App.
-
-Prompt;
-
 Subject: Turkish girl with fair complexion walking through a crowded street  
 Pose: side pose (body facing sideways), head turned toward camera, confident soft expression  
 Focus: subject sharp + crisp, surrounding people blurred with motion blur  
@@ -3777,7 +2717,6 @@ Atmosphere: lively city energy, movement everywhere except subject
 
 ## [@lijigang](https://twitter.com/lijigang)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9F3WnTbUAEwLdV?format=jpg&name=orig)
@@ -3785,59 +2724,12 @@ Atmosphere: lively city energy, movement everywhere except subject
 ### Prompt
 
 ```
-练习之作，将画面内容部分替换为你想要的即可：
 
-────────
-
-1.  画面调性 
-   
-核心气质: 日系空气感写真, 清新唯美, 高调摄影
-
-关键词: Soft Focus, Dreamy Atmosphere, Clean Minimalism, Portrait Photography, Natural Light
-
-2. 视觉逻辑
-   
-空间构建:
-- 视角: 平视视角与微距特写混合。
-- 布局: 极简主义构图，主体突出，背景留白或弱化。
-- 景深: 浅景深，背景虚化以强调主体与环境的隔离感。
-  
-3. 视觉渲染 
-   
-成像质感:
-- 光影: 极柔和的漫射光，模拟自然窗光。无死黑阴影，整体画面通透，高光部分略微过曝营造梦幻感。
-- 材质: 细腻真实的摄影质感，但在皮肤和织物处理上带有轻微的“柔光滤镜”效果。
-- 清晰度: 边缘柔和，非锐利数字渲染，追求胶片摄影的自然颗粒感。
-  
-4. 色彩系统
-   
-核心主色:
-- Sakura Pink: #F2C4CE (作为视觉主体色，柔和粉嫩)
-- Creamy White: #F9F6F0 (作为环境基调，暖白)
-- Light Wood: #D8C6A8 (作为自然点缀，原木色)
-- 色彩逻辑: 低饱和度，高明度。整体色温偏暖，营造温馨、无害的视觉心理。
-  
-5. 负向约束
-   
-绝对禁止:
-- 严禁低调暗光、强烈的明暗对比。
-- 严禁硬边缘阴影。
-- 严禁脏旧、粗糙、赛博朋克式的噪点。
-- 严禁高饱和霓虹色或人造塑料质感。
-- 严禁二次元描边或矢量扁平化处理。
-- 严禁出现任何文字。
-
-6. 画面内容
-   
-请生成多角度特写的写真海报图：
-
-下雪天，初恋男女，在学校操场上玩闹。
 ```
 
 ---
 
 ## [@AllaAisling](https://twitter.com/AllaAisling)
-
 
 ### Images
 
@@ -3852,8 +2744,6 @@ Atmosphere: lively city energy, movement everywhere except subject
 ### Prompt
 
 ```
-Prompt Studio: Nano Banana Photographer's Contact Sheet, in Firefly
-
 A photographer's contact sheet displaying multiple exposures of [SUBJECT/SESSION]. 3x3 grid of small sequential frames with sprocket holes along the edges. Some frames are circled in red grease pencil—the selects. Others are crossed out. Handwritten notes in the margins indicate exposure settings, dates, and locations. The images progress slightly—different angles, expressions, moments. Some frames are blurred or overexposed, showing the process of finding the perfect shot. The film stock border displays Kodak or Fujifilm branding. The aesthetic is behind-the-scenes, analog, and nostalgic—the contact sheet as artifact of creative process.
 
 Check ALTs for ideas
@@ -3862,7 +2752,6 @@ Check ALTs for ideas
 ---
 
 ## [@sundyme](https://twitter.com/sundyme)
-
 
 ### Images
 
@@ -3873,8 +2762,6 @@ Check ALTs for ideas
 ### Prompt
 
 ```
-一句话改成了 3D 版，搞笑表情包生成模板。
-提示词模板：
 Create a high-quality 3D rendered anthropomorphic mascot character in a cute cartoon style inspired by Kakao Friends/LINE Friends. A cute [角色类型] character in [场景描述], [动作描述], [表情描述], detailed 3D rendering with smooth textures, soft lighting, vibrant colors, kawaii aesthetic, large head and small body proportions, clean white background with subtle shadows.
 
 Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matches the 3D character design - bold, rounded, colorful letters with a kawaii aesthetic.
@@ -3886,7 +2773,6 @@ Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matche
 
 ## [@john_my07](https://twitter.com/john_my07)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9Fq0jHa0AEcuq1?format=jpg&name=orig)
@@ -3896,18 +2782,12 @@ Add Chinese text overlay: \"[文案]\" in a cute, playful font style that matche
 ### Prompt
 
 ```
-Nano Banana Pro on Gemini App.
 
-Prompt:
-
-girl same as reference, standing and posing confidently on a modern busy street at night, wearing bold attractive outfit: fitted jeans + stylish top + cropped blazer jacket, minimal lighting with soft spotlight focused on her, everything around is motion-blurred, cars and people blurred, shallow depth of field, sharp detail only on her face and outfit, cinematic bokeh background, realistic skin texture, natural expression, high-resolution, ultra-realistic, 4k, portrait photography style, street fashion editorial look, moody night ambience
---ar 2:3 --v 5 --style realistic --camera 85mm --depth-of-field strong
 ```
 
 ---
 
 ## [@umesh_ai](https://twitter.com/umesh_ai)
-
 
 ### Images
 
@@ -3922,13 +2802,12 @@ girl same as reference, standing and posing confidently on a modern busy street 
 ### Prompt
 
 ```
-Prompt on Nano Banana Pro : An image of a [TYPE] landscape, featuring a cave entrance that is shaped exactly like the outline of a [SHAPE]. The cave should blend naturally into the rugged terrain of the mountain, with the entrance forming a clear and unmistakable [SHAPE] shape. This [SHAPE] shape should be simple and defined, without intricate details, emphasizing just the overall [SHAPE] outline. The surrounding environment should include [DETAILS], but these elements should not distract from the cave's   [SHAPE]-shaped entrance. The lighting in the scene should enhance the visibility and distinctiveness of the [SHAPE]-shaped cave entrance.
+
 ```
 
 ---
 
 ## [@sundyme](https://twitter.com/sundyme)
-
 
 ### Images
 
@@ -3937,10 +2816,6 @@ Prompt on Nano Banana Pro : An image of a [TYPE] landscape, featuring a cave ent
 ### Prompt
 
 ```
-Nano banana prompt share
-一个新鲜出炉的可爱动物表情包，从此实现表情包自由！
-
-提示词模板：
 Create a funny anthropomorphic mascot character in Kakao Friends/LINE Friends style. A cute [动物角色] doing [搞笑动作/表情], [情绪状态描述], thick bold black outlines, flat vector illustration, 2D style, solid vibrant colors, minimal shading, no gradients, kawaii aesthetic, large head and small body (chibi proportions), minimalist facial features, sticker art aesthetic, clean simple white background.
 Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that matches the character design - bold, rounded, colorful letters with a kawaii aesthetic.
 1:1 aspect ratio 
@@ -3952,7 +2827,6 @@ Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that ma
 
 ## [@oggii_0](https://twitter.com/oggii_0)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9JhsH7aIAAbzhs?format=jpg&name=orig)
@@ -3960,15 +2834,12 @@ Add Chinese text overlay: "[俏皮文案]" in a cute, playful font style that ma
 ### Prompt
 
 ```
-Nano Banana pro on Gemini app.
-
 Prompt: A close-up profile portrait of a young woman with her eyes closed and a calm, serene expression. She has a fair complexion with rosy cheeks and long dark brown hair with bangs. She is wearing a light brown teddy faux-fur coat and surreal headphones, where the ear cups are made of white clouds with a brown leather headband. The background is a softly blurred bright blue sky with clouds. The lighting is bright, natural daylight, creating a soft and airy feel. The image has a shallow depth of field with sharp focus on her face, in a dreamy, artistic, surreal, photorealistic style.
 ```
 
 ---
 
 ## [@r4jjesh](https://twitter.com/r4jjesh)
-
 
 ### Images
 
@@ -3983,10 +2854,6 @@ Prompt: A close-up profile portrait of a young woman with her eyes closed and a 
 ### Prompt
 
 ```
-Gemini nano banana pro / Grok 
-
-Prompt :
-
 {
   "quality": "hyper-realistic 8k",
   "shot": "medium shot",
@@ -4004,7 +2871,6 @@ Prompt :
 
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8XJ2UiaMAAvcSu?format=jpg&name=orig)
@@ -4018,21 +2884,12 @@ Prompt :
 ### Prompt
 
 ```
-City / Country / Landmark / Environment, etched in a single leaf.
-
-Gemini Nano Banana Pro Prompt:
-
-Inspired by leaf-cutout art, depict [city / country / landmark / environment] carved into a single complete [leaf type].
-Architectural forms, terrain, and symbolic elements emerge through organic hollow cutouts, seamlessly connected by natural vein structures. 
-The leaf surface glistens with dew under soft sunlight, creating subtle depth and contrast.
-Background remains a softly blurred natural setting with harmonious bokeh.
 Cinematic macro perspective, botanical realism, ultra-detailed.
 ```
 
 ---
 
 ## [@Sheldon056](https://twitter.com/Sheldon056)
-
 
 ### Images
 
@@ -4047,15 +2904,12 @@ Cinematic macro perspective, botanical realism, ultra-detailed.
 ### Prompt
 
 ```
-Nano Banana Pro on Gemini app
-
 A hyper-detailed geometric papercraft sculpture of [NAME], created using layered colored cardstock with precise angular folds and clean cut edges. Facial features are stylized using polygonal planes, with subtle shading formed naturally by paper layering. Hair, beard, and clothing are constructed from stacked strips and folded shapes for depth and realism. The figure is displayed against a clean neutral background with soft diffused lighting, highlighting the craftsmanship and texture. Sharp macro focus, studio photography aesthetic, 1080×1080.
 ```
 
 ---
 
 ## [@GaganSingh8u](https://twitter.com/GaganSingh8u)
-
 
 ### Images
 
@@ -4064,16 +2918,12 @@ A hyper-detailed geometric papercraft sculpture of [NAME], created using layered
 ### Prompt
 
 ```
-Gemini Nano Banana Pro
 
-Prompt:
-Girl from the attached picture is sitting in the thinking mode on the chair infront of her study table with books open infront of her, she has 2 good and evil sides of her with exactly same looking like her sitting at her left and right shoulder, where good side who is looking like an Angel is conveincing her for study by a thinking cloud in which study books and success image appearing but on the other hand the evil side of her is suggesting to party and have fun in her side of thinking
 ```
 
 ---
 
 ## [@saniaspeaks_](https://twitter.com/saniaspeaks_)
-
 
 ### Images
 
@@ -4082,8 +2932,6 @@ Girl from the attached picture is sitting in the thinking mode on the chair infr
 ### Prompt
 
 ```
-Nano banana Pro on Gemini app.
-
 {
   "prompt": "A close-up photograph of a young woman with long brown wavy hair, looking over her left shoulder towards the camera. Warm sunlight streams through window blinds to her left, casting distinct horizontal shadow lines across her face, shoulder, and hair. She has brown eyes and her lips are slightly parted. She is wearing a yellow spaghetti strap top. The background is an out-of-focus wall and the window with blinds. The lighting is golden and warm."
 }
@@ -4092,7 +2940,6 @@ Nano banana Pro on Gemini app.
 ---
 
 ## [@umesh_ai](https://twitter.com/umesh_ai)
-
 
 ### Images
 
@@ -4103,15 +2950,12 @@ Nano banana Pro on Gemini app.
 ### Prompt
 
 ```
-Nano Banana Pro just upgraded this prompt!
 
-Prompt : A digital illustration of a [SUBJECT], portrayed with a network of glowing clean pristine blue lines outlining its anatomy. The image is set against a dark background, highlighting the [SUBJECT] form and features. A specific area such as [PART] is emphasized with a red glow to indicate a point of interest or significance. The style is both educational and visually captivating, designed to resemble an advanced imaging technique
 ```
 
 ---
 
 ## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
 
 ### Images
 
@@ -4122,31 +2966,12 @@ Prompt : A digital illustration of a [SUBJECT], portrayed with a network of glow
 ### Prompt
 
 ```
-节日主题的3D城市微缩，基于原提示词增加了节日模板
 
-Nano Banana Pro Prompt:
-
-呈现一个清晰的、45°俯视的等距 3D 微缩卡通场景，描绘【城市】 的经典建筑或景点，并将其置于构图的中心。
-用【节日】对应的装饰品、闪烁的灯光和合适的【季节，默认冬季】或节日细节，将城市描绘成充满节日气氛的【节日】主题。
-使用柔和细腻的纹理、逼真的 PBR 材质和柔和逼真的光照，并营造微妙的阴影效果。
-制作一个边缘整齐的小型立体模型式城市底座。
-使用干净的【节日】背景色，与场景形成鲜明对比。
-在顶部中央，以粗体大字显示文字【城市】。
-在其正下方，以中等字体显示“【节日】特刊”。
-（可选）在文本下方放置一个小的方形国旗图标。
-所有文字必须自动与背景对比度（白色或黑色）匹配。
-构图：完美居中，1080×1080正方形，超简洁的节日立体模型美学
-
-城市：上海
-节日：元旦节
-
-https://x.com/TechieBySA/status/2003053984454734030?s=20…
 ```
 
 ---
 
 ## [@andrew88collins](https://twitter.com/andrew88collins)
-
 
 ### Images
 
@@ -4157,15 +2982,11 @@ https://x.com/TechieBySA/status/2003053984454734030?s=20…
 ### Prompt
 
 ```
-I used @muset_ai to create a 2025 year-in-review for @writing_tips . Here’s the prompt I used:
-
-Create an annual summary for the account https://x.com/writing_tips, and use Nano Banana Pro to generate a visual that highlights the account’s standout moments and makes the key strengths instantly eye-catching. Color palette options: • Black + Ivory + Champagne Gold • Cool Black + Cool White + Bright Gold • Blue + White + Red • Green + White + Red
 ```
 
 ---
 
 ## [@lexx_aura](https://twitter.com/lexx_aura)
-
 
 ### Images
 
@@ -4176,9 +2997,6 @@ Create an annual summary for the account https://x.com/writing_tips, and use Nan
 ### Prompt
 
 ```
-Nano Banana Pro 3.0
-
-Prompt:
 {
   "image_request": {
     "style": "Cinematic black and white noir portrait",
@@ -4205,7 +3023,6 @@ Prompt:
 
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9JCnmqbUAApnGx?format=jpg&name=orig)
@@ -4219,17 +3036,12 @@ Prompt:
 ### Prompt
 
 ```
-Ordinary Object, Extraordinary Festival
-
-Gemini Nano Banana Pro Prompt:
-
 A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormous [EVERYDAY_OBJECT]. Paper lanterns strung on wire, confetti made from magazine scraps, warm ambient city-bokeh background, shallow depth of field, cinematic wide-angle close-up, vibrant saturated palette, tactile fabric and wood textures.
 ```
 
 ---
 
 ## [@linxiaobei888](https://twitter.com/linxiaobei888)
-
 
 ### Images
 
@@ -4238,20 +3050,12 @@ A band of tiny [CHARACTERS] throwing a colorful festival on the rim of an enormo
 ### Prompt
 
 ```
-非常喜欢这种极简留白的菜单，看着就很有食欲
 
-尝试用复刻了下，感觉还行，拿去给商家做几张图应该很不错
-
-Nano Banana Pro Prompt:
-一张高角度商业美食摄影照片，展示了[天妇罗]盛放在极简风格的透明玻璃盘中，配有一小玻璃碗酱油和一碗芥末。旁边放着两只筷子，背景为纯净的奶油米白色，留有充足的留白。左侧叠加了时尚的黑色无衬线字体排版，简单介绍了菜品名称、价格和搭配说明。右上角有一个极简的小Logo。采用柔和的摄影棚布光，逼真的柔和阴影，具有时尚杂志的编辑风格。该设计以优质纸张背景填满整个 16:9 画面，采用大师级平面设计，配有精致的中式排版、极其克制的植物图案和精致优雅的光线，营造出一种空灵、奢华、精致的氛围，具有最大的精致感和考究感
-
-https://x.com/4AAAAart/status/2000599231451861496?s=20…
 ```
 
 ---
 
 ## [@umesh_ai](https://twitter.com/umesh_ai)
-
 
 ### Images
 
@@ -4260,13 +3064,12 @@ https://x.com/4AAAAart/status/2000599231451861496?s=20…
 ### Prompt
 
 ```
-Prompt on Nano Banana Pro : photorealistic image of a white egg with cracks forming the basic simple cracked outline of a [SHAPE] shape . The egg should appear freshly cracked, with sharp, clean lines defining the simple shape of the [SHAPE] outline. Emphasize the contrast between the smooth, intact surface of the egg and the jagged edges of the cracks against a dark background.
+
 ```
 
 ---
 
 ## [@oggii_0](https://twitter.com/oggii_0)
-
 
 ### Images
 
@@ -4275,15 +3078,12 @@ Prompt on Nano Banana Pro : photorealistic image of a white egg with cracks form
 ### Prompt
 
 ```
-Nano Banana Pro on Gemini App.
-
 Prompt: This high-resolution bird's-eye view photograph was taken with a LOMO Ic-a. The ground is covered with countless black-and-white billboard advertisements of beautiful fashion models, and standing on top of the advertisements is an incredibly beautiful Japanese film actress wearing a long black coat.
 ```
 
 ---
 
 ## [@FutureVibesAi](https://twitter.com/FutureVibesAi)
-
 
 ### Images
 
@@ -4292,7 +3092,6 @@ Prompt: This high-resolution bird's-eye view photograph was taken with a LOMO Ic
 ### Prompt
 
 ```
-Nano Banana Pro Prompt Share 
 Ultra-detailed macro photography of a tiny cartographer standing on a human palm, drawing an antique map that follows the natural palm lines as rivers and borders. Old parchment maps, compass tools, warm studio lighting, shallow depth of field, surreal realism.
 Image by @ImagineArt_X 
 Video by @grok Imagine
@@ -4301,7 +3100,6 @@ Video by @grok Imagine
 ---
 
 ## [@aleenaamiir](https://twitter.com/aleenaamiir)
-
 
 ### Images
 
@@ -4316,17 +3114,12 @@ Video by @grok Imagine
 ### Prompt
 
 ```
-Object Turned Civilization
-
-Gemini Nano Banana Pro Prompt:
-
 A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE / SOCIETY] build homes, roads, markets, and infrastructure directly into the object’s structure. Photoreal materials, lived-in wear, soft daylight, wide cinematic perspective with deep storytelling.
 ```
 
 ---
 
 ## [@Sheldon056](https://twitter.com/Sheldon056)
-
 
 ### Images
 
@@ -4341,15 +3134,12 @@ A colossal [EVERYDAY OBJECT] reimagined as a fully inhabited city. Tiny [PEOPLE 
 ### Prompt
 
 ```
-Nano Banana Pro on Gemini app.
-
 A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frosting platform. Details include hand-sculpted clothing, expressive fondant face, glitter dust highlights, and mini edible props referencing their personality. Soft bakery background, warm pastel tones, shallow DOF, 1080×1080.
 ```
 
 ---
 
 ## [@AllaAisling](https://twitter.com/AllaAisling)
-
 
 ### Images
 
@@ -4364,17 +3154,12 @@ A hyperrealistic edible fondant cake topper of [NAME], sitting on a tiny frostin
 ### Prompt
 
 ```
-Prompt Studio: Liquid Pour Product Photography
 
-[PRODUCT] with [liquid: honey, oil, paint, milk] being poured over it, captured at moment of contact, dripping and coating surface, viscous flow frozen in time, studio lighting revealing liquid texture, sensory product photography, indulgent aesthetic
-
-Check ALTs for ideas
 ```
 
 ---
 
 ## [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
-
 
 ### Images
 
@@ -4383,8 +3168,6 @@ Check ALTs for ideas
 ### Prompt
 
 ```
-Gemini Nano Banana Prompt
-
 {
   "aspect_ratio": "4:5",
   "meta_data": {
@@ -4399,7 +3182,6 @@ Gemini Nano Banana Prompt
 
 ## [@Sheldon056](https://twitter.com/Sheldon056)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G8a_ewYakAETk2Y?format=jpg&name=orig)
@@ -4413,15 +3195,12 @@ Gemini Nano Banana Prompt
 ### Prompt
 
 ```
-Nano Banana Pro on Gemini app.
-
 Prompt: A vibrant fantasy-style soda commercial where a playful young man surfs an energetic orange soda wave exploding from a cold Fanta can. Juicy orange slices, bubbly liquid arcs, exaggerated motion, warm sunlight, colorful gradient background,
 ```
 
 ---
 
 ## [@Taaruk_](https://twitter.com/Taaruk_)
-
 
 ### Images
 
@@ -4430,19 +3209,12 @@ Prompt: A vibrant fantasy-style soda commercial where a playful young man surfs 
 ### Prompt
 
 ```
-Gemini Nano Banana pro image generation.
-Prompt {
-  "Objective": "Generate an ultra-realistic close-up portrait with a minimalist, modern editorial fashion test shoot aesthetic.",
-  "Persona_Details": {
-    "Subject": "Young adult man",
-    "Facial_Features": {
-      "Skin_Tone":
+
 ```
 
 ---
 
 ## [@Samann_ai](https://twitter.com/Samann_ai)
-
 
 ### Images
 
@@ -4457,22 +3229,12 @@ Prompt {
 ### Prompt
 
 ```
-Upload your photo 
- Paste the prompt into Nano Banana Pro (Gemini)
- Your Christmas selfie is ready 
-………….
-Grab your friends  Try Supawork AI’s newest Christmas effects — no skills, just vibes.
-Up to 30% OFF 
- http://supawork.ai/christmas?utm_source=xpost_20251223…
-…………
 
-Prompt
 ```
 
 ---
 
 ## [@kaanakz](https://twitter.com/kaanakz)
-
 
 ### Images
 
@@ -4485,11 +3247,6 @@ Prompt
 ### Prompt
 
 ```
-Nano Banana Pro Couple Prompt
-( 2 reference images )
-
-Thanks for the prompt @miilesus super inspiring
-
 {
   "subject_and_scene": {
     "main_subject": "A power couple for a high-fashion cover. The woman (uploaded_image_1) is elegant with glowing skin, winking and making a playful
@@ -4498,7 +3255,6 @@ Thanks for the prompt @miilesus super inspiring
 ---
 
 ## [@_MehdiSharifi_](https://twitter.com/_MehdiSharifi_)
-
 
 ### Images
 
@@ -4509,10 +3265,6 @@ Thanks for the prompt @miilesus super inspiring
 ### Prompt
 
 ```
-Nano Banana Pro | Gemini 3.0
-
-- Platform: @eachlabs 
-
 {
   "objective": "Generate a hyper-realistic black and white dynamic street fashion photograph."
   "image_type": "photography",
@@ -4525,7 +3277,6 @@ Nano Banana Pro | Gemini 3.0
 
 ## [@kingofdairyque](https://twitter.com/kingofdairyque)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G607H8jawAADY9e?format=jpg&name=orig)
@@ -4533,8 +3284,6 @@ Nano Banana Pro | Gemini 3.0
 ### Prompt
 
 ```
-Prompt for nano banana pro:
-
 {
   "title": "High-Contrast Monochrome Side-Profile Rim-Lit Portrait (use user face reference)",
   "model": "stable-diffusion-xl-v1-0", 
@@ -4547,7 +3296,6 @@ Prompt for nano banana pro:
 
 ## [@Just_sharon7](https://twitter.com/Just_sharon7)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9JsX8UbsAAuiJI?format=jpg&name=orig)
@@ -4557,10 +3305,6 @@ Prompt for nano banana pro:
 ### Prompt
 
 ```
-Google Gemini Nano Banana pro 3.0 and Grok imagine 
-
-Prompt
-
 {
   "subject": {
     "person": {
@@ -4574,7 +3318,6 @@ Prompt
 
 ## [@NanoInspirate](https://twitter.com/NanoInspirate)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9GdJ2AWIAAXom6?format=jpg&name=orig)
@@ -4582,8 +3325,6 @@ Prompt
 ### Prompt
 
 ```
-Google Gemini Nano Banana pro 3.0  
-
 {
   "prompt_description": {
     "subject": "A young adult woman with fair skin, appearing to be in her early 20s.",
@@ -4594,7 +3335,6 @@ Google Gemini Nano Banana pro 3.0
 
 ## [@Emmalaurent0](https://twitter.com/Emmalaurent0)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9H63x3XgAAuExT?format=jpg&name=orig)
@@ -4604,8 +3344,6 @@ Google Gemini Nano Banana pro 3.0
 ### Prompt
 
 ```
-#StrangerThings  #StrangerThings5 nano banana pro prompt: 
-
 {
   "meta": {
     "aspect_ratio": "9:16",
@@ -4619,7 +3357,6 @@ Google Gemini Nano Banana pro 3.0
 
 ## [@JadoonKhan281](https://twitter.com/JadoonKhan281)
 
-
 ### Images
 
 ![Image 1](https://pbs.twimg.com/media/G9GdYqdaoAAEOW2?format=jpg&name=orig)
@@ -4631,9 +3368,6 @@ Google Gemini Nano Banana pro 3.0
 ### Prompt
 
 ```
-Gemini Nano Banana Pro 3.0  
-
-Prompt: 
 {
   "scene_description": {
     "setting": "Cozy coastal countryside living room, relaxed family holiday gathering",
@@ -4643,7 +3377,6 @@ Prompt:
 ---
 
 ## [@r4jjesh](https://twitter.com/r4jjesh)
-
 
 ### Images
 
@@ -4658,13 +3391,8 @@ Prompt:
 ### Prompt
 
 ```
-Try in Gemini nano banana / Grok
-
-Prompt : 
-
 {
   "prompt": "Photorealistic cinematic candid portrait, morning outdoors near the Eiffel Tower in Paris. Dynamic diagonal tracking shot with the camera tilted 25 degrees, front-side low angle. A stylish person wearing a light beige
 ```
 
 ---
-
