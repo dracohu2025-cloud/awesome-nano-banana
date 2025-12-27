@@ -7337,3 +7337,31 @@ This image was created by me using Gemini Nano Banana 3.0
 Prompt:-
 Ultra-realistic premium beverage product photography of a chilled aluminum soda can standing upright at the center of the frame, featuring a glossy deep-pink metallic body covered in condensation droplets, with a
 ```
+
+---
+
+## Case: twitter-2004596918270546064
+
+**Author:** [@datasci_info](https://twitter.com/datasci_info)
+**Tweet:** [View Original](https://x.com/datasci_info/status/2004596918270546064)
+**Scraped:** 2025-12-27T02:59:04.021Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9HCRVEbgAALrHH?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9HCRZlbgAISsAr?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9HCRcYaMAAPyEI?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9HCRhKbgAAVXbX?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano banana pro on @higgsfield_ai 
+
+Prompt  
+
+A hyper-realistic macro photograph of a tiny artist sitting on a miniature stool, carefully painting an ultra-detailed portrait of [subject] on the surface of a giant human fingernail. The [subject] is instantly recognizable,
+```
