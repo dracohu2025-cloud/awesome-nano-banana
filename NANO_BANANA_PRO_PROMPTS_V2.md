@@ -8794,3 +8794,23 @@ Prompt 4:
 "Mid-body shot of a woman in a flowing, The woman is wearing a traditional yellow-beige Rajasthani lehenga with silver gota-patti work, matching dupatta over the head, jewellery, bangles. The background features Ad Deir (The Monastery) at Petra, Jordan, carved into a towering sandstone mountain during the golden hour. The wind is catching the fabric of her dress, creating a dramatic motion effect. She is wearing large ornate gold statement earrings and stacked gold bracelets Cinematic lighting with warm, orange sunset hues, high resolution, 8k.
 Create this referance image image id and face shuld not be changed at all."
 ```
+
+---
+
+## Case: twitter-2004772982263349547
+
+**Author:** [@amanxdesign](https://twitter.com/amanxdesign)
+**Tweet:** [View Original](https://x.com/amanxdesign/status/2004772982263349547)
+**Scraped:** 2025-12-27T05:25:20.442Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G87uEeqaQAAVexW?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Nano Banana Pro Prompt 
+{
+  "description": "Candid lifestyle image of the *same model* wearing the exact same olive short dress from the reference — identical neckline, waist seam, and fit. The outfit is styled casually with a chunky off-white knit cardigan draped
+```
