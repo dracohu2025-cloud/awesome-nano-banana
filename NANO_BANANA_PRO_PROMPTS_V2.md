@@ -5789,3 +5789,44 @@ Prompt :
 
 A cinematic fine-art studio portrait of an elegant woman seated gracefully on a carved wooden armchair, wearing a long deep red velvet dress with soft, flowing folds. Her posture is relaxed yet confident, one arm resting on the chair, expression calm and composed. Warm, painterly studio lighting highlights her natural skin tones, soft blush, defined eyes, and neutral lips, with gentle shadows adding depth. The background is dark and moody with subtle brown-green tones. Google Gemini Beside and slightly behind her, a large softly blended painterly portrait of her own face appears, realistic yet artistic, with smooth brushwork and a classic oil-painting feel. Renaissance-inspired fine-art aesthetic, cinematic realism, shallow depth of field, elegant composition, ultra-detailed textures, muted tones, high contrast, 8K quality, 1:1 aspect ratio.
 ```
+
+---
+
+## Case: twitter-2000631597335302484
+
+**Author:** [@NanoBanana_labs](https://twitter.com/NanoBanana_labs)
+**Tweet:** [View Original](https://x.com/NanoBanana_labs/status/2000631597335302484)
+**Scraped:** 2025-12-27T01:58:01.649Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8Or1ZAWoAc6khh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8Or1efW4AkGWEU?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G8Or1ZgWAAEH6ly?format=jpg&name=orig)
+
+### Prompt
+
+```
+ EXPENSIVE PHOTOSHOOT FOR FREE
+
+Copy the prompt below and CREATE YOUR OWN PHOTO LIKE THIS  with Nano Banana Pro
+
+Bookmark  this now and recreate this with your selfie later.
+
+How to:
+ 1) Download the Gemini app from the Play Store or App Store.
+ 2) Open the app and tap on the " Create image" button.
+ 3) Tap the + icon, click Gallery, and select a photo of yourself.
+   > Note: For best results, use a photo where your face fills about 70% of the screen.
+ 4) Go to the @NanoBanana_Labs page, pick a photo you like, and copy the text prompt from that photo's description.
+ 5) Return to the Gemini app and paste that text into the "Describe your image" box.
+ Tap the rocket symbol  in the bottom right corner to generate your image.
+
+Follow @NanoBanana_labs for daily AI glow-ups & viral prompts  . Power of artificial intelligence, discover with nano banana pro
+
+Prompt 
+A cozy indoor photo shows the person attached in the uploaded reference image (keep the face 100% accurate) resting their forehead on a rainy window. They smile softly as droplets slide down the glass. Warm room light glows behind them.
+Aspect ratio 4:5
+```
