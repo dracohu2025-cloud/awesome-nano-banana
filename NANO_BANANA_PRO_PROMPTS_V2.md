@@ -4,6 +4,37 @@
 
 ---
 
+## Case: twitter-2005037223159464192
+
+**Author:** [@sarahtaylorai](https://twitter.com/sarahtaylorai)
+**Tweet:** [View Original](https://x.com/sarahtaylorai/status/2005037223159464192)
+**Scraped:** 2025-12-28T01:31:03.403Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9M9uP4WEAAiU7T?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro 
+
+Prompt:
+
+{
+  "image_type": "photograph",
+  "scene": {
+    "setting": "urban street cafe",
+    "location_style": "European city street",
+    "time_of_day": "daytime",
+    "weather": "clear with scattered clouds"
+  },
+  "subject": {
+    "count": 1,
+```
+
+---
+
 ## Case: twitter-2005041248915087825
 
 **Author:** [@AllaAisling](https://twitter.com/AllaAisling)
