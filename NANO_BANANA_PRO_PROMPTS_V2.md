@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2004917402300285064
+
+**Author:** [@oggii_0](https://twitter.com/oggii_0)
+**Tweet:** [View Original](https://x.com/oggii_0/status/2004917402300285064)
+**Scraped:** 2025-12-28T01:36:11.592Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Llv8JbgAkWZLE?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro.
+
+Prompt: A close-up portrait of a young woman with her eyes closed and a calm, peaceful expression. She has fair skin with rosy cheeks, soft pink lips, and dark brown hair with straight bangs. She’s wearing a cream-colored teddy faux-fur coat over a white
+```
+
+---
+
 ## Case: twitter-2004918440809595298
 
 **Author:** [@Gdgtify](https://twitter.com/Gdgtify)
