@@ -4,6 +4,39 @@
 
 ---
 
+## Case: twitter-2005087845552456024
+
+**Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
+**Tweet:** [View Original](https://x.com/servasyy_ai/status/2005087845552456024)
+**Scraped:** 2025-12-28T02:17:05.893Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9OAE2ZbgAEOhtF?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9OAtliboAAQqiB?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Lj3Y9W0AItgr1?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9Lj3Y-WYAAc38G?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9Lj3Y9XMAErZ2m?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9Lj3ZHWgAANVqx?format=jpg&name=orig)
+
+### Prompt
+
+```
+大佬的提示词就是牛！
+
+稍微改了一版：
+Professional hyperrealistic cinematic close-up photograph, 8K HDR, ultra-detailed, shot on Canon EOS R5 with 85mm f/1.4 lens, razor-sharp focus on the smoldering cigarette, cinematic depth of field with creamy bokeh, dramatic chiaroscuro lighting with subtle volumetric god rays and soft lens flares, a mesmerizing surreal scene where the dense swirling tobacco smoke rising from the smoldering cigarette naturally and organically coalesces, twists, curls and sculpts itself into the faint, ethereal silhouette of a miniature full-body Grim Reaper — a delicate, ghostly phantom made entirely of soft, translucent layers of cigarette smoke, no solid form, no eyes, no bones, no cloak fabric, only a fragile veil of wispy gray-white tobacco smoke that vaguely outlines a tiny hooded silhouette, the figure is very small, approximately one quarter the size of the cigarette tip, floating elegantly just above the cigarette in miniature scale, almost dissolving at the edges, semi-transparent and weightless, tiny skeletal hands suggested by thin curling smoke tendrils, the miniature massive curved scythe faintly traced by denser, flowing smoke lines in reduced scale, highly detailed menacing yet fragile pure-smoke grim reaper phantom in small compact size, the dense swirling tobacco smoke perfectly defines every subtle contour in miniature form, smoke density variation, wisp texture and ghostly pose at tiny scale, as if the smoke itself possesses consciousness, artistic intent and life force, delicate tendrils and wisps curling into intricate details at reduced size, soft iridescent blue-gray glimmers and subtle internal glow where light interacts with the smoke layers, ethereal, haunting and impossibly poetic, almost vanishing into the air at the edges. The scene background is perfectly and thematically matched to the smoldering cigarette's essence — dim urban night rooftop with flickering neon reflections from distant skyscrapers, wet asphalt glow under cold moonlight, faint city hum in the air, moody atmospheric darkness enhancing the surreal, fragile emergence of the pure-smoke phantom figure in miniature scale without overpowering it, romantic, mysterious and deeply unsettling atmosphere, ultra-high micro-detail on both the real cigarette and the formed smoke-constructed phantom in tiny scale, photorealistic yet impossibly artistic, award-winning conceptual fine-art product & surrealism photography style, emotional depth of quiet dread and ephemeral existence captured in a single frozen moment. ar9:16
+
+solid body, opaque figure, thick smoke, heavy cloak, flesh, skin, bones, eyes, pupils, glowing sockets, realistic anatomy, extra limbs, deformed, bad proportions, cartoon, anime style, 3d render, cgi, plastic look, waxy, doll-like, overexposed, underexposed, harsh shadows, cluttered, noisy, grainy, jpeg artifacts, flat lighting, boring composition, visible edges, sharp outlines, no ethereal quality, text, watermark, signature, large figure, oversized phantom, big grim reaper
+```
+
+---
+
 ## Case: twitter-2004749302091112835
 
 **Author:** [@kingofdairyque](https://twitter.com/kingofdairyque)
