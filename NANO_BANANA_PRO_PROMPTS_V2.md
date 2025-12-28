@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2004760398923518324
+
+**Author:** [@GaganSingh8u](https://twitter.com/GaganSingh8u)
+**Tweet:** [View Original](https://x.com/GaganSingh8u/status/2004760398923518324)
+**Scraped:** 2025-12-28T01:40:52.220Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8_Dz-fbAAAYO9M?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro
+
+Prompt:
+{
+  "input_type": "image_to_image",
+  "target_image": "UPLOAD_IMAGE_HERE",
+  "prompt": "Use the uploaded photo strictly as a facial identity reference and preserve the exact face, hair, and facial proportions with high accuracy. Create a
+```
+
+---
+
 ## Case: twitter-2004764301463282165
 
 **Author:** [@Maercihh](https://twitter.com/Maercihh)
