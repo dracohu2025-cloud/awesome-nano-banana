@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2004765585281061249
+
+**Author:** [@Kashberg_0](https://twitter.com/Kashberg_0)
+**Tweet:** [View Original](https://x.com/Kashberg_0/status/2004765585281061249)
+**Scraped:** 2025-12-28T01:40:41.730Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JbpQ6bkAA166F?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro 
+
+Prompt:
+
+A cinematic wide-angle shot of a black BMW on an empty desert highway, drifting and producing thick white tire smoke. In the foreground, a man in full black racing gear and a black helmet stands confidently with arms spread wide in a Batman-like pose, emerging through the smoke. Golden sand dunes stretch across the background with distant rocky mountains, clear blue sky, harsh midday sunlight, dramatic shadows on cracked asphalt, ultra-realistic, high contrast, sharp focus, cinematic photography, 8K detail, motion and power aesthetic.
+```
+
+---
+
 ## Case: twitter-2004792750013858004
 
 **Author:** [@WuxiaRocks](https://twitter.com/WuxiaRocks)
