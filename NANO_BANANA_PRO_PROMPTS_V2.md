@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2004833038623273284
+
+**Author:** [@MidjourneyGS](https://twitter.com/MidjourneyGS)
+**Tweet:** [View Original](https://x.com/MidjourneyGS/status/2004833038623273284)
+**Scraped:** 2025-12-28T01:38:42.563Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KZBikbgAApMeR?format=jpg&name=orig)
+
+### Prompt
+
+```
+NANO BANANA PRO  
+
+ Optimized X Post – Cinematic Gaming AI Prompt
+ Turn Your Photo into a Cinematic Gaming Movie Scene with AI 
+With this prompt, you can transform your own photo into a hyper-realistic, cinematic movie theater scene, surrounded by iconic video game
+```
+
+---
+
 ## Case: twitter-2004834885492728292
 
 **Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
