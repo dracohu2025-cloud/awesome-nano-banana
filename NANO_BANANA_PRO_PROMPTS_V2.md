@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2004899949977501788
+
+**Author:** [@jw660227](https://twitter.com/jw660227)
+**Tweet:** [View Original](https://x.com/jw660227/status/2004899949977501788)
+**Scraped:** 2025-12-28T01:36:36.547Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LV4EsaQAAns7f?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana pro
+prompt 
+
+A stylish woman wearing a black fedora and white shirt stands against a soft neutral studio background, holding a wooden frame. Inside the frame is a photo watercolor portrait of herself, painted with loose brushstrokes, soft ink bleeds, and expressive splashes. The watercolor version tilts slightly, with vivid red lips and delicate facial details. Google Gemini Cinematic studio lighting, shallow depth of field, elegant editorial fashion aesthetic, fine art photography blended with watercolor illustration, ultra-high resolution, minimal composition, calm and sophisticated mood. A minimal and chic handwritten signature 'Willy' is in the bottom-right corner.
+#prompt #woman #portrait #illustration
+```
+
+---
+
 ## Case: twitter-2004916051809894869
 
 **Author:** [@shushant_l](https://twitter.com/shushant_l)
