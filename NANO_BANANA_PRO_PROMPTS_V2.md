@@ -4,6 +4,69 @@
 
 ---
 
+## Case: twitter-2004967494508052997
+
+**Author:** [@JohnnyWang8802](https://twitter.com/JohnnyWang8802)
+**Tweet:** [View Original](https://x.com/JohnnyWang8802/status/2004967494508052997)
+**Scraped:** 2025-12-28T01:33:46.729Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9MTC2LaMAAT_dD?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro Prompt in @tryclova ：
+
+{
+  "intent": "A conceptual monochromatic portrait featuring a high-contrast interaction between human features and handwritten text, emulating the aesthetic of a scanned silver-halide film photograph.",
+  "frame": {
+    "aspect_ratio": "2:3 vertical portrait",
+    "composition": "Tight close-up shot focused on the subject's facial features from the forehead to the chin, centered horizontally with minimal negative space.",
+    "style_mode": "Experimental documentary photography, prioritizing tactile textures and raw, unpolished realism."
+  },
+  "subject": {
+    "identity": "A young woman in her early twenties with a natural, unembellished appearance, featuring visible skin texture and a small metallic septum ring.",
+    "wardrobe": "Minimalist styling where the subject appears bare-shouldered, keeping the focus entirely on the facial expression and the overlaid text.",
+    "expression": "A neutral, soul-piercing gaze directed toward the lens, with a slightly parted mouth that suggests a moment of vulnerability.",
+    "grooming": "Natural hair texture framing the face, with unmanicured eyebrows and a lack of visible cosmetics to maintain an authentic, raw aesthetic."
+  },
+  "environment": {
+    "location": "A neutral, non-descript indoor setting or studio backdrop that provides a flat, medium-gray background to prevent distraction.",
+    "time_of_day": "Ambient indoor lighting conditions typical of a controlled studio environment.",
+    "atmosphere": "Intimate and contemplative, characterized by a sense of melancholic introspection."
+  },
+  "lighting": {
+    "type": "Soft, diffused directional lighting emulating a large north-facing window.",
+    "color_temperature": "Monochromatic spectrum, utilizing varied intensities of gray rather than Kelvin-based color light.",
+    "contrast": "Moderate-high contrast with deep blacks in the pupils and shadows, and bright, crisp highlights on the bridge of the nose and lower lip.",
+    "direction": "Frontal-lateral lighting originating from the upper left, creating subtle modeling across the cheekbones."
+  },
+  "camera": {
+    "sensor_format": "35mm black and white film format, specifically resembling Tri-X 400 pushed two stops.",
+    "lens": "85mm f/1.8 prime lens to provide natural compression and a flattering perspective for tight portraiture.",
+    "camera_position": "Direct eye-level positioning to establish an immediate and confrontational connection with the viewer.",
+    "aperture_depth_of_field": "f/2.8, providing a shallow depth of field where the eyes are in sharp focus while the ears and hair softly fall into a gentle blur.",
+    "exposure": "Measured for the highlights to preserve detail in the skin, allowing shadows to remain deep and rich."
+  },
+  "color_grade": {
+    "palette": "A strict grayscale palette ranging from obsidian blacks to stark, paper-white highlights.",
+    "tonality": "Rich tonal gradation with a slight emphasis on mid-tone grit and silver-halide grain structure."
+  },
+  "post_processing": {
+    "effects": "A prominent overlay of handwritten cursive text in black ink, appearing as if written directly onto the print or scanned negative, with varied line weights and ink bleeds.",
+    "film_grain": "Heavy, organic film grain consistent with high-ISO analog photography, adding a tactile, physical quality to the digital image."
+  },
+  "negative": {
+    "style": "Avoid digital smoothing, plastic skin textures, artificial sharpening, vibrant colors, or contemporary digital watermarks.",
+    "artifacts": "Eliminate CGI-like perfections, symmetrical features, or overly processed commercial retouching."
+  }
+}
+```
+
+---
+
 ## Case: twitter-2004973033791127824
 
 **Author:** [@retvikurmi](https://twitter.com/retvikurmi)
