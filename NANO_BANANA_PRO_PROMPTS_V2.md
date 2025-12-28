@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2004955739580698684
+
+**Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
+**Tweet:** [View Original](https://x.com/astronomerozge1/status/2004955739580698684)
+**Scraped:** 2025-12-28T01:34:23.090Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9MISBzXsAAopJ9?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro @NanoBanana 
+
+4 Reference x Scooby Doo Poster
+
+My Friends: @SIN_AI_1 @AITalesNBH @_MehdiSharifi_ 
+
+Prompt:
+
+{
+  "generation_request": {
+    "meta_data": {
+      "tool": "NanoBanana Pro",
+      "task_type": "text_to_image_photoreal_movie_poster_parody_ensemble",
+```
+
+---
+
 ## Case: twitter-2004961925156012405
 
 **Author:** [@JohnnyWang8802](https://twitter.com/JohnnyWang8802)
