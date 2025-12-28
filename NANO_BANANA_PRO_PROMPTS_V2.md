@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2004937062907039787
+
+**Author:** [@AllaAisling](https://twitter.com/AllaAisling)
+**Tweet:** [View Original](https://x.com/AllaAisling/status/2004937062907039787)
+**Scraped:** 2025-12-28T01:35:30.420Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JTkAyX0AA90JY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JTqNyW0AAioz4?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9JTxn8XoAABakD?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9JT4psXkAE9osz?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt Studio: Nano Banana Pro Detective Evidence Board, in Firefly
+
+A detective's evidence board investigating [SUBJECT/MYSTERY]. Cork surface covered with pinned items: polaroid photographs with handwritten dates, a street map with circled locations, newspaper clippings with
+```
+
+---
+
 ## Case: twitter-2004937314951463046
 
 **Author:** [@Gdgtify](https://twitter.com/Gdgtify)
