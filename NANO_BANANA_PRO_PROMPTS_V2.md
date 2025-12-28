@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2004855420817735942
+
+**Author:** [@harboriis](https://twitter.com/harboriis)
+**Tweet:** [View Original](https://x.com/harboriis/status/2004855420817735942)
+**Scraped:** 2025-12-28T01:22:38.905Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KtVgNa0AALE4W?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini app. 
+
+Prompt:A candid, realistic selfie photograph taken by a woman with long, wavy brown hair, smiling broadly at the camera. She is wearing a black t-shirt and blue jeans, and her right arm is extended forward, holding the camera. She is standing in a brightly lit, modern  toy store, positioned between large, life-sized statues of Buzz Lightyear and Woody from  Toy Story. Buzz, on the left, is in his classic space ranger suit, smiling. Woody, on the right, is wearing his cowboy hat, yellow plaid shirt, cow-print vest, and boots, also smiling. The background shows shelves packed with toys, other shoppers, and a unique ceiling with wavy light fixtures. Don't change the face, make sure the face is the same.
+```
+
+---
+
 ## Case: twitter-2004863059450327297
 
 **Author:** [@AntrasitBand](https://twitter.com/AntrasitBand)
