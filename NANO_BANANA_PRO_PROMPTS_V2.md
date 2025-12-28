@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2004764301463282165
+
+**Author:** [@Maercihh](https://twitter.com/Maercihh)
+**Tweet:** [View Original](https://x.com/Maercihh/status/2004764301463282165)
+**Scraped:** 2025-12-28T01:40:45.538Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9G8s9ibgAAFwQD?format=jpg&name=orig)
+
+### Prompt
+
+```
+Looks Fast Even Standing Still.
+
+Nano Banana Pro on Gemini 
+
+Prompt 
+
+{
+  "model": "Nano Banana Pro",
+  "scene": "Rain-soaked neon city street at night",
+  "subject": "Classic muscle car parked on a wet road",
+  "environment": {
+    "city": "Cyberpunk-style urban street with neon
+```
+
+---
+
 ## Case: twitter-2004765585281061249
 
 **Author:** [@Kashberg_0](https://twitter.com/Kashberg_0)
