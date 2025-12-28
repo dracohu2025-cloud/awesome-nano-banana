@@ -4,6 +4,27 @@
 
 ---
 
+## Case: twitter-2004749302091112835
+
+**Author:** [@kingofdairyque](https://twitter.com/kingofdairyque)
+**Tweet:** [View Original](https://x.com/kingofdairyque/status/2004749302091112835)
+**Scraped:** 2025-12-28T01:41:06.831Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JM3ZlbcAA1b5o?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9JM3XsbYAESnUo?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt for nano banana pro:
+A young woman in an artistic portrait with strong motion blur (camera shake effect) and double exposure. Long straight hair with front bangs blending into the background due to the motion effect. Beautiful face with light natural makeup, peach lips,
+```
+
+---
+
 ## Case: twitter-2004760398923518324
 
 **Author:** [@GaganSingh8u](https://twitter.com/GaganSingh8u)
