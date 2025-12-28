@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2004927300182429940
+
+**Author:** [@harboriis](https://twitter.com/harboriis)
+**Tweet:** [View Original](https://x.com/harboriis/status/2004927300182429940)
+**Scraped:** 2025-12-28T01:35:53.278Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LurXDaAAA_qIL?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro.
+
+Prompt: use the face from the attached image without any changes to facial features, preserve identity with nano-level precision and maintain all natural micro-expressions exactly as in the reference. create an ultra-photorealistic three-frame winter portrait sequence set in a snow-covered park
+
+during the blue hour. in the first frame, depict the character sitting on a wooden bench, reading a book while snowflakes fall softly around them. render the environment with cinematic depth: frosted trees, distant lampposts glowing with diffused warm light, and a cold blue ambient atmosphere. in the second frame, capture a calm profile close-up with shallow depth of field, highlighting realistic snowflake interactions with hair, fabric, and air. in the third frame, show the character leaning back with eyes gently closed, immersed in the quiet winter evening, the coat, scarf, and all textile surfaces must show molecular-level texture detail, accurate lighting falloff, and true-to-physics shading. keep the background softly blurred with natural bokeh from lamplights, subtle haze, and crisp snowfall suspended in layered depth, ensure full photorealism with intelligent context awareness and precise atmospheric rendering.
+```
+
+---
+
 ## Case: twitter-2004929843905831029
 
 **Author:** [@ttmouse](https://twitter.com/ttmouse)
