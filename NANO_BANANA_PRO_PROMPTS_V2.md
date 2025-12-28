@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2005050087576060319
+
+**Author:** [@LinaByteME](https://twitter.com/LinaByteME)
+**Tweet:** [View Original](https://x.com/LinaByteME/status/2005050087576060319)
+**Scraped:** 2025-12-28T01:24:00.885Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9NeN-eWsAAZyHA?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro
+
+Prompt:
+
+{
+  "aspect_ratio": "3:4",
+  "scene_type": "editorial fashion portrait photography",
+  "environment": {
+    "location": "minimal indoor setting",
+    "background": {
+      "wall": "clean off-white wall with thin horizontal black lines",
+      "texture":
+```
+
+---
+
 ## Case: twitter-1999042753250955381
 
 **Author:** [@YaseenK7212](https://twitter.com/YaseenK7212)
