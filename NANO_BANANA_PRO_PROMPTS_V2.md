@@ -4,6 +4,42 @@
 
 ---
 
+## Case: twitter-2004930351584444801
+
+**Author:** [@YaseenK7212](https://twitter.com/YaseenK7212)
+**Tweet:** [View Original](https://x.com/YaseenK7212/status/2004930351584444801)
+**Scraped:** 2025-12-28T01:35:37.441Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LxV14WkAAxmfg?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9LxV13W8AAOkDI?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9LxV1zWEAE-7zs?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9LxV1yXQAAtdZG?format=jpg&name=orig)
+
+### Prompt
+
+```
+Strawberry Juice On Gemini Nano Banana 3.0
+
+Prompt:
+
+[
+  {
+    "id": "pineapple_beach",
+    "type": "photorealistic advertising shot",
+    "subject": {
+      "item": "pineapple juice bottle",
+      "label_text": "NFC Pineapple Juice",
+      "pose": "slightly tilted"
+    },
+```
+
+---
+
 ## Case: twitter-2004937062907039787
 
 **Author:** [@AllaAisling](https://twitter.com/AllaAisling)
