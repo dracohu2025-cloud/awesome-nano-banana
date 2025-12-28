@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2004832511478870298
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004832511478870298)
+**Scraped:** 2025-12-28T01:38:55.390Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KYi1HbgAMCJ-g?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Dichroic Glass Installation Portrait",
+    "mood": "Futuristic, Artistic, Iridescent, Vivid"
+  },
+  "subject_details": {
+    "character": "Face genius with sharp, high-fashion features",
+```
+
+---
+
 ## Case: twitter-2004832669100900739
 
 **Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
