@@ -4,6 +4,88 @@
 
 ---
 
+## Case: twitter-2004855119481872437
+
+**Author:** [@xmiiru_](https://twitter.com/xmiiru_)
+**Tweet:** [View Original](https://x.com/xmiiru_/status/2004855119481872437)
+**Scraped:** 2025-12-28T01:38:05.973Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KtGxCW8AAae3d?format=jpg&name=orig)
+
+### Prompt
+
+```
+If you upload a photo with a clean prompt…
+the transformation is unreal 
+
+• Did it match your vision? 
+
+• Gemini Nano Banana 
+
+How it works?
+{
+  "task": "Edit the photo without altering the face at all",
+  "subject": {
+    "gender_presentation": "woman",
+    "pose": "standing",
+    "expression": "neutral and confident"
+  },
+  "style_and_clothing": {
+    "top": {
+      "type": "sleeveless crop top (tank top)",
+      "color": "bright red",
+      "graphics": {
+        "print_colors": ["white", "gray", "silver"],
+        "readable_text": [
+          "GARAMTE",
+          "Jánosewéley",
+          "RAVGFY CVCDOOVE"
+        ],
+        "graphic_shape": "wings or bat-like shape in the center"
+      }
+    },
+    "bottom": {
+      "type": "denim jeans",
+      "color": "dark blue",
+      "fit": "high-waist",
+      "cut": "loose / baggy",
+      "visible_details": ["waistband", "pockets"]
+    },
+    "footwear": {
+      "visibility": "not visible"
+    }
+  },
+  "makeup_and_hair": {
+    "makeup": {
+      "skin": "smooth and natural",
+      "lipstick": {
+        "color": "bright red",
+        "match_with_top": true
+      },
+      "eyes": {
+        "style": "minimal",
+        "eyeliner": "thin"
+      },
+      "eyebrows": "neatly shaped"
+    },
+    "hair": {
+      "length": "shoulder-length",
+      "style": "straight bob",
+      "color": "jet black",
+      "bangs": "blunt front bangs covering the forehead"
+    }
+  },
+  "constraints": {
+    "face_modification": "do not alter the face in any way",
+    "identity_preservation": true
+  }
+}
+```
+
+---
+
 ## Case: twitter-2004861062378885149
 
 **Author:** [@Gdgtify](https://twitter.com/Gdgtify)
