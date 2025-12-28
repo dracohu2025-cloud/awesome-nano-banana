@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2004977420848509122
+
+**Author:** [@ecommartinez](https://twitter.com/ecommartinez)
+**Tweet:** [View Original](https://x.com/ecommartinez/status/2004977420848509122)
+**Scraped:** 2025-12-28T01:33:28.900Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9McUlqa4AA0NOa?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9McU8xaQAAk65S?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9McVTebgAEVI9X?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9McVrPawAAs57p?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nail art creado con Gemini Nano Banana
+
+Prompt:
+
+Create an ultra-realistic macro photograph of a human fingernail with glossy, natural nail polish.
+On the surface of the nail, perfectly integrated into the polish, appears a miniature painted portrait based on the provided
+```
+
+---
+
 ## Case: twitter-2005004909695865303
 
 **Author:** [@impaulxyz](https://twitter.com/impaulxyz)
