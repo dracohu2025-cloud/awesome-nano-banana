@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2004854053680062923
+
+**Author:** [@ecommartinez](https://twitter.com/ecommartinez)
+**Tweet:** [View Original](https://x.com/ecommartinez/status/2004854053680062923)
+**Scraped:** 2025-12-28T01:38:13.515Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KsHRpbgAICBaN?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9KsHx-acAAeL03?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9KsIQGasAAsPx3?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9KsIsvakAAJs4W?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9HPp_4W8AEyW0x?format=jpg&name=orig)
+
+### Prompt
+
+```
+Transforma tu foto en una caricatura editorial con Nano Banana
+
+Prompt Gemini 3:
+
+{
+  "reference_image": {
+    "usage": "Use the provided reference image as the identity source",
+    "priority": "facial structure, proportions, likeness",
+    "constraints": "preserve
+```
+
+---
+
 ## Case: twitter-2004855119481872437
 
 **Author:** [@xmiiru_](https://twitter.com/xmiiru_)
