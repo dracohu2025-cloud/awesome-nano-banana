@@ -4,6 +4,31 @@
 
 ---
 
+## Case: twitter-2004948492750622848
+
+**Author:** [@retvikurmi](https://twitter.com/retvikurmi)
+**Tweet:** [View Original](https://x.com/retvikurmi/status/2004948492750622848)
+**Scraped:** 2025-12-28T01:35:00.227Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9MCBtAbkAAEBf3?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9MCBqCbgAMwvYp?format=jpg&name=orig)
+
+### Prompt
+
+```
+Life looks better with a little film grain Scenes from a movie that never existed. 
+
+Try with Gemini Nano Banana 3.0
+Prompt:
+
+Transform this image [Upload Your Image] into a 64K DSLR shot resolution of A nostalgic, cinematic street photograph captured from a high-angle
+```
+
+---
+
 ## Case: twitter-2004952558352093399
 
 **Author:** [@timedoctor_nft](https://twitter.com/timedoctor_nft)
