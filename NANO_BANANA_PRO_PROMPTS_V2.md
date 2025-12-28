@@ -4,6 +4,91 @@
 
 ---
 
+## Case: twitter-2004831157658288603
+
+**Author:** [@MidjourneyGS](https://twitter.com/MidjourneyGS)
+**Tweet:** [View Original](https://x.com/MidjourneyGS/status/2004831157658288603)
+**Scraped:** 2025-12-28T01:39:11.922Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KXUA7bsAAYJ_t?format=jpg&name=orig)
+
+### Prompt
+
+```
+NANO BANANA PRO  
+
+ Optimized X Post – Notebook Sketch AI Prompt
+ Turn Your Photo into a Realistic Hand-Drawn Notebook Sketch with AI 
+With this prompt, you can transform any uploaded photo into a hyper-faithful pen-and-ink illustration, exactly like a real hand-drawn sketch on lined notebook paper.
+No filters.
+No cartoon effects.
+No loss of identity.
+ How it works (super easy):
+ Upload your photo on Nano Banana Pro 
+ Paste the prompt below
+ Generate the image
+ Boom  — a clean, realistic notebook-style sketch
+This prompt focuses on absolute fidelity: • same face
+• same expression
+• same clothes & accessories
+• same posture & proportions
+Only the style changes, not the person.
+Perfect for:  Artistic portraits
+ Sketch-style avatars
+ Creative social content
+ Profile images with personality
+ Photo-to-illustration transformations
+ Use this prompt (copy & paste) 
+
+PROMPT (ready to use):
+Transform the uploaded photo into a hand-drawn artistic illustration exactly in the style of a detailed pen-and-ink sketch on lined notebook paper.
+STYLE REQUIREMENTS:
+Black ink line art with fine, clean, precise strokes
+Cross-hatching and subtle shading for depth and realism
+Hand-drawn sketch aesthetic, similar to a realistic notebook illustration
+Slight pastel-colored highlights applied ONLY to hair or secondary elements, softly blended and non-invasive
+Background must resemble lined notebook paper with visible horizontal lines
+Optional small doodles (hearts, stars, arrows, flowers) ONLY if they do not interfere with the subject
+FIDELITY & PRESERVATION RULES (ABSOLUTE PRIORITY):
+Preserve 100% of the original subject’s facial features, proportions, expression, body shape, posture, clothing, accessories, hairstyle, and identity
+DO NOT beautify, stylize facial traits, exaggerate, or modify anatomy
+DO NOT alter age, gender, ethnicity, weight, or physical characteristics
+Maintain perfect alignment with the original photo
+Any text, writing, tattoos, logos, symbols, or signage present in the original image MUST remain EXACTLY the same in content, spelling, size, position, and style
+No additions, removals, or reinterpretations of visual elements
+TECHNICAL CONSTRAINTS:
+The transformation must be purely stylistic (photo-to-sketch conversion)
+No cartooning, no anime, no caricature, no abstraction
+No painterly brush strokes, no oil or watercolor effects
+No distortion, no smoothing, no facial enhancement
+Maintain high resolution, sharp details, and clean edges
+FINAL OUTPUT GOAL:
+A faithful, realistic pen-and-ink notebook-style illustration that looks hand-drawn while being a perfect visual match of the original photo, with zero loss of identity, accuracy, or content.
+
+ Pro Tip:
+This prompt is perfect when you want artistic style without losing realism.
+It’s ideal for creators who want something creative but still authentic 
+
+ Save this post — it’s one of the cleanest photo-to-sketch prompts you can use.
+
+#AIArt
+#SketchArt
+#HandDrawnAI
+#NotebookStyle
+#AIIllustration
+#NanoBananaPro
+#AIPrompt
+#PhotoToSketch
+#CreativeAI
+#AIVisuals
+#PromptEngineering
+#GenerativeAI
+```
+
+---
+
 ## Case: twitter-2004832070837903471
 
 **Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
