@@ -4,6 +4,72 @@
 
 ---
 
+## Case: twitter-2004899135326142691
+
+**Author:** [@Sheldon056](https://twitter.com/Sheldon056)
+**Tweet:** [View Original](https://x.com/Sheldon056/status/2004899135326142691)
+**Scraped:** 2025-12-28T01:36:42.201Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LVIRXawAAdnGQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini app
+
+Prompt:
+Create a cinematic ultra-real editorial fashion photograph using my uploaded reference image. DO NOT CHANGE THE FACE.
+The young man’s face must remain 100% identical to the reference — same facial structure, proportions, expression, and identity.
+
+SKIN & REALISM
+
+Ultra-real human skin with even tone and natural micro-variation. Visible pores, fine lines, tiny imperfections, and a subtle daylight sheen only.
+Absolutely NO blush, no beauty filter, no plastic smoothing, no CGI look, no oversharpening.
+
+SCENE & PROPS
+
+A vast wildflower field filled with pink, lilac, and butter-yellow blooms, stretching toward low rolling hills beneath a big, clean open sky.
+A giant pastel-blue bird with layered, slightly iridescent feathers. The bird wears slender reins and a simple dark saddle — minimal, realistic, no logos, no text, no branding.
+Foreground flowers create soft natural bokeh, with a few drifting petals near the lens for depth and atmosphere.
+
+WARDROBE (MODERN, MINIMAL, STREETWEAR)
+
+A clean, premium oversized modern T-shirt in soft off-white or muted neutral tone, structured yet relaxed, matte fabric with natural folds.
+Baggy straight-leg jeans, high-quality denim in washed light blue or soft grey, sitting naturally on the waist with realistic creasing and weight.
+Polished dark leather boots or minimalist sneakers (no logos), understated and contemporary.
+One slim signet ring only — no additional accessories.
+
+POSE & MOOD
+
+He is seated upright on the giant bird’s back, shoulders relaxed, posture confident yet calm. Chin gently elevated.
+Expression is serene and self-assured, eyes gazing toward the horizon.
+The T-shirt and denim move subtly with the breeze, natural fabric motion.
+
+LIGHTING (GOLDEN HOUR)
+
+Warm late-afternoon sunlight (~6000K) coming from camera-left/back, creating gentle rim highlights along his face, clothing edges, and the bird’s feathers.
+Soft fill light from the opposite side keeps skin fully natural and realistic.
+Colors are rich but never oversaturated.
+
+CAMERA / OPTICS / DOF
+
+Shot on a real full-frame camera.
+50mm lens at f/2.8, ISO 100–200, shutter speed 1/500–1/1000s to freeze subtle feather motion.
+Medium depth of field: subject and nearby feathers sharp, distant hills and far flowers softly blurred.
+Vertical composition with a low horizon to emphasize the sky.
+An elegant S-curve formed by the bird’s tail guides the viewer’s eye through the frame.
+
+STYLE & OUTPUT
+
+Pinterest-style cinematic editorial grading.
+Ultra-photorealistic, grounded fantasy realism.
+8K resolution.
+```
+
+---
+
 ## Case: twitter-2004899949977501788
 
 **Author:** [@jw660227](https://twitter.com/jw660227)
