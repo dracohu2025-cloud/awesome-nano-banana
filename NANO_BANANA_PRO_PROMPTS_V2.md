@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2005067615568281942
+
+**Author:** [@AkatsokK](https://twitter.com/AkatsokK)
+**Tweet:** [View Original](https://x.com/AkatsokK/status/2005067615568281942)
+**Scraped:** 2025-12-28T01:23:13.406Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9NuV_vWQAAAA2Q?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro | Prompt:
+
+A cinematic, high-fashion editorial portrait of the subject in the uploaded image, featuring her voluminous blonde hairstyle, striking blue eyes, and intense, upward gaze. The subject is seated, wearing the signature bright magenta, off-the-shoulder ribbed top, emphasizing the line of her collarbone. The scene is bathed in dramatic, moody cinematic lighting, highlighting the flawless, glowing skin texture and deep shadows. Luxurious atmospheric styling, shot on medium format film, shallow depth of field, high detail, Vogue aesthetic, seductive and opulent. (Strictly SFW)
+```
+
+---
+
 ## Case: twitter-2005067925120844061
 
 **Author:** [@sarahtaylorai](https://twitter.com/sarahtaylorai)
