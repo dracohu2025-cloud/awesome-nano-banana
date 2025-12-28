@@ -4,6 +4,39 @@
 
 ---
 
+## Case: twitter-2004942851436937584
+
+**Author:** [@aivygirl46](https://twitter.com/aivygirl46)
+**Tweet:** [View Original](https://x.com/aivygirl46/status/2004942851436937584)
+**Scraped:** 2025-12-28T01:35:15.217Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8xlf46WUAE04Nz?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G8wGrKjXsAAgrAb?format=jpg&name=orig)
+
+### Prompt
+
+```
+Emerald nights call for royalty  Ready to rule?
+
+nano banana Pro prompt
+
+{
+  "image_composition": {
+    "type": "Collage",
+    "layout": "3x3 Grid",
+    "total_panels": 9
+  },
+  "subject_details": {
+    "appearance": "Young woman with fair skin",
+    "hair": {
+      "color":
+```
+
+---
+
 ## Case: twitter-2004948492750622848
 
 **Author:** [@retvikurmi](https://twitter.com/retvikurmi)
