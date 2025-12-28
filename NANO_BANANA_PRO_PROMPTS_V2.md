@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2004834885492728292
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004834885492728292)
+**Scraped:** 2025-12-28T01:38:34.460Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Kas7rbwAAm5kR?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Y2K High Teen Kitsch Beauty Portrait",
+    "mood": "Glossy, Trendy, Pink, Sassy, Doll-like"
+  },
+  "subject_details": {
+    "character": "K-Pop Idol visual, Barbie-like flawless beauty",
+```
+
+---
+
 ## Case: twitter-2004839630479475122
 
 **Author:** [@Naiknelofar788](https://twitter.com/Naiknelofar788)
