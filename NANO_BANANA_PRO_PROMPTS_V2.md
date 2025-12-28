@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2004832070837903471
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004832070837903471)
+**Scraped:** 2025-12-28T01:39:00.070Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KYJH5bwAATRCb?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Intense Bonfire Night Portrait",
+    "mood": "Wild, Dangerous, Primal, Cinematic"
+  },
+  "subject_details": {
+    "character": "Wild beauty with untamed energy",
+    "action": "Standing close
+```
+
+---
+
 ## Case: twitter-2004832511478870298
 
 **Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
