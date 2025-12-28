@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2004792750013858004
+
+**Author:** [@WuxiaRocks](https://twitter.com/WuxiaRocks)
+**Tweet:** [View Original](https://x.com/WuxiaRocks/status/2004792750013858004)
+**Scraped:** 2025-12-28T01:40:15.463Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9JntV5aoAAKcHa?format=jpg&name=orig)
+
+### Prompt
+
+```
+Ever want to see a fusion of any characters? With Nano Banana Pro, you can. Try it. The randomness is fun. 
+
+Prompt: make a manga page with [your character] and [your character], have them do the fusion technique from Dragon Ball Z, and reveal their combined form.
+```
+
+---
+
 ## Case: twitter-2004795433269469230
 
 **Author:** [@AIwithSynthia](https://twitter.com/AIwithSynthia)
