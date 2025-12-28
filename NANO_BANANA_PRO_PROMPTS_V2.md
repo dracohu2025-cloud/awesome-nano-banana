@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2004822966295839115
+
+**Author:** [@oggii_0](https://twitter.com/oggii_0)
+**Tweet:** [View Original](https://x.com/oggii_0/status/2004822966295839115)
+**Scraped:** 2025-12-28T01:39:43.678Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KP2jcbgAAgTJN?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro.
+
+Prompt: {
+  "subject": "Triptych collage of vintage American cars",
+  "panels": {
+    "top": "Teal 1950s Pontiac, low angle, chrome details, 'Grand' neon sign in background",
+    "middle": "Red classic muscle car with racing stripes, narrow brick street,
+```
+
+---
+
 ## Case: twitter-2004828739675570412
 
 **Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
