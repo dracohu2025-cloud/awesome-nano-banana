@@ -4,6 +4,27 @@
 
 ---
 
+## Case: twitter-2004896066496594238
+
+**Author:** [@jw660227](https://twitter.com/jw660227)
+**Tweet:** [View Original](https://x.com/jw660227/status/2004896066496594238)
+**Scraped:** 2025-12-28T01:36:48.794Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LSWDobgAU0T7p?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana pro
+prompt 
+
+Editorial 3x3 grid in a cool-grey seamless backdrop. Character (face characteristics 100% same as uploaded image) wearing a charcoal sleeveless dress. Lighting: large overhead softbox, faint side bounce. Shots include: 1. tight cheek + neck
+```
+
+---
+
 ## Case: twitter-2004899135326142691
 
 **Author:** [@Sheldon056](https://twitter.com/Sheldon056)
