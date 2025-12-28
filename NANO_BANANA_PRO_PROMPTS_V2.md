@@ -4,6 +4,131 @@
 
 ---
 
+## Case: twitter-2005067925120844061
+
+**Author:** [@sarahtaylorai](https://twitter.com/sarahtaylorai)
+**Tweet:** [View Original](https://x.com/sarahtaylorai/status/2005067925120844061)
+**Scraped:** 2025-12-28T01:23:07.472Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9NhHv-XYAAeHV_?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro 
+
+Prompt:
+
+{
+  "image_settings": {
+    "aspect_ratio": "3:4",
+    "resolution": {
+      "width": 1152,
+      "height": 1536
+    }
+  },
+
+  "prompt": {
+    "identity_lock": {
+      "reference": "input_photo",
+      "preserve": [
+        "face",
+        "facial proportions",
+        "eye shape",
+        "nose",
+        "lips",
+        "skin tone",
+        "skin texture",
+        "hairline",
+        "overall identity"
+      ],
+      "rules": [
+        "no face swap",
+        "no beautify",
+        "no smoothing",
+        "no reshaping",
+        "no AI look"
+      ]
+    },
+
+    "scene": {
+      "camera_angle": "high-angle downward shot, POV",
+      "composition": "MacBook screen fills most of the frame, thin strip of physical keyboard visible at the bottom",
+      "screen_surface": [
+        "visible RGB pixel grid",
+        "subtle moire effect",
+        "micro dust on glass",
+        "faint fingerprints",
+        "soft ambient reflections"
+      ]
+    },
+
+    "digital_interface": {
+      "os": "macOS dark mode",
+      "background_app": {
+        "name": "Spotify",
+        "view": "Liked Songs",
+        "visible_tracks": [
+          "Blank Space – Taylor Swift",
+          "Shake It Off – Taylor Swift",
+          "Cruel Summer – Taylor Swift",
+          "Love Story – Taylor Swift"
+        ]
+      },
+      "foreground_app": {
+        "name": "Photo Booth",
+        "state": "live preview window",
+        "position": "floating, center-right"
+      }
+    },
+
+    "photo_booth_content": {
+      "environment": {
+        "room": "dim bedroom",
+        "background": "off-white wall, rumpled bedding",
+        "lighting": "low-light, nocturnal, cool screen glow mixed with warm skin tones"
+      },
+      "subject": {
+        "pose": "lying down, relaxed, candid",
+        "expression": "natural, slightly relaxed",
+        "outfit": "light-colored tank top",
+        "prop": {
+          "item": "iPhone 15 Pro",
+          "hand": "right hand"
+        }
+      }
+    },
+
+    "realism_rules": [
+      "this is a photo of a screen, not a screenshot",
+      "raw smartphone photo look",
+      "natural noise",
+      "imperfect glass",
+      "no studio lighting",
+      "no HD polish"
+    ]
+  },
+
+  "negative_prompt": [
+    "screenshot",
+    "flat UI",
+    "perfect screen",
+    "clean glass",
+    "studio lighting",
+    "beauty filter",
+    "cartoon",
+    "3d render",
+    "painting",
+    "watermark",
+    "blurred face"
+  ]
+}
+```
+
+---
+
 ## Case: twitter-2004855420817735942
 
 **Author:** [@harboriis](https://twitter.com/harboriis)
