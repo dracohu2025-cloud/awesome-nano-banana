@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2004916051809894869
+
+**Author:** [@shushant_l](https://twitter.com/shushant_l)
+**Tweet:** [View Original](https://x.com/shushant_l/status/2004916051809894869)
+**Scraped:** 2025-12-28T01:36:16.080Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LkhhaboAAWJua?format=jpg&name=orig)
+
+### Prompt
+
+```
+Product ad-style image of the white Monster ultra energy drink half submerged in crystal clear water
+
+Created with Google Nano Banana Pro on Higgsfield
+
+Prompt used: cinematic, ultra realistic, aesthetic wallpaper style image of a White Monster Energy Ultra can dramatically half submerged in crystal clear water with insane sharp details, wild lighting reflections, and intense emotional energy, the top half of the can emerging powerfully above the water while the bottom half sinks beneath the transparent ripples, water splashing with dramatic motion, cold frosty condensation on the can, vibrant high contrast colors, epic viral clickbait mood, ragebait intensity, insane hype energy, breathtaking composition, deeply atmospheric lighting, shallow depth of field, hyper detailed textures, premium advertising look, photorealistic, 8k resolution, cinematic framing, highly polished commercial visual, bold dramatic vibe, visually shocking and attention grabbing, perfect for viral wallpaper
+```
+
+---
+
 ## Case: twitter-2004917402300285064
 
 **Author:** [@oggii_0](https://twitter.com/oggii_0)
