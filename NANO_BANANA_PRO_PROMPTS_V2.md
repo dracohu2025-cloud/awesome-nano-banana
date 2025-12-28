@@ -4,6 +4,68 @@
 
 ---
 
+## Case: twitter-2004954251517460719
+
+**Author:** [@Strength04_X](https://twitter.com/Strength04_X)
+**Tweet:** [View Original](https://x.com/Strength04_X/status/2004954251517460719)
+**Scraped:** 2025-12-28T01:34:32.420Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9MHOmObEAA_Hrq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9MHOrAbkAAshuU?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9MHOrDa4AA5mjr?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9MHO1BaYAA-ZjU?format=jpg&name=orig)
+
+### Prompt
+
+```
+Travel vibes loaded 
+
+Created these open 3D suitcase illustrations featuring global landmarks using Gemini Nano Banana Pro  
+
+Which style do you like the most?
+Europe 
+USA 
+Japan 
+India 
+
+Prompt; {
+  "project": "NanoBanana 3D Travel Suitcase Series",
+  "aspect_ratio": "2:3",
+  "prompts": [
+    {
+      "id": 1,
+      "theme": "Europe (Original Mix)",
+      "prompt_text": "NanoBanana Prompt: Open floating 3D suitcase with travel elements inside, suitcase flying in motion, plane ticket and camera on a solid blue background, world-famous landmarks such as the Eiffel Tower, leaning tower of Pisa, Big Ben and the city of Paris inside it, a hot air balloon flying above, a blue coloured suitcase, a travel concept illustration design for advertising or a social media post template --ar 2:3"
+    },
+    {
+
+      "id": 2,
+      "theme": "USA (New York)",
+      "prompt_text": "NanoBanana Prompt: Open floating 3D suitcase with travel elements inside, suitcase flying in motion, plane ticket and camera on a solid blue background, iconic landmarks of New York City such as the Statue of Liberty, Empire State Building, and a yellow taxi cab inside it, a hot air balloon flying above, a blue coloured suitcase, a travel concept illustration design for advertising or a social media post template --ar 2:3"
+    },
+    {
+
+      "id": 3,
+      "theme": "Japan (Tokyo/Kyoto)",
+      "prompt_text": "NanoBanana Prompt: Open floating 3D suitcase with travel elements inside, suitcase flying in motion, plane ticket and camera on a solid blue background, Japanese landmarks such as Mount Fuji, a red Torii gate, a Pagoda, and cherry blossoms (sakura) inside it, a hot air balloon flying above, a blue coloured suitcase, a travel concept illustration design for advertising or a social media post template --ar 2:3"
+    },
+    {
+
+      "id": 4,
+      "theme": "India (Heritage)",
+      "prompt_text": "NanoBanana Prompt: Open floating 3D suitcase with travel elements inside, suitcase flying in motion, plane ticket and camera on a solid blue background, famous Indian landmarks such as the Taj Mahal, India Gate, and Lotus Temple inside it, with a small Indian auto-rickshaw, a hot air balloon flying above, a blue coloured suitcase, a travel concept illustration design for advertising or a social media post template --ar 2:3"
+    }
+  ]
+}
+```
+
+---
+
 ## Case: twitter-2004955739580698684
 
 **Author:** [@astronomerozge1](https://twitter.com/astronomerozge1)
