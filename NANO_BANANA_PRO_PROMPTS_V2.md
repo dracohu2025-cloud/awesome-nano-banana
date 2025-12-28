@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2004795433269469230
+
+**Author:** [@AIwithSynthia](https://twitter.com/AIwithSynthia)
+**Tweet:** [View Original](https://x.com/AIwithSynthia/status/2004795433269469230)
+**Scraped:** 2025-12-28T01:40:02.401Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9J2pLcbgAIvR2j?format=jpg&name=orig)
+
+### Prompt
+
+```
+Create this cinematic shot using your own image on Nano Banana . I have created it on @Somake_ai 
+
+Prompt :
+
+A cinematic fashion portrait of an elegant woman standing midway on a grand marble staircase inside a classical palace hall. She wears a flowing deep-red satin evening
+```
+
+---
+
 ## Case: twitter-2004804508707086521
 
 **Author:** [@NanoInspirate](https://twitter.com/NanoInspirate)
