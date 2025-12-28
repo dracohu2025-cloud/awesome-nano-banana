@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2004918440809595298
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004918440809595298)
+**Scraped:** 2025-12-28T01:36:04.761Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9FmBojWQAAKjN_?format=jpg&name=orig)
+
+### Prompt
+
+```
+This Nano Banana Pro prompt is a book recommendation engine. It turns books into automatons. 
+
+Prompt: <instructions> Act as an elite book recommendation engine + museum-miniature kinetic-sculpture designer. INPUT: The user provides (a) a book title/author OR (b) an image of a
+```
+
+---
+
 ## Case: twitter-2004927300182429940
 
 **Author:** [@harboriis](https://twitter.com/harboriis)
