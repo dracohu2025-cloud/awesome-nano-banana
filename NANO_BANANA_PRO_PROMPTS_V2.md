@@ -4,6 +4,29 @@
 
 ---
 
+## Case: twitter-2004804508707086521
+
+**Author:** [@NanoInspirate](https://twitter.com/NanoInspirate)
+**Tweet:** [View Original](https://x.com/NanoInspirate/status/2004804508707086521)
+**Scraped:** 2025-12-28T01:39:56.041Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9J_DNkXQAA_-RZ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Google Gemini Nano Banana pro 3.0  
+
+{
+  "prompt_description": {
+    "subject": "A young woman, appearing to be in her early 20s, with a slender build. Her posture is relaxed yet poised, suggesting confidence.",
+    "face": "Delicate facial features, with full lips slightly
+```
+
+---
+
 ## Case: twitter-2004822966295839115
 
 **Author:** [@oggii_0](https://twitter.com/oggii_0)
