@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2004937832163422365
+
+**Author:** [@CharaspowerAI](https://twitter.com/CharaspowerAI)
+**Tweet:** [View Original](https://x.com/CharaspowerAI/status/2004937832163422365)
+**Scraped:** 2025-12-28T01:32:08.903Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9L4UrFWgAAdp_n?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9L4U5fWYAAfIyn?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9L4VGjXAAAdhY4?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9L4VSHWcAAQ4NH?format=jpg&name=orig)
+
+### Prompt
+
+```
+PromptShare
+
+FASHION DESIGNER SKETCH
+a fashion designer's sketch of an [elegant outfit or dress] inspired by [ character], featuring [key iconic accessory or detail]. the design includes notes in pencil and ink, emphasizing details, [delicate embroidery or pattern details], and matching accessories.
+```
+
+---
+
 ## Case: twitter-2005037223159464192
 
 **Author:** [@sarahtaylorai](https://twitter.com/sarahtaylorai)
