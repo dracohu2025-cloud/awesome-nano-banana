@@ -4,6 +4,55 @@
 
 ---
 
+## Case: twitter-2004937314951463046
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004937314951463046)
+**Scraped:** 2025-12-28T01:35:25.397Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8-_k7UX0AAI43B?format=jpg&name=orig)
+
+### Prompt
+
+```
+This Nano Banana Prompt visaulizes the evolution of inventions. This is kind of fun as I saw something like the 4th one on eBay. It was selling for $1000 I think. 
+
+Prompt: 
+
+do this for calculators: <instruction>
+Input 1 is an invention that evolved dramatically (airplane, computer, automobile, telephone, etc.).
+
+Analyze: 7-9 major evolutionary stages from first concept to current form.
+
+Goal: Single large blueprint sheet showing transformation sequence as technical drawing coming to life.
+
+Rules:
+Base: authentic blueprint paper (white lines on blue, aged/coffee-stained edges)
+Left side: flat 2D technical drawing of original patent
+Gradual transformation across page: each stage becomes more 3D and "real"
+Stage 1: pure line drawing
+Stage 2: drawing beginning to lift off page (paper-craft effect)
+Stage 3: partial miniature model emerging
+Stage 4: fully 3D miniature painted model
+Stage 5: photo-real tiny working version
+
+Include: inventor figurine drawn in 2D on left, full 3D miniature on right, showing same transformation
+
+Technical annotations, measurements, and evolution dates labeling each stage
+
+Drafting tools: compass, protractor, mechanical pencil, and T-square creating the still-flat sections
+
+Materials: actual blueprint paper, forced perspective from flat to dimensional
+
+Lighting: blueprint table LED backlight for drawn sections, practical lighting for 3D sections
+Output: ONE image, 16:9 horizontal to show full evolution, technical illustration meets practical effects
+</instruction>
+```
+
+---
+
 ## Case: twitter-2004942851436937584
 
 **Author:** [@aivygirl46](https://twitter.com/aivygirl46)
