@@ -4,6 +4,64 @@
 
 ---
 
+## Case: twitter-2005129744690675731
+
+**Author:** [@sundyme](https://twitter.com/sundyme)
+**Tweet:** [View Original](https://x.com/sundyme/status/2005129744690675731)
+**Scraped:** 2025-12-28T06:23:01.573Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LqAHxasAAOo20?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano banana prompt share 
+又调出一个非常喜欢的风格，刺绣歌曲海报，搭配歌词和乐谱元素。
+
+提示词模板：
+Ultra-detailed album cover for \"[歌曲名称]\". Style: Huang Hai's minimalist aesthetic with HIGH-QUALITY HAND-EMBROIDERED SILK ART. Format: Vertical Poster (1:1 aspect ratio).
+
+CRITICAL: Every element must appear as hand-embroidered with visible, realistic stitching details. Show individual thread stitches, slight texture variations, and authentic embroidery craftsmanship.
+
+Visual Structure: 
+- Delicate high-end silk fabric background with subtle sheen and fine weave texture, [配色方案], occupying 75% of canvas.
+- Scene Visualization: A simplified, poetic scene of [场景描述], rendered in hand-embroidered silk with VISIBLE REALISTIC STITCHING DETAILS.
+- Scale Contrast: Tiny, barely visible silhouettes of [细节元素] at the bottom/corners.
+
+Base: Luxurious silk fabric background with subtle sheen, fine weave texture, and soft luminous quality.
+
+HAND-EMBROIDERY DETAILS: Every element must show:
+- Individual visible thread stitches with slight texture
+- Microscopic silk thread details with subtle metallic sheen
+- Realistic embroidery craftsmanship with slightly imperfect, organic stitching
+- Visible stitch patterns and thread texture variations
+- Authentic hand-embroidered appearance with natural imperfections
+The scene features soft muted colors (pale [颜色] for the [元素], muted [颜色] for the [元素], soft [颜色] for the [元素]). Realism: Extreme dimensional depth, realistic hand-embroidered stitches, tactile silk texture with visible stitch details.
+
+Color Palette: Subtle high-end [主色调] silk background. Soft muted colors for the scene (pale [颜色], muted [颜色], soft [颜色]). Elegant, refined, and sophisticated mood.
+
+Typography: 
+- Top title \"[歌曲名称]\" in minimalist elegant serif typography (hand-embroidered in subtle thread), surrounded by maximum breathing space.
+- Subtitle \"[艺术家] • [年份] • [风格类型]\" in refined font.
+- Small bilingual text \"[英文关键词] [中文关键词]\" in refined font.
+
+CRITICAL - BOTTOM DESIGN: The text must show OBVIOUS hand-embroidered style with:
+- Spacing between individual stitches visible
+- Organic, slightly imperfect stitch patterns
+- Natural texture variations in the thread
+- Hand-stitched appearance rather than dense machine embroidery
+- Clear manual embroidery craftsmanship
+
+Bottom Design: Elegant flow of musical notes intertwined with refined calligraphy showcasing TWO COHESIVE, NARRATIVE-FULL lyrics from the song:
+Line 1: \"[第一句歌词]\"\nLine 2: \"[第二句歌词]\"\nRendered in elegant [书法风格] style calligraphy with refined strokes, all hand-embroidered with VISIBLE INDIVIDUAL STITCHES. The text should show clear hand-stitched style with spacing between stitches. [音乐风格] musical notes arranged in subtle [图案] patterns. Embroidered in [主色线] and [辅色线] threads, connecting notes and text with delicate [线条类型] lines, showing OBVIOUS hand-embroidered texture with individual stitch visibility.
+
+Border: Minimal single thin line border in [边框颜色] (hand-embroidered). Corner: One small elegant [符号] symbol (hand-stitched). Photorealistic hand-embroidered silk texture with VISIBLE STITCH DETAILS, fine weave, subtle sheen, authentic embroidery craftsmanship. The text area must show OBVIOUS hand-stitched character with visible individual stitches and natural texture.
+```
+
+---
+
 ## Case: twitter-2005087845552456024
 
 **Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
