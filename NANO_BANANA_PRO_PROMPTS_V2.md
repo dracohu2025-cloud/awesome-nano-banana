@@ -4,6 +4,53 @@
 
 ---
 
+## Case: twitter-2004875606534869096
+
+**Author:** [@jzaib4269](https://twitter.com/jzaib4269)
+**Tweet:** [View Original](https://x.com/jzaib4269/status/2004875606534869096)
+**Scraped:** 2025-12-28T01:37:32.763Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9K_vOIasAAq6pt?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gimini Nano banana 
+
+Prompt  
+{
+  "subject": {
+    "description": "A handsome man with dark wavy hair, a groomed beard, and soulful eyes, looking pensively out of a window.",
+    "expression": "Melancholic, contemplative, introspective",
+    "pose": "Profile view, leaning slightly forward, captured from the chest up",
+    "clothing": "A textured, off-white linen button-down shirt with a relaxed collar"
+  },
+  "composition": {
+    "framing": "Close-up portrait",
+    "elements": [
+      "The man in the foreground",
+      "A soft, ghostly reflection of his face in the window glass to the right"
+    ],
+    "setting": "Muted, dark interior with a vintage or rustic atmosphere"
+  },
+  "artistic_style": {
+    "medium": "Classical oil painting",
+    "technique": "Chiaroscuro lighting, heavy impasto texture, visible brushstrokes",
+    "era_influence": "Renaissance-inspired realism mixed with Romanticism",
+    "color_palette": "Earth tones, warm ochre, burnt umber, cream, and deep shadows"
+  },
+  "technical_details": {
+    "lighting": "Soft side-lighting from the window, creating a dramatic contrast between light and shadow",
+    "texture": "Canvas grain, aged paint cracks, tactile fabric texture",
+    "mood": "Somber, poetic, cinematic"
+  }
+}
+```
+
+---
+
 ## Case: twitter-2004880290729394668
 
 **Author:** [@Maercihh](https://twitter.com/Maercihh)
