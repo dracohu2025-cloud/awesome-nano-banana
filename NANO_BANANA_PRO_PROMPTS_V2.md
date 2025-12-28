@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2004861062378885149
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2004861062378885149)
+**Scraped:** 2025-12-28T01:37:51.602Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G8--6trWYAAa7bG?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G80cyVFWoAAXc5R?format=jpg&name=orig)
+
+### Prompt
+
+```
+This Nano Banana Prompt compares science rivalries. 
+
+Prompt: 
+
+<instruction> 
+
+Input A is a famous scientific rivalry (Tesla vs Edison, Newton vs Leibniz, Darwin vs Wallace, etc.). 
+
+Analyze: both figures, their competing theories/inventions, visual symbols of their approaches,
+```
+
+---
+
 ## Case: twitter-2004875606534869096
 
 **Author:** [@jzaib4269](https://twitter.com/jzaib4269)
