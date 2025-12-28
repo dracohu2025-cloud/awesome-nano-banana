@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2005004909695865303
+
+**Author:** [@impaulxyz](https://twitter.com/impaulxyz)
+**Tweet:** [View Original](https://x.com/impaulxyz/status/2005004909695865303)
+**Scraped:** 2025-12-28T01:32:46.550Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9M0MB0XYAErh6c?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana - The Definitive Pokémon Portrait: Your Childhood Come to Life
+
+Prompt: Professional 8K DSLR photography, hyperrealistic portrait of the young man from the photo "without any facial modifications" as a Pokémon Trainer. He wears Ash Ketchum's iconic outfit with hyperrealistic fabric textures: a worn red and white twill cap, a blue cotton vest with visible stitching, a black t-shirt, green fabric gloves, and blue jeans with authentic denim texture. The user is centered, posing confidently with a very "very subtle" natural smile.
+
+Surrounded by friendly Pokémon with extreme biological details: Pikachu with individually visible fur and subtle static electricity, Bulbasaur with rough skin and veins in the leaves, Charmander with fine scales and a realistic tail flame, and Squirtle with a textured and moist shell. They interact dynamically.
+
+Background: Vibrant training field during "golden hour," with warm and intense sunlight creating rim lighting on the hair and fur. Visible atmospheric dust in the sunlit air. Spectacular sunset sky.
+
+Technical: Human skin details with visible pores, natural HDR lighting, real optical lens flares, photographic depth of field (soft bokeh in the background), subtle film grain for realism, no CGI appearance. Documentary photographic capture of an epic and joyful moment.
+```
+
+---
+
 ## Case: twitter-2004937832163422365
 
 **Author:** [@CharaspowerAI](https://twitter.com/CharaspowerAI)
