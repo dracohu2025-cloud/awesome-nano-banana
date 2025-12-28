@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2004973033791127824
+
+**Author:** [@retvikurmi](https://twitter.com/retvikurmi)
+**Tweet:** [View Original](https://x.com/retvikurmi/status/2004973033791127824)
+**Scraped:** 2025-12-28T01:33:39.405Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9MYVn5bkAEtpJc?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9MYWNubIAAyL6_?format=jpg&name=orig)
+
+### Prompt
+
+```
+ This Prompt Usefull for Making Passport size image.
+
+Using Gemini Nano Banana 3.0 
+
+Prompt  
+
+Ultra-realistic passport-size photo of me (exact face likeness, 100% match, no facial changes).",.."style": "Professional studio portrait suitable for official ID or passport use.",
+
+"outfit":" white coller shirt and matching tie with branded modern", "expression": "Neutral closed-lip smile, straight look, both ears visible, shoulders included."
+```
+
+---
+
 ## Case: twitter-2004977420848509122
 
 **Author:** [@ecommartinez](https://twitter.com/ecommartinez)
