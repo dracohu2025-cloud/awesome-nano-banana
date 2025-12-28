@@ -4,6 +4,45 @@
 
 ---
 
+## Case: twitter-2004880290729394668
+
+**Author:** [@Maercihh](https://twitter.com/Maercihh)
+**Tweet:** [View Original](https://x.com/Maercihh/status/2004880290729394668)
+**Scraped:** 2025-12-28T01:37:24.820Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9LD8z8bgAAfbbc?format=jpg&name=orig)
+
+### Prompt
+
+```
+Survival Has a Face
+
+Nano Banana Pro
+
+Prompt 
+
+{
+  "model": "Nano Banana Pro",
+  "subject": "Masked survivor wearing a gas mask and tactical clothing",
+  "scene": "Burning battlefield surrounded by flames and smoke",
+  "pose": "Crouched low, gripping a metal crowbar",
+  "environment": {
+    "weather": "Ash-filled air, drifting embers",
+    "lighting": "Harsh firelight with deep shadows",
+    "ground": "Scorched earth and debris"
+  },
+  "mood": "Intense, dangerous, post-apocalyptic",
+  "style": "Cinematic realism",
+  "camera": "Low-angle close shot, dramatic depth of field",
+  "details": "Fire sparks, soot-covered fabric, reflections in gas mask lenses",
+  "quality": "Ultra-detailed, high contrast, gritty texture"
+}
+```
+
+---
+
 ## Case: twitter-2004896066496594238
 
 **Author:** [@jw660227](https://twitter.com/jw660227)
