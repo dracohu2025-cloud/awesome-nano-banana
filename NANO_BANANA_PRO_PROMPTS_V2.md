@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2004829016591896809
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004829016591896809)
+**Scraped:** 2025-12-28T01:39:25.356Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KVXXfbEAAuhx5?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "Top-Down Floral Beauty",
+    "mood": "Romantic, Angelic, Soft, Breathtakingly Beautiful"
+  },
+  "subject_details": {
+    "character": "Unrealistically beautiful woman (Face Genius), top-down
+```
+
+---
+
 ## Case: twitter-2004829971400028401
 
 **Author:** [@retvikurmi](https://twitter.com/retvikurmi)
