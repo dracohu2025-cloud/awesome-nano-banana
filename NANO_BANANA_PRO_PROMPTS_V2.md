@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2004828739675570412
+
+**Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
+**Tweet:** [View Original](https://x.com/Toxic_Latent_pp/status/2004828739675570412)
+**Scraped:** 2025-12-28T01:39:30.156Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KVHRvbYAAcag6?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Prompt
+
+{
+  "aspect_ratio": "4:5",
+  "meta_data": {
+    "concept": "High-End Luxury Portrait",
+    "mood": "Elegant, Sparkling, Romantic, Expensive"
+  },
+  "subject_details": {
+    "character": "Goddess-level beauty with elegant styling",
+    "shot_type":
+```
+
+---
+
 ## Case: twitter-2004829016591896809
 
 **Author:** [@Toxic_Latent_pp](https://twitter.com/Toxic_Latent_pp)
