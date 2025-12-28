@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2005041248915087825
+
+**Author:** [@AllaAisling](https://twitter.com/AllaAisling)
+**Tweet:** [View Original](https://x.com/AllaAisling/status/2005041248915087825/photo/1)
+**Scraped:** 2025-12-28T01:24:56.728Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9NNp1xXkAEgYYH?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9NNvNNWYAAoLiB?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9NN1j3WoAAgpJs?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9NN9EcXwAEKokX?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt Studio: Melting Product Photography
+
+[PRODUCT] appearing to melt or dissolve into [liquid, light, particles], transformation in progress, surreal product photography, metaphorical imagery, smooth gradient transition, conceptual advertising, dreamlike quality.
+
+Check ALTs for ideas 
+```
+
+---
+
 ## Case: twitter-2005050087576060319
 
 **Author:** [@LinaByteME](https://twitter.com/LinaByteME)
