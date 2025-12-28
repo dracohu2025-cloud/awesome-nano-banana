@@ -4,6 +4,115 @@
 
 ---
 
+## Case: twitter-2004961925156012405
+
+**Author:** [@JohnnyWang8802](https://twitter.com/JohnnyWang8802)
+**Tweet:** [View Original](https://x.com/JohnnyWang8802/status/2004961925156012405)
+**Scraped:** 2025-12-28T01:33:59.140Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9MOEDVa4AAazRD?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9H9ghoXwAEF77W?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9H9ghsWkAA2W5U?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9H9lsGXsAA2P0g?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9H9lsDWgAAUd5w?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro Prompt in @tryclova ：  
+
+{
+  "subject": {
+    "type": "Abstract Light Painting Statue of Liberty",
+    "description": "A spectral, abstracted representation of the Statue of Liberty formed entirely from chaotic light trails and luminous scribbles, emerging from darkness like a ghostly monument.",
+    "features": {
+      "overall_form": "A tall, vertical silhouette loosely suggesting the Statue of Liberty, constructed from fragmented cold-white and cyan light strokes.",
+      "torch": "An upward-reaching cluster of intense white and electric-blue light bursts, flickering and overexposed, implying the torch flame without solid structure.",
+      "crown": "Radial spikes suggested by short, dashed orange and red light streaks radiating outward from the upper head area, uneven and stroboscopic.",
+      "body_drapery": "Vertical, shaky light lines cascading downward in irregular folds, hinting at flowing robes through motion rather than form."
+    },
+    "atmosphere_elements": {
+      "smoke_effect": "Soft, diffuse ultraviolet-purple mist drifting along the left side of the figure, partially obscuring the lower structure.",
+      "ectoplasm_effect": "Toxic green blurry swirls and smeared light trails wrapping around the midsection and base, suggesting spectral energy.",
+      "integration": "Sharp, glowing light lines cut through and sit atop the softer, smoky nebulas, creating a layered, haunted depth."
+    }
+  },
+  "medium_technique": {
+    "medium": "Long Exposure Photography / Light Painting",
+    "method": "Kinetic vertical and radial light drawing in total darkness",
+    "tool_simulation": "LED light stick, flashlight streaks, rapid wrist flicks and upward sweeps",
+    "artifacts": {
+      "noise": "Heavy high-ISO film grain visible throughout the black negative space",
+      "line_quality": "Shaky, hand-drawn movement with broken strokes, uneven thickness, and erratic pauses",
+      "light_texture": "Overexposed white cores with glowing neon cyan and blue edges",
+      "pulsing": "Stroboscopic dotted and dashed segments visible in the crown rays and torch flame"
+    }
+  },
+  "color_palette": {
+    "background": "Pitch black #000000",
+    "primary_lines": "Electric Cyan and Cold White",
+    "accent_lines": "Burnt Orange and Neon Red (crown highlights)",
+    "ambient_glow": "Ultraviolet Purple mist and Radioactive Green spectral swirls"
+  },
+  "composition": {
+    "framing": "Vertical close-up monument composition",
+    "orientation": "Vertical",
+    "balance": "Asymmetrical but upward-weighted, emphasizing height and instability",
+    "depth": "Flat black background with layered light depth (mist behind, sharp light strokes in front)"
+  },
+  "the_vibe": {
+    "mood": "Cyberpunk, haunting, monumental, experimental",
+    "energy": "Electric reverence, decay of symbols, ephemeral monumentality",
+    "aesthetic": "Glitch art, analog photography, rave culture, abstract civic icon"
+  },
+  "constraints": {
+    "must_keep": [
+      "Pure black background",
+      "High ISO grain/noise texture",
+      "Stroboscopic dotted light effects for crown and torch",
+      "Scribbled, unstable line quality",
+      "Glowing neon light painting look"
+    ],
+    "avoid": [
+      "Photorealistic statue",
+      "Stone or metal texture",
+      "Solid sculptural form",
+      "Vector art clean lines",
+      "3D rendering",
+      "Daylight",
+      "Smooth gradients",
+      "Perfect symmetry"
+    ]
+  },
+  "negative_prompt": [
+    "real statue",
+    "stone",
+    "metal",
+    "photorealistic monument",
+    "daylight",
+    "sunlight",
+    "vector",
+    "illustrator",
+    "clean lines",
+    "smooth",
+    "low noise",
+    "denoised",
+    "cgi",
+    "blender",
+    "solid sculpture",
+    "cartoon"
+  ]
+}
+```
+
+---
+
 ## Case: twitter-2004962137475629087
 
 **Author:** [@ecommartinez](https://twitter.com/ecommartinez)
