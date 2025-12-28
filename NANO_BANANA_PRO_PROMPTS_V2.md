@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2004962137475629087
+
+**Author:** [@ecommartinez](https://twitter.com/ecommartinez)
+**Tweet:** [View Original](https://x.com/ecommartinez/status/2004962137475629087)
+**Scraped:** 2025-12-28T01:33:53.266Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9MObZZWgAAqCJ3?format=jpg&name=orig)
+
+### Prompt
+
+```
+I made a Nano Banana version in the same style as yours!
+
+Prompt:
+
+A small child holding an umbrella illustrated as a minimalist glowing line drawing, in a poetic children’s illustration style. The character is drawn using thin white luminous lines, slightly imperfect and
+```
+
+---
+
 ## Case: twitter-2004967494508052997
 
 **Author:** [@JohnnyWang8802](https://twitter.com/JohnnyWang8802)
