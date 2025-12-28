@@ -4,6 +4,64 @@
 
 ---
 
+## Case: twitter-2004839630479475122
+
+**Author:** [@Naiknelofar788](https://twitter.com/Naiknelofar788)
+**Tweet:** [View Original](https://x.com/Naiknelofar788/status/2004839630479475122)
+**Scraped:** 2025-12-28T01:38:27.282Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9KfAu2aQAABQvl?format=jpg&name=orig)
+
+### Prompt
+
+```
+Together we are perfect 
+
+By Gemini Nano banana pro 
+
+Prompt:
+{Use 100% same face as in reference
+    "scene": "A romantic couple walking closely together on a rainy autumn day along a quiet city sidewalk",
+    "subjects": {
+      "count": 2,
+      "description": "A young couple walking arm in arm under a black umbrella, the man gently kissing the woman on the forehead while she smiles warmly",
+      "pose": "Intimate and relaxed, walking forward naturally"
+    },
+    "environment": {
+      "location": "European-style city street",
+      "weather": "Light rain with wet pavement",
+      "season": "Autumn",
+      "background": "Softly blurred historic architecture, parked cars, wooden benches, trees with orange and red leaves"
+    },
+    "clothing": {
+      "style": "Minimalist, neutral-toned outfits",
+      "details": "Beige and grey sweaters, light-colored trousers, casual sneakers"
+    },
+    "lighting": {
+      "type": "Soft natural daylight",
+      "mood": "Warm, cozy, romantic",
+      "effects": "Subtle haze and rain reflections on the ground"
+    },
+    "camera": {
+      "shot_type": "Full-body shot",
+      "angle": "Eye-level",
+      "depth_of_field": "Shallow, creamy bokeh background",
+      "lens": "85mm cinematic portrait lens"
+    },
+    "color_grading": {
+      "tones": "Warm browns, soft creams, muted greens",
+      "style": "Film-like, moody, slightly desaturated"
+    },
+    "quality": "Ultra-realistic, high detail, cinematic photography, 4K",
+    "emotion": "Love, comfort, intimacy, calm"
+  }
+}
+```
+
+---
+
 ## Case: twitter-2004854053680062923
 
 **Author:** [@ecommartinez](https://twitter.com/ecommartinez)
