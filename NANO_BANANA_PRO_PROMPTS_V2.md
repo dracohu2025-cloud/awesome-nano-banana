@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2005570989627953487
+
+**Author:** [@lijigang](https://twitter.com/lijigang)
+**Tweet:** [View Original](https://x.com/lijigang/status/2005570989627953487)
+**Scraped:** 2025-12-29T13:22:58.378Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9U4K_xbMAEexH_?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9U4K_2asAAa8lx?format=jpg&name=orig)
+
+### Prompt
+
+```
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;
+;; 作者: 李继刚
+;; 剑名: 浮世绘风格
+;; 剑意: 生成浮世绘风格的画面 
+;; date: 2025-12-29
+;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+1. 风格调性 
+   - Keywords: Shin-hanga (新版画风格), Ukiyo-e Aesthetics (浮世绘美学), Serene
+```
+
+---
+
 ## Case: twitter-2005293067667198029
 
 **Author:** [@linxiaobei888](https://twitter.com/linxiaobei888)
