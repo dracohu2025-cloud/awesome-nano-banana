@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2005232305175237003
+
+**Author:** [@azed_ai](https://twitter.com/azed_ai)
+**Tweet:** [View Original](https://x.com/azed_ai/status/2005232305175237003)
+**Scraped:** 2025-12-29T13:24:47.227Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9QEJe0bMAA8Y0_?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9QEJpPaAAA44Yh?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9QEJyracAArHpQ?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9QEJ8OaYAAtitG?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt share: Concept sheet
+
+Prompt:
+A concept sheet for a [character], detailed with front, back, and side views, including close-up sketches of facial features and accessories, annotated with design notes and labeled components, drawn in blueprint style with glowing trim in [color1] and base structure in [color2], presented on a clean white background
+
+Check ATLs for inspiration 
+```
+
+---
+
 ## Case: twitter-2005570989627953487
 
 **Author:** [@lijigang](https://twitter.com/lijigang)
