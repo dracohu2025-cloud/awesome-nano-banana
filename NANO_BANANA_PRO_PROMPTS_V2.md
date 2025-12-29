@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2005487775597088895
+
+**Author:** [@Ok_shuai](https://twitter.com/Ok_shuai)
+**Tweet:** [View Original](https://x.com/Ok_shuai/status/2005487775597088895)
+**Scraped:** 2025-12-29T11:25:07.127Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9TsesOaIAAfNFh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9TsfmjbcAAiRn7?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/amplify_video_thumb/1996434135523741697/img/89EOFGlZ7Uk1tNDo?format=jpg&name=orig)
+
+### Prompt
+
+```
+终于在X被看见了
+为了感谢很多人喜欢这个风格！
+我把提示词分享给大家：
+Prompt：
+```json
+{
+"subject": {
+"description": "A Tang dynasty Chinese court orchestra performing music on a branch of an Agan tree, with musicians playing pipa, erhu, flute, ruan, and horse-hoof lute,
+```
+
+---
+
 ## Case: twitter-2005478881818742931
 
 **Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
