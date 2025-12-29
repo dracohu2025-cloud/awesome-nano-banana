@@ -4,6 +4,65 @@
 
 ---
 
+## Case: twitter-2005478881818742931
+
+**Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
+**Tweet:** [View Original](https://x.com/servasyy_ai/status/2005478881818742931)
+**Scraped:** 2025-12-29T11:20:49.018Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9Tj08MaoAA8t5S?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9Tj6FtaMAAECbR?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9Tj-naawAE4PHw?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9TkIpcbEAAz0xr?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9RWKXeXoAA9oUL?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9RWMWyXcAA8KPe?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G9RWNIIXcAIoiC1?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G9RWNeZXEAAdy9-?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个提示词特别难调，终于肝好了！
+
+地图体现军队的部署，真实还原军事要塞
+
+使用方法：罗马帝国凯撒/法兰西帝国拿破仑
+
+提示词如下
+{
+
+"prompt": "...
+
+**CRITICAL MAP LABELS AND PLACE NAMES**: Clear elegant Latin/English text labels in golden yellow color with subtle black outline for readability, strategically placed across the map:
+
+- **Empire title**: Large prominent \"IMPERIUM ROMANUM\" (Roman Empire) text at top center of map in classical Roman capitals style
+
+- **Regional provinces**: \"Britannia\", \"Gallia\", \"Hispania\", \"Italia\", \"Graecia\", \"Aegyptus\", \"Syria\" labeled at respective territory centers in medium-sized text
+
+- **Major geographical features**: \"Mare Mediterraneum\" (Mediterranean Sea), \"Rhenus\" (Rhine River), \"Danubius\" (Danube River), \"Alpes\" (Alps), \"Nilus\" (Nile River) labeled along features
+
+- **Strategic fortresses**: \"Hadrian's Wall\", \"Rhine Limes\", \"Alesia\", \"Alexandria\", \"Antiochia\" labeled at fortress locations with smaller text
+
+- **Capital marking**: \"Roma\" with special SPQR eagle icon and larger bold text at capital center on Italian peninsula
+
+All text labels rendered in clean legible Latin/English characters, floating slightly above terrain surface with soft shadow for depth, integrated naturally into map aesthetic without cluttering visual composition.
+
+..."
+
+}
+```
+
+---
+
 ## Case: twitter-2005129744690675731
 
 **Author:** [@sundyme](https://twitter.com/sundyme)
