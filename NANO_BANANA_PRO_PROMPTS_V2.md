@@ -4,6 +4,111 @@
 
 ---
 
+## Case: twitter-2005885902435016947
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2005885902435016947)
+**Scraped:** 2025-12-30T08:40:59.452Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9ZWlqUaQAA1RR_?format=png&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9ZUKcrbgAALhAk?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9TsesOaIAAfNFh?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9TsfmjbcAAiRn7?format=jpg&name=orig)
+
+### Prompt
+
+```
+为了更好的去拆解一个提示词：
+
+我的步骤：
+
+1. 移除干扰，减少空的字段以及翻译成中文后的JSON版本
+
+{
+  "subject": {
+    "description": "一支唐代宫廷乐队在阿干树的树枝上演奏音乐，乐手们演奏着琵琶、二胡、笛子、阮和马头琴，乐手和鸟儿随意散落，有的站着，有的坐着。",
+    "face": {
+      "preserve_original": false
+    },
+    "pose": {
+      "position": "混合姿势（有的站着，有的坐着）",
+      "base": "在阿干树的树枝上",
+      "overall": "正在演奏音乐，演奏琵琶、二胡、笛子、阮和马头琴"
+    },
+    "clothing": {
+      "top": {
+        "type": "唐代宫廷服饰"
+      }
+    }
+  },
+  "accessories": {
+    "prop": "琵琶、二胡、笛子、阮、马头琴"
+  },
+  "photography": {
+    "lighting": "均匀柔和的灯光"
+  },
+  "background": {
+    "setting": "驼色舞台画布",
+    "wall_color": "驼色舞台画布，色码 #E7B5C3D",
+    "elements": [
+      "阿干树枝",
+      "鸟"
+    ],
+    "lighting": "均匀柔和的灯光"
+  },
+  "the_vibe": {
+    "aesthetic": "宋代美学，极简主义，写实",
+    "story": "一支唐代宫廷乐队在阿干树的树枝上演奏音乐，乐手和鸟儿随意散落，有的站着，有的坐着。",
+    "caption_energy": "树枝上的唐代宫廷乐队"
+  },
+  "constraints": {
+    "must_keep": [
+      "唐代宫廷乐队",
+      "乐手演奏琵琶、二胡、笛子、阮和马头琴",
+      "阿干树枝",
+      "乐手和鸟儿随意散落，有的站着，有的坐着",
+      "驼色舞台画布，色码 #E7B5C3D"
+    ]
+  },
+  "negative_prompt": [
+    "不适宜内容 (nsfw)",
+    "低质量",
+    "文字",
+    "水印"
+  ]
+}
+
+这里面有几个有意思的地方
+1. 颜色：指定了颜色色值可以保持一致性，驼色舞台画布，色码 #E7B5C3D
+2. 关键元素：指定了阿干树枝，也是为了保持美观和一致性。
+3. 树枝上的唐代宫廷乐队，非常规的创意。
+
+----
+
+对这个风格进行溯源：
+
+可能性之一
+
+来自于这一位摄影师的风格。
+孙郡 - 摄影界的李子柒，很多名人找他拍摄。
+新文人画摄影大师
+东方美学复兴代表人物
+
+可能性之二
+
+@ZiDeGuqinStudio 
+
+自得琴社   《长安幻世绘》
+https://youtube.com/watch?v=v-8AOJbdsDQ…
+```
+
+---
+
 ## Case: twitter-2005861752836411524
 
 **Author:** [@lijigang](https://twitter.com/lijigang)
