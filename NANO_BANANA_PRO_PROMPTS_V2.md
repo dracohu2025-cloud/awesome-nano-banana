@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2006180278247854356
+
+**Author:** [@qisi_ai](https://twitter.com/qisi_ai)
+**Tweet:** [View Original](https://x.com/qisi_ai/status/2006180278247854356)
+**Scraped:** 2025-12-31T05:35:33.385Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9dca7dWEAAJ5vv?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9bclT0aUAAp2fF?format=jpg&name=orig)
+
+### Prompt
+
+```
+有人猜出来了，是Z-Image终结了比赛！小体积模型也能生成出这种质感的图像，可以说和seedream不相上下，可用作Nano Banana Pro的平替。
+
+中文提示词：
+
+High-resolution film photography,Aesthetics art,JKC photography,真人摄影，一位cos《fatestay night》中saber的绝世美人，有着黄金比例且英气立体的五官，耳边有两缕随风飘舞的碎发，呈现出奋战的状态，展现出凌厉、神性、清冷、决绝的气质，胶片摄影风格，艺术摄影用途，独特视角镜头，情绪氛围感拉满、朦胧美学、层次感氛围，对焦模糊、灰色强侧光、高饱和但低明度、高曝、过曝、暗调、伦勃朗光、强烈明暗对比、高反差、肌理质感、胶片颗粒感、慢快门、西式梦核、大师构图特点，获奖作品水准，凌乱发丝在动态模糊中狂舞，暗朦调、隐约的淡彩褪色、泛朦、对焦模糊，复古、迷离、低饱和、冷光源、质感、泛光模糊晕染、高噪点、胶片颗粒质感、极简风、灰度美学、写意、前卫视觉艺术美学、高级感，超现实肖像摄影风格，艺术特写用途，神秘魅惑氛围，使用50mm标准镜头且透视畸变校正，多重曝光融合的模糊肖像画面，有抽象色块与暗淡光斑交织，超广角透视拉伸空间，强烈胶片颗粒覆盖高噪点画面，扩散模糊渲染失控光轨，朦胧雾霭包裹荧光色溢流，焦平面分裂技术制造景深错位，菲涅尔光学算法模拟多重折射，8K扫描仪记录银盐结晶纹路，数字胶片引擎调控青橙色调分离，8K画质
+
+来源：魔搭 Z-Image 作品区
+```
+
+---
+
 ## Case: twitter-2005876458452103541
 
 **Author:** [@sundyme](https://twitter.com/sundyme)
