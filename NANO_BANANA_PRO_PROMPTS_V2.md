@@ -4,6 +4,63 @@
 
 ---
 
+## Case: twitter-2005876458452103541
+
+**Author:** [@sundyme](https://twitter.com/sundyme)
+**Tweet:** [View Original](https://x.com/sundyme/status/2005876458452103541/photo/1)
+**Scraped:** 2025-12-31T05:28:51.833Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9ZNS3HaYAEdWWG?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9T-5nbaMAIqY0m?format=jpg&name=orig)
+
+### Prompt
+
+```
+改了一个更通用的模板，自动根据朝代匹配服饰，乐器。
+A [朝代名称] ([年代范围]) Chinese court orchestra performing traditional music on a gnarled Agan tree branch. Six musicians casually arranged on the branch in various poses - some standing, some sitting cross-legged, some leaning against the tree.
+
+CRITICAL - [朝代名称] authentic instruments (based on detailed historical research):
+- [乐器1]: [描述]
+- [乐器2]: [描述]
+- [
+- [乐器4]: [描述]
+- [乐器5]: [描述]
+- [乐器6]: [描述]
+
+CRITICAL - [朝代名称] court clothing (based on historical research):
+Male officials: [服饰描述，包括：服装类型、颜色、配饰、图案等]
+Female musicians: [服饰描述，包括：服装类型、颜色、配饰、发型等]
+
+CRITICAL - CINEMATIC PHOTOGRAPHY STYLE:
+- Camera: High-end medium format camera aesthetic, Hasselblad quality
+- Lens: 85mm portrait lens, shallow depth of field (f/2.8-f/4)
+- Focus: Sharp focus on center musiciansd background figures
+- Lighting: Cinematic three-point lighting setup
+  * Key light: Soft golden, creating dimensional modeling
+  * Fill light: Subtle ambient bounce light from below, lifting shadows
+  *ating subjects from background, creating luminous edges on hair and fabric
+- Light quality: Soft, diffused, warm (3500K-4500K color temperature)
+- Shadows: Soft graduated shadows with rich detail in shadow areas
+- Highlights: Controlled specular highlights on silk fabric, instruments, jewelry
+- Atmosphere: Subtle atmospheric haze, creating depth and layering
+- Color grading: Cinematic color palette - warm golden tones, rich saturation, film-like contrast curve
+- Dynamic range: Wide latitude preserving detail in highlights and shadows
+- Texture: Ultra-sharp micro-details on fabric weave, wood grain, skin texture
+- Composition: Rule of thirds, leading lines from tree branch, balanced visual weight
+- Depth: Multiple layers - foreground (branch details), mid-ground (musicians), background (soft camel-brown #E7B5C3D)
+
+VISUAL MOOD: Editorial fashion photography meets fine art portraiture, Vogue-level production quality, Annie Leibovitz compositional style, Peter Lindbergh lighting aesthetic.
+
+Several birds (sparaxwings, egrets) naturally scattered, some in sharp focus, some softly blurred.
+
+4K resolution, RAW image quality, professional color science, museum-quality detail.
+```
+
+---
+
 ## Case: twitter-2005577284628135955
 
 **Author:** [@qisi_ai](https://twitter.com/qisi_ai)
