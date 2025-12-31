@@ -4,6 +4,72 @@
 
 ---
 
+## Case: twitter-2005997445612986720
+
+**Author:** [@LufzzLiz](https://twitter.com/LufzzLiz)
+**Tweet:** [View Original](https://x.com/LufzzLiz/status/2005997445612986720/photo/1)
+**Scraped:** 2025-12-31T04:12:37.431Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9a7RX8aMAAI3yN?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9a7aP0aYAYEx3s?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9a7fWUboAAn920?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9a7pImWMAAnMPc?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9YuL2NbsAAndgE?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9YuO-DagAAODbh?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G9YuTeOakAA59rw?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G9Yu8yBaYAApVqm?format=jpg&name=orig)
+
+### Prompt
+
+```
+借鉴神佬的思路，来一套球星图鉴
+提示词如下（改一改也可以做别的明星）：
+Ultra-photorealistic 3D sports star showcase in a modern asymmetric Bento grid layout. The central focus (C-position) features a full-body, iconic action pose of a world-famous football (soccer) player—captured mid-motion with extreme realism: visible muscle tension, dynamic fabric wrinkles on the jersey, flying grass particles, sweat droplets, and authentic facial expression (e.g., Cristiano Ronaldo’s bicycle kick, Lionel Messi’s low-center dribble, Kylian Mbappé’s explosive sprint). The athlete appears sealed inside a floating frosted translucent acrylic glass panel, rendered with accurate refraction, Fresnel edge highlights, and subsurface scattering. Background is softly blurred with stadium ambiance (crowd bokeh or pitch texture), enhancing depth and presence.
+
+Surrounding the central figure are seven uniformly sized information cards arranged in an asymmetric Bento grid (16:9 landscape format). Each card is made of 80–85% transparent frosted acrylic glass (iOS-style blur), overlaid with 15% cream-white base for legibility, featuring soft glowing edges and multi-layer floating shadows. The background behind the cards shows a low-saturation gradient that adapts to the player’s profile: deep navy/silver for technical players, charcoal/electric gold for speedsters. Subtle underlying textures (e.g., passing trajectories, soundwave patterns of crowd cheers, or abstract pitch lines) appear faintly beneath the glass—never distracting.
+
+All text across the entire composition must be in high-resolution, crisp, elegant Simplified Chinese (简体中文), using a clean sans-serif font (e.g., HarmonyOS Sans or Alibaba Sans). Text color: #3A3A3A dark gray. Key data points, icons, and titles may use up to 10% accent color (e.g., national team or club colors like Argentina’s sky blue #75AADB or Manchester United red #DA020E)—strictly as functional emphasis, not decoration.
+
+One dedicated card (labeled “传奇帧 · 动态史诗”) displays four miniature circular snapshots of the player’s most iconic career moments (e.g., World Cup goals, historic dribbles, celebrations), rendered as ultra-realistic 3D freeze-frames—not photos or illustrations—with year and event labels in Simplified Chinese below each.
+
+**Other cards include:
+
+核心成就 (Core Achievements)
+赛季核心数据 (Season Performance Stats)
+场上角色 (On-Field Role)
+职业精神 (Professional Ethos)
+不可复制性 (Unique Traits)
+冷知识 (Trivia / Behind-the-Scenes Facts)**
+Critical requirements:
+
+ Central figure must be full-body, in motion, hyper-realistic—no static poses, cartoons, flat design, or AI-blurred faces.
+
+ All seven info cards MUST remain highly transparent; NO solid white backgrounds allowed.
+
+ ALL TEXT IN HIGH-RESOLUTION SIMPLIFIED CHINESE (简体中文)—no English, no mixed languages.
+
+ Accent color ≤10% of total visual area—used only for key data/icons.
+
+ Zero visual clutter: no borders, no excessive icons, no color clashes.
+
+ Atmosphere: museum-level elegance, cinematic drama, athletic grandeur.
+
+Final output should feel like a premium digital exhibit at FIFA Museum or Apple Vision Pro sports experience—where motion, data, and humanity converge in crystal-clear clarity.
+
+人物：梅西
+```
+
+---
+
 ## Case: twitter-2005885902435016947
 
 **Author:** [@ttmouse](https://twitter.com/ttmouse)
