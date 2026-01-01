@@ -4,6 +4,74 @@
 
 ---
 
+## Case: twitter-2006582966240293144
+
+**Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
+**Tweet:** [View Original](https://x.com/servasyy_ai/status/2006582966240293144)
+**Scraped:** 2026-01-01T09:40:54.817Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9jQZGnaMAEFdVa?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9jN-gfa8AAhuA7?format=jpg&name=orig)
+
+### Prompt
+
+```
+创意不错，复刻了一版！
+
+提示词：
+A stunning conceptual product photography of an Evian mineral water bottle placed in the center of a wet urban street at night. The bottle features a magical surreal element: inside the transparent glass, a miniature cityscape is perfectly captured - showing a complete illuminated street scene with a lone pedestrian walking, cars, buildings, and streetlights, as if the bottle contains a reflection or portal to another dimension of the same city.
+BOTTLE DETAILS:
+- Crystal clear Evian glass bottle with silver metal cap
+- Visible condensation water droplets covering the entire surface
+- "evian" branding clearly visible on the label
+- The bottle acts as a lens/window showing a miniaturized urban night scene trapped inside
+SURREAL CORE ELEMENT (CRITICAL):
+Inside the bottle, through the glass and water, a complete miniature city street is visible:
+- A lone silhouetted person walking in the middle of the street
+- Illuminated buildings lining both sides
+- Moving cars with headlights and taillights
+- Streetlights creating light trails
+- The scene appears as a perfect reflection/refraction captured within the bottle
+- Photorealistic integration - the city inside looks like it's genuinely contained in the water
+SETTING & FOREGROUND:
+- Bottle placed on wet asphalt pavement with visible texture
+- Ground covered in water droplets and moisture reflecting lights
+- Dark wet road surface with granular detail
+- Low camera angle (ground level perspective)
+BACKGROUND & BOKEH:
+- Deep blue-teal nighttime urban atmosphere
+- Strong circular bokeh lights in cyan, blue, warm orange/amber tones
+- Out-of-focus city lights creating dreamy light orbs
+- Blurred traffic lights, streetlights, and building lights
+- Depth of field with sharp focus on bottle, heavily blurred background
+LIGHTING & ATMOSPHERE:
+- Cool blue-cyan color grading with warm accent lights
+- Dramatic lighting highlighting the bottle and condensation
+- Rim lighting on bottle edges
+- The miniature city inside is well-lit and clearly visible
+- Moody cinematic night photography aesthetic
+- High contrast between illuminated elements and dark surroundings
+TECHNICAL SPECIFICATIONS:
+- Photorealistic commercial product photography
+- Macro lens perspective with shallow depth of field
+- Crystal clear focus on bottle (especially the city scene inside)
+- Professional color grading: teal and orange cinematic look
+- High resolution detail on water droplets and glass texture
+- Creative compositing: seamless integration of city scene within bottle
+MOOD & CONCEPT:
+- Surreal and dreamlike
+- Philosophical commentary on urban life and nature
+- The bottle as a portal or mirror to city life
+- Contemplative and artistic
+- Premium luxury product presentation with conceptual twist
+Camera Settings Aesthetic: Shot with macro lens (85-100mm f/2.8), low angle ground-level perspective, aperture f/2.8-4 for shallow DOF, focusing distance approximately 50cm from bottle, cinematic color grading in post-production.
+```
+
+---
+
 ## Case: twitter-2006324454712844592
 
 **Author:** [@AztecaAlpaca](https://twitter.com/AztecaAlpaca)
