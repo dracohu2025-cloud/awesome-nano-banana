@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2006331585919164794
+
+**Author:** [@LufzzLiz](https://twitter.com/LufzzLiz)
+**Tweet:** [View Original](https://x.com/LufzzLiz/status/2006331585919164794)
+**Scraped:** 2026-01-01T04:44:38.154Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9frL6paoAAk0Aq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9frZ4FbwAAVVyz?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9fP-W8W0AATW3X?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9fRJ7UbwAAHYld?format=jpg&name=orig)
+
+### Prompt
+
+```
+卧槽，朋友们，我已经分不清这是AI生成图片了。
+Qwen-image-2512 这个模型可以的
+
+提示词：
+一位中国女性大学生，性别女，年龄约20岁左右，超短发发型略带柔和文艺感，发丝自然垂落遮住部分脸颊，整体风格偏向假小子（tomboy）气质。她肤色冷白，五官清秀，表情略显羞涩又带着一丝拽劲，嘴角微微歪起，流露出痞帅又青春的神态。身穿一字领露肩短袖上衣，露出一侧肩膀，身材匀称。画面为近景自拍构图，人物占据主体位置，背景清晰可见宿舍环境：上铺床铺铺着白色床上三件套，旁边是一张桌面物品摆放整齐的书桌，以及木制柜子与抽屉。整体采用手机拍摄，光线为均匀柔和的环境光，色调自然真实，画面清晰明亮，氛围轻快鲜活，充满日常生活的青春气息。
+```
+
+---
+
 ## Case: twitter-2005877044584849773
 
 **Author:** [@YaseenK7212](https://twitter.com/YaseenK7212)
