@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2006324454712844592
+
+**Author:** [@AztecaAlpaca](https://twitter.com/AztecaAlpaca)
+**Tweet:** [View Original](https://x.com/AztecaAlpaca/status/2006324454712844592)
+**Scraped:** 2026-01-01T09:40:41.603Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9fSmyxbsAA0lgq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9d7STxX0AAh9xR?format=jpg&name=orig)
+
+### Prompt
+
+```
+灵魂画师进阶之路
+
+细化了一下，从做成了从0~5的五个等级。
+
+具体操作：
+1. 点击链接，进入Gemini（提示词稍后给出）：https://gemini.google.com/gem/1xi2wHR04-dQGYmwnP72sPslCf88kKE_G?usp=sharing…
+2.贴上如下指令：
+
+---
+
+生成一组合集，一共6幅图，3*2 排列，每一幅的画幅都是4:3.
+
+主题：跨越阿尔卑斯山的拿破仑 
+
+等级：从level 5 到level 0（6个）
+```
+
+---
+
 ## Case: twitter-2006573494889496996
 
 **Author:** [@msjiaozhu](https://twitter.com/msjiaozhu)
