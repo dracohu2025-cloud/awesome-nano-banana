@@ -4,6 +4,78 @@
 
 ---
 
+## Case: twitter-2006573494889496996
+
+**Author:** [@msjiaozhu](https://twitter.com/msjiaozhu)
+**Tweet:** [View Original](https://x.com/msjiaozhu/status/2006573494889496996)
+**Scraped:** 2026-01-01T09:35:26.941Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9jH84gWIAA2gPz?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9jH84gXYAEOkar?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G7c7ffYb0AMoNgb?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G7c7tMNb0AAQ_N-?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G7c7wx0bEAAz8Yh?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G7c70O_b0AAdDEX?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个摄影棚效果太赞了，视觉冲击，镜头景深都很足够！在原贴启发下转换成 json 格式，支持镜头角度跟姿势控制参数
+
+第一张是真的喜欢！
+
+使用方法：
+从 camera_angle 挑选一个填入 [INSERT_ANGLE_HERE]
+从 character_pose 挑选一个填入 [INSERT_POSE_HERE]
+
+提示词
+{
+  "project_settings": {
+    "type": "Dynamic Perspective Portrait",
+    "mode": "Image-to-Image / ControlNet Reference",
+    "description": "Keeps character consistent while changing pose and camera angle with forced perspective."
+  },
+  "user_selection": {
+    "//_instruction": "CHOOSE ONE option for each category below to generate your prompt",
+    "camera_angle": "{Low Angle Worm's-eye View | High Angle Bird's-eye View | Eye-Level Close Up | Dutch Angle (Tilted)}",
+    "character_pose": "{Deep Squatting | Standing Power Pose | Sitting Cross-legged | Dynamic Running | Leaning Forward}"
+  },
+  "prompt_structure": {
+    "subject_anchor": {
+      "instruction": "A high-quality wide-angle photo of [SAME CHARACTER AS REFERENCE IMAGE]",
+      "outfit": "wearing [SAME OUTFIT AS REFERENCE]"
+    },
+    "action_logic": {
+      "description": "The character is [INSERT_POSE_HERE], actively interacting with the camera.",
+      "focal_point": "One hand or foot is reaching towards the camera lens, creating a playful forced perspective effect where the limb appears larger and close-up."
+    },
+    "camera_logic": {
+      "perspective": "Shot from a [INSERT_ANGLE_HERE] using a 24mm wide-angle lens.",
+      "depth": "Shallow depth of field, sharp focus on the character's eyes, soft blurred background."
+    },
+    "environment": {
+      "setting": "Simple studio background or consistent environment from reference, soft studio lighting."
+    },
+    "technical_specs": {
+      "style": "K-pop aesthetic, vibrant colors, realistic texture, 8k resolution, raw photography.",
+      "negative_prompt": [
+        "distortion on face", "bad fingers", "extra limbs", "mutated hands", 
+        "blurry eyes", "drawing", "cartoon", "cgi", "too much fish-eye"
+      ]
+    }
+  }
+}
+```
+
+---
+
 ## Case: twitter-2006331585919164794
 
 **Author:** [@LufzzLiz](https://twitter.com/LufzzLiz)
