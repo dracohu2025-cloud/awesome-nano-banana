@@ -4,6 +4,46 @@
 
 ---
 
+## Case: twitter-2006646208945860963
+
+**Author:** [@joshesye](https://twitter.com/joshesye)
+**Tweet:** [View Original](https://x.com/joshesye/status/2006646208945860963)
+**Scraped:** 2026-01-02T10:59:13.003Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9kKFa5bMAAxxeD?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9kKFa6aMAIwYu-?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9kKFa7bEAAhd2A?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9ZOhiNXYAADWk9?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9ZOhiPW8AAJMPv?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9ZOhiQXkAAoyQd?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G9ZOhiTXoAAWQCc?format=jpg&name=orig)
+
+### Prompt
+
+```
+和喜欢的卡通人物合影，这个系列太火了。
+
+1.使用Nano pro
+2上传你的参考图
+3.输入提示词
+
+Nano Banana prompt
+
+ [Use the face without any change.   {     "image_generation": {       "quality": "hyper-realistic",       "face": { "preserve_original": true },       "subject": {         "clothing": "light grey knitted sweater, blue high-waisted jeans, white high-top sneakers",         "pose": "standing with arm around giant 3D Tom; Jerry on Tom's shoulder",         "expression": "fun, mischievous",         "character_element": {           "name": "Tom & Jerry",           "type": "3D photorealistic duo",           "interaction": "Tom posing confidently, Jerry playfully"         }       },       "environment": "clean grey-blue backdrop"     }   },   {     "image_generation": {       "quality": "hyper-realistic",       "face": { "preserve_original": true },       "subject": {         "clothing": "electric yellow knitted sweater, black high-waisted jeans, white/black high-top sneakers",         "pose": "arm resting on giant 3D Pikachu",         "expression": "energetic, cheerful",         "character_element": {           "name": "Pikachu",           "type": "giant 3D photorealistic render",           "interaction": "smiling up at person"         }       },       "environment": "vibrant yellow backdrop"     }   },   {     "image_generation": {       "quality": "hyper-realistic, professional fashion photoshoot",       "face": { "preserve_original": true },       "subject": {         "clothing": "Ben 10 themed green/black sweater, dark grey jeans, white/green sneakers",         "pose": "standing beside giant 3D Ben 10 activating Omnitrix",         "expression": "confident, energetic",         "character_element": {           "name": "Ben Tennyson (Classic Ben 10)",           "type": "giant 3D photorealistic render with cartoon accuracy",           "details": "accurate green jacket outfit, glowing green Omnitrix on wrist",           "interaction": "Ben activates Omnitrix with dynamic green glow"         }       },       "environment": {         "background": "neon-green and black circuitry patterns",         "lighting": "dynamic green glow reflecting from Omnitrix",         "mood": "sci-fi hero fashion shoot"       }     }   },   {     "image_generation": {       "quality": "hyper-realistic",       "face": { "preserve_original": true },       "subject": {         "clothing": "pastel pink knitted sweater, white high-waisted jeans, white/pink sneakers",         "pose": "posing fashionably beside tall 3D Pink Panther",         "expression": "elegant, stylish",         "character_element": {           "name": "Pink Panther",           "type": "giant 3D render",           "interaction": "striking a suave pose"         }       },       "environment": "light pastel pink backdrop"     }   } ]
+
+#NanoBananaPro
+```
+
+---
+
 ## Case: twitter-2006692706534490403
 
 **Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
