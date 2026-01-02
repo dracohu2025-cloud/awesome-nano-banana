@@ -4,6 +4,84 @@
 
 ---
 
+## Case: twitter-2006727514350387515
+
+**Author:** [@oggii_0](https://twitter.com/oggii_0)
+**Tweet:** [View Original](https://x.com/oggii_0/status/2006727514350387515)
+**Scraped:** 2026-01-02T10:59:24.869Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9lUCedbUAAxaI3?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini App.
+Prompt: {
+  "subject": {
+    "description": "Young East Asian woman",
+    "pose": "Looking back over left shoulder, body turned slightly away",
+    "gaze": "Direct eye contact with viewer, intense and slightly melancholic expression",
+    "age": "Late teens to early 20s"
+  },
+  "clothing": {
+    "outerwear": "Grey, textured oversized wool coat or heavy knit sweater",
+    "neckwear": "Black scarf or high-neck collar wrapped loosely",
+    "fit": "Loose, comfortable, winter layering"
+  },
+  "hair": {
+    "color": "Dark brown/black",
+    "style": "Messy, loose updp/low bun",
+    "texture": "Windswept, wispy strands framing the face",
+    "condition": "Slightly disheveled, natural look"
+  },
+  "face": {
+    "complexion": "Pale, clear skin with soft natural texture",
+    "makeup": "Minimal/natural, subtle lip color",
+    "features": "Soft facial structure, straight eyebrows",
+    "expression": "Neutral, pensive, serious, mysterious"
+  },
+  "accessories": {
+    "items": [
+      "Black backpack (straps visible on shoulders)"
+    ]
+  },
+  "environment": {
+    "setting": "Urban city street, likely Korea (vertical Hangul signage visible)",
+    "time": "Dusk/Twilight or overcast late afternoon",
+    "weather": "Gloomy, damp, overcast sky",
+    "background_elements": [
+      "Blurred city buildings",
+      "Street signs (yellow and white)",
+      "Power lines",
+      "Traffic lights (bokeh)",
+      "Pedestrians in distance (heavily blurred)"
+    ]
+  },
+  "lighting": {
+    "quality": "Soft, diffuse, cinematic",
+    "ambient": "Cool blue/teal tones from the sky",
+    "practical": "Warm yellow and red bokeh from street lamps and car tail lights in background",
+    "contrast": "Low contrast on face, higher contrast in background lights"
+  },
+  "camera": {
+    "shot_type": "Medium close-up portrait",
+    "angle": "Eye level",
+    "focus": "Sharp focus on eyes/face",
+    "depth_of_field": "Shallow (f/1.8 or f/2.8), creamy bokeh background"
+  },
+  "style": {
+    "aesthetic": "Cinematic, moody, slice-of-life",
+    "genre": "Street photography, emotive portraiture",
+    "color_grading": "Teal and orange/amber complementary colors, desaturated cool tones",
+    "vibe": "Nostalgic, atmospheric, solitary"
+  }
+}
+```
+
+---
+
 ## Case: twitter-2006646208945860963
 
 **Author:** [@joshesye](https://twitter.com/joshesye)
