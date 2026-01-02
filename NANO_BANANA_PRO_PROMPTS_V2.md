@@ -4,6 +4,38 @@
 
 ---
 
+## Case: twitter-2006951296234926468
+
+**Author:** [@sidona](https://twitter.com/sidona)
+**Tweet:** [View Original](https://x.com/sidona/status/2006951296234926468)
+**Scraped:** 2026-01-02T12:20:57.354Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9ofaImbsAAxAUX?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9oNWG0bgAAljDH?format=jpg&name=orig)
+
+### Prompt
+
+```
+thx prompt from @oggii_0  so cool and cold
+
+A 3x3 cinematic storyboard contact sheet consisting of 9 distinct panels arranged in a grid. The sequence features a young woman in a frozen alpine winter setting.
+
+The panels display various angles and shots:
+
+Close-ups: Focusing on her rosy cheeks, blue-grey eyes, and snowflakes on her eyelashes.
+
+Medium shots: Showing her wrapped in a coat and red knit scarf, holding a bouquet of dried white flowers.
+
+Wide shots: Capturing her standing alone on the frozen lake with towering snowy mountains in the background.
+
+The lighting is consistent moody blue-hour twilight across all frames. High-quality film photography aesthetic, photorealistic, 8k resolution, coherent character and color grading.
+```
+
+---
+
 ## Case: twitter-2006402237808152898
 
 **Author:** [@qisi_ai](https://twitter.com/qisi_ai)
