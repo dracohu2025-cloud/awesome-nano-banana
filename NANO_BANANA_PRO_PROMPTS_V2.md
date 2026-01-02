@@ -4,6 +4,41 @@
 
 ---
 
+## Case: twitter-2006746690255040979
+
+**Author:** [@YaseenK7212](https://twitter.com/YaseenK7212)
+**Tweet:** [View Original](https://x.com/YaseenK7212/status/2006746690255040979)
+**Scraped:** 2026-01-02T04:06:43.351Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9llB8EXwAAgH5D?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9llB8EW0AAk4rU?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9llB8DXQAAGZQT?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9llB8DW0AAEIBH?format=jpg&name=orig)
+
+### Prompt
+
+```
+Colored Pencil illustration  On Gemini Nano Banana 3.0 
+
+Prompt:
+
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+```
+
+---
+
 ## Case: twitter-2006640446353867007
 
 **Author:** [@0xbisc](https://twitter.com/0xbisc)
