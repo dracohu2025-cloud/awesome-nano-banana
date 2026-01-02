@@ -4,6 +4,49 @@
 
 ---
 
+## Case: twitter-2006795197087207618
+
+**Author:** [@AmirMushich](https://twitter.com/AmirMushich)
+**Tweet:** [View Original](https://x.com/AmirMushich/status/2006795197087207618)
+**Scraped:** 2026-01-02T12:29:03.260Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9mRaMhWcAAQc6T?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana smart prompt:
+
+Branded gifts postcard
+
+Prompt 
+(access Nano Banana here: https://dub.sh/Amir-p1)
+
+[A charming, hand-drawn fashion illustration of a Christmas tree constructed entirely from a chaotic stack of [BRAND NAME] product boxes.
+
+**COMPOSITION:**
+The boxes are piled in a pyramid shape to mimic the silhouette of a Christmas tree. The boxes vary slightly in size and angle, creating a playful, unstable, organic look. At the very top, there is a simple golden star.
+
+**BRAND PALETTE & AESTHETICS (CRITICAL):**
+The boxes must be colored strictly according to [BRAND NAME]'s official color palette (e.g., Tiffany Blue for Tiffany, Orange/Brown for Louis Vuitton, Red/White for Supreme).
+* **Details:** Visible [BRAND NAME] logos are printed on the sides of the boxes. Add realistic packaging details like small shipping labels, barcodes, and tape to enhance the "delivery box" vibe.
+
+**ART STYLE (MARKER SKETCH):**
+The image is NOT a 3D render. It is a high-quality "Alcohol Marker and Ink" sketch on white paper. The style is loose, artistic, and vibrant, typical of fashion design sketches. The colors have the texture of markers; the outlines are done in fine black ink.
+
+**TYPOGRAPHY (STRICT BRAND MATCH):**
+At the very bottom of the illustration, centered, write the phrase: "Happy New Year!".
+1.  **Font Style:** The font must mimic the official typographic language of [BRAND NAME] (e.g., if Nike: use a heavy Condensed Sans-Serif; if Gucci: use a refined Serif). The text style must feel like an extension of the brand's identity.
+2.  **Size:** The text must be very small and discreet. It should occupy a maximum of 20% of the total image width.
+
+**BACKGROUND:**
+Clean white paper texture background.]
+```
+
+---
+
 ## Case: twitter-2006392219339559027
 
 **Author:** [@oggii_0](https://twitter.com/oggii_0)
