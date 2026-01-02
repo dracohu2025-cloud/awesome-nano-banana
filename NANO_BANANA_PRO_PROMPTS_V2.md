@@ -4,6 +4,129 @@
 
 ---
 
+## Case: twitter-2006911116337885255
+
+**Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
+**Tweet:** [View Original](https://x.com/Adam38363368936/status/2006911116337885255)
+**Scraped:** 2026-01-02T11:00:02.292Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9n66mFaMAA1VyF?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9n67P8aMAIxapE?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9llB8EXwAAgH5D?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9llB8EW0AAk4rU?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9llB8DXQAAGZQT?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9llB8DW0AAEIBH?format=jpg&name=orig)
+
+### Prompt
+
+```
+Colored Pencil style
+
+好喜欢这个风格！把你喜欢的任意图片变成彩色铅笔插图画，效果非常完美！我觉得可以拿来做一副自己的彩绘铅笔画集，快来试试！
+
+Nano Banana Prompt
+
+{
+  "design_system": {
+    "metadata": {
+      "style_name": "Cozy Storybook Illustration",
+      "target_audience": "Children / Family",
+      "reference_source": "Uploaded Image",
+      "version": "3.0"
+    },
+    "visual_parameters": {
+      "medium": {
+        "primary": "Colored Pencil",
+        "secondary": "Watercolor Wash (Variation only)",
+        "application": "Hand-drawn",
+        "texture": {
+          "type": "Visible pencil strokes",
+          "quality": "Slightly rough outlines",
+          "finish": "Non-realistic / No photo texture"
+        }
+      },
+      "line_work": {
+        "style": "Clean line art",
+        "weight": "Slightly rough/organic",
+        "clarity": "High"
+      },
+      "color_theory": {
+        "base_tone": "Warm and friendly",
+        "palette_type": "Vibrant Pastel",
+        "adjustments": {
+          "brightness": "Increased / High-key",
+          "saturation": "Enhanced but natural",
+          "contrast": "Soft"
+        }
+      },
+      "lighting_and_shading": {
+        "shadows": "Minimal",
+        "highlights": "Soft",
+        "rendering": "Flat yet detailed",
+        "gradients": "Subtle watercolor layers (Variation only)"
+      }
+    },
+    "subject_geometry": {
+      "anatomy": {
+        "proportions": "Semi-cartoon realistic",
+        "scale": "Storybook style"
+      },
+      "facial_features": {
+        "eyes": "Dot style",
+        "mouth": "Small smile",
+        "complexity": "Simple / Minimalist"
+      }
+    },
+    "atmosphere": {
+      "mood": [
+        "Cozy",
+        "Cheerful",
+        "Warm",
+        "Friendly"
+      ],
+      "genre_tags": [
+        "Children's Book",
+        "Lifestyle Sketch",
+        "Storybook Illustration"
+      ]
+    }
+  },
+  "generation_configs": {
+    "negative_prompt_tokens": [
+      "realism",
+      "photorealistic",
+      "photo texture",
+      "dark colors",
+      "complex shading",
+      "3d render"
+    ],
+    "prompt_variations": [
+      {
+        "id": "PROMPT_001",
+        "variant_name": "Textured Colored Pencil",
+        "focus": "Texture and Stroke",
+        "full_text": "Illustration style: hand-drawn colored pencil illustration, clean line art with slightly rough pencil outlines, soft pastel coloring with increased brightness, lighter and more vivid color tones, enhanced saturation while staying natural, visible pencil strokes and gentle shading texture, warm and friendly tone, semi-cartoon realistic proportions, simple facial features with dot eyes and small smiles, flat yet detailed coloring, minimal shadows, soft highlights, storybook illustration feel, cozy and cheerful atmosphere, vibrant yet soft color palette, children-book / lifestyle sketch style, high clarity, no realism, no photo texture"
+      },
+      {
+        "id": "PROMPT_002",
+        "variant_name": "Mixed Media Watercolor",
+        "focus": "Wash and Gradient",
+        "full_text": "Hand-drawn colored pencil illustration with clean line art and slightly rough pencil outlines, combined with soft watercolor wash textures. Bright pastel colors, lighter and more vivid tones with natural saturation. Visible pencil strokes layered with subtle watercolor gradients. Warm and friendly tone, semi-cartoon realistic proportions. Simple facial features with dot eyes and small smiles. Flat yet detailed coloring, minimal shadows, soft highlights. Storybook illustration feel, cozy and cheerful atmosphere, children-book style, high clarity, no realism, no photo texture."
+      }
+    ]
+  }
+}
+```
+
+---
+
 ## Case: twitter-2006727514350387515
 
 **Author:** [@oggii_0](https://twitter.com/oggii_0)
