@@ -4,6 +4,91 @@
 
 ---
 
+## Case: twitter-2006609835714814216
+
+**Author:** [@xmiiru_](https://twitter.com/xmiiru_)
+**Tweet:** [View Original](https://x.com/xmiiru_/status/2006609835714814216/photo/1)
+**Scraped:** 2026-01-02T10:58:30.262Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9jpAoYWMAAtJvp?format=jpg&name=orig)
+
+### Prompt
+
+```
+Goodbye 2025 
+What did this year teach you?
+
+{
+  "model": "Gemini Pro",
+  "type": "image_generation",
+  "style": "editorial fashion photography",
+  "camera": {
+    "angle": "high-angle",
+    "perspective": "top-down shot",
+    "framing": "full body",
+    "lighting": "cinematic, soft directional light with urban shadows"
+  },
+  "subject": {
+    "gender": "female",
+    "face": {
+      "lock": true,
+      "instruction": "Do not change facial features or proportions"
+    },
+    "hair": {
+      "color": "dark",
+      "texture": "long, wavy",
+      "spread": "naturally fanned on asphalt"
+    },
+    "pose": {
+      "position": "lying on asphalt road",
+      "hand_gesture": "one hand covering eyes",
+      "expression": "playful",
+      "mouth": "tongue out"
+    }
+  },
+  "wardrobe": {
+    "top": "black corset-style top",
+    "bottom": "beige ruffled mini balloon skirt",
+    "legwear": "cream-colored leg warmers",
+    "footwear": "chunky black boots with buckles"
+  },
+  "environment": {
+    "location": "urban asphalt road",
+    "ground_marking": {
+      "text": "2025",
+      "color": "white",
+      "scale": "large",
+      "subject_position": "inside the painted number"
+    },
+    "props": [
+      "iced coffee cup on pavement",
+      "small pastry placed beside subject"
+    ]
+  },
+  "aesthetic": {
+    "mood": "urban street style",
+    "vibe": "editorial, playful, cinematic",
+    "color_grading": "slightly warm highlights with neutral shadows",
+    "texture_detail": "high-detail asphalt grain and fabric textures"
+  },
+  "quality": {
+    "resolution": "high-resolution",
+    "sharpness": "editorial clarity",
+    "noise": "minimal, film-like grain"
+  },
+  "restrictions": [
+    "Do not alter face",
+    "No extra people",
+    "No text other than '2025'",
+    "No distortion of body proportions"
+  ]
+}
+```
+
+---
+
 ## Case: twitter-2006759901964693667
 
 **Author:** [@qisi_ai](https://twitter.com/qisi_ai)
