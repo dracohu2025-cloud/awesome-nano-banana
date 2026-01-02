@@ -4,6 +4,51 @@
 
 ---
 
+## Case: twitter-2006692706534490403
+
+**Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
+**Tweet:** [View Original](https://x.com/servasyy_ai/status/2006692706534490403)
+**Scraped:** 2026-01-02T10:58:52.322Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9kzQVKaMAAgwyH?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9kzQVJaMAI56PQ?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9kzdrYa0AAXO11?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9kzhVMaMAATMeT?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9im3kNaIAA9vcn?format=jpg&name=orig)
+
+### Prompt
+
+```
+非常喜欢这版本的风格
+
+改了一下提示词：
+Real-life cinematic photograph of a giant [任何物品] fused with a living tree, vertical cross-section diorama style revealing interior living/working spaces, real human beings (diverse adult [相关职业群体: 如音乐家/工匠/厨师/学者]) [从事相关活动] inside, hollow [核心物件] body contains several wooden floors and [功能空间: 如工作室/客厅/厨房] connected by [连接方式: 如优雅螺旋楼梯/质朴木梯/铁艺楼梯] and rope bridges with [材质: 如麻绳/铁链/藤条] railings, people engaged in [具体活动描述: 如制作/演奏/烹饪/阅读/交谈] - [详细列举3-5个具体人物动作场景,如: 工匠在工作台雕刻,顾客坐窗边品尝,孩子攀爬梯子] - all with natural [情绪: 如专注/放松/欢快] poses and genuine expressions showing real life moments, visible facial details with skin pores, individual hair strands [发型细节: 如扎起/散落/戴帽], clothing texture showing [服装材质: 如羊毛衫/亚麻衬衫/工装围裙] with realistic fabric folds, wrinkles and [特征: 如污渍/磨损/纽扣].
+
+Warm practical lighting creating [氛围: 如温馨/优雅/复古/工业] ambiance from multiple sources: hanging [灯具类型1: 如爱迪生灯泡吊灯/复古油灯/工业吊灯] with [材质: 如黄铜/金属/玻璃] fixtures creating [光效: 如柔和光池/聚焦照明], vintage [灯具类型2: 如台灯/壁灯/烛台] with [特征: 如可调节臂/磨砂玻璃罩], string lights with warm Edison bulbs draped along interior creating [感觉: 如童话般/节日般], natural [时段: 如午后金色/黄昏] light streaming through carved windows/openings in [物件] casting [光影效果: 如戏剧性光束/斑驳图案] on wooden floors and inhabitants, [特殊光源: 如壁炉火光/蜡烛/设备发光] adding [色调: 如橙色温暖/柔和亲密], warm [色温: 如金黄色/琥珀色] glow with realistic light falloff and soft shadows creating [总体氛围].
+
+[核心物件] structure seamlessly blending with nature: lower [底部部分: 如基座/底部/下半部分] showing [材质特征: 如aged leather皮革纹理/ceramic陶土质感/metal金属铆钉/wood木纹], [表面特征: 如裂纹/铜绿/磨损/雕刻装饰] with authentic [年代感: 如古旧/复古/工业] character, middle sections revealing hollowed interior with wooden [空间类型: 如工作室/起居室/餐厅] platforms built into natural [物件] cavity respecting [物件]'s organic shape, [结构细节: 如visible growth rings年轮/panel lines面板线/seams接缝], upper [顶部部分: 如neck颈部/crown顶部/roof顶部] growing into real tree branches with fresh green leaves and [植物: 如藤蔓/苔藓/花朵], organic bark texture perfectly blending where [材质] meets living tree, [自然元素: 如moss苔藓/lichen地衣/vines藤蔓/mushrooms蘑菇/ferns蕨类] growing on exterior, roots visible at base intertwining with [物件], maintaining [物件]'s characteristic [形状/比例] while housing multi-story living space.
+
+Interior [空间功能] details: [详细列举10-15个室内物品和细节,与主题相关,如: 对于咖啡店-铜制咖啡机/大理石台面/豆子罐/法压壶/瓷杯碟/糕点柜/黑板菜单/挂钩衣架/波斯地毯/木质吧台等], [furniture家具], [装饰品decorations], [工具/设备tools/equipment], [个人物品personal belongings], [植物plants], showing lived-in character with authentic wear and use patterns, natural wood grain visible, knots and imperfections adding authenticity.
+
+Set against plain soft [背景色调: 如grey灰色/beige米色/charcoal炭灰/cream奶油色] gradient backdrop transitioning from lighter [顶部色] at top to darker [底部色] at bottom, minimalist clean background emphasizing cross-sectioned [物件]-[功能空间] subject, no distracting elements, professional studio photography setup.
+
+Captured with high-resolution macro cinema lens equipment, shot on [摄影机: 如RED V-Raptor/Sony Venice 2/ARRI Alexa/Canon EOS R5 C] 8K film camera with [镜头: 如Zeiss Supreme Prime/Cooke S7] 50mm lens at f/2.8 aperture, razor-sharp focus throughout entire cross-section from foreground [物件]texture to interior details and inhabitants, medium depth of field keeping all floors and people in clear focus with background gently softening, realistic optical characteristics with [光学效果: 如subtle lens flare from bright light sources/natural chromatic aberration/slight vignetting], natural color temperature showing warm interior lighting contrasted with cool natural daylight, accurate skin tones with proper subsurface scattering showing blood flow, no artificial smoothing or beauty filters, slight film grain texture adding organic analog photography feel matching [胶片类型: 如Kodak Portra 400/Fuji Pro 400H] emulation.
+
+Photography style: Editorial fine art photography meets National Geographic documentary realism, celebrating [主题价值: 如human creativity/craftsmanship/community/sustainable living], whimsical yet grounded in reality, [风格参考] aesthetic translated to real photography, vertical portrait format emphasizing [物件] height and multi-story structure, museum-quality environmental portrait photography.
+
+Pure photography aesthetic: no cartoon elements, no illustration style, no CGI rendering, no digital painting techniques, authentic real-world photography only, hyper-detailed with visible material textures and human biological details, masterpiece quality fine art print, (photorealistic:1.4), (real human faces with natural expressions and visible pores:1.3), (practical lighting creating [氛围] atmosphere only:1.2), professional documentary photography celebrating [主题核心].
+
+Negative prompt: cartoon, anime, illustration, digital art, CGI, 3D render, painting, drawing, low quality, blurry, deformed, plastic skin, toy, miniature model, dollhouse, fake, surreal colors, fantasy art, concept art, overexposed, underexposed, text, watermark, doll-like faces, artificial smoothing, uncanny valley, wax figures, mannequins, [物件] positioned to one side, asymmetrical placement, horizontal landscape format
+```
+
+---
+
 ## Case: twitter-2006609835714814216
 
 **Author:** [@xmiiru_](https://twitter.com/xmiiru_)
