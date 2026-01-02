@@ -4,6 +4,75 @@
 
 ---
 
+## Case: twitter-2006959351970541714
+
+**Author:** [@ykszs017](https://twitter.com/ykszs017)
+**Tweet:** [View Original](https://x.com/ykszs017/status/2006959351970541714)
+**Scraped:** 2026-01-02T10:54:57.446Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9olZaRaMAAj0xL?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9olZXjboAAOUz2?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9olZXraMAAtacX?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9olZXtaAAAjbmt?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9kooP7aAAApOX2?format=jpg&name=orig)
+
+### Prompt
+
+```
+用手机屏幕把运动世界装进口袋
+
+提示词
+{
+"type": "image_generation",
+"style": "hyper_realistic",
+"quality": "8K DSLR",
+"aspect_ratio": "4:5",
+"camera": {
+"angle": "slightly tilted cinematic perspective",
+"lens": "50mm DSLR",
+"depth_of_field": "shallow",
+"focus": "smartphone and swimming action"
+},
+"scene": {
+"setting": "iPhone 17 Pro Max placed on a wooden table",
+"concept": "phone screen transformed into a miniature Olympic swimming pool",
+"environment": "indoor, soft daylight coming from the side",
+"atmosphere": "cinematic, immersive, realistic with intense competitive energy"
+},
+"details": {
+"screen": "miniature Olympic-sized swimming pool with clear blue water ripples and lane dividers, starting blocks at one end, lane markers in black, subtle water reflections and splashes on the edges",
+"players": "miniature swimmers in dynamic action: one swimmer mid-stroke in freestyle lane performing a powerful butterfly kick, another in adjacent lane doing backstroke with arms extended, others diving from blocks or turning at the wall, wearing swimsuits and goggles, water droplets flying with motion blur",
+"lighting": "soft diffused daylight with subtle lens flares, realistic caustics and light refractions through the water, dramatic highlights on wet surfaces",
+"realism_effects": [
+"fingerprints on screen",
+"light scratches on phone body",
+"natural smudges",
+"micro dust particles",
+"faint screen glow illuminating the miniature pool with watery shimmer"
+]
+},
+"materials": {
+"phone": "metallic frame with realistic reflections",
+"table": "textured wooden surface with warm tones"
+},
+"mood": "high-end cinematic, dramatic, premium advertising look with exhilarating swimming intensity",
+"rendering": {
+"sharpness": "ultra sharp",
+"texture_detail": "extreme",
+"lighting_quality": "studio grade",
+"photorealism": true
+}
+}
+```
+
+---
+
 ## Case: twitter-2006687173681311935
 
 **Author:** [@94vanAI](https://twitter.com/94vanAI)
