@@ -4,6 +4,70 @@
 
 ---
 
+## Case: twitter-2006392219339559027
+
+**Author:** [@oggii_0](https://twitter.com/oggii_0)
+**Tweet:** [View Original](https://x.com/oggii_0/status/2006392219339559027)
+**Scraped:** 2026-01-02T12:21:16.648Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9gjFxPbYAAKbO0?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro.
+
+Prompt: {
+  "subject": {
+    "description": "Young adult male adventurer",
+    "pose": "Profile and three-quarter view, gazing into the distance",
+    "expression": "Contemplative, stoic, resilient, serious"
+  },
+  "clothing": {
+    "outerwear": "Tan/beige tactical winter parka with a high collar and hood",
+    "inner_layer": "Patterned scarf or neck gaiter visible at the collar",
+    "texture": "Water-resistant fabric, wet from snow"
+  },
+  "hair": {
+    "color": "Auburn / reddish-brown",
+    "style": "Messy, windblown, medium length, wavy",
+    "texture": "Wet, clumps of snow stuck in strands",
+    "facial_hair": "Short, unkempt reddish beard and mustache"
+  },
+  "face": {
+    "skin": "Pale complexion with extremely prominent, dense freckles",
+    "eyes": "Light blue-green, focused gaze",
+    "details": "Wet skin texture, snowflakes melting on cheeks and nose, sharp nose profile"
+  },
+  "accessories": {
+    "gear": "Hiking backpack (visible black straps over shoulders)"
+  },
+  "environment": {
+    "location": "Snowy mountain peak or tundra",
+    "weather": "Overcast, misty, freezing fog, light snowfall",
+    "atmosphere": "Cold, isolated, serene, monochromatic white and grey background"
+  },
+  "lighting": {
+    "type": "Natural, soft, diffused overcast light",
+    "quality": "Low contrast, moody, flat lighting typical of a snowy day, no harsh shadows"
+  },
+  "camera": {
+    "shot_type": "Cinematic close-up and medium shot",
+    "depth_of_field": "Shallow depth of field with strong bokeh in the background",
+    "focus": "Sharp focus on the eyes and freckles (in close-up shots)"
+  },
+  "style": {
+    "aesthetic": "Cinematic film still, moody portraiture, outdoor adventure photography",
+    "color_palette": "Muted earth tones, desaturated greens and browns, dominance of white and grey",
+    "mood": "Melancholic, rugged, atmospheric"
+  }
+}
+```
+
+---
+
 ## Case: twitter-2006770014381343003
 
 **Author:** [@underwoodxie96](https://twitter.com/underwoodxie96)
