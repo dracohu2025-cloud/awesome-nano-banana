@@ -4,6 +4,47 @@
 
 ---
 
+## Case: twitter-2006687173681311935
+
+**Author:** [@94vanAI](https://twitter.com/94vanAI)
+**Tweet:** [View Original](https://x.com/94vanAI/status/2006687173681311935)
+**Scraped:** 2026-01-02T10:53:59.799Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9kvUwzaMAUMO-g?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9kvUwwaEAAkvGA?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9kvUyOaMAU3-6c?format=jpg&name=orig)
+
+### Prompt
+
+```
+征集：给这个系列取个名字：________风格？
+Nano Banana Pao Prompt：
+{
+  "prompt": "masterpiece, best quality, ultra-detailed, photorealistic, sharp focus, professional photography, Canon EOS style, natural depth of field, soft bokeh, cinematic lighting, dramatic volumetric godrays: gigantic hyper-realistic 3D-rendered cute chibi version of an 18-year-old Asian idol girl smugly hugging a tiny real-life photographed human version of the exact same girl, extreme size difference like kaiju vs human, seamless photorealistic composite, identical face and features, same hairstyle and expression details, both wearing identical casual luxury outfit: oversized cropped white hoodie, high-waisted light wash jeans, open beige short trench coat, white sneakers, minimal silver accessories. Giant chibi: hyper-detailed CGI skin with pores, realistic hair, huge expressive eyes, cocky smug expression, short arms wrapped possessively. Tiny girl: actual real-life photograph, authentic human portrait, natural skin imperfections, real camera catchlights, joyful surprised amused expression, soft blush, looking up fondly, hands on giant arms. Background: real Deji Plaza Nanjing atrium interior, high ceiling skylight with strong godrays, marble floor reflections, blurred luxury stores, global illumination, accurate shadows and caustics, subsurface scattering, (identical face:1.6), (face consistency:1.7), (real life photography tiny girl:1.8), (actual real human tiny girl:1.8), (no CGI on tiny girl:1.8), (hyper-realistic 3D chibi:1.5), (professional CGI integration:1.6), (realistic lighting match:1.7), (cinematic godrays:1.5), (extreme size contrast:1.4)",ar9:16
+  "negative_prompt": "cartoon, anime, 2d, illustration, plastic skin, doll, animated, lowres, blurry, artifacts, AI look, oversaturated, bad anatomy, mismatched lighting, deformed, uncanny valley, chibi stylization on tiny girl, 3D render on tiny girl, CGI on tiny girl, rendered tiny girl, synthetic tiny girl, fake human tiny girl, doll-like tiny girl, flat lighting, harsh shadows, overexposed, underexposed, no godrays, poor reflections",
+  "parameters": {
+    "width": 768,
+    "height": 1152,
+    "steps": 50,
+    "cfg_scale": 6.5,
+    "sampler": "DPM++ 2M Karras",
+    "seed": -1,
+    "model": "realisticVisionV51",
+    "clip_skip": 2,
+    "hires_fix": true,
+    "hires_steps": 25,
+    "hires_denoising_strength": 0.4,
+    "hires_upscaler": "4x-UltraSharp"
+  }
+}
+```
+
+---
+
 ## Case: twitter-2006925202077184321
 
 **Author:** [@yyyole](https://twitter.com/yyyole)
