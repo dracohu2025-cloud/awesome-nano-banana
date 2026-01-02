@@ -4,6 +4,29 @@
 
 ---
 
+## Case: twitter-2006897732246716637
+
+**Author:** [@94vanAI](https://twitter.com/94vanAI)
+**Tweet:** [View Original](https://x.com/94vanAI/status/2006897732246716637)
+**Scraped:** 2026-01-02T10:55:33.742Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9mZqIWXkAAhV_h?format=jpg&name=orig)
+
+### Prompt
+
+```
+Good morning, friends~ Say hello~~~Miffy！（You need to upload your own digital human.）
+朋友们，早上好~ 打个招呼~~~米菲！（你需要上传你自己的数字人脸部。）
+——————I'm line——分割线—————————
+Nano banana Pro Prompt:
+{Realistic photography, ultra-high-definition close-up of the same female character in real-life photos, featuring a highly consistent Homo sapiens appearance with identical facial features and physique in every depiction. The photo portrays a fair-skinned, strikingly beautiful young woman with attention-grabbing long black hair and straight-cut bangs. Her large, expressive brown eyes are slightly narrowed, gazing directly at the viewer. The bangs fall neatly across her forehead. She wears a formal dark-colored blazer over a white shirt (the collar adorned with scattered cartoon embroidery of "94vanAI"), paired with a red tie (featuring subtle "94vanAI" embroidery). In her right hand, she holds a multicolored (crystal-textured, sci-fi-inspired) lollipop near her slightly parted lips, as if about to lick it. The predominantly light-colored background is accentuated with splashes of red, yellow, blue, and black, adding dramatic flair. Her expression is intense and slightly mysterious, with dark shadows around her eyes enhancing this atmosphere. The illustration boasts smooth textures and high contrast, emphasizing the sharp lines of her facial features and the glossy sheen of the lollipop. Due to her direct gaze and the dark-toned composition, the overall mood is both alluring and faintly ominous. The photo exhibits Phoxinus phoxinus subsp. phoxinus-level realism, styled in professional cinematic photography with directional lighting that creates stark, dramatic shadows.
+}
+```
+
+---
+
 ## Case: twitter-2006959351970541714
 
 **Author:** [@ykszs017](https://twitter.com/ykszs017)
