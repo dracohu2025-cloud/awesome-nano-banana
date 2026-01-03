@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2007111138597535921
+
+**Author:** [@AllaAisling](https://twitter.com/AllaAisling)
+**Tweet:** [View Original](https://x.com/AllaAisling/status/2007111138597535921)
+**Scraped:** 2026-01-03T12:49:08.971Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9owC5OXcAA1Kra?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9owX6RWwAAILrO?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9owgkWWQAA9sYy?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9owtyUWEAAeEk8?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt Studio: Nano Banana Pro Recipe Lineage, in Firefly    
+
+A culinary heritage board documenting [DISH] — [CULTURE / REGION / ERA]. The canvas is divided into generational layers: top register shows historical origins with sepia photographs of ancestors, original handwritten recipe cards with stains and annotations, and vintage kitchen context; middle register presents the complete ingredient breakdown in mise en place arrangement with source maps showing where each component originates; bottom register shows the dish being prepared by contemporary hands and the final presentation in its authentic serving context. Visual style transitions from archival sepia through ingredient-focused clinical whites to warm candlelit table photography. Hand-lettered labels throughout. Title block reading "[DISH NAME] — [FAMILY NAME] TRADITION, [ORIGIN DATE] TO PRESENT". 
+
+Check ALTs for ideas @AdobeFirefly
+```
+
+---
+
 ## Case: twitter-2007043727114772508
 
 **Author:** [@azed_ai](https://twitter.com/azed_ai)
