@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2007043727114772508
+
+**Author:** [@azed_ai](https://twitter.com/azed_ai)
+**Tweet:** [View Original](https://x.com/azed_ai/status/2007043727114772508)
+**Scraped:** 2026-01-03T12:47:15.387Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9pzoEhawAA1--Y?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9pzoQhaEAAhVcx?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9pzoZva4AArH_4?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9pzokea4AEogSa?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt share: Character sheet sketch
+
+Prompt:
+Character sheet sketch of a [subject], featuring multiple angles and expressive facial variations, drawn in pencil and ballpoint pen on a clean white background. Soft pastel color palette, sharp linework, high contrast, hand-drawn manga style.
+
+Check ATLs for inspiration 
+```
+
+---
+
 ## Case: twitter-2007275324967698649
 
 **Author:** [@LZhou15365](https://twitter.com/LZhou15365)
