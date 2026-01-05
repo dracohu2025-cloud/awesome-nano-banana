@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2008087921723847021
+
+**Author:** [@umesh_ai](https://twitter.com/umesh_ai)
+**Tweet:** [View Original](https://x.com/umesh_ai/status/2008087921723847021)
+**Scraped:** 2026-01-05T11:16:26.808Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G94o52_akAEVjjz?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G94o-r0agAAElsP?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G94pCv7bUAA0rGA?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G94pNPvbQAA43z0?format=jpg&name=orig)
+
+### Prompt
+
+```
+This generic prompt transforms any [VISUAL] into simple, joyful kid-style drawings!
+
+Prompt on Nano Banana Pro  : Draw [VISUAL] as if created by a cheerful 6-year-old on white notebook paper. Use chunky wax-crayon strokes, wobbly outlines, and simple flat shapes. Colors should be bright, bold, and slightly outside the lines, with visible pressure marks and small smudges. Perspective is innocent: objects can float, and size is based on importance, not realism. Faces are dots with curved smiles; hands are mitten blobs; animals are round and friendly. Add playful extras like a sun in a corner, puffy clouds, stars, and hearts. Include uneven scribble shading, a few tiny doodles in the margins, and one or two hand-written labels in childlike spelling.
+
+All prompts in ALT of the images.
+
+Generated on @LeonardoAi
+```
+
+---
+
 ## Case: twitter-2008112011373068488
 
 **Author:** [@MANISH1027512](https://twitter.com/MANISH1027512)
