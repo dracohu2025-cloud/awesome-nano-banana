@@ -4,6 +4,103 @@
 
 ---
 
+## Case: twitter-2007663716368515318
+
+**Author:** [@LufzzLiz](https://twitter.com/LufzzLiz)
+**Tweet:** [View Original](https://x.com/LufzzLiz/status/2007663716368515318)
+**Scraped:** 2026-01-05T12:36:19.231Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9ymRLZa8AAumlX?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9ymRLZaYAAt5Ge?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9ynKtXasAAkIM_?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9x7n4iasAU8qQh?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G9x7oskasAE-9fz?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G9x7r0bacAADMaH?format=jpg&name=orig)
+
+### Prompt
+
+```
+借鉴神佬这个，应个景，来个职业打工浮生记，看看有没有共鸣
+
+提示词：
+A visual narrative system blending Neo-Chinese Zen aesthetics with the daily flow of contemporary Chinese workers, arranged in a refined Japanese bento grid layout. The background is soft moon white (#F0F0E8), accented with primary ochre yellow (#D4A348) and secondary cement gray (#7A7A75). The overall style is raw yet restrained, capturing the hardship, humor, resonance, and silent poetry inherent to 【Occupation】.
+
+【Central Main Visual｜42% of frame】
+
+6:30 AM. An animal embodying 【Occupation】 stands amid a sardine-can subway car. Its eyes are calm but bloodshot, one hand gripping an overhead strap, the other holding a drip coffee sachet (yesterday’s label still stuck on the wrapper). Uniform wrinkled from crowding, ID badge flipped backward revealing an expired canteen card.
+
+Backpack zipper torn open, spilling 【Occupational Tools: e.g., laptop (screensaver reads “No Overtime Today”), blueprints, disposable chopsticks, half-used tissue pack】. Feet clad in flattened canvas shoes or worn-down leather loafers. Blurred commuters surround it. Above floats ink-wash calligraphy: “Morning Rush Chaos.” The air carries the scent of steamed buns and silence.
+
+Top-right corner: gilded title “【Occupation】Fusheng Ji” in Shoujin script (#C9A961), slightly debossed. Beneath, a seal-style fortune stamp reads “All Things Inauspicious · Auspicious for Slacking Off,” also in matching gold foil. Edges feature watercolor bleed on xuan paper texture. Composition breathes with wabi-sabi imperfection.
+
+【Top Right｜8:00 Workstation｜8%】
+
+Recycled kraft notepad, edges curled and yellowed, sketching the animal’s silhouette at 【Occupational Setting: e.g., cubicle, lectern, operating table, stove】. Desk minimal: half a cookie, a chewed pen, a countdown sticker reading “Just X More Days Till Holiday.” Faint traces of 【Occupation-Specific Stains: e.g., motor oil, chalk dust, blood splatter, cooking grease】on the reverse.
+
+【Middle Right｜12:00 Lunch｜9%】
+
+Vintage army-green enamel mug or takeout container, chipped and faded, holding half a portion of cold 【Occupation’s Standard Meal: e.g., braised chicken rice, cafeteria stew, instant noodles】. Tea leaves or oil slick float on the surface. A toothpick rests on the rim. Background: 【Lunch Break Scene: e.g., rooftop, break room, inside delivery van】. Dust motes drift in sunbeams. Warm, gritty palette.
+
+【Bottom Right｜15:00 Slacking Off｜8%】
+
+Circular app icon: simplified line-art silhouette of the animal engaged in 【Occupation’s Slack Activity: e.g., scrolling phone, daydreaming, sneaking snacks】. Ochre background. Gaze unfocused yet sly. Interface clean but textured with microscopic 【Occupational Particulates: e.g., paper fibers, flour, sawdust】.
+
+【Top Left｜9:00 Meeting｜7%】
+
+Canvas tool bag/briefcase spilled open on desk: contains 【Occupational Tools: e.g., wrench, mouse, scalpel, spatula】, meeting minutes scribbled with doodles, work gloves frayed at knuckles. Bag strap embroidered with crooked “Peace” in clumsy stitches—rough but heartfelt.
+
+【Middle Left｜12:30 Nap Ritual｜10%｜Emphasized】
+
+“The Worker’s Recharge Trio” on salvaged wood plank: foldable cot/pillow, eye mask (“Do Not Disturb” printed), mini fan/heating pad. Beside them: half-empty bottle of 【Occupation’s Energy Drink: e.g., Dongfang Ye Shu tea, Red Bull, instant coffee】and cheap sunflower seeds. Wild daisy or pothos leaf stuck in lunchbox—petals slightly wilted. Blurred backdrop shows 【Occupational Environment: e.g., steel girders, office glass walls, kitchen exhaust hood】 against blue sky. Composition echoes Song dynasty still life—coarse yet meticulous.
+
+【Bottom Center｜18:00 Overtime｜7%】
+
+Three essentials on coarse linen: 【Overtime Kit: e.g., power bank (1% battery), neck pillow, eye drops/lumbar support, noise-canceling earplugs】. Each item sealed with miniature wax stamp bearing animal lifting a beam. Hand-brushed labels in ink: “Fight On,” “Hold Tight,” “Forget It.”
+
+【Bottom Left｜20:00 Healing Moment｜6%】
+
+Self-care relics:
+
+Faded canvas keychain stitched with “Clock Out Early”;
+Tin candy box repurposed as “Emergency Med Kit,” labeled “Don’t Get Angry”;
+Mini watercolor postcard: animal collapsed in 【Occupation’s Rest Spot: e.g., sofa, dorm bunk, last subway car】, gazing out window, captioned “Didn’t Yell Today”;
+Tiny clay figurine: animal curled atop 【Occupational Debris: e.g., keyboards, blueprints, cookware】, sprouting a sapling on its back.
+
+All arranged on linen, scattered with found objects: half a 【Occupational Token: e.g., USB drive, chalk stick, gauze roll】, dried foxtail grass, a rusted paperclip.
+
+【Bottom Right｜22:00 Homeward｜6%】
+
+“Survived Today” commemorative set: hand-forged miniature 【Occupational Tool Pendant: e.g., keycap, scalpel, ladle】, aged to mimic rust, edged in antique copper gold (#8B6914), hung on reclaimed elm rack. Dappled light casts museum-like reverence. Attached sticky note: “Tomorrow, I’ll Be a Hero Again.”
+
+【Corner｜24:00 Seasonal Care｜5%】
+
+Four hand-painted seasonal cards: animal in 【Occupation】 across seasons—dozing in spring drowsiness, sweating in summer rage, shedding hair in autumn wind, despairing before winter snow. Each titled in gilded script: “Jingzhe · Don’t Be Late,” “Dashu · Drink Water,” “Shuangjiang · Wear Long Johns,” “Dongzhi · Just Endure.” Bound with twine and a short strand of 【Occupational Cord: e.g., Ethernet cable, surgical thread, power cord】.
+
+【Overall Unity】
+
+Consistent use of antique copper gold (#8B6914) and soft gold (#C9A961) only for text and keepsakes—never ostentatious.
+
+Color system: Moon White (#F0F0E8), Ochre Yellow (#D4A348, evoking loess and wheat), Cement Gray (#7A7A75), Charcoal Black (#3A3A3A), Antique Copper Gold (#8B6914).
+
+Materials throughout: coarse linen, recycled paper, oxidized metal, concrete, aged wood, enamelware, xuan paper watercolor.
+
+34% negative space. Asymmetrical yet balanced composition. Lighting uses “worker’s natural light”—subway fluorescents, office overheads, sunset sidelight, desk lamp warmth—with 20% shadow transparency for depth.
+
+Aesthetic core: No beautification of exhaustion; instead, ritual dignity granted to the mundane. No denial of absurdity; rather, Zen glimpsed within it. A tribute to the silent millions of 【Occupation】.
+8K ultra-detailed, 16:9 landscape—ar 16:9 --stylize 245 --v 6.0
+
+职业：空姐小美（飞机上作业）
+```
+
+---
+
 ## Case: twitter-2008103993957048665
 
 **Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
