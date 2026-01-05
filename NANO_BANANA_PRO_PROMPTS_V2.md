@@ -4,6 +4,60 @@
 
 ---
 
+## Case: twitter-2007974829220086204
+
+**Author:** [@sundyme](https://twitter.com/sundyme)
+**Tweet:** [View Original](https://x.com/sundyme/status/2007974829220086204)
+**Scraped:** 2026-01-05T11:31:25.099Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G917eheXsAA0xGC?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G917ehmXwAA87E6?format=jpg&name=orig)
+
+### Prompt
+
+```
+今天的分享提示词分享：PCB电路板风格人物插画
+灵感来自：Alain Bousquet
+提示词模板：
+A stylized portrait of [人物姓名] rendered as a precise engineering PCB layout blueprint. Top-down flat schematic view on matte green solder mask with ENIG finish.
+
+DESIGN RULES - STRICT GEOMETRY:
+- Only orthogonal (90°) and 45° angle routing allowed, absolutely no organic curves
+- Facial contours defined by dense parallel data buses and serpentine delay lines
+- Hair constructed from PCB routing traces with 45° directional flow
+- Eyes: intricate BGA (Ball Grid Array) chips with fine pitch grid pattern
+- Mouth: horizontal row of 0603 SMD capacitors
+- Nose: dual 1206 resistor packages arranged vertically
+- Eyebrows: thin parallel trace lines
+
+TEXT ELEMENTS - TECHNICAL INTEGRATION:
+- \"[公司/品牌名称]\" logo in white silkscreen text, positioned at top right, using PCB trace geometry
+- \"[人物姓氏]\" name in white silkscreen, bottom left, integrated with designators
+- \"[标志性符号/图标]\" icon symbol in copper trace art, integrated into hair routing
+- \"[创立年份]\" date in small white silkscreen text
+- \"[行业关键词]\" tagline in thin trace lines, subtle integration
+
+COMPONENT DETAILS:
+- White silkscreen reference designators scattered realistically: \"R12\", \"U4\", \"C99\", \"J3\", \"L1\", \"D5\"
+- Dense via stitching (rows of small circular vias) along all trace borders
+- Copper traces visible through green solder mask in unmasked areas
+- FR4 substrate texture visible where mask is absent
+
+MATERIALS & FINISH:
+- Matte green solder mask as background
+- ENIG finish on all exposed pads and component lands
+- Copper trace texture with slight grain
+- Flat vector schematic style, EDA software screenshot aesthetic
+- Gerber file visual quality
+
+STYLE: High precision technical illustration, PCB layout diagram, engineering blueprint, orthographic projection, 3:4 aspect ratio
+```
+
+---
+
 ## Case: twitter-2008070981986726116
 
 **Author:** [@LudovicCreator](https://twitter.com/LudovicCreator)
