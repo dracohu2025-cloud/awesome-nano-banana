@@ -4,6 +4,29 @@
 
 ---
 
+## Case: twitter-2007492122933628997
+
+**Author:** [@oggii_0](https://twitter.com/oggii_0)
+**Tweet:** [View Original](https://x.com/oggii_0/status/2007492122933628997)
+**Scraped:** 2026-01-05T15:42:34.797Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9wLcUWasAEpyJY?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana Pro on Gemini app.
+Prompt: {
+  "subject": {
+    "description": "Young East Asian woman, positioned in profile turning to look back at the viewer.",
+    "pose": "Looking over shoulder, slight head tilt, body angled away from camera.",
+    "expression": "Soft, neutral
+```
+
+---
+
 ## Case: twitter-2007663716368515318
 
 **Author:** [@LufzzLiz](https://twitter.com/LufzzLiz)
