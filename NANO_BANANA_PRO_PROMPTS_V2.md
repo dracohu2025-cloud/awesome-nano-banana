@@ -4,6 +4,24 @@
 
 ---
 
+## Case: twitter-2007843623841546258
+
+**Author:** [@TaXue2025](https://twitter.com/TaXue2025)
+**Tweet:** [View Original](https://x.com/TaXue2025/status/2007843623841546258)
+**Scraped:** 2026-01-05T11:13:42.318Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G91LIoPaQAAKvGv?format=jpg&name=orig)
+
+### Prompt
+
+```
+我也分享一个：民间故事，剪纸造型，皮影关节，拉毛工艺，柔性剪纸，传统色彩，民间艺术，装饰风格，立体感，动态剪纸，民族化美学，高饱和度，Upscale to 4K
+```
+
+---
+
 ## Case: twitter-2007838187562115177
 
 **Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
