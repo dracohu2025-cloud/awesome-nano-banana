@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2008070981986726116
+
+**Author:** [@LudovicCreator](https://twitter.com/LudovicCreator)
+**Tweet:** [View Original](https://x.com/LudovicCreator/status/2008070981986726116)
+**Scraped:** 2026-01-05T11:31:09.501Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G94Z5xaX0AA_KTX?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G94Z6BTW0AAyLib?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G94Z6TiXoAEEELm?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G94Z6jsW0AAC6ZY?format=jpg&name=orig)
+
+### Prompt
+
+```
+ EMBERLIT MEDIEVAL 
+
+ Prompt :
+
+An Emberlit Medieval Reverie illustration of [SUBJECT], framed by rugged castle walls, dancing torches, and swirls of smoke. Incorporate radiant [COLOR1] with brooding [COLOR2] undertones. Refine the design with strong film grain and slight burn marks to replicate a rediscovered reel from ages past.
+
+Check ALTS
+```
+
+---
+
 ## Case: twitter-2008087921723847021
 
 **Author:** [@umesh_ai](https://twitter.com/umesh_ai)
