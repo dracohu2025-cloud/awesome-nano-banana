@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2008112011373068488
+
+**Author:** [@MANISH1027512](https://twitter.com/MANISH1027512)
+**Tweet:** [View Original](https://x.com/MANISH1027512/status/2008112011373068488)
+**Scraped:** 2026-01-05T11:15:51.619Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G94-CCdXEAAOT8Y?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G94-CCbXIAAT0T-?format=jpg&name=orig)
+
+### Prompt
+
+```
+今日表情学习：奶凶。
+
+这个表情很有意思，它不是五官动作的简单叠加，而是一种情绪语义。
+
+最开始我用嘟嘴+皱眉+生气来描述，模型会往真生气/凶这个方向跑，但加上“对男朋友撒气、被拍烦了”的叙事，就把它拉回到“凶但可爱、带撒娇的对抗”这种feel，很微妙，希望对你有所启发。
+
+下面是完整提示词，你可以上传任意一张图片，来转换为这种感觉：
+
+Photorealistic edit using the input person photo as strict identity reference: keep the same face, facial features, skin tone, hairstyle (color/bangs/length/volume), outfit and accessories unchanged (no face swap, no new person, no hair/outfit change). Change only expression/pose/background: pouty lips and furrowed brows, slightly angry/annoyed, like she’s playfully mad at her boyfriend and saying “stop filming me”. Close wide-angle perspective (18–28mm), body slightly leaning forward, one hand reaching toward the lens as if grabbing the boyfriend’s phone / blocking the camera; huge foreground hand occupying 30–50% of the frame, palm facing camera, five natural fingers, realistic anatomy; face in the back in sharp focus. Replace background with a clean solid pink studio backdrop (seamless, no texture). No text, no watermark, no frame, no extra fingers, no deformed hands, no heavy blur, no style change.
+```
+
+---
+
 ## Case: twitter-2007843623841546258
 
 **Author:** [@TaXue2025](https://twitter.com/TaXue2025)
