@@ -4,6 +4,31 @@
 
 ---
 
+## Case: twitter-2008103993957048665
+
+**Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
+**Tweet:** [View Original](https://x.com/servasyy_ai/status/2008103993957048665)
+**Scraped:** 2026-01-05T12:36:04.296Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G943gfMbMAAUR3b?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G93hFEWaIAA48bt?format=jpg&name=orig)
+
+### Prompt
+
+```
+不爆没天理，大佬这个提示词太优秀了！
+
+我也想有这样一个AR设备
+
+改了一下提示词：
+Highly detailed photorealistic screenshot of Apple Vision Pro visionOS 26 operating interface from user's first-person immersive view, spatial computing home screen, CENTER FOCUS: TWO LARGE 3D VOLUMETRIC HOLOGRAPHIC KING OF FIGHTERS CHARACTERS in INTENSE COMBAT ACTION, Kyo Kusanagi throwing fiery crimson flames punch toward Iori Yagami blocking with purple energy, explosive impact moment with MASSIVE FIRE EFFECTS orange red flames bursting, PURPLE LIGHTNING dark energy, bright yellow white IMPACT SPARK EXPLOSION between them, energy shockwaves radiating, dramatic motion blur showing speed, life-sized 3D fighters jumping OUT OF SCREEN with strong depth, naked-eye 3D stereoscopic effect protruding forward, volumetric flames casting dynamic colored lighting onto windows, LEFT SIDE windows: Safari browser window with multiple tabs and news content on upper left, Photos app window showing mountain landscape on middle left, Music app window with Beyoncé Renaissance album artwork on lower left, RIGHT SIDE windows: Messages window with blue chat bubbles on upper right, Notes window with checklist on middle right, Image Playground window showing generated images in Animation/Sketch/Illustration styles with prompt field on lower right, ADDITIONAL windows: Apple TV+ preview window, Mindfulness app with glowing breathing orb, small floating windows balanced on both sides, UPPER AREA: curved grid of volumetric glowing app icons (App Store, Settings, Files, Keynote, Messages icons) arranged symmetrically, LOWER AREA: another row of app icons (App Store, Settings, Photos, Keynote, Music icons) centered below, semi-transparent KOF game UI with health bars and COUNTER text behind 3D fighters, hand gesture pointers visible at bottom corners, semi-transparent frosted glass material on all windows, 3D fire effects and fighters casting volumetric shadows and colored reflections on surrounding windows symmetrically, strong spatial depth with balanced composition, ultra-sharp micro-OLED display, vibrant Apple minimalist UI, dramatic cinematic lighting with fire glow illuminating entire scene symmetrically, wide immersive 21:9 format, photorealistic spatial computing with LEFT and RIGHT sides equally populated with app windows
+```
+
+---
+
 ## Case: twitter-2007916798528917809
 
 **Author:** [@IqraSaifiii](https://twitter.com/IqraSaifiii)
