@@ -4,6 +4,72 @@
 
 ---
 
+## Case: twitter-2008123539464065122
+
+**Author:** [@AztecaAlpaca](https://twitter.com/AztecaAlpaca)
+**Tweet:** [View Original](https://x.com/AztecaAlpaca/status/2008123539464065122)
+**Scraped:** 2026-01-06T03:09:16.205Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G95HdoPbcAA5MYh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G95HhrEagAAAoLs?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G95H7ubWQAA6yED?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G95IazAWkAABRaZ?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G94o52_akAEVjjz?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G94o-r0agAAElsP?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G94pCv7bUAA0rGA?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G94pNPvbQAA43z0?format=jpg&name=orig)
+
+### Prompt
+
+```
+儿童混合剪贴画（灵感来自于我侄女）
+
+与小朋友“对齐认知”是我的快乐之源。
+
+小时候似乎我也会无所顾忌地涂鸦，但后来对自己的画笔变得慎重。再然后，我失去了画笔，也失去了描画世界的野心，或许这就是在成长过程中不幸被带走的最美好的事物。
+
+使用AI，通过充满童趣的剪贴画来复刻一些经典名场面：
+- 小猪佩奇的一家
+- 特朗普擒获马杜罗
+- 拿破仑跨越阿尔卑斯山
+- 自由引导人民
+
+---
+提示词
+
+视觉主题：自由引导人民
+
+[视觉主题] 的一幅充满童趣的混合媒介剪贴画作品，看起来是由一位快乐的六岁孩子在旧笔记本纸上完成的。
+核心风格与媒介：
+这幅作品结合了粗糙的蜡笔手绘和笨拙的剪纸粘贴。背景是一张略显褶皱的白色笔记本纸，上面可能有旧胶带或订书钉的痕迹。
+剪纸元素（贴上去的部分）：
+主要的形状（如建筑物、大树、动物的身体）是用儿童安全剪刀从鲜艳的彩色卡纸上剪下来的。边缘通常不平整、有锯齿状或撕裂感。粘贴得歪歪扭扭，可以看到明显的胶水干涸后的光亮痕迹，有些纸片的边缘甚至因为胶水不够而微微翘起。
+手绘元素（画上去的部分）：
+在剪贴的纸片上面和周围，用粗大的蜡笔添加细节。笔触狂野、摇摇晃晃，颜色经常涂出剪纸的边界。有明显的蜡笔堆积感和手掌摩擦过的晕染痕迹。
+人物与透视：
+透视依然天真烂漫：物体漂浮，大小由重要性决定。
+人物和动物的身体通常是圆滚滚的剪纸色块。脸部直接用黑色蜡笔在纸片上点出圆点眼睛和弯曲的大微笑。手脚可能是更小的剪纸圆片，或者是直接用蜡笔画出的像戴着手套一样的毛球团。
+有趣的装饰细节：
+
+角落里的太阳可能是一个剪坏了的黄色纸团，周围画着放射状的蜡笔线条。
+云朵可能是扯碎的棉花球粘上去的，或者是不规则的白色纸片。
+星星和爱心可以是闪光贴纸，或者是剪得很随意的铝箔纸片。
+加入一些用黑色蜡笔随意涂抹的、不均匀的阴影。
+页面边缘充满了无关紧要的小涂鸦。
+最后，有一两个用蜡笔歪歪扭扭写下的、带有拼写错误的稚嫩标签
+```
+
+---
+
 ## Case: twitter-2007492122933628997
 
 **Author:** [@oggii_0](https://twitter.com/oggii_0)
