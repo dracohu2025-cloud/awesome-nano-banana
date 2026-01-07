@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2008559432016286198
+
+**Author:** [@AllaAisling](https://twitter.com/AllaAisling)
+**Tweet:** [View Original](https://x.com/AllaAisling/status/2008559432016286198)
+**Scraped:** 2026-01-07T06:40:46.298Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G98hlgsW0AA963F?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G98hwnvXwAAR72v?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G98h7ueWEAE2r_S?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G98iDQyWAAAjM8w?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt Studio: Nano Banana Pro Architectural Specimen, in Firefly          
+
+A preservation architect's survey board for [BUILDING / STRUCTURE] — [STYLE / ARCHITECT / PERIOD]. Left section: site plan and context, showing the structure in its urban or landscape setting with orientation, shadows, and neighboring relationships mapped. Center section: the building dissected, a cutaway axonometric revealing structural system, material layers, hidden infrastructure, with callouts identifying original versus modified elements. Right section: the building as experienced, photographed from the canonical viewpoint in ideal light, with human figures for scale and life, the architecture inhabited. Visual style transitions from technical survey blue-line through neutral analytical greys to golden-hour warmth. Title block reading "[BUILDING NAME] — [ARCHITECT], [CITY], [YEAR], HERITAGE SURVEY".    
+
+Check ALTs for ideas @AdobeFirefly
+```
+
+---
+
 ## Case: twitter-2008273570175349157
 
 **Author:** [@ttmouse](https://twitter.com/ttmouse)
