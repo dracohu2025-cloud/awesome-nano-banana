@@ -4,6 +4,86 @@
 
 ---
 
+## Case: twitter-2008498909677842652
+
+**Author:** [@servasyy_ai](https://twitter.com/servasyy_ai)
+**Tweet:** [View Original](https://x.com/servasyy_ai/status/2008498909677842652)
+**Scraped:** 2026-01-07T06:44:12.473Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9-eZhQbcAEr8o8?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9-eb-1a8AAV9Ds?format=jpg&name=orig)
+
+### Prompt
+
+```
+捏脸最强一定是 @94vanAI 
+
+大佬说，这个图很不错，满意。
+
+其实是偷偷将大佬的捏脸提示词让skill学习出来的
+
+生成过程如下：
+
+ 日系妆容极致美女9宫格提示词（不同特写镜头）
+
+ 完整提示词
+
+Nine grid layout collage featuring the same beautiful East Asian woman with Japanese makeup style in nine different close-up shots and angles:
+(1) extreme close-up of eyes, (2) close-up of lips and lower face, (3) side profile close-up, (4) three-quarter face close-up, (5) straight-on portrait close-up, (6) tilted head close-up, (7) looking up
+close-up, (8) looking down close-up, (9) over-shoulder close-up.
+Each shot shows: woman, young, East Asian, large expressive eyes, thick natural lashes, black hair hair, casual, modern, comfortable, ponytail with bangs, fair skin, pale complexion, visible pores,
+natural imperfections, oval face, delicate refined Asian facial structure, symmetrical features, Korean K-beauty makeup style, fresh natural dewy skin, gradient lips, straight brows, innocent gaze,
+relaxed, cozy, warm, inviting, textile and wood combination, cozy natural pairing, soft fabrics with warm wood, natural window light, soft window lighting, diffused daylight, nordic, scandinavian, soft
+morning sunlight streaming through windows, fresh and energizing atmosphere, gentle shadows, rim light, edge glow, cyan glow, beauty lighting, soft lighting, 45-degree, studio backdrop, light grey,
+clean background
+
+ 9种特写镜头布局
+
+| 镜头编号 | 特写类型  | 突出重点  |
+|------|--------|------------|
+| 1 | 极致眼部特写 | 眼睛、睫毛、眼妆细节 |
+| 2 | 嘴唇和下半脸 | 唇部妆容、下颚线条 |
+| 3 | 侧面轮廓  | 脸型线条、侧面美感 |
+| 4 | 四分之三角度 | 经典美妆角度、立体感 |
+| 5 | 正面肖像  | 完整五官、对称美  |
+| 6 | 侧头特写  | 颈部线条、侧面美  |
+| 7 | 仰视特写  | 下颚线条、颈部 |
+| 8 | 俯视特写  | 眼神、睫毛、温柔感 |
+| 9 | 过肩特写  | 侧后方、神秘感 |
+ 日系妆容特点
+五官细节：
+-  大而圆润的眼睛（large expressive eyes）
+-  浓密自然睫毛（thick natural lashes）
+-  精致小巧鼻子（delicate refined features）
+-  鹅蛋脸（oval face）
+日系妆容：
+-  清透瓷肌（porcelain pale complexion）
+-  水光肌效果（fresh natural dewy skin）
+-  自然柔和唇色（natural soft pink lips）
+-  清新可爱氛围（innocent gaze）
+光影效果：
+-  柔和窗光（natural window light）
+-  美颜光（beauty lighting, 45-degree）
+-  边缘高光（rim light, edge glow）
+-  清新明亮氛围（fresh and energizing）
+ 使用建议
+适用场景：
+- 美妆展示
+- 五官特写
+- 人像摄影参考
+- AI图像生成（Midjourney, Stable Diffusion等）
+重点优势：
+-  9个不同角度全方位展示
+-  日系清新妆容风格
+-  每个特写都有明确重点
+-  同一人物保证一致性
+```
+
+---
+
 ## Case: twitter-2008523042629263562
 
 **Author:** [@ttmouse](https://twitter.com/ttmouse)
