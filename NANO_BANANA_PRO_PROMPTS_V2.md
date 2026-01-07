@@ -4,6 +4,41 @@
 
 ---
 
+## Case: twitter-2008704766504038781
+
+**Author:** [@94vanAI](https://twitter.com/94vanAI)
+**Tweet:** [View Original](https://x.com/94vanAI/status/2008704766504038781/photo/1)
+**Scraped:** 2026-01-07T06:42:19.303Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-BaUdVa0AAgz9l?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-BaUa9acAAad7F?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-BaUbEbcAAhWBf?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-BaUa9bcAU7Zyd?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G69kLVqbkAA3ix4?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G69kLVpbkAAys3m?format=jpg&name=orig)
+
+### Prompt
+
+```
+估计你們没留意我之前的帖子或者是忘了，我最早是入手是研究二次元，而不是人像，因為人像我比二次元玩的早！二次元我一樣有玩的很屌！！！（引用貼内容懂的推友自然能懂我做的什麼含金量）
+Have you forgotten that I first started to study the second dimension, not portraits, because people like me earlier than the second dimension! I'm also awesome in the second dimension!!! ( Quote and post, if you know the tweeter, you can naturally understand what gold content I do)
+High-level fusion illustration prompts:
+高階融合插畫提示詞：（这个词我还有个其他版本，国风山水、真人等等，几乎涵盖了所有的通用版本）
+
+{
+  "prompt": "EVA style light background, soft pale blue-gray tone, subtle NERV logo watermark and tech texture, double exposure portrait of anime girl Rei Ayanami from Evangelion, blue short hair, red eyes, wearing white plugsuit and interface headset, seamlessly blended with majestic Mount Fuji landscape, her silhouette filled with snow-capped Mount Fuji, mist-shrouded peaks, surrounding lakes and forests, heavy rainy night or misty morning Fuji, rain streaks or water vapor covering the surface, distant mountain peaks and sky light reflecting on wet surfaces and lake, enhanced rain and mist effects, soft natural light and cloud reflections on wet surfaces and her plugsuit, morning glow or sunset hues on Mount Fuji shimmering through mist, serene wet atmosphere with tranquil natural light reflection highlights, inspired by WLOP style, subtle glitch art elements, concept art, digital illustration, extremely high detail, intricate linework, sharp focus, atmospheric depth, ethereal lighting, 8K resolution, ultra high detail, cinematic composition, impeccable attention to detail, absolute world-class masterpiece concept art, evokes melancholic and profound atmosphere of cyberpunk solitude and existential introspection, poetic mood of isolation and tranquility in nature, harmony between human and mountain, official Evangelion style elements, elegantly scattered small NERV logos or LCL orange marks, bottom right or side features EVA-style artist signature using official Evangelion font (such as FOT-Rodin Pro or similar geometric sans-serif font), white or orange glowing text"
+}
+```
+
+---
+
 ## Case: twitter-2008508944923213879
 
 **Author:** [@xiaojietongxue](https://twitter.com/xiaojietongxue)
