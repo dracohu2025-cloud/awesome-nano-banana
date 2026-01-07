@@ -4,6 +4,57 @@
 
 ---
 
+## Case: twitter-2008508944923213879
+
+**Author:** [@xiaojietongxue](https://twitter.com/xiaojietongxue)
+**Tweet:** [View Original](https://x.com/xiaojietongxue/status/2008508944923213879)
+**Scraped:** 2026-01-07T06:41:01.529Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9-ne48WIAAJziN?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9-ne4oWgAASN9C?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G9-ne4xXMAAs6cX?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G9-ne45WAAAhf2X?format=jpg&name=orig)
+
+### Prompt
+
+```
+同学们，宠物赛道2026年将达到100亿级别的规模，陪伴赛道也同样有100亿的规模，所以我很看好的就是可爱的风格化玩偶市场。
+
+来一个奶凶奶凶的第二季，这次咱们直接上武器！
+
+输入动物+武器，就可以生成，大家记得一键三连交作业哦！
+
+GEM提示词如下，最近Gemini降智严重，如果遇到输出文字提示词，请新开窗口进行单独生成。
+
+{
+  "meta_prompt_config": {
+    "target_model": "nano banana pro",
+    "style_preset": "Needle Felted Cute 3D",
+    "description": "Generates a cute, round, wool-felted animal holding a weapon, creating a humorous contrast."
+  },
+  "inputs": [
+    "animal",
+    "weapon"
+  ],
+  "prompt_template": "A high-quality macro photography shot of a tiny, round, handmade needle-felted {animal} holding a small {weapon}. The {animal} has a chubby, egg-shaped body, fluffy wool texture, and tiny beady black eyes. It is trying to look tough but looks incredibly adorable and harmless. The {weapon} is also made of felt or looks like a toy. Soft, warm studio lighting, clean white or soft beige blurred background, shallow depth of field, creamy bokeh, 8k resolution, highly detailed fiber texture, minimalist composition.",
+  "negative_prompt": "real flesh, fur, frightening, horror, blood, violent, text, watermark, signature, blurry, low quality, deformed, bad anatomy, human hands, messy background, dark shadows",
+  "example_usage": {
+    "animal": "duck",
+    "weapon": "kitchen knife",
+    "result_prompt": "A high-quality macro photography shot of a tiny, round, handmade needle-felted duck holding a small kitchen knife. The duck has a chubby, egg-shaped body, fluffy wool texture, and tiny beady black eyes. It is trying to look tough but looks incredibly adorable and harmless. The kitchen knife is also made of felt or looks like a toy. Soft, warm studio lighting, clean white or soft beige blurred background, shallow depth of field, creamy bokeh, 8k resolution, highly detailed fiber texture, minimalist composition."
+  }
+}
+
+#肖师傅 #ai邪修基地 #ai
+```
+
+---
+
 ## Case: twitter-2008559432016286198
 
 **Author:** [@AllaAisling](https://twitter.com/AllaAisling)
