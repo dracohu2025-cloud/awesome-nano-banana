@@ -4,6 +4,119 @@
 
 ---
 
+## Case: twitter-2008566010073546764
+
+**Author:** [@94vanAI](https://twitter.com/94vanAI)
+**Tweet:** [View Original](https://x.com/94vanAI/status/2008566010073546764)
+**Scraped:** 2026-01-07T06:44:49.907Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G9_cGnyWcAA0Bb-?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G98Hv9zbcAIriCl?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G98Hv9ybcAUv1nN?format=jpg&name=orig)
+
+### Prompt
+
+```
+AI 妆容复刻教学指南
+
+这是一套利用 AI 图像生成技术，从参考图中精准提取妆容信息并一键复刻到你的人像照片上的完整工作流。
+
+ 整体流程概览
+
+步骤 说明 目的     第一步 反推妆容 Prompt 从参考图提取妆容细节   第二步 生成妆容描述词 获得可复用的妆容提示词   第三步 一键上妆 将妆容应用到你的照片
+ 第一步：反推妆容 Prompt
+用以下提示词让 AI 分析参考图中的妆容细节：
+<aside> 
+提示词模板（三选一或组合使用）：
+</aside>
+模板 1：毫米级精细反推
+超精细反推参考图妆容，分区域标注：
+底妆：毛孔隐形手法
+
+眼影：渐变色彩配比
+
+眼线：防水持妆配方
+
+唇妆：唇线勾勒技巧
+
+手部妆容：美甲款式、手部底妆、指节腮红
+
+生成毫米级复刻提示词
+模板 2：光影适配分析
+
+反推图片中妆容的光影适配逻辑：
+
+分析不同光源下妆容的显色变化
+
+明确眼妆亮片的粒径大小
+
+明确唇妆的成膜速度
+
+明确修容的粉质细腻度
+
+附带妆容修改微调的参数建议
+
+模板 3：专业美妆教程式
+
+针对特写妆容照片进行反推，重点拆解：
+
+眼妆：睫毛嫁接层次
+
+眉妆：野生毛流打造
+
+腮红：膏粉结合手法
+
+手部：白嫩质感妆容（指缘油护理、手部高光位置）
+
+生成专业级美妆教程式提示词
+
+ 第二步：生成妆容 Prompt
+根据需求选择不同侧重点的 Prompt 方案：
+
+方案一：毫米级复刻与技术拆解
+适用场景：需要精确复刻妆容手法与色彩配比
+
+(best quality, 8k, masterpiece, hyper-detailed close-up portrait based on image_0.png),  Subject: The woman from image_0.png with dark wavy hair and white/blue ruffled bonnet. Blue contact lenses.  Skin Base (Millimeter-level precision): Porcelain skin texture, zero pore visibility achieved via silicone-based pore-blurring primer and high-coverage matte liquid foundation, set with translucent micro-finishing powder using a baking technique under the eyes.  Eye Makeup (Gradient & Formula): Intense peach-to-coral gradient eyeshadow (70% muted peach transitions to 30% soft coral towards the temples), blown out heavily around the eyes. Sharp, waterproof jet-black liquid eyeliner with a winged tip.  Lashes: Defined, wispy individual false lashes.  Lip Makeup (Contour & Technique): Velvet matte lip look in peachy-pink. Precise lip contouring using a slightly darker nude pencil to define the shape, blended inwards for a blurred "bitten" effect, no harsh edges.  Hand Details (Linked to makeup): Hand visible at the bottom with pale hand foundation, distinct pink "knuckle blush" on finger joints to match face blush. Glossy, dark black manicured nails.  Lighting: Bright, high-key lighting emphasizing the flawless matte finish.
+
+方案二：光影适配与材质分析
+
+适用场景：分析妆容在不同光线下的质感表现
+
+(best quality, realistic texture analysis portrait based on image_0.png),  Context: Close-up beauty shot analyzing makeup texture under bright, diffused high-key lighting.  Skin Texture & Light Reaction: Soft-focus matte skin finish that absorbs light, subtly reflecting only on the high points of the nose and forehead. Very fine milled contour powder provides subtle structure without looking muddy under bright light.  Eye Makeup Particle Analysis: The coral eyeshadow contains ultra-fine (approx. 50-micron) shimmer particles that create a wet-look sheen rather than chunky glitter.  Lip Product Texture: Lips feature a rapid film-forming velvet lip stain that appears completely dry and transfer-proof, diffusing light softly.  Lash Details: Lashes have a matte, fiber-rich mascara coating.  Adjustment Parameters: Makeup is balanced for high exposure; blush saturation is high to register on camera, contour is cool-toned to avoid orange cast.  Hand Texture: Hands show smooth skin texture with a non-greasy satin finish hand cream.
+
+方案三：专业级美妆教程风格
+
+适用场景：展示专业美妆手法，如野生眉、睫毛嫁接等
+
+(masterpiece, top-tier beauty tutorial photography based on image_0.png),  Focus: A professional makeup look showcasing specific techniques.  Brow Tutorial: "Wild" brow flow achieved using brow soap technique, individual hairs brushed upwards and textured with a tinted fiber gel.  Lash Tutorial: Hybrid eyelash extensions, mixing classic and volume fans (C-curl, lengths ranging from 8mm inner corner to 12mm outer corner) for a fluttery, doll-like effect.  Blush Application: Layered blush technique—cream coral base layered under a translucent powder pink blush, applied high on the cheekbones connecting to the eye area (Igari style).  Hand Care & Makeup: Hands at the bottom appear manicured. Visible shine on cuticles from nourishing cuticle oil application. Subtle liquid highlighter placed on the knuckles and veins of the hand for a hydrated, youthful look. Dark polished nails.  Overall Feeling: Ethereal, perfectly groomed, high-end beauty look.
+
+ 第三步：一键上妆
+完成前两步后，只需用一句话即可完成妆容复刻：
+
+<aside> 
+指令：上面的妆容给参照图角色化妆
+
+</aside>
+
+将你的人像照片与生成的妆容 Prompt 一起提交给 AI，无需再写详细描述，即可获得理想妆容效果。
+
+ 小贴士
+
+方案一 适合追求精确复刻的用户
+
+方案二 适合需要分析妆容在镜头前表现的摄影师
+
+方案三 适合想展示专业技法的美妆博主
+
+可以根据需要组合使用多个方案中的元素
+```
+
+---
+
 ## Case: twitter-2008750450355662971
 
 **Author:** [@0xluffy_eth](https://twitter.com/0xluffy_eth)
