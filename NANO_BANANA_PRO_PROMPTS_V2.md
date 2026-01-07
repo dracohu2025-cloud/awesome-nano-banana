@@ -4,6 +4,27 @@
 
 ---
 
+## Case: twitter-2008750450355662971
+
+**Author:** [@0xluffy_eth](https://twitter.com/0xluffy_eth)
+**Tweet:** [View Original](https://x.com/0xluffy_eth/status/2008750450355662971)
+**Scraped:** 2026-01-07T06:44:40.900Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-CD4jraYAAwK8i?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT-1.5 图像标志性信息图表
+
+提示词
+“制作[LANDMARK]的信息图，结合地标的真实照片与蓝图式的技术注释和图表叠加。在角落的手绘方框中写上“[LANDMARK]”。添加白色粉笔风格的草图，展示关键结构数据、重要测量、材料数量、内部图、载荷流箭头、剖面图、平面图以及显著的建筑或工程特征。风格：蓝图美学，照片上带有白色线条，技术/建筑注释风格，教育信息图感，注释背后可见真实环境”
+```
+
+---
+
 ## Case: twitter-2008531763430129825
 
 **Author:** [@BubbleBrain](https://twitter.com/BubbleBrain)
