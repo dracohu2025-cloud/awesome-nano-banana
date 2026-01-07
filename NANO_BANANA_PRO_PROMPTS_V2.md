@@ -4,6 +4,38 @@
 
 ---
 
+## Case: twitter-2008345655618793843
+
+**Author:** [@0x00_Krypt](https://twitter.com/0x00_Krypt)
+**Tweet:** [View Original](https://x.com/0x00_Krypt/status/2008345655618793843)
+**Scraped:** 2026-01-07T06:36:39.429Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G98TcfrbcAIjEhx?format=jpg&name=orig)
+
+### Prompt
+
+```
+把城市变成 「治愈系黏土微缩世界」！这种高饱和度的玩具风上帝视角，简直太解压了
+
+Banana Prompt 
+---
+Isometric illustration, huge map of {CITY_NAME}, wide angle aerial view, claymorphism style, toy-like miniature world. 
+
+CENTER: Iconic landmarks of {CITY_NAME} rendered in exaggerated scale, positioned prominently to define the city center.
+
+GEOGRAPHY: The city's main geographic structure (such as a winding river, a coastline, or a major highway system) cutting through the composition to create visual flow.
+
+SURROUNDINGS: Extremely dense cityscape, hundreds of tiny colorful residential buildings, complex winding roads, busy traffic with tiny toy cars.
+
+ATMOSPHERE: Vibrant high saturation colors, cute, playful, rich details, crowded composition, soft smooth textures, ambient occlusion shadows, sunny daylight. 
+
+--ar 16:9 --stylize 400
+```
+
+---
+
 ## Case: twitter-2008758834547093893
 
 **Author:** [@qisi_ai](https://twitter.com/qisi_ai)
