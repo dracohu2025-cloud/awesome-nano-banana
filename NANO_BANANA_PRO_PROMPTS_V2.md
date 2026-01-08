@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2008795972764397597
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2008795972764397597)
+**Scraped:** 2026-01-08T02:32:34.693Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-CtMoRbIAEzFK4?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-CtMoSbcAAPDdD?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-CtPY_bcAIma0c?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-CtSHdbcAUG2Ix?format=jpg&name=orig)
+
+### Prompt
+
+```
+沙雕拼贴风格
+
+互联网沙雕风格插画，[主题/主角/动作]。极简主义的涂鸦线条，Q版人物，表情夸张且滑稽（死鱼眼、流口水、神情呆滞）。
+画面中包含[填物品]，要求这些[填物品]呈现出违和的写实摄影质感，与卡通人物形成混合媒介的拼贴艺术效果。色彩明快，带有幽默感和嘲讽意味。背景是[填场景]。
+```
+
+---
+
 ## Case: twitter-2008566010073546764
 
 **Author:** [@94vanAI](https://twitter.com/94vanAI)
