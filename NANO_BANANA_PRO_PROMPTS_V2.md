@@ -4,6 +4,49 @@
 
 ---
 
+## Case: twitter-2008804071235612934
+
+**Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
+**Tweet:** [View Original](https://x.com/Adam38363368936/status/2008804071235612934)
+**Scraped:** 2026-01-08T02:42:43.546Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-C0nsUbcAMuZLs?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-C0nsTbQAA8z8V?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-CQ3J0XEAA2rRD?format=jpg&name=orig)
+
+### Prompt
+
+```
+超写实风格雪景，你喜欢哪张？
+Hyper-realistic snow scene
+Which one do you like ？
+
+Nano Banana Prompt
+
+{
+  "Ultra-realistic outdoor winter fashion portrait of a young Asian woman crouching in fresh snow. She is wearing a fitted  short black dress paired with fur-lined snow boots. Her makeup is soft and natural. She has long, wavy black hair flowing naturally. One finger is gently touching her lips, giving a playful yet thoughtful expression. The background features snow-covered pine trees with a foggy winter atmosphere. Overcast natural lighting creates soft shadows. Shallow depth of field isolates the subject with a cinematic composition. High detail, sharp focus, Instagram aesthetic, 85mm lens look, soft contrast, and cold color tones dominate the scene.",
+  
+  "style": "ultra-realistic, cinematic, winter fashion",
+  "environment": "outdoor, snowy forest, foggy winter atmosphere",
+  "lighting": "overcast natural light, soft shadows",
+  "camera": {
+    "lens": "85mm",
+    "depth_of_field": "shallow",
+    "focus": "sharp"
+  },
+  "color_palette": "cold tones, soft contrast",
+  "quality": "high detail, ultra realistic, instagram aesthetic",
+  "aspect_ratio": "4:5"
+Use the face without any change.
+}
+```
+
+---
+
 ## Case: twitter-2008795972764397597
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
