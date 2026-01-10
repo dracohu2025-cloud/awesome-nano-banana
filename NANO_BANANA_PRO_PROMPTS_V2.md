@@ -4,6 +4,61 @@
 
 ---
 
+## Case: twitter-2009665973058515294
+
+**Author:** [@craftian_keskin](https://twitter.com/craftian_keskin)
+**Tweet:** [View Original](https://x.com/craftian_keskin/status/2009665973058515294)
+**Scraped:** 2026-01-10T02:32:01.151Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-OolUBXQAAw5a2?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G9rZmzEWcAAj8yj?format=jpg&name=orig)
+
+### Prompt
+
+```
+Anya Joy Taylor version. 
+
+Nano Banana Pro ; 
+Prompt:
+A refined fashion editorial image with a 3:4 aspect ratio, split into two clear sections.
+
+Right side:
+A fashionable, confident, sensual woman standing and walking casually in a modern architectural space with red luxurious walls and soft natural light. She wears a top with a deep V neckline, a 90-60-90 figure, tucked into a high-waisted blue tailored short skirt, On her feet are sleek black stiletto heels, elegant and minimal. She carries a small structured red handbag in one hand and she is wearing a luxurious diamond necklace with a blue diamond on it.
+
+Her hair is open emphasizing her facial structure. She wears subtle statement earrings. The look is refined, modern, and effortlessly chic. Natural daylight, soft shadows, realistic skin texture. Casual fashion photography style with an editorial, high-end feel. alive color palette, warm tones, shallow depth of field, cinematic realism.
+
+Style & Mood:
+Modern elegance, quiet luxury, confident, minimal, editorial casual.
+
+Photography Details:
+Eye-level angle, candid stance, 35mm lens, natural lighting, high detail, photorealistic.
+
+Left side:
+A clean, minimalist product breakdown layout on a neutral background. The individual fashion items worn by the woman are displayed separately, neatly arranged with subtle shadows. Each item includes a small, elegant price label in refined sans-serif typography:
+
+– white deep V-neck knit top — $180
+– blue high-waisted tailored mini skirt — $220
+– Black pointed-toe stiletto heels — $350
+– Small structured red handbag — $480
+– a diamond necklace with a big blue diamond — $160000
+
+The left side feels like a luxury fashion catalog or e-commerce lookbook, with a red carpet, luxurious walls, art pieces on wall
+
+Overall Style & Mood:
+Quiet luxury, modern elegance, editorial fashion, high-end retail aesthetic.
+
+Lighting & Quality:
+Soft natural light, studio-clean clarity on product side, photorealistic, ultra-high resolution, professional fashion photography.
+
+Negative Prompt:
+Cluttered layout, oversized text, flashy logos, mannequins, people on left side, harsh lighting, low resolution, cartoon style.
+```
+
+---
+
 ## Case: twitter-2008804071235612934
 
 **Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
