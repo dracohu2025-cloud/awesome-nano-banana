@@ -4,6 +4,47 @@
 
 ---
 
+## Case: twitter-2009689562600394964
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2009689562600394964)
+**Scraped:** 2026-01-10T02:35:44.068Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-PZlgMb0AAg9DA?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-PZpNfbgAARS-A?format=jpg&name=orig)
+
+### Prompt
+
+```
+ Nano banana pro prompt：
+{
+“aspects”: [
+“电影级镜头”,
+“无尽循环的楼梯，无缝连接无断层”,
+“无尽循环迷宫”,
+“超现实建筑几何”,
+“伸向薄雾虚空的无限走廊”,
+“戏剧性的明暗对比照明”,
+“深邃阴影与体积光束”,
+“8k分辨率”,
+“高细节纹理”,
+“忧郁氛围”,
+“灵感源自《盗梦空间》与《星际穿越》”,
+“35mm胶片拍摄”,
+“广角镜头”
+],
+“style”: “电影摄影”,
+“resolution”: “8k”,
+“lighting”: “明暗对比”,
+“composition”: “广角”
+}
+```
+
+---
+
 ## Case: twitter-2009631228492931268
 
 **Author:** [@me_Aarvi](https://twitter.com/me_Aarvi)
