@@ -4,6 +4,46 @@
 
 ---
 
+## Case: twitter-2009572318683840782
+
+**Author:** [@me_Aarvi](https://twitter.com/me_Aarvi)
+**Tweet:** [View Original](https://x.com/me_Aarvi/status/2009572318683840782)
+**Scraped:** 2026-01-10T02:39:01.799Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-NvUvbbYAA0oSW?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-NvUyHbgAA-_Uw?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-NvUyFakAALi87?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-NvUxzb0AAKaD_?format=jpg&name=orig)
+
+### Prompt
+
+```
+Black & White Studio Fashion Portrait  Female 
+
+1. Open Gemini / ChatGPT / Grok
+2. Upload your image 
+3. Paste this prompt 
+
+{
+  "prompt": "Use 100% of the uploaded reference image strictly for the exact face, identity, facial structure, and hairstyle — do not alter facial features, proportions, or bone structure. Create a high-contrast black-and-white studio fashion portrait of a confident young woman in her late 20s, captured in a timeless editorial style. She is looking gracefully over her shoulder toward the camera with a calm, powerful, and subtly mysterious expression.
+
+She wears a sleek black leather jacket with rich, visible grain texture and refined tailoring, styled effortlessly for a high-fashion look. Modern rectangular sunglasses with deep charcoal or subtle tinted lenses rest elegantly on her face, enhancing a bold yet minimalist aesthetic. Her hair is styled clean and polished, complementing the strong lines of the portrait.
+
+The background is a clean, seamless white studio backdrop featuring a soft gray circular halo behind her head, adding a minimalist graphic design element and visual balance. Dramatic, high-contrast studio lighting sculpts her facial features, highlights natural skin texture, and emphasizes the leather jacket’s depth, creating crisp highlights and deep, controlled shadows.
+
+Photorealistic, ultra-detailed, professional black-and-white fashion photography, luxury magazine editorial quality, cinematic contrast, shot on an 85mm lens, shallow depth of field, hyper-realistic realism, 8K resolution, elegant, powerful, and timeless."
+,
+  "aspect_ratio": "9:16"
+}
+```
+
+---
+
 ## Case: twitter-2009664369001627654
 
 **Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
