@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2009525352758935940
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2009525352758935940)
+**Scraped:** 2026-01-10T02:32:12.021Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-NDwcqbgAAKtY_?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-NDzw4a0AE5O1K?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-ND1q4bUAAvuTP?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-ND312akAA_LA2?format=jpg&name=orig)
+
+### Prompt
+
+```
+测试了一个新的「水墨国潮人像」风格。
+
+核心思路是“极致的黑白对撞”：
+
+塑形：重墨大块剪影 + 飞白写意
+细节：五官极细线精描
+构图：右侧大留白 + 强S型动势穿插（张力拉满！）
+
+提示词：直接修改主题是[在这里填写具体人物主题]即可。
+
+生成一张「水墨国潮人像」插画 极致的黑白对撞美学。以重墨大块剪影塑形，飞白笔触写意，五官则是干净利落的细线精描。 半身回眸，右侧大面积“留白”造境，一条强劲的S型动势（发丝/墨痕/披帛）贯穿画面，视觉张力拉满。 署名：右下角以手写签名形式写「VoxCat」，使用黑色墨笔的简洁连笔签名风格，小而克制，清晰可读，不遮挡主体；除签名外不出现任何可读文字与重复署名。 主题为[在这里填写具体人物主题]。
+```
+
+---
+
 ## Case: twitter-2009665973058515294
 
 **Author:** [@craftian_keskin](https://twitter.com/craftian_keskin)
