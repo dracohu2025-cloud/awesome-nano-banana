@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2009631228492931268
+
+**Author:** [@me_Aarvi](https://twitter.com/me_Aarvi)
+**Tweet:** [View Original](https://x.com/me_Aarvi/status/2009631228492931268)
+**Scraped:** 2026-01-10T02:34:51.888Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-Ok5yraEAEGo6v?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-Ok5yjakAEXl13?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-Ok50HacAAfcap?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-Ok5y8agAArcUh?format=jpg&name=orig)
+
+### Prompt
+
+```
+Where cinematic vision meets artificial intelligence… the future of fashion is here
+
+1. Open Gemini / ChatGPT / Grok
+2. Upload your image
+3. Copy and paste this prompt
+
+A high-fashion cinematic portrait of a sophisticated young woman with sleek, well-defined facial features and softly styled hair, sitting confidently on a black metal barstool. She is dressed in a fitted black turtleneck that contours elegantly to the body, paired with high-waisted brown corduroy trousers featuring rolled cuffs, and polished black leather Chelsea boots with a refined silhouette. 
+
+The setting is a minimalist studio environment with a clean white floor and a large tan-colored backdrop that enhances the warm tones of the composition. Dramatic golden-hour sunlight streams through an unseen window, casting a striking chiaroscuro rectangular window-pane light pattern across the wall behind her and partially across her form, creating depth, contrast, and cinematic tension.
+
+Her pose feels composed yet powerful, with a calm, confident expression and a subtle editorial gaze. Shot in ultra-high 8K resolution on a 35mm lens, the image features a warm, film-inspired color palette, soft natural shadows, and rich texture detail. The overall atmosphere is elegant, moody, and timeless—blending classic fashion aesthetics with modern cinematic storytelling.
+```
+
+---
+
 ## Case: twitter-2009525352758935940
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
