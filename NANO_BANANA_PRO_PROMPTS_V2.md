@@ -4,6 +4,113 @@
 
 ---
 
+## Case: twitter-2010331238083567964
+
+**Author:** [@joshesye](https://twitter.com/joshesye)
+**Tweet:** [View Original](https://x.com/joshesye/status/2010331238083567964)
+**Scraped:** 2026-01-12T13:38:09.546Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-YhO0XWUAAYkYi?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-MuWeXagAAQvlj?format=jpg&name=orig)
+
+### Prompt
+
+```
+修改了提示词，生成一个健康的版本
+
+使用Nano Pro出图，上传你的女友图片作为参考图
+
+如果你想要原图效果，可以去原贴拿Prompt
+
+{
+  "visual_style_analysis": {
+    "summary": "韩系甜酷风(Sweet & Cool)时尚摄影，结合了柔和的背景与高对比度的服装，具有明显的K-pop偶像画报质感。",
+    "color_palette": {
+      "dominant_colors": [
+        {
+          "name": "Hot Pink / Magenta",
+          "hex_approx": "#D64C86",
+          "usage": "外套 (Coat)",
+          "feeling": "活力、时尚、强烈的视觉冲击"
+        },
+        {
+          "name": "Jet Black",
+          "hex_approx": "#0F0F0F",
+          "usage": "吊带裙、丝袜、头发 (Dress, Stockings, Hair)",
+          "feeling": "神秘、性感、沉稳"
+        },
+        {
+          "name": "Pale Rose / Misty Pink",
+          "hex_approx": "#EAD5D9",
+          "usage": "背景 (Background)",
+          "feeling": "柔和、梦幻、少女感"
+        }
+      ],
+      "skin_tone": {
+        "description": "冷白皮 (Porcelain/Fair)",
+        "finish": "哑光带微光 (Matte with subtle glow)"
+      },
+      "contrast_level": "High (高对比度 - 黑色与粉色的强烈反差)"
+    },
+    "lighting_and_atmosphere": {
+      "type": "Studio Lighting (影棚布光)",
+      "setup": {
+        "key_light": "柔光箱正面补光，面部光线平整均匀 (Softbox frontal fill)",
+        "background_light": "圆形聚光灯/光束效果 (Circular Spotlight/Vignette)",
+        "shadows": "柔和且受控，主要集中在人物下方和衣褶处"
+      },
+      "mood": [
+        "Chic (时髦)",
+        "Alluring (迷人)",
+        "Polished (精致)"
+      ]
+    },
+    "composition": {
+      "type": "Central Composition (中心构图)",
+      "geometry": "Triangular (三角形构图 - 蹲姿形成的稳固三角形状)",
+      "framing": "Full Body / Crouch (全身/蹲姿)",
+      "visual_weight": "底部视觉重心较重 (由于黑色丝袜和深色裙装)"
+    },
+    "subject_and_styling": {
+      "fashion_elements": [
+        "Oversized Coat (廓形大衣 - 披肩穿法)",
+        "Slip Dress (缎面吊带裙 - 睡衣风)",
+        "Lace Stockings (蕾丝长筒袜)",
+        "Stiletto Heels (细高跟鞋)"
+      ],
+      "textures": [
+        "Wool/Felt (外套的毛呢质感)",
+        "Satin (裙子的丝绸光泽)",
+        "Lace (丝袜的透视纹理)",
+        "Glossy (头发的光泽感)"
+      ],
+      "hair_and_makeup": {
+        "hair": "黑长直 + 空气刘海 (Long straight black hair with airy bangs)",
+        "makeup": "韩式妆容，强调腮红与唇色，清晰的眼线"
+      }
+    },
+    "post_processing_and_effects": {
+      "retouching": "Beauty Retouching (精修 - 皮肤磨皮，五官立体化)",
+      "sharpness": "High (高锐度，纹理清晰)",
+      "grain": "Low/None (数码洁净感)",
+      "vignette": "通过灯光营造的物理暗角效果，而非后期压暗"
+    },
+    "typography_and_graphics": {
+      "detected_text": "@XIAOAI",
+      "location": "Bottom Center (底部居中)",
+      "font_style": "Pixel Art / 8-bit (像素风格字体)",
+      "color": "White (白色)"
+    }
+  }
+}
+#NanoBananaPro
+```
+
+---
+
 ## Case: twitter-2010666822740177135
 
 **Author:** [@94vanAI](https://twitter.com/94vanAI)
