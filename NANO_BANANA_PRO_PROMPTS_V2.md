@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2010654137709740109
+
+**Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
+**Tweet:** [View Original](https://x.com/Adam38363368936/status/2010654137709740109)
+**Scraped:** 2026-01-12T14:05:23.073Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-dGqgmaYAAx9JV?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-dHPUEbUAEottk?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-brzpYaMAASzvV?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-brznAbgAAzH5i?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个配色让人感觉很舒服，慵懒又温暖的感觉。
+Vintage street photography in the sunlight
+this yellow feels so comforting, like being gently hugged by the afternoon sun.
+
+Nano Banana Prompt
+
+Sunlit urban streetwear portrait of a beautiful Asian young woman with long wave black hair sitting casually on a concrete sidewalk in front of a closed metal garage door with retro Street Fighter 2 inspired graffiti. She wears a bright yellow oversized shirt tucked into a stylish streetwear skirt, layered silver chains, and yellow white sneakers. Vintage 90s headphones on, calm and yellow white sneakers. Vintage 90s headphones on, calm and confident expression. Soft natural light with subtle glow, cinematic urban editorial mood, slightly high angle, realistic skin tones, textured details.Use the face without any change.
+```
+
+---
+
 ## Case: twitter-2010701521357566161
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
