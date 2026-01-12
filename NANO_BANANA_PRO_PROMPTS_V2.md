@@ -4,6 +4,96 @@
 
 ---
 
+## Case: twitter-2010666822740177135
+
+**Author:** [@94vanAI](https://twitter.com/94vanAI)
+**Tweet:** [View Original](https://x.com/94vanAI/status/2010666822740177135)
+**Scraped:** 2026-01-12T13:27:47.932Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-dRfq-W8AAzrh5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-dRgxrWMAA8baf?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-dRh_AWMAAAplN?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-dRi6MXYAAlnyl?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G93fvtIbwAEax8S?format=jpg&name=orig)
+
+### Prompt
+
+```
+
+在AI角色设计中，**“多图人物一致性”**一直是个痛点。很多创作者发现，生成单张图完美无缺，一旦尝试多宫格（Grid View），角色特征（Identity）就会发生严重的漂移。
+
+经过大量测试，我总结了一套标准化的工作流（Workflow），能够稳定输出高质量的15宫格角色卡。以下是核心逻辑：
+
+ 目标设定单图内包含15个独立格，人物ID高度统一，光影（Lighting）与构图（Composition）连贯，达到专业Casting Card标准。
+
+ 核心步骤详解
+
+1. Character Seed（特征锚点）不要依赖抽象形容词。你需要对基准图进行像素级拆解：
+
+骨相：oval face, angular jawline
+
+皮相：warm skin tone, light freckles
+
+特征：almond eyes, sharp nose
+
+建议：利用LLM（如ChatGPT）反推Prompt，生成标准化的面部描述符。
+
+2. Grid Prompt（结构化提示词）建立稳定的画面结构，防止AI自由发挥。 必须包含的Token：
+
+15-panel grid photo sheet, same character, consistent appearance, uniform lighting, plain background
+
+3. Action Matrix（动作矩阵控制）为了避免表情重复或崩坏，需引入“分层控制”概念：
+
+Layer 1 (Pos 1-3): Neutral/Basic (定基调)
+
+Layer 2 (Pos 4-6): Angles (侧面/回眸)
+
+Layer 3 (Pos 7-9): High Emotion (大笑/惊恐)
+
+Layer 4 (Pos 10-15): Interaction (手部动作/特殊微表情)
+
+Tech Stack: 使用 panel [x]: [description] 语法进行精确定位。
+
+4. Consistency Lock（一致性死锁）如果以上步骤完成后仍有漂移，请执行**“白T恤策略”**：
+
+wearing simple white t-shirt in all panels 原理：降低服装纹理对模型注意力的干扰，强制模型将权重分配给面部特征。这是目前纯Prompt流派中最有效的Hack技巧。
+
+ 结构化模板 (JSON)为了方便集成到工作流中，我封装了一个JSON配置对象，可直接用于自动化脚本或作为Prompt参考：
+
+使用InstantID / IP-Adapter插件：上传一张参考脸，AI会严格复刻
+这两个方法能让15宫格的一致性达到98%以上，出图直接能当演员资料卡、模特卡用。
+ 一键复制：结构化模板
+最后送大家一个我自己在用的JSON格式模板，适合喜欢结构化思维的朋友。直接改参数就能用：
+
+{   "moodboard": {     "layout": "15 panels vertical collage, 3×5 grid",     "overall_aspect": "9:16",     "each_panel_aspect": "3:4 or 4:5 (portrait)",     "common_base": {       "subject": "real diverse fashion model, close-up head-shoulders portrait, neutral/calm expression, professional studio photo",       "lighting": "soft even studio lighting, ring light skin highlights, photorealistic texture",       "background": "minimal plain or very soft radial/vertical gradient, low to medium saturation",       "negative": "cartoon, illustration, 3d render, cgi, painting, blurry, deformed, plastic look"     },     "panels": [      
+ { "id": 1,  "effect": "horizontal RGB glitch slices, channel offset" },      
+ { "id": 2,  "effect": "vertical gradient color bars covering eyes" },     
+  { "id": 3,  "effect": "full face holographic/iridescent gradient overlay" },    
+   { "id": 4,  "effect": "floating neon triangles + circles around head" },    
+   { "id": 5,  "effect": "digital melting drips from hair and chin downward" },     
+  { "id": 6,  "effect": "strong horizontal RGB displacement split" },    
+   { "id": 7,  "effect": "rectangular gradient blocks mosaic on lower face/mouth" },    
+   { "id": 8,  "effect": "cyber grid lines + glowing intersection points" },   
+    { "id": 9,  "effect": "diagonal wide holographic stripe across face" },   
+    { "id": 10, "effect": "multiple floating circles forming halo/ring pattern" },      
+    { "id": 11, "effect": "pixel sort vertical distortion on right half" },   
+    { "id": 12, "effect": "fragmented color blocks partially covering face" },   
+    { "id": 13, "effect": "VHS tracking lines + light chromatic aberration" },    
+   { "id": 14, "effect": "horizontal glitch bars with color bleed" },   
+    { "id": 15, "effect": "large centered floating geometric frame (square/circle)" }     ],     "optional_per_panel_elements": [       "reflective sunglasses / visor / partial chrome helmet",       "small floating number (100–999 range)",       "minimal single word / short phrase (Dream, Void, Error, Pulse, 404, Awake, Neon, etc.)",       "subtle scanline / vhs noise overlay"     ]   } }
+
+总结一句话： 锁脸 → 搭框架 → 派任务 → 上保险。四步走完，15宫格稳了。
+有问题评论区见，祝大家出图顺利 
+```
+
+---
+
 ## Case: twitter-2010421791613919416
 
 **Author:** [@IqraSaifiii](https://twitter.com/IqraSaifiii)
