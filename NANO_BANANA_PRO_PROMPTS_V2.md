@@ -4,6 +4,41 @@
 
 ---
 
+## Case: twitter-2010243189207380187
+
+**Author:** [@songguoxiansen](https://twitter.com/songguoxiansen)
+**Tweet:** [View Original](https://x.com/songguoxiansen/status/2010243189207380187)
+**Scraped:** 2026-01-12T06:44:45.838Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-XRZRIasAA-5CE?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-XMkO7b0AAz9N5?format=jpg&name=orig)
+
+### Prompt
+
+```
+原提示词女主好飒，搞个潜水版的
+
+深海潜水海洋探险的3×3网格照片拼贴画
+
+Nano Banana Pro提示词：
+
+{
+  "Objective": "Create a 3x3 grid photo collage with deep sea diving ocean explorer aesthetics",
+  "FaceReference": {"Mode": "Strict face preservation", "Instruction": "Use uploaded reference for exact facial features", "Consistency": "Face identical across all nine frames"},
+  "GridComposition": {"Layout": "3x3 grid", "PoseVariety": ["Swimming with sea turtles", "Close-up through diving mask", "Exploring coral reef", "Freediving descent graceful", "Touching manta ray", "Underwater cave entrance", "Bubble trail ascending", "Kelp forest floating", "Surface breach triumphant"]},
+  "PersonaDetails": {"Subject": {"Type": "Same as reference", "Wardrobe": "Sleek wetsuit, diving mask, fins, underwater camera", "OverallPresence": "Ocean explorer, marine goddess"}},
+  "Environment": {"Setting": "Crystal clear tropical waters", "Background": "Coral reefs, tropical fish, sunlight rays through water, blue depths", "Lighting": {"Style": "Underwater sunbeams and caustics", "Quality": "Blue-green, ethereal, luminous"}},
+  "ImageQuality": {"Resolution": "8K hyper-realistic", "Aesthetic": "National Geographic ocean documentary"},
+  "NegativePrompt": ["pool", "murky water", "different face", "altered facial features"],
+  "ResponseFormat": {"Layout": "3x3 grid", "AspectRatio": "1:1"}
+}
+```
+
+---
+
 ## Case: twitter-2010451647294820764
 
 **Author:** [@IqraSaifiii](https://twitter.com/IqraSaifiii)
