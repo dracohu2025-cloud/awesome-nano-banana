@@ -4,6 +4,60 @@
 
 ---
 
+## Case: twitter-2008188288025473061
+
+**Author:** [@ttmouse](https://twitter.com/ttmouse)
+**Tweet:** [View Original](https://x.com/ttmouse/status/2008188288025473061/photo/1)
+**Scraped:** 2026-01-12T06:48:06.314Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G95yDuhWAAAQ6Fk?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G96ElXabUAAKxHh?format=jpg&name=orig)
+
+### Prompt
+
+```
+随机生成的一些图真好看～
+
+快过年了，弄些喜庆的图。
+
+提示词的稳定性没有测试
+
+ Nano banana pro prompt：
+
+1. 宏观风格与媒介
+- 核心媒介: 高清商业人像摄影 (High-end Commercial Photography)
+- 美学流派: 新中式美学 (New Chinese Style), 节日时尚大片
+
+2. 主体与IP身份
+- 核心主体: 年轻东亚女性侧颜特写 (Close-up profile of young Asian woman)
+- IP/名人锁定: 穿着红色旗袍 (Red Cheongsam), 佩戴珍珠项链与红色花卉耳环
+
+3. 世界逻辑与物理
+- 物理法则: 真实光学投影 (Real optical projection), 面部光影贴合面部起伏
+- 空间构成: 人眼平视视角 (Eye-level), 极近距离接触
+
+4. 数据与信息层
+- 文本提取: 无文本
+- 品牌与符号: 红色剪纸艺术前景 (Red paper-cut art foreground) - 包含仙鹤、蝴蝶与牡丹纹样
+
+5. 材质与纹理
+- 核心材质: 超写实皮肤质感 (Hyper-realistic skin), 哑光卡纸 (Matte cardstock), 温润珍珠
+- 触感细节: 逆光下可见的面部绒毛 (Visible vellus hair backlit), 次表面散射效果 (Subsurface scattering)
+
+6. 光影与氛围
+- 光照模型: Gobo投影布光 (Gobo lighting/Projected shadows) - 复杂的镂空花纹光影投射在人物面部
+- 整体氛围: 金色暖阳侧逆光 (Warm golden hour light), 高饱和度喜庆红调, 梦幻且清晰
+
+7. 技术参数
+- 镜头与渲染: 85mm-100mm 微距镜头 (Macro lens), 浅景深 (Shallow depth of field), 前景虚化 (Bokeh foreground)
+- 构图指令: 框式构图 (Framed composition), --ar 3:4
+```
+
+---
+
 ## Case: twitter-2010497574872940552
 
 **Author:** [@dotey](https://twitter.com/dotey)
