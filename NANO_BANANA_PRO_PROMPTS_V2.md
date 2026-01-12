@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2010451647294820764
+
+**Author:** [@IqraSaifiii](https://twitter.com/IqraSaifiii)
+**Tweet:** [View Original](https://x.com/IqraSaifiii/status/2010451647294820764)
+**Scraped:** 2026-01-12T06:43:18.393Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-aPFC7aEAEv8Tu?format=jpg&name=orig)
+
+### Prompt
+
+```
+Now make your Digital scrapbook with just one Prompt
+
+Nano Banana Pro in @GeminiApp 
+
+prompt:
+
+    "art_style_description": {
+      "type": "Digital Scrapbook / Fan-Edit Collage.",
+      "aesthetic": "Y2K, Coquette, K-pop Idol Fan Art.",
+      "visual_structure": "Multiple
+```
+
+---
+
 ## Case: twitter-2010083845761314964
 
 **Author:** [@IqraSaifiii](https://twitter.com/IqraSaifiii)
