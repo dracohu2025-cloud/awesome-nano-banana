@@ -4,6 +4,39 @@
 
 ---
 
+## Case: twitter-2010963973240471826
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2010963973240471826)
+**Scraped:** 2026-01-13T08:21:03.165Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-hg8WzasAA36V6?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-hhAFIbQAIyoHt?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-hhBLeaUAAK2PL?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-hhCKPbQAAaedO?format=jpg&name=orig)
+
+### Prompt
+
+```
+很多人用 AI 跑素描，只知道堆砌 "messy lines"（凌乱线条），结果出来全是“数码味”的假草图。
+
+ 其实关键不在“潦草”，而在“笔触逻辑”。 
+
+为了还原荒木飞吕彦 (Araki) 的那种硬派漫改感，我把 prompt 里的介质锁定为“Raw Graphite（原石墨）”并强制加上“Cross-hatching（排线）”。 
+
+这是目前最接近手绘质感的通解。
+
+Traditional art scan, raw graphite pencil sketch on textured paper. The art style is distinctly Hirohiko Araki, Jojo's Bizarre Adventure aesthetic. Gritty, monochrome manga panel feel. A full body shot of [在此处填入你的主题], striking an exaggerated, dramatic "JoJo pose" with contorted limbs, impossible anatomy, and intense dynamic perspective. High-fashion sculptural stance. Emphasize muscle structure and tension. Heavy angular cross-hatching for shading, bold chiseled thick outlines, intensely detailed facial features with thick lips and sharp eyes. Visible aggressive pencil strokes. High contrast. Intense aura. 
+9:16
+```
+
+---
+
 ## Case: twitter-2010750292212773350
 
 **Author:** [@langzihan](https://twitter.com/langzihan)
