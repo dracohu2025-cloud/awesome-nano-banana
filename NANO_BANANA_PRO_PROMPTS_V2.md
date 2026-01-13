@@ -4,6 +4,29 @@
 
 ---
 
+## Case: twitter-2007876757119287381
+
+**Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
+**Tweet:** [View Original](https://x.com/SimplyAnnisa/status/2007876757119287381/photo/1)
+**Scraped:** 2026-01-13T02:34:30.067Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G91pRMRbUAAtkNR?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini nano banana pro:
+Vertical, realistic low-light phone selfie in a dim bedroom at night. Same face as reference (no changes). Cool bluish-purple screen glow lighting on a pale face; background mostly dark with beige blackout curtains on the left. Sleepy, cozy, late-night lo-fi vibe.
+Close-up, slightly low angle. Subject lying on stomach, propped on a grey pillow with subtle pattern. Messy black bedhead hair with wispy bangs. Soft, dreamy/blank stare, mouth slightly open. Hand near face, index finger touching lowerlip.
+Wearing a black sleeveless camisole; thin lace strap visible, left shoulder bare. Soft focus, visible grain/noise, high contrast between lit face and dark background.
+Negative Prompt:
+bright daylight, sunshine, studio/flash lighting, warm/orange tones, outdoor, sharp focus, professional camera, 4k clean, smooth skin, heavy makeup, cartoon, anime, 3D render, deformed hands, extra/missing fingers, out-of-focus face.
+```
+
+---
+
 ## Case: twitter-2010654137709740109
 
 **Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
