@@ -4,6 +4,42 @@
 
 ---
 
+## Case: twitter-2010750292212773350
+
+**Author:** [@langzihan](https://twitter.com/langzihan)
+**Tweet:** [View Original](https://x.com/langzihan/status/2010750292212773350/analytics)
+**Scraped:** 2026-01-13T08:16:54.498Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-ecgXMbsAAUFlz?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-efDhAbwAEAxYE?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-eco6SaUAAYALP?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-ecs_6aYAAg0mF?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G-ecwnfaAAAcO_c?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G-ec1XQa0AAVziV?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G-ec46oaoAA8rPc?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G-ec8DFaYAAydth?format=jpg&name=orig)
+
+![Image 9](https://pbs.twimg.com/media/G-ec_OLbsAACYdF?format=jpg&name=orig)
+
+![Image 10](https://pbs.twimg.com/media/G-eeQB_asAEARoa?format=jpg&name=orig)
+
+### Prompt
+
+```
+(待添加)
+```
+
+---
+
 ## Case: twitter-2010709236112929242
 
 **Author:** [@Just_sharon7](https://twitter.com/Just_sharon7)
