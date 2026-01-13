@@ -4,6 +4,45 @@
 
 ---
 
+## Case: twitter-2010745584056164835
+
+**Author:** [@HustleXR](https://twitter.com/HustleXR)
+**Tweet:** [View Original](https://x.com/HustleXR/status/2010745584056164835)
+**Scraped:** 2026-01-13T03:13:14.073Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-eac3taUAE_Cvf?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-eac5LboAAL4tj?format=jpg&name=orig)
+
+### Prompt
+
+```
+Create with Gemini nano banana pro 
+
+Prompt  
+
+Ultra-realistic accidental smartphone photograph — quad-frame contact sheet.
+Single image with four vertical 9:16 frames in a 2×2 grid, captured in a rushed handheld phone burst.
+Subject: completely fictional adult woman, non-identifiable.
+Reference image used ONLY for general age range and neutral demeanor — no resemblance, no face copying.
+Facial details partially unreadable in every frame due to motion blur, flash overexposure, autofocus failure, and rolling-shutter ghosting.
+Scene: nighttime Tokyo sidewalk beside a plain white ceramic tile building during a fireworks event.
+Fireworks appear only as distant, cropped, smeared light streaks or blown-out blobs — never centered, never celebratory.
+Camera failure: modern smartphone, rushed handheld capture.
+Unpredictable flash dominates. Missed autofocus. Extreme camera shake. Heavy directional blur, ghosting, double edges, harsh clipped highlights, uneven exposure, strong noise. Nothing clean or sharp.
+Frame sequence:
+Walking past side-on, unaware.
+Sudden head turn, surprised, face smeared by motion.
+Hand reflexively blocking the lens, shy restrained smile, strong ghosting.
+Almost out of frame, faint embarrassed smile, extreme blur.
+Mood: intrusive, awkward, fleeting — images never meant to exist.
+Negative: anime, illustration, cinematic fireworks, festival mood, neon, studio or beauty lighting, sharp focus, posed photography, professional camera, face copy, identity match, beauty filters, perfect symmetry.
+```
+
+---
+
 ## Case: twitter-2010718749079294231
 
 **Author:** [@xpg0970](https://twitter.com/xpg0970)
