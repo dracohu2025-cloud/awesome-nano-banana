@@ -4,6 +4,44 @@
 
 ---
 
+## Case: twitter-2010718749079294231
+
+**Author:** [@xpg0970](https://twitter.com/xpg0970)
+**Tweet:** [View Original](https://x.com/xpg0970/status/2010718749079294231)
+**Scraped:** 2026-01-13T03:12:49.134Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-eBI3cXgAAR-dk?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-eBZKSWYAA_Oaf?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-eBgyBXwAAUGWD?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-eBq1tWEAAD5CE?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G-TX3obb0AAYOjq?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/G-TX3vVaoAACMQo?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/G-TX3oUaEAEkzgu?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/G-TX3oWbQAE2R01?format=jpg&name=orig)
+
+### Prompt
+
+```
+我来个蔬菜版本
+
+通用提示词：
+
+[蔬菜名称，例如: 白菜/玉米/洋葱/番茄]，半剥开状态展示，上半部分露出[内部特征，例如: 嫩黄色菜心/金黄色玉米粒/白色洋葱层/红色果肉]，下半部分保留[外皮特征，例如: 绿色叶片包裹/青绿色外皮/紫红色外皮/光滑红皮]
+
+构图：[构图方式，例如:
+```
+
+---
+
 ## Case: twitter-2007876757119287381
 
 **Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
