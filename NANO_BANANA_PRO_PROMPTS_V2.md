@@ -4,6 +4,48 @@
 
 ---
 
+## Case: twitter-2011087906212085873
+
+**Author:** [@berryxia](https://twitter.com/berryxia)
+**Tweet:** [View Original](https://x.com/berryxia/status/2011087906212085873)
+**Scraped:** 2026-01-14T00:19:47.004Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-jRySwakAAgFUN?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-jRySzaIAAkYF9?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-jRyTOa8AAE2mG?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-jRySvbQAI4PgB?format=jpg&name=orig)
+
+### Prompt
+
+```
+兄弟姐妹们！ 快速制作属于自己或者家人孩子的表情贴纸
+
+可以自定义表情、动作、文本、包括职业不同也会有有趣的东西。
+
+使用步骤： 直接将prompt 发给香蕉或者豆包 
+ 直接上传照片并且描述职业场景anyway 都可以。
+
+欢迎评论区晒出你的有趣的表情贴纸
+
+Prompt：制作属于自己的专属职场打工牛马表情贴纸 [主体描述], [表情动作], [配饰道具], 
+3D character design, blind box style, Pop Mart aesthetic, 
+C4D, Octane render, clay texture, matte finish, soft lighting, 
+sticker sheet layout, 3x3 grid view, 
+9 different expressions: happy making heart gesture, sad with tears, 
+angry with steam, sleepy yawning, surprised with open mouth, 
+shy blushing, cheering with fist, confused thinking, celebrating with confetti,
+each with cute text label in Chinese,
+white outline, die-cut, white background, 
+high quality, 8k --ar 3:4
+```
+
+---
+
 ## Case: twitter-2010963973240471826
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
