@@ -4,6 +4,59 @@
 
 ---
 
+## Case: twitter-2011738917654221106
+
+**Author:** [@joshesye](https://twitter.com/joshesye)
+**Tweet:** [View Original](https://x.com/joshesye/status/2011738917654221106)
+**Scraped:** 2026-01-16T01:47:11.210Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-sdBhVbQAEkWP9?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-sdBh_aoAAX_TG?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-sdBh-bQAMN6xA?format=png&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-sdBh9bQAcSMhu?format=jpg&name=orig)
+
+### Prompt
+
+```
+悉尼·斯威尼的这个经典红毯地板自拍照杀疯了
+
+我优化了一个中文版的提示词，  我相信你们会喜欢的
+
+Nano Banana Pro Prompt:
+
+使用我上传的人物图片，创建一个新的照片：
+
+{ “prompt_type”：“文本转图像”，
+
+“主旨”：
+{ “身份”：“100%与参考照片中的肖像和面容完全相同”，
+“外貌”：“长长的波浪金发，披散披肩，皮肤白皙光泽，自信表情带着淡淡微笑”
+“配饰”：“右手腕上佩戴精致手链，极简耳环” },
+“服装”：{ “upper_body”：“闪亮的白色亮片露背上身，极深 V 领，胸前下方有小巧的蝴蝶结装饰”， “lower_body”：“长而戏剧性的白色裙摆/拖尾，裙摆饰有奢华的白色羽毛装饰，由被拍摄者的手微微敞开/展示”，
+“腿部”：“裸露的腿部”，
+“鞋类”：“白色或金属银色的优雅尖头细高跟鞋” },
+“作曲”：{ “camera_angle”：“极低角度（虫眼视角），从接近地面水平俯视主体”，
+“透视”：“强调主体身高、长腿和高大气场的戏剧性透视。”
+“构图”：“全身镜头强烈以前景的腿部、鞋子和飘逸的羽毛裙为主导” },
+“环境”：{ “地点”：“红毯首映活动”，
+“背景”：“白色衬线字体的《女佣》大型重复立体标识，背景为深栗色，带有狮门影业和 Audible 标志。”
+“表面”：“经典红毯地板” },
+“风格”：{ “媒介”：“数码摄影，名人红毯肖像”，
+“灯光”：“专业活动闪光灯和环境灯，亮片、羽毛、皮肤和鞋子上的光泽高光，高对比度与戏剧性阴影。”
+“质量”：“高分辨率，8K，照片级逼真，对面料闪光、羽毛细节和面部特征的极高聚焦” } }
+
+"surface": "Classic red carpet floor"   },   "style": {     "medium": "Digital photography, celebrity red carpet portrait",     "lighting": "Professional event flash and ambient lighting, glossy highlights on sequins, feathers, skin, and shoes, high contrast with dramatic shadows",     "quality": "High resolution, 8k, photorealistic, ultra-sharp focus on fabric sparkle, feather details, and facial features"   } }
+
+#NanoBananaPro
+```
+
+---
+
 ## Case: twitter-2011087906212085873
 
 **Author:** [@berryxia](https://twitter.com/berryxia)
