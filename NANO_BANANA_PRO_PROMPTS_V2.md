@@ -4,6 +4,76 @@
 
 ---
 
+## Case: twitter-2011785111029891512
+
+**Author:** [@joshesye](https://twitter.com/joshesye)
+**Tweet:** [View Original](https://x.com/joshesye/status/2011785111029891512)
+**Scraped:** 2026-01-16T01:53:04.280Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-tLl9ybQAQhsdV?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-tLl91bQAo8WO0?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-tLl-lbQAAGjjE?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-tLl-hbQAMUL9A?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G-tLGscbQAEhV1A?format=jpg&name=orig)
+
+### Prompt
+
+```
+我的生图网站，第一组美图
+
+直接使用反推生成的，大家看看效果。
+
+使用Nano Pro模型：
+
+提示词：
+
+{
+  "colors": {
+    "palette": [
+      "#1c1b21",
+      "#f4ece0",
+      "#d9bba2",
+      "#8a7e73",
+      "#a0a0a0"
+    ],
+    "dominant_colors": [
+      "silver",
+      "off-white",
+      "dark brown",
+      "warm skin tone"
+    ]
+  },
+  "composition": {
+    "layout": "High-angle close-up, looking down at subject.",
+    "perspective": "Top-down, emphasizing her face and upper body against a blurred background.",
+    "focal_point": "The woman's face, particularly her eyes and lips."
+  },
+  "lighting": {
+    "source": "Soft, directional light from the upper right.",
+    "mood": "Intimate, warm, and sultry.",
+    "qualities": "Creates soft shadows and highlights on her face and shoulders, emphasizing texture."
+  },
+  "typography": {
+    "present": false
+  },
+  "effects": {
+    "textures": "Reflective mosaic tiles, smooth skin, ribbed fabric.",
+    "filters": "Warm color grading, soft focus on the background."
+  },
+  "master_prompt": "A high-angle, close-up photograph of a young woman with dark brown hair tied back, looking up at the camera with a gentle smile. She wears a white, textured, off-the-shoulder top and a delicate silver necklace. The background is a wall of small, reflective silver mosaic tiles, creating a shimmering effect. Soft, warm light from the upper right illuminates her face and shoulders. The focus is sharp on her eyes and lips, with a shallow depth of field."
+}
+
+#Nanobanner
+```
+
+---
+
 ## Case: twitter-2011755786272456783
 
 **Author:** [@azed_ai](https://twitter.com/azed_ai)
