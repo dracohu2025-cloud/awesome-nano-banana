@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2011704825743098071
+
+**Author:** [@MANISH1027512](https://twitter.com/MANISH1027512)
+**Tweet:** [View Original](https://x.com/MANISH1027512/status/2011704825743098071)
+**Scraped:** 2026-01-16T01:48:55.118Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-sCrarXoAALvBF?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-sCtiPXgAAmsin?format=jpg&name=orig)
+
+### Prompt
+
+```
+新的实验品
+```
+
+---
+
 ## Case: twitter-2011738917654221106
 
 **Author:** [@joshesye](https://twitter.com/joshesye)
