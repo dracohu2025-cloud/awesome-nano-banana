@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2011755786272456783
+
+**Author:** [@azed_ai](https://twitter.com/azed_ai)
+**Tweet:** [View Original](https://x.com/azed_ai/status/2011755786272456783)
+**Scraped:** 2026-01-16T01:50:18.412Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-sxOHSbQAgo4WQ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-sxOPdbQAQvHNw?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-sxOY2bQAQV3Fg?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-sxOhnbQAEEGE0?format=jpg&name=orig)
+
+### Prompt
+
+```
+Prompt share: Flat illustration
+
+Prompt:
+A flat design illustration of a [subject], presented in a front-facing, minimalistic style. Set against a plain [background color], the artwork uses a soft, neutral palette of [color1] and [color2], with clean shapes, balanced spacing, and simple geometric charm.
+
+Check ATLs for inspiration 
+```
+
+---
+
 ## Case: twitter-2011704825743098071
 
 **Author:** [@MANISH1027512](https://twitter.com/MANISH1027512)
