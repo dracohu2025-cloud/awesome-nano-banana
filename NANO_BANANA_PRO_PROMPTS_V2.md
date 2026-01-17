@@ -4,6 +4,92 @@
 
 ---
 
+## Case: twitter-2012344650875732430
+
+**Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
+**Tweet:** [View Original](https://x.com/Adam38363368936/status/2012344650875732430)
+**Scraped:** 2026-01-17T13:54:10.249Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-1ItlkW4AABBX-?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-zQ9HfW4AAuBy1?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-zQ9HwXIAABN9g?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-zQ9HcXEAAExSc?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个姿势很美呀，不会给女朋友拍照的看过来
+This pose is gorgeous! Gentlemen who can't take photos of their girlfriends, take notes.
+
+Prompt
+
+{
+  "prompt_details": {
+    "subject": {
+      "type": "Young woman ,the person I uploaded ",
+      "appearance": {
+        "hair": "Long, dark chestnut brown, loose waves, falling over face, messy aesthetic",
+        "skin": "Fair complexion, smooth texture, natural finish",
+        "face": "Looking downward, face partially obscured by hair, introspective expression.The facial features are consistent with the reference figure",
+        "body_type": "Slender, fit"
+      },
+      "pose": {
+        "stance": "Leaning against a stone wall, body slightly angled",
+        "hands": "Right hand resting gently on chest/neck with fingers splayed, left hand holding a green object (boot) down by her side",
+        "gaze": "Downward, avoiding eye contact"
+      }
+    },
+    "clothing": {
+      "dress": {
+        "style": "Off-the-shoulder mini dress, cottagecore/boho style",
+        "fabric": "Lightweight cotton or linen blend",
+        "color": "Red/off-Red base",
+        "pattern": "Small, delicate floral print with purple and yellow wildflowers",
+        "details": ["Ruffled tiered skirt", "Puffed short sleeves", "Sweetheart neckline", "Corset-style bodice structure"]
+      },
+      "accessories": [
+        "Thin black choker necklace",
+        "Multiple silver rings on fingers",
+        "Red beaded bracelet on left wrist",
+        "Holding a dark green, crocodile-texture cowboy boot"
+      ]
+    },
+    "environment": {
+      "background": "Textured stone masonry wall",
+      "details": "Large, irregular grey and beige stone blocks, rough texture, natural architectural backdrop",
+      "setting": "Outdoor or semi-outdoor daylight setting"
+    },
+    "lighting": {
+      "type": "Soft natural daylight",
+      "quality": "Diffused, even illumination, soft shadows",
+      "direction": "Front-lit but soft"
+    },
+    "styling": {
+      "aesthetic": "Bohemian, chic, feminine, soft grunge undertones",
+      "mood": "Casual, candid, slightly moody, artistic"
+    },
+    "camera_details": {
+      "shot_type": "Medium shot (thigh-up)",
+      "angle": "Eye-level",
+      "lens": "85mm prime lens for flattering portrait compression",
+      "aperture": "f/2.8 for slight depth of field separation from the wall",
+      "focus": "Sharp focus on the subject and dress texture"
+    },
+    "technical_specifications": {
+      "quality": "Ultra Photorealistic, 8k resolution, highly detailed",
+      "texture_quality": "High fidelity fabric textures, realistic skin pores, detailed stone masonry",
+      "engine": "Unreal Engine 5 render style or high-end photography" Ratio 3.4
+    }
+  }
+```
+
+---
+
 ## Case: twitter-2011785111029891512
 
 **Author:** [@joshesye](https://twitter.com/joshesye)
