@@ -4,6 +4,151 @@
 
 ---
 
+## Case: twitter-2012437899955097836
+
+**Author:** [@meng_dagg695](https://twitter.com/meng_dagg695)
+**Tweet:** [View Original](https://x.com/meng_dagg695/status/2012437899955097836)
+**Scraped:** 2026-01-18T03:56:51.681Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-2dlx0aIAAk7lF?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-2dl1PacAEwJEI?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-2dmCxaIAAwleE?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-2dmGibcAAi9Zb?format=jpg&name=orig)
+
+### Prompt
+
+```
+New algo test. That’s it
+
+Created by ChatGPT image 1.5 
+
+Prompt :
+{
+  "global_settings": {
+    "resolution": "8K",
+    "quality": "ultra-high definition",
+    "aspect_ratio": "2:3",
+    "render_style": "AI-edited, high-detail 3D render",
+    "lighting_quality": "soft studio lighting with realistic shadows",
+    "sharpness": "extreme clarity, crisp edges",
+    "noise": "none",
+    "compression": "none"
+  },
+
+  "Module_1_Image_1_Style": {
+    "subject": {
+      "character_type": "stylized 3D cartoon female",
+      "pose": "standing, body slightly angled, one hand raised with index finger touching lips",
+      "expression": "cheerful smile, wide eyes",
+      "hair": {
+        "color": "black",
+        "style": "two braided pigtails",
+        "accessories": "green cap"
+      },
+      "face": {
+        "eyes": "large, rounded, dark pupils",
+        "skin": "smooth, matte, stylized texture"
+      }
+    },
+    "clothing": {
+      "top": "sleeveless green crop top",
+      "bottom": "loose green jogger-style pants with drawstring",
+      "footwear": "white sneakers"
+    },
+    "accessories": {
+      "luggage": "green hard-shell suitcase with extended handle"
+    },
+    "color_palette": [
+      "multiple shades of green",
+      "white accents"
+    ],
+    "background": {
+      "color": "solid green",
+      "texture": "soft, slightly grainy studio backdrop"
+    },
+    "composition": {
+      "framing": "full body",
+      "camera_angle": "eye-level",
+      "depth": "subject sharply separated from background"
+    }
+  },
+
+  "Module_2_Image_2_Style": {
+    "subject": {
+      "character_type": "stylized 3D cartoon female",
+      "pose": "leaning slightly backward against background",
+      "expression": "playful, lips slightly pursed, eyes looking sideways",
+      "hair": {
+        "color": "brown",
+        "style": "short, tousled",
+        "accessories": "red sunglasses resting on head"
+      }
+    },
+    "clothing": {
+      "dress": "form-fitting blue ribbed dress with thin straps",
+      "footwear": "red high-heel sandals with bow detail"
+    },
+    "color_palette": [
+      "bold red",
+      "deep blue"
+    ],
+    "background": {
+      "color": "solid red",
+      "texture": "smooth matte surface"
+    },
+    "lighting": {
+      "direction": "soft directional light from one side",
+      "shadow": "defined shadow cast on red background"
+    },
+    "composition": {
+      "framing": "full body",
+      "pose_emphasis": "curved posture, crossed legs"
+    }
+  },
+
+  "Module_3_Image_3_Style": {
+    "subject": {
+      "characters": [
+        {
+          "type": "stylized 3D cartoon female",
+          "position": "left",
+          "wrapped_in": "red textured blanket",
+          "expression": "calm, slight smile, eyes looking upward"
+        },
+        {
+          "type": "stylized 3D cartoon male",
+          "position": "right",
+          "wrapped_in": "orange textured blanket",
+          "expression": "neutral, gentle gaze upward"
+        }
+      ]
+    },
+    "environment": {
+      "furniture": "red sofa",
+      "floor": "red surface",
+      "background": {
+        "color": "deep red",
+        "texture": "fabric-like horizontal texture"
+      }
+    },
+    "details": {
+      "feet": "female barefoot, male wearing socks",
+      "blanket_texture": "thick, knitted fabric"
+    },
+    "composition": {
+      "framing": "centered, medium-wide shot",
+      "symmetry": "balanced left and right composition"
+    }
+  },
+```
+
+---
+
 ## Case: twitter-2012667050481815619
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
