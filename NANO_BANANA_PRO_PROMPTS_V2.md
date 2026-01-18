@@ -4,6 +4,60 @@
 
 ---
 
+## Case: twitter-2012532031113281539
+
+**Author:** [@joshesye](https://twitter.com/joshesye)
+**Tweet:** [View Original](https://x.com/joshesye/status/2012532031113281539/photo/1)
+**Scraped:** 2026-01-18T03:58:29.686Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-3yE2SWQAEn1p7?format=jpg&name=orig)
+
+### Prompt
+
+```
+开往开往春天
+
+每个梦想都会实现
+
+使用Nano Pro生图
+
+记得上传你的女友参考图：
+
+{
+
+"composition": {
+"layout": "Portrait orientation, candid photograph.",
+"perspective": "Eye-level view of a young woman seated in the foreground on a train carriage.",
+"framing": "The subject is centered horizontally, slightly angled, with the train aisle, other passengers, and windows in the background."
+},
+"lighting": {
+"source": "Natural daylight coming from the windows on the right.",
+"mood": "Soft, diffused, and candid."
+},
+"typography": {
+"description": "Illegible text on posters and signs in the background."
+},
+"effects": {
+"textures": "Fuzzy white fur fabric on the outfit, smooth skin, fabric seats, metal poles, glass windows.",
+"filters": "Soft focus on background, enhanced clarity on the subject, natural color palette."
+},
+"colors": [
+{"hex": "#FFFFFF", "name": "White"},
+{"hex": "#E8E8E8", "name": "Light Grey"},
+{"hex": "#C0C0C0", "name": "Silver"},
+{"hex": "#8B7B9C", "name": "Muted Purple"},
+{"hex": "#333333", "name": "Dark Grey"},
+{"hex": "#D2B48C", "name": "Tan"}
+],
+"master_prompt": "A candid portrait photograph inside a Japanese commuter train during the daytime. A young woman with long dark hair is seated, looking at the camera, holding a smartphone. She is wearing a white fluffy two-piece outfit consisting of a cropped top with a bow and shorts with side laces, along with white fishnet thigh-high stockings with fluffy cuffs. The train interior is brightly lit by natural light from the windows on the right, showing other passengers, metal handrails, and a purple fabric bench seat. The background is slightly blurred."
+}
+#nanobanana
+```
+
+---
+
 ## Case: twitter-2012437899955097836
 
 **Author:** [@meng_dagg695](https://twitter.com/meng_dagg695)
