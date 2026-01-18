@@ -4,6 +4,47 @@
 
 ---
 
+## Case: twitter-2012844978003988758
+
+**Author:** [@AztecaAlpaca](https://twitter.com/AztecaAlpaca)
+**Tweet:** [View Original](https://x.com/AztecaAlpaca/status/2012844978003988758)
+**Scraped:** 2026-01-18T14:10:54.373Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-8Pno0XIAACB4P?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-7BoKhWEAA28tR?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-7BoKlWUAA3RFA?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-7BoKgXEAAkT9A?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/G-7BoKkWoAAVoUs?format=jpg&name=orig)
+
+### Prompt
+
+```
+北京下雪了，好美！
+
+来个卡纸风格的帝都雪景，提示词
+
+---
+
+主题：北京-北海公园-冬日大雪
+
+一个高度精细的 3D 分层剪纸立体模型，描绘了 [主题]。
+[主题] 特有的关键主题元素、地标、花草动植物或建筑结构被安排在多层递进的卡纸层中，营造出从前景到背景的深邃透视感。
+
+风格/材质： 多层卡纸结构，复杂的激光切割纸张细节，可见的工艺纸纹理和纤维，微妙的折纸风格折叠元素，受包豪斯设计影响的几何抽象风格。
+
+灯光/色彩： 直接源自 [主题] 精髓的极简且和谐的调色板（使用 3-4 种适合该主题的互补卡纸颜色）。戏剧性的体积光在分离的纸层之间投下柔和、逼真的阴影，强调了深度和纹理。内部背光突出了关键的主题特征。
+
+视角/渲染： 平视镜头，正视图，摄影级画质，Octane 渲染风格，虚幻引擎 5 (Unreal Engine 5) 美学，8k 分辨率，极高的细节，展现纸张厚度的真实触感。
+```
+
+---
+
 ## Case: twitter-2012532031113281539
 
 **Author:** [@joshesye](https://twitter.com/joshesye)
