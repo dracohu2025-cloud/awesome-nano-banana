@@ -4,6 +4,82 @@
 
 ---
 
+## Case: twitter-2012667050481815619
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2012667050481815619)
+**Scraped:** 2026-01-18T03:45:56.535Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-5qNZXX0AEs_sc?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-5qQblWwAAiEZz?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-5qUIQWMAAf-qX?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-5qX7VWUAAEEZo?format=jpg&name=orig)
+
+### Prompt
+
+```
+【实验】一次完全"裸跑"的测试：不垫图、无上下文，仅靠提示词（Prompt）试图维持角色面部一致性。 
+
+【结果】失败了。  即使使用了精细到骨相、泪痣、花钿的 Character ID 卡，AI 的随机性依然不可控。 
+
+【结论】想做真正的"固定角色"，参考图（Reference Image）是必须的。纯文本 ID 只能是软约束，硬约束还得靠图。
+
+精简一句版 (One-liner)
+Beautiful Chinese woman in white fox fur cloak and Hanfu, high bun with gold hairpin, holding white teacup, pensive gaze, snowy winter garden background, falling snowflakes, cold white color grading, shallow depth of field, hyper-realistic style, ethereal atmosphere.
+
+ 完整版 
+
+Beautiful Chinese woman in winter Hanfu, half-body portrait.
+
+Oval face with soft contours, high cheekbones not too prominent,
+soft feminine jawline, pointed V-line chin, small face.
+Eyes: Almond eyes with inner double eyelid (杏眼内双), slightly upturned corners, deep brown almost black iris .
+Nose: High straight nose bridge, delicate tip.
+Lips: Small rosebud mouth, light coral pink .
+Mark: Single small dark beauty mole under left outer eye (signature feature).
+Skin: Pale porcelain skin, matte velvet finish.
+Hair: Jet black , high elegant bun.
+Hair: High elegant bun (堕马髻) with gold hairpin and jade ornament.
+Makeup: Delicate plum blossom huadian between brows (梅花钿), soft feathered brows, natural finish.
+Clothing: White silk Hanfu inner robe with delicate embroidery,
+wrapped in luxurious white fox fur cloak (白狐裘斗篷), fur collar framing face.
+Eyes: pensive downcast gaze, looking away, serene and distant.
+Mouth: lips slightly parted, calm and elegant.
+Head: three-quarter view, chin slightly lowered.
+Body: graceful posture, one hand holding white porcelain teacup near lips.
+snowy winter garden, bare frosted branches, falling snowflakes,
+soft bokeh of snow-covered pines in background.
+Shot on 85mm portrait lens, f/1.4 aperture,
+eye level angle, three-quarter view.
+Soft diffused natural light, overcast sky glow,
+subtle rim light on fur edges, gentle catchlight in eyes,
+cold white color temperature.
+Cold white tones, low saturation, ethereal and clean,
+slight blue undertones in shadows, warm skin preserved.
+Hyper-realistic photography style, shallow depth of field f/1.4,
+subject sharp, background softly blurred,
+subtle film grain, high resolution 4K.
+Single subject, clear face, elegant composition,
+no modern elements, no bright colors,
+no gloves, bare hands visible, delicate fingers holding teacup,
+NOT real photo — semi-realistic AI art style acceptable.
+Skin: dewy porcelain skin, subtle subsurface scattering.
+Fur: luxurious white fox fur, soft fluffy texture, individual hair strands visible.
+Fabric: white silk Hanfu, delicate embroidery, flowing drape.
+Ceramic: white porcelain teacup, glossy glaze, subtle reflection.
+Aspect ratio: 9:16
+Style of: Wlop, Guweiz, Chinese classical painting.
+Aesthetic: ancient Chinese court painting meets modern photography.
+Mood board: Tang dynasty beauty illustrations.
+```
+
+---
+
 ## Case: twitter-2012344650875732430
 
 **Author:** [@Adam38363368936](https://twitter.com/Adam38363368936)
