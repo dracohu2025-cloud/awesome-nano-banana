@@ -4,6 +4,45 @@
 
 ---
 
+## Case: twitter-2013172011171041521
+
+**Author:** [@hx831126](https://twitter.com/hx831126)
+**Tweet:** [View Original](https://x.com/hx831126/status/2013172011171041521)
+**Scraped:** 2026-01-19T12:50:10.062Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G_A4xQvWUAArPhJ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G_A4xQxXwAAypaz?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G_A4xQsXwAEl6b9?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G_A4xQwW8AAfgGl?format=jpg&name=orig)
+
+### Prompt
+
+```
+你就说好看不好看吧？（如果你觉得不好看 以你的为准）
+
+这种仙啊仙的风格，一定有人很喜欢的。
+1：上传自己的五官清晰的图片
+2：输入提示词（自己调整动作）
+3：发朋友圈（使用 Flow 没有水印可以直接不用 PS 去水印）
+
+Prompt
+
+9:16 竖版，写实高定时尚大片风格。使用我上传的人物五官图作为唯一身份参考，100%还原同一张脸
+
+画面内容：一位女性穿着超大体积的云朵感粉色礼服材质高级，且柔软，多层巨大的荷叶边褶皱堆叠，面料轻薄但有结构（organza / tulle / silk taffeta 质感），裙摆像棉花糖云一样膨胀，有裙子飘动起来挡住部分镜头（上下左右）人物很靠近镜头，层层涌动。人物自信，蹲在镜头前，露出大腿，齐耳短发，齐眉的刘海，几缕头发在脸上飘动，礼服的褶皱随着步伐产生明显的流体波动；允许在裙摆边缘出现自然的运动模糊来强调动态，但脸部必须清晰锐利。裙子摆动的同时，
+
+摄影：低机位仰拍，Canon EOS R5 质感，85mm 镜头，大光圈浅景深，焦点锁定在人物面部与上半身；背景味复古色的蓝天+白色云朵。光线：柔和主光（soft key light）从地面打来，让粉色礼服呈现「发光、轻盈、梦境」的高级质感；整体色调干净、低脏度、偏高定杂志拍摄质感。
+
+构图：人物偏左构图
+```
+
+---
+
 ## Case: twitter-2012889189298176327
 
 **Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
