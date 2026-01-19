@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2012889189298176327
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2012889189298176327)
+**Scraped:** 2026-01-19T04:46:15.670Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G-84CAKXcAEiuxY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G-84B_QXcAEKejp?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/G-84CBDW8AAwlcS?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/G-84CDyW0AAQ5gX?format=jpg&name=orig)
+
+### Prompt
+
+```
+Flat Geometry Illustrations
+
+Gemini Nano Banana Pro Prompt:
+
+Minimal flat illustration of [SUBJECT], simple geometric shapes, limited color palette, clean vector style, generous negative space, modern editorial illustration, soft shadows, smooth curves, high aesthetic minimalism.
+```
+
+---
+
 ## Case: twitter-2012844978003988758
 
 **Author:** [@AztecaAlpaca](https://twitter.com/AztecaAlpaca)
