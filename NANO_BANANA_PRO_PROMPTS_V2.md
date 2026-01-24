@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2014963588755292572
+
+**Author:** [@msjiaozhu](https://twitter.com/msjiaozhu)
+**Tweet:** [View Original](https://x.com/msjiaozhu/status/2014963588755292572)
+**Scraped:** 2026-01-24T13:02:24.222Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G_aV8PzaQAAauxH?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/G_aV8P1bAAEV5PD?format=jpg&name=orig)
+
+### Prompt
+
+```
+镜头美学，太喜欢了！
+
+闪光灯用得好，也能像顶级私拍摄影师一样出片悄咪咪在 Lovart 上调试了十几个版本终于出炉！
+
+赶紧试试看评论区晒图！
+
+提示词见评论
+```
+
+---
+
 ## Case: twitter-2013172011171041521
 
 **Author:** [@hx831126](https://twitter.com/hx831126)
