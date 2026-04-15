@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2044125191098511782
+
+**Author:** [@Ciri_ai](https://twitter.com/Ciri_ai)
+**Tweet:** [View Original](https://x.com/Ciri_ai/status/2044125191098511782)
+**Scraped:** 2026-04-15T09:47:33.114Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HF4w9iLbQAALuxD?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro 
+
+Prompt: Cinematic portrait of a young woman sitting on the floor in a small vintage room, leaning slightly against a wall, relaxed but introspective expression, soft gaze toward camera, wearing a loose white shirt and plaid skirt, natural pose with legs folded, messy room with posters, papers, and old objects on the wall, nostalgic lived-in environment, quiet and melancholic mood
+
+lighting: natural sunlight entering from a side window, strong directional side lighting casting sharp rectangular window shadows on wall and floor, warm sunlight hitting subject’s face and body, contrast between lit and shadow areas, soft light diffusion, gentle highlight bloom, slightly underexposed shadows
+
+color grading: warm golden-yellow highlights, soft amber tones, midtones shifted to warm beige and muted orange, shadows tinted greenish-teal (subtle olive tone), overall slightly desaturated, faded blacks (matte), soft contrast, vintage film tone, gentle color fading, creamy skin tones
+
+style: analog film photography, nostalgic mood, slightly dusty and hazy atmosphere, soft grain texture, imperfect texture on walls, cinematic still frame, wong kar-wai inspired warmth with natural light
+
+camera: 50mm lens, eye-level or slightly low angle, shallow depth of field but environment still visible, subject in focus with soft falloff
+
+extra: film grain, subtle vignette, light haze, natural imperfections, no modern clean look, slightly muted dynamic range
+```
+
+---
+
 ## Case: twitter-2033958393132814652
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
