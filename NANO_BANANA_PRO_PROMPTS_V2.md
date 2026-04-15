@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2042204459544297866
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2042204459544297866)
+**Scraped:** 2026-04-15T08:51:10.630Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HFdeIHTa4AAVU_c?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HFdeIH5bkAEOR5c?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HFdeIIjacAACYAP?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 477
+Cowboy girl prompt 
+
+Use chatgpt or grok if gemini don't work.
+
+"Hyper-realistic photorealistic full-body portrait of a beautiful 18-year-old young girl [keep the face, eyes, nose, lips 100% same as saved in the reference image] with long wavy dark black hair
+```
+
+---
+
 ## Case: twitter-2042837985746620479
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
