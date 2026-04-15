@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2036302910074614200
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2036302910074614200)
+**Scraped:** 2026-04-15T08:51:53.166Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HEJmsZpbgAAEGKz?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HEJmsZMaIAUlggm?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HEJmsa6aIAEld_s?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 458
+Beautiful #Indian girls prompts  to try out 
+
+Prompt 1:
+"A hyper-realistic cinematic portrait of the young woman from the uploaded image (Google Gemini refinement) she has Korean makeup styles ligh pink lipstick and contact lens blue gray, wearing a deep pink -
+```
+
+---
+
 ## Case: twitter-2039561663335293242
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
