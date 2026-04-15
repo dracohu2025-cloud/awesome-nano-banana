@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-1967172787824648491
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/1967172787824648491)
+**Scraped:** 2026-04-15T08:51:36.202Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/G0zNOFVaIAAYFNF?format=jpg&name=orig)
+
+### Prompt
+
+```
+I want more, man...I am loving this trends 
+
+Trend #3 
+(Will be posting prompts for other trends also...for trend 1 and 2 checkout the previous posts)
+
+To create, go to Gemini app and paste this prompt:
+"Create a sleek, modern photo of image (based on the uploaded reference), standing confidently on a giant iphone 16 screen. the screen displays a spotify playlist featuring the song “NOAH MENUNGGUMU.” She’s wearing 2025 airpods max, an oversized white hoodie-style shirt, black shorts, and crisp white air jordans. the scene is shot from a high top-down angle to highlight the massive scale of the phone. the vibe is minimal, stylish, and futuristic."
+
+#Gemini #Gemini_NT #GeminiAI #TrendingNow #NanoBanana
+```
+
+---
+
 ## Case: twitter-2040289097982661035
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
