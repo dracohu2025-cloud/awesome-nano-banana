@@ -4,6 +4,29 @@
 
 ---
 
+## Case: twitter-2043996225721053284
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2043996225721053284)
+**Scraped:** 2026-04-15T08:50:33.044Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HF27t--b0AAEUHk?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 485
+Asthetic collage idea using #gemini  
+
+Prompt:
+"9:16: A grid of nine images that make up a travel profile. Each frame captures a different, spontaneous moment in the Paris city. Use the uploaded photo as an accurate facial reference: maintain 100% similarity in appearance, facial features, proportions, and likeness across all nine frames. The same person in every image. Natural appearance, realistic skin texture, no retouching or smoothing. Clothing is always chosen to suit the city, with a youthful, romantic style in all photos Hair is voluminous, either loose or styled in a casual high bun with face-framing strands; the hairstyle is the same in all photos. Frame Analysis (9:16): Top Row: Top left: Standing near a city landmark, looking away, natural. Top center: Walking along a famous street or square, a casual moment. Top right: Interacting with the surroundings near a monument, relaxed expression. Middle row: Center left: Looking up at impressive architecture or a monument darna_dead  collage retrato cuidades
+Center: Close-up portrait, with the city background slightly visible. Center right: Walking down a city street, an everyday moment. Bottom row: Bottom left: Sitting in a local café or on an outdoor terrace. Bottom center: With back to the camera, contemplating the panoramic view of the city. Bottom right: Standing or leaning in a historic alley or narrow street. Locations: Iconic monuments, historic buildings, city streets, local cafés, viewpoints, tourist atmosphere. Photo style: Shot with a smartphone, casual travel aesthetic, intentionally imperfect quality. Imperfections: Motion blur, grain and noise, slight overexposure or underexposure, lens distortion, imperfect framing. Lighting: Natural sunlight, uneven exposure, slightly inconsistent tones. General atmosphere: Authentic traveler lifestyle, European summer or city break, spontaneous moments. Quality: Extremely realistic 8K smartphone look, natural imperfections"
+```
+
+---
+
 ## Case: twitter-2014963588755292572
 
 **Author:** [@msjiaozhu](https://twitter.com/msjiaozhu)
