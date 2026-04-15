@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2035669009522364814
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2035669009522364814)
+**Scraped:** 2026-04-15T08:51:58.848Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HEAmK-KboAAmYL4?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HEAmK_iasAAAMlA?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 455
+Create a customised keyring using #gemini 
+
+ Open gemini app
+ Upload a clear picture of yourself 
+ Paste the prompt from below with your name and hastag
+
+Prompt:
+"A hyper-realistic 8k close-up studio shot, captured with a 50mm lens and shallow depth of field,
+```
+
+---
+
 ## Case: twitter-2036302910074614200
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
