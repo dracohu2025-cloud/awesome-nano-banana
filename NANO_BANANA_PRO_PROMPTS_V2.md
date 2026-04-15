@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2034232141186551970
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2034232141186551970)
+**Scraped:** 2026-04-15T08:52:11.170Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HDsLWPgbkAAjBsC?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HDsLWQgbcAAZ5Ws?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 450
+Pov: you are featured on vogue magazine cover 
+
+Prompt:
+"Create an Ultra-realistic luxury fashion magazine cover, elegant woman(match face) in black turtleneck and wide-brim black hat, wearing silver bracelet and crystal earrings. She applies bold glossy red
+```
+
+---
+
 ## Case: twitter-2035216178449457617
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
