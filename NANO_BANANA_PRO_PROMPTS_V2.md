@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2033958393132814652
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2033958393132814652)
+**Scraped:** 2026-04-15T08:52:14.802Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HDoSXbSbEAEU9x8?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HDoSXXMbEAQoLCv?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 448
+New #instagram trend
+
+ Open gemini 
+ Upload your photo 
+ Upload instagram profile screenshot 
+ Paste the prompt from below 
+
+Prompt:
+"Create a Person(same face exactly as in reference image 1) standing confidently in front of a white Instagram-themed
+```
+
+---
+
 ## Case: twitter-2034232141186551970
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
