@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2039561663335293242
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2039561663335293242)
+**Scraped:** 2026-04-15T08:51:40.549Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HE36dp7aYAA3nCi?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HE36dxoaQAAWXXe?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 466
+Picture with your 3d self 
+Use #gemini 
+
+Prompt:
+"Create a high-resolution, ultra-realistic studio
+composition in a 4:5 vertical aspect ratio, featuring a real person standing beside a stylized 3D caricature (bobblehead-style) version of the same individual. Use
+```
+
+---
+
 ## Case: twitter-1967172787824648491
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
