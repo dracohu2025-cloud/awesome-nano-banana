@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2040289097982661035
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2040289097982661035)
+**Scraped:** 2026-04-15T08:51:29.737Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HFCQHeFaUAA-rpA?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HFCQHfgb0AA7SKq?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 469
+New beach prompts 
+
+Prompt 1:
+"A medium-full shot of a smiling young woman(match face) with long, wavy dark hair sitting gracefully on a piece of driftwood on a sandy beach. She is wearing a red v-neck crop top tied in a knot at the waist and a black sarong with
+```
+
+---
+
 ## Case: twitter-2042204459544297866
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
