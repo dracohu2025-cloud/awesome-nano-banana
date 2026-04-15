@@ -4,6 +4,31 @@
 
 ---
 
+## Case: twitter-2043287498538017102
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2043287498538017102)
+**Scraped:** 2026-04-15T08:50:58.195Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HFs3JVIbgAEl7mb?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HFs3JV1bcAACg7W?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 482
+Pic with portrait on the wall 
+
+Prompt:
+"Preserve the exact identity of the face and all facial features of the reference image perfectly. No changes to the face. Maintain a 100% accurate likeness.
+FORMAT -- 9:16 DIRECTIONS Full body in the frame, extremely low camera angle from ground level with dramatic forced perspective, subject centered in the foreground, photorealistic urban photograph of the person in the reference image sitting casually on a concrete ledge. The body faces forward, the face is slightly turned three-quarters with a slight head tilt, the gaze direct and confident. The right hand rests on the head holding sunglasses, the left leg is extended directly toward the lens, creating a blurred shoe in the foreground. The person is wearing a dark red hoodie with white cursive text, beige cargo pants, and red high-top canvas sneakers. Soft, loose waves fall over the shoulders. The background is an untreated gray concrete wall with a vibrant graffiti mural of the same person as in the reference image, smiling while wearing a matching red hoodie and making a heart shape with their hands, surrounded by halos of bright blue spray paint and spray-painted red hearts. Soft, cloudy natural light, shot with a 14mm ultra-wide-angle lens, 8K, editorial streetwear quality, slight motion blur on the foreground shoe, sharp facial focus. NEGATIVE NOTICE: cartoonish, 3D, missing mural, different face from the mural, missing foreground shoe, flat perspective, harsh and bright sunlight, plain concrete wall, distorted hands, watermarks"
+```
+
+---
+
 ## Case: twitter-2043996225721053284
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
