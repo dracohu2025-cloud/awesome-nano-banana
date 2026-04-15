@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2042837985746620479
+
+**Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
+**Tweet:** [View Original](https://x.com/gemini_prompts/status/2042837985746620479)
+**Scraped:** 2026-04-15T08:51:05.578Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HFmeTIXaMAAocDa?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HFmeTIXakAEVR7f?format=jpg&name=orig)
+
+### Prompt
+
+```
+Trend 480
+A picture with your cute mini #chibi versions
+
+Prompt:
+"Use the reference photo to create a realistic female character with a fun and natural expression, without changing the facial structure or features, keeping it as realistic as possible. Hair should match
+```
+
+---
+
 ## Case: twitter-2043287498538017102
 
 **Author:** [@gemini_prompts](https://twitter.com/gemini_prompts)
