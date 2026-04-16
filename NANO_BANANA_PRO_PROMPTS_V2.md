@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2044634747956277434
+
+**Author:** [@Ciri_ai](https://twitter.com/Ciri_ai)
+**Tweet:** [View Original](https://x.com/Ciri_ai/status/2044634747956277434)
+**Scraped:** 2026-04-16T10:50:10.065Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGAAb1maQAAAslG?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HGAAb1mbAAAtzbn?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HGAAb1masAAYv-G?format=jpg&name=orig)
+
+### Prompt
+
+```
+Gemini Nano Banana Pro.
+
+Prompt: 
+{
+  "prompt_type": "descriptive_portrait",
+  "subject_details": {
+    "demographics": "Young female, fair smooth skin, fit and athletic build, strictly matching the reference photo.",
+    "facial_features": {
+      "expression": "Pouting in
+```
+
+---
+
 ## Case: twitter-2044373789107163308
 
 **Author:** [@ZaraIrahh](https://twitter.com/ZaraIrahh)
