@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2044373789107163308
+
+**Author:** [@ZaraIrahh](https://twitter.com/ZaraIrahh)
+**Tweet:** [View Original](https://x.com/ZaraIrahh/status/2044373789107163308)
+**Scraped:** 2026-04-16T10:48:55.454Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HF8THTYa0AAp2iA?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HF8THV0WwAAN9d-?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana 2 on PixPretty @PixPrettyAI 
+
+Prompt:
+
+Photorealistic cinematic photo, 3:4 vertical frame, shooting from a very low point of grass/flowers (worm's-eye view) on a wide-angle lens-24-28mm. In the center of the frame, chest-deep, is a 25-year-old young woman with fair skin and dark  brown hair, wearing a dark blue/black sweatshirt with a small white inscription on the chest, and a thin chain around his neck. The pose is calm, the body is slightly
+
+turned to the right, the head looks straight at the viewer and is raised; the focus is on the upper body. Foreground: large blurred yellow bees, yellow flowers and green stems, strong sideways, one large warm orange glare/spot at the bottom of the frame. Middle ground: around the model there are wild plants and flowers, some of the stems are sharp, some are in a soft blur.
+
+Background/sky: a large turquoise-blue open sky with large white cumulus clouds on the left and above. There are a lot of small orange petals/seeds/leaves in the air above and around the model, as if they were picked up by the wind; they are at different distances and partially blurred (motion blur + shallow DOF), creating the effect of "floating particles".
+
+Lighting: natural daylight, the sun is high / slightly behind on the left; soft contour illumination of hair and shoulders, sun is on accents + cool sky, light teal-orange grading, moderate vignette.
+
+Parameters/style: shallow depth of field, foreground bokeh, crisp subject, cinematic, ultra realistic, high detail, natural film look, slight haze, no text overlays, no logos, no watermark.
+
+Negative promt: illustration, CGI, cartoon, plastic skin, overexposure, strong noise, dirty background, superfluous people, buildings, wires, large readable inscriptions on clothes, artifacts, deformity of arms/shoulders.
+```
+
+---
+
 ## Case: twitter-2044125191098511782
 
 **Author:** [@Ciri_ai](https://twitter.com/Ciri_ai)
