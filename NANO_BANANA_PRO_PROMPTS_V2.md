@@ -4,6 +4,31 @@
 
 ---
 
+## Case: twitter-2044800343280906522
+
+**Author:** [@liyue_ai](https://twitter.com/liyue_ai)
+**Tweet:** [View Original](https://x.com/liyue_ai/status/2044800343280906522/photo/1)
+**Scraped:** 2026-04-17T11:50:11.387Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGCWe-DaoAERUOZ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HF7QhsaagAAyM7Q?format=jpg&name=orig)
+
+### Prompt
+
+```
+gpt-image-2是真滴强啊，
+大家都在晒美女，
+我来个X个人简介的平面设计，
+原提示词需要稍微修改了一下。
+
+提示词见评论区
+```
+
+---
+
 ## Case: twitter-2044634747956277434
 
 **Author:** [@Ciri_ai](https://twitter.com/Ciri_ai)
