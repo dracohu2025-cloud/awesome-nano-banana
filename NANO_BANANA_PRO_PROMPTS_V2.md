@@ -4,6 +4,31 @@
 
 ---
 
+## Case: twitter-2045492988227522823
+
+**Author:** [@0x00_Krypt](https://twitter.com/0x00_Krypt)
+**Tweet:** [View Original](https://x.com/0x00_Krypt/status/2045492988227522823)
+**Scraped:** 2026-04-18T15:57:38.090Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGMM_-ZawAAzrYP?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HGBidqvbYAAymix?format=jpg&name=orig)
+
+### Prompt
+
+```
+把敦煌壁画剪成纸，然后叠起来 
+
+1500年前的飞天，用纸雕立体化之后是这个效果
+
+Prompt 
+Eye-level straight-on view, 3D layered paper cut-out diorama. Vermillion red, lapis lazuli blue, ochre gold. Flying apsaras with ribbon silk scarves, blooming lotus, swirling auspicious clouds, ornate medallion patterns. Deep drop shadows, matte paper texture, octane render, 8k --ar 3:4
+```
+
+---
+
 ## Case: twitter-2045379349399101707
 
 **Author:** [@old_pgmrs_will](https://twitter.com/old_pgmrs_will)
