@@ -4,6 +4,27 @@
 
 ---
 
+## Case: twitter-2045379349399101707
+
+**Author:** [@old_pgmrs_will](https://twitter.com/old_pgmrs_will)
+**Tweet:** [View Original](https://x.com/old_pgmrs_will/status/2045379349399101707)
+**Scraped:** 2026-04-18T08:13:54.099Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGKlQurawAAgTTP?format=jpg&name=orig)
+
+### Prompt
+
+```
+Using the same prompt to generate character sheets  
+GPT-Image-2  
+Nano Banana 2  
+The styles are quite different, but the more detailed the layout gets, the cleaner GPT-Image-2 generates it... And its prompt adherence is overwhelmingly superior
+```
+
+---
+
 ## Case: twitter-2045320003319468341
 
 **Author:** [@jarvis_og_AI](https://twitter.com/jarvis_og_AI)
