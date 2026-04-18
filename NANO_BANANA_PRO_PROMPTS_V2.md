@@ -4,6 +4,29 @@
 
 ---
 
+## Case: twitter-2045320003319468341
+
+**Author:** [@jarvis_og_AI](https://twitter.com/jarvis_og_AI)
+**Tweet:** [View Original](https://x.com/jarvis_og_AI/status/2045320003319468341)
+**Scraped:** 2026-04-18T08:13:02.237Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGJvsrzacAADa7h?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HGJvssDbgAA5hIQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Fairy princess  
+Prompt:
+
+Profile portrait of a fairy hovering above soft clouds at sunset, with warm rose-gold backlighting and contour lighting creating a magical mist and subtle bokeh in the background. Delicate glass/crystal wings with fine copper veins and tiny sparkling dots; a multi-layered, translucent tulle and silk dress in a rose-apricot shade with ruffles and drops of light; delicate and radiant makeup—even and luminous skin, soft blush, subtle highlighter, natural eyebrows, and nude lips; a low, elegant bun with thin, loose strands; accessories—delicate, sparkling earrings and small luminous details on the dress. Pose: hovering in profile, arms raised in front of her face, holding a shimmering magic sphere in her palms, one leg slightly bent, toes relaxed, an elegant line to her body. Camera: Vertical portrait, shallow depth of field, full-body diagonal close-up, cinematic color gradation, soft highlights and detailed reflections on the wings, photorealistic material textures, highly detailed skin and fabric. Photo in RAW format, 8k, preserving facial features.
+```
+
+---
+
 ## Case: twitter-2045196602306933060
 
 **Author:** [@TechieBySA](https://twitter.com/TechieBySA)
