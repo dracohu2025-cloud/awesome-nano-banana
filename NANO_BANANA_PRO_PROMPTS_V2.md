@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2034839598120230985
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2034839598120230985)
+**Scraped:** 2026-04-18T16:38:52.612Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HDkt4g0XsAA3Wkp?format=jpg&name=orig)
+
+### Prompt
+
+```
+I asked Nano Banana to visualize 4 movies ... quilled paper art style. 
+
+2x2 grid, do this for 4 famous movie scenes 
+Function Render_Quilled_Papercraft ($ Subject)
+Anchor:[Papercraft $ Subject] :: [Quilled Paper Art]::5
+ Morphology: Constructed entirely of tightly rolled, shaped, and glued strips of paper, concentric swirls, layered topological depth::4
+ Material Physics: Thick matte cardstock, visible paper grain, slightly frayed micro-edges, tactile physical medium::3
+ Illumination: Dramatic directional lighting at a 45-degree angle, sharp micro-shadows emphasizing depth and layers::2
+ Render Stack: Top-down studio photography, crisp focus, 8k resolution, tilt-shift effect::1
+Negative:[Digital painting, 3D render, glossy, reflective, glowing, flat, drawing]:: -1
+```
+
+---
+
 ## Case: twitter-2045535394792689979
 
 **Author:** [@fdtreesky](https://twitter.com/fdtreesky)
