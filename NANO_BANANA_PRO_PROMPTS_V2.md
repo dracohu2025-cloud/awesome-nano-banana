@@ -4,6 +4,35 @@
 
 ---
 
+## Case: twitter-2045112539252510914
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2045112539252510914)
+**Scraped:** 2026-04-18T07:45:09.488Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HF83KUIW4AEIrQ9?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HDkt4g0XsAA3Wkp?format=jpg&name=orig)
+
+### Prompt
+
+```
+paper quilling with Nano Banana Pro. Used it for manga scenes. 
+
+2x2 grid, do this for 4 famous manga scenes 
+Function Render_Quilled_Papercraft ($ Subject)
+Anchor:[Papercraft $ Subject] :: [Quilled Paper Art]::5
+ Morphology: Constructed entirely of tightly rolled, shaped, and glued strips of paper, concentric swirls, layered topological depth::4
+ Material Physics: Thick matte cardstock, visible paper grain, slightly frayed micro-edges, tactile physical medium::3
+ Illumination: Dramatic directional lighting at a 45-degree angle, sharp micro-shadows emphasizing depth and layers::2
+ Render Stack: Top-down studio photography, crisp focus, 8k resolution, tilt-shift effect::1
+Negative:[Digital painting, 3D render, glossy, reflective, glowing, flat, drawing]:: -1
+```
+
+---
+
 ## Case: twitter-2044800343280906522
 
 **Author:** [@liyue_ai](https://twitter.com/liyue_ai)
