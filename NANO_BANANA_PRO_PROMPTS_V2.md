@@ -4,6 +4,48 @@
 
 ---
 
+## Case: twitter-2045535394792689979
+
+**Author:** [@fdtreesky](https://twitter.com/fdtreesky)
+**Tweet:** [View Original](https://x.com/fdtreesky/status/2045535394792689979)
+**Scraped:** 2026-04-18T16:38:35.726Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGMy7zuboAADFYG?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HGMy7zxboAA9wrI?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HGMy_DcakAAKssG?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HGMy_Daa0AAcO5T?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HF83KUIW4AEIrQ9?format=jpg&name=orig)
+
+### Prompt
+
+```
+我做了兩個動漫、名廚、種地，要看什麼把主題改成你要的就可以了
+
+提示詞:
+2x2 網格，對 4 個著名主題場景進行此操作
+函數 Render_Quilled_Papercraft（主題）
+
+錨點：[紙藝術（主題）] :: [衍紙藝術]::5
+
+形態：完全由緊密捲曲、塑形和粘合的紙條構成，同心圓漩渦，層次豐富的拓撲深度::4
+
+材質物理：厚實的霧面卡紙，可見的紙紋，略微磨損的微邊緣，觸感真實的物理介質::3
+
+光照：45 度角的戲劇性定向光照，銳利的微陰影強調深度和層次感::2
+
+渲染堆疊：自上而下的工作室攝影，清晰對焦，8K 分辨率，移軸效果::1
+
+負片：[數位繪畫，3D 渲染，光澤，反射，發光，平面，繪畫]:: -1
+```
+
+---
+
 ## Case: twitter-2045492988227522823
 
 **Author:** [@0x00_Krypt](https://twitter.com/0x00_Krypt)
