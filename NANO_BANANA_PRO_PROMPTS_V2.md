@@ -4,6 +4,27 @@
 
 ---
 
+## Case: twitter-2045643273965088962
+
+**Author:** [@94vanAI](https://twitter.com/94vanAI)
+**Tweet:** [View Original](https://x.com/94vanAI/status/2045643273965088962)
+**Scraped:** 2026-04-19T07:11:01.021Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGOVtldawAAf0SP?format=jpg&name=orig)
+
+### Prompt
+
+```
+造景能力越强大，越适合做中式古风题材；下面的几个图不论是GPT还是Grok，个人感觉都比要好。
+
+提示词：一张具有古风奇幻氛围的3D建模、运用虚幻引擎6游戏级别渲染写实级别图片，采用CG厚涂的视觉风格，整体为玄幻带着些许浅蓝调色调。运用仰视角构图，从万米高空俯瞰一个庞大且占地广阔的神秘云雾古刹仙宗山门群落，那连绵不绝的古刹建筑群落隐藏在云雾之中。前景的遮挡使得画面呈现出恢宏浩荡、极具压迫感的氛围。仙宗内修士快速穿梭移动，远处空中有修士御剑飞行，画面中还点缀着一些行人，丰富了场景内容。
+ar9:16
+```
+
+---
+
 ## Case: twitter-2045418028733538620
 
 **Author:** [@MrLarus](https://twitter.com/MrLarus)
