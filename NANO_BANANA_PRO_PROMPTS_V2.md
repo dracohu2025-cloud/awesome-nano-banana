@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2045744531686166878
+
+**Author:** [@liyue_ai](https://twitter.com/liyue_ai)
+**Tweet:** [View Original](https://x.com/liyue_ai/status/2045744531686166878)
+**Scraped:** 2026-04-19T07:34:09.870Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGPxyjwbAAAYkgo?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HGJ6mebbIAAUAkX?format=jpg&name=orig)
+
+### Prompt
+
+```
+gpt image 2生成城市宣传插画。
+提示词：
+新中式极简风格高端城市海报，9:16竖版构图，以广州为核心主题，画面中心为抽象几何化的广州塔，造型简洁但具有辨识度，
+
+整体采用S型流动构图，从下方向上延展，珠江水系被设计为流动的水波纹与传统祥云纹样融合，环绕整个画面形成视觉动线，
+```
+
+---
+
 ## Case: twitter-2045643273965088962
 
 **Author:** [@94vanAI](https://twitter.com/94vanAI)
