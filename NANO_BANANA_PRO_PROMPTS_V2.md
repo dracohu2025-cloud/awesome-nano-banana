@@ -4,6 +4,46 @@
 
 ---
 
+## Case: twitter-2045748335668310055
+
+**Author:** [@MrLarus](https://twitter.com/MrLarus)
+**Tweet:** [View Original](https://x.com/MrLarus/status/2045748335668310055)
+**Scraped:** 2026-04-19T09:05:22.047Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGPwr4XbMAARReg?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HGPwtGSasAAkdBi?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HGPwultbMAAYT8G?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HGPxE5TbsAAHE6t?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HGLIMdFWwAAVBD9?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HGLINE-WkAAhXRr?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/HGLIPApXUAApeBh?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/HGLIQJaaIAE3rAL?format=jpg&name=orig)
+
+### Prompt
+
+```
+如果童年有这样的火影贴纸我会买很多！
+
+用ChatGPT-image-2.0生成轮廓宇宙海报：
+1、旋涡鸣人
+2、宇智波佐助
+3、波风水门
+4、旗木卡卡西
+
+提示词模板在引用推，拿去生成你喜欢的角色吧！
+```
+
+---
+
 ## Case: twitter-2045764695827562686
 
 **Author:** [@joshesye](https://twitter.com/joshesye)
