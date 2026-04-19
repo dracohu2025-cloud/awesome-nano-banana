@@ -4,6 +4,38 @@
 
 ---
 
+## Case: twitter-2045764695827562686
+
+**Author:** [@joshesye](https://twitter.com/joshesye)
+**Tweet:** [View Original](https://x.com/joshesye/status/2045764695827562686)
+**Scraped:** 2026-04-19T08:13:28.584Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGQDZWDWoAApsa_?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HGQD5iyWkAA-qQ7?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT Image 2做思维导图解说，我觉得这个真的能用在教育领域
+
+这个案例的价值在于，它不是为了画图而画图，是用图来传递知识
+
+很多人用 AI 生图，还停留在画一张好看图的阶段，真正有价值的是用图来解决问题
+
+比如水浒传思维导图，它帮你理清了人物关系
+
+景德镇青花瓷解说图，它帮你理解了工艺细节
+
+提示词：为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析
+
+做知识类内容的，视觉化真的很重要，一图胜千言不是说说而已
+```
+
+---
+
 ## Case: twitter-2045669412624318715
 
 **Author:** [@crayon1267](https://twitter.com/crayon1267)
