@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2045669412624318715
+
+**Author:** [@crayon1267](https://twitter.com/crayon1267)
+**Tweet:** [View Original](https://x.com/crayon1267/status/2045669412624318715)
+**Scraped:** 2026-04-19T07:50:38.382Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HGOtfWnawAECd58?format=jpg&name=orig)
+
+### Prompt
+
+```
+NanoBananoPro 皮克斯风格表情包九宫格
+
+关键词：Pixar-style / Expression sheet / 3x3 grid / Torn paper circles / Multiple emotions
+
+用法：皮克斯3D头像+九种表情+破纸圆框+多套服装+色彩鲜艳。适合3D角色设计、表情包制作、社交媒体贴纸。
+
+提示词：3D Pixar-style expression sheet, cute stylized avatar with wavy dark hair and round glasses, 3x3 grid layout, peeking through torn paper circles, emotions: wink, sunglasses cool, thinking, happy smile, thumbs up, drinking boba tea, friendly wave, laughing, cute pout, different outfits: green sweater, red jacket, yellow hoodie, striped tee, orange shirt, blue top, purple vest, pink cardigan, teal pullover. Soft cinematic lighting, clean white background, vibrant colors, high detail, adorable cartoon character, playful expressions, consistent character design across all poses
+
+#NanoBananaPro #AI给8图
+```
+
+---
+
 ## Case: twitter-2045744531686166878
 
 **Author:** [@liyue_ai](https://twitter.com/liyue_ai)
