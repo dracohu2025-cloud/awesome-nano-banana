@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2058179909978403121
+
+**Author:** [@ZephyraLeigh](https://twitter.com/ZephyraLeigh)
+**Tweet:** [View Original](https://x.com/ZephyraLeigh/status/2058179909978403121/photo/1)
+**Scraped:** 2026-05-24T03:29:59.975Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJAfsISbgAAYep1?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJAfsJNaUAAgR1g?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJAfsLqacAARSnn?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJAfshSaMAA7mvA?format=jpg&name=orig)
+
+### Prompt
+
+```
+Hand-drawn botanical beauty with natural charm.
+
+GPT Image 2 on ChatGPT 
+
+PROMPT 
+```
+
+---
+
 ## Case: twitter-2056341977386659926
 
 **Author:** [@leyu37829](https://twitter.com/leyu37829)
