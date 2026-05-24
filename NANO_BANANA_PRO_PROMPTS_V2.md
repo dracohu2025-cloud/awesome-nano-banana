@@ -4,6 +4,47 @@
 
 ---
 
+## Case: twitter-2058502085365153900
+
+**Author:** [@MrLarus](https://twitter.com/MrLarus)
+**Tweet:** [View Original](https://x.com/MrLarus/status/2058502085365153900/photo/1)
+**Scraped:** 2026-05-24T11:02:18.779Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJFEI30WAAA26eh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJFEJW7WEAAKh2h?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJFEKiNW0AArmZd?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJFELoxWIAA1dcE?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HJEmMheXAAAwKBl?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HJEmO0DXgAEq4RU?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/HJEmSYgWkAAYIs8?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/HJEmTYSXcAAKtjs?format=jpg&name=orig)
+
+### Prompt
+
+```
+穿越千年！
+我用 ChatGPT-Image2 生成了《敦煌古壁裂界图》，亦真亦幻！
+
+敦煌壁画残损古壁被打开：
+神女从探身而出，向观者递月光、奏琵琶、托金莲、降神谕…
+就像东方神话电影里的破次元瞬间！
+
+古壁、裂痕、残金、矿物颜料，再加上近景互动和现代艺术化呈现，有种“千年壁画突然活过来”的感觉！
+
+完整通用提示词放评论区
+```
+
+---
+
 ## Case: twitter-2058491457280025066
 
 **Author:** [@xiaoxiaodong01](https://twitter.com/xiaoxiaodong01)
