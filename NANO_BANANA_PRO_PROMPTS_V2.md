@@ -4,6 +4,78 @@
 
 ---
 
+## Case: twitter-2058231377930113335
+
+**Author:** [@aytacaltintepe](https://twitter.com/aytacaltintepe)
+**Tweet:** [View Original](https://x.com/aytacaltintepe/status/2058231377930113335)
+**Scraped:** 2026-05-24T09:25:29.744Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJBOhjOWEAAwSYs?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJBOhjTWoAAkNvT?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJBOhjPXsAA1EZk?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJBOhjRX0AAcgzF?format=jpg&name=orig)
+
+### Prompt
+
+```
+Those quiet moments after Private Ballet Practice... 
+Tiredness and elegance coexist after an intense lesson. 
+
+The first image was created with the full prompt, the other frames were created with Flow reference + these commands:
+
+• "she stands in front of the mirror, touching her neck tiredly..."
+• "she fixes her messy bun, arms up, leotard stretching..."
+• "she sits on the floor against the barre, legs extended, resting..."
+
+What should we add to this series? More sweat effect, a different angle, or another movement?
+
+Follow for more
+
+Try it too and share your results! 
+
+Flow BNP Prompt 
+
+ULTRA HIGH-END HYPER-REALISTIC cinematic intimate ballet editorial photography. A breathtaking 21-year-old elegant young woman after intense private ballet practice in a softly lit minimalist dance studio.
+
+SUBJECT:
+Graceful yet athletic feminine body with long toned legs, elegant neck, defined collarbones, soft waist curve and natural subtle muscle tone from dance. Sun-kissed skin with realistic texture and light sweat sheen.
+
+FACE:
+Soft beautiful face with delicate features, slightly tired but seductive expression, parted lips, subtle bedroom eyes, messy hair strands sticking to face and neck from practice.
+
+HAIR:
+Long dark hair in messy bun with many loose strands and flyaways, some strands wet from sweat, natural movement.
+
+OUTFIT:
+Delicate ballet practice wear:
+- Tight black or dusty pink long-sleeve ballet leotard with high-cut leg lines
+- Soft translucent ballet skirt that moves naturally
+- Light pink or white thigh-high ballet stockings with subtle texture and compression marks
+- Ballet pointe shoes or soft ballet flats
+
+POSE & STORY SEQUENCE:
+Natural post-practice moments: stretching, fixing hair, looking at mirror, resting against barre, adjusting leotard straps, tired but graceful poses. Elegant teasing angles that suggest sensuality without being explicit.
+
+LIGHTING:
+Soft warm studio lighting mixed with gentle natural window light, creating beautiful skin highlights on sweat areas, elegant rim light on body curves, soft shadows that enhance form.
+
+ENVIRONMENT:
+Minimalist dance studio with wooden floor, large mirrors, ballet barre, soft warm tones.
+
+CAMERA:
+Sony A7R IV + 85mm f/1.4 lens, f/2.0, 1/500s, ISO 200. Cinematic shallow depth of field, razor sharp on skin and fabric details.
+
+Micro details: visible sweat droplets on skin, fabric clinging to body from moisture, realistic muscle tension, hair strands on neck, soft breathing expression, premium editorial mood.
+#AIPhotography #Photorealistic #IntimateEditorial #LuxuryFashion #HyperRealistic #PromptEngineering
+```
+
+---
+
 ## Case: twitter-2058186705862312436
 
 **Author:** [@azed_ai](https://twitter.com/azed_ai)
