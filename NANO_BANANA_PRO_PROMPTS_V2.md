@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2058473830470021380
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2058473830470021380)
+**Scraped:** 2026-05-24T09:36:44.188Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HIzgSNLWgAAxYQW?format=jpg&name=orig)
+
+### Prompt
+
+```
+This is a fun GPT prompt that can draw famous buildings with all kinds of materials. You can generate hundreds of fun images with this. 
+
+2x2 grid, 16:9, do this for 4 new variables based on the example provided below <instructions> Input = Global Architecture. Identify 4
+```
+
+---
+
 ## Case: twitter-2058231377930113335
 
 **Author:** [@aytacaltintepe](https://twitter.com/aytacaltintepe)
