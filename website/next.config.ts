@@ -1,6 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  outputFileTracingExcludes: {
+    '/analytics': ['../cases', '../cases/**/*'],
+    '/api/analytics': ['../cases', '../cases/**/*'],
+  },
   images: {
     unoptimized: true,
     remotePatterns: [
@@ -21,4 +25,3 @@ const nextConfig: NextConfig = {
 };
 
 export default nextConfig;
-
