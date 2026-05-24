@@ -4,6 +4,37 @@
 
 ---
 
+## Case: twitter-2058353997178867869
+
+**Author:** [@ponyodong](https://twitter.com/ponyodong)
+**Tweet:** [View Original](https://x.com/ponyodong/status/2058353997178867869?t=556)
+**Scraped:** 2026-05-24T04:35:11.749Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJC-C4cbkAAS5Iy?format=jpg&name=orig)
+
+### Prompt
+
+```
+可爱拼贴画提示词可直接复制：
+
+生成一张 9:16 竖版可爱贴纸漫画拼贴海报，主题为【一只超可爱的橘色小猫】。
+整体风格为 kawaii sticker comic collage，可爱贴纸漫画拼贴风，美式波普漫画 + 日系可爱插画 + 手账贴纸拼贴感。
+
+画面中同一个主体以 5–7 个不同姿势出现：中心最大主体向镜头跳跃，双手/双爪伸向前方，表情开心，眼睛巨大闪亮，形成强烈前景透视；四周分格中出现眨眼、挥手、坐着微笑、探头、举爪、跳起来等小姿势。
+使用不规则漫画分格、粗黑边框、白色贴纸描边、彩色爆炸对话框、半调网点、涂鸦线条、星星、爱心、笑脸、彩虹、花朵、云朵、黑白棋盘格和纸片贴纸元素。
+
+加入可爱的英文漫画字：YAY! CUTE! WOW! HEY! HAPPY DAY! LOVE! LET’S GO!
+文字为粗体 pop art typography，彩色填充，黑色描边，带阴影和贴纸感。
+
+色彩高饱和、明亮、快乐，以粉色、天蓝色、黄色、绿色、橙色为主。
+画面高清、干净、细节丰富，线条清晰，角色圆润可爱，表情治愈，像高质量印刷贴纸海报。
+不要水印、不要乱码、不要脏乱噪点、不要畸形肢体、不要错误文字。
+```
+
+---
+
 ## Case: twitter-2058179909978403121
 
 **Author:** [@ZephyraLeigh](https://twitter.com/ZephyraLeigh)
