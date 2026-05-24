@@ -4,6 +4,42 @@
 
 ---
 
+## Case: twitter-2058192548133527616
+
+**Author:** [@ponyodong](https://twitter.com/ponyodong)
+**Tweet:** [View Original](https://x.com/ponyodong/status/2058192548133527616/photo/1)
+**Scraped:** 2026-05-24T02:17:27.835Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJArJ-KakAAwesh?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJArJ-Ta8AAAzxQ?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJAC9-QaEAEv5ZS?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJAC9-QaoAAd7sx?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HJAC9-Qa4AA-bZ_?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HJAC9-TakAARq4y?format=jpg&name=orig)
+
+### Prompt
+
+```
+试了一个新方向：把商业时尚视觉和动作片主视觉揉在一起。
+
+放弃了复杂的场景，只用豆沙粉背景 + 巨幅做旧大字打底。双人构图上，一个人冷静开火，一个人情绪拉满。超长发丝的飘逸感配合黑白服装的利落，那种介于角色设定和时尚大片之间的张力一下就出来了。
+
+ChatGPT Image 2 这次的构图理解很在线。
+Prompt 毫无保留，欢迎拿去测试：
+
+Prompt：
+生成一张 9:16 竖版高端商业动作海报，风格为半写实 3D CG、时尚海报、电影感角色视觉。背景为干净的豆沙粉 / 雾粉色纯色背景，整体极简。画面背后加入巨大的白色做旧粗颗粒英文字母排版，形成强烈平面设计感。顶部中间加入小字品牌标题“VELORA STUDIO”，右下角加入醒目的白色手写感标题“SHUT OUT”。主体是两位年轻东亚女性：前景主角色为一位高挑冷艳女性，侧身站立，拥有超长黑色直发、细碎刘海、发丝向右大幅飘动。她穿着白色丝质长袖衬衫、黑色高腰包臀短裙、黑色薄丝袜、黑色尖头高跟鞋。她双手持一把现代手枪，双臂向前伸直，瞄准画面左侧，神情冷静、专注、强势，像时尚化的女特工。第二角色蹲在她腿边，抬头望向她，姿态紧张而依赖，一只手扶住主角色的大腿，另一只手撑地。她有深色盘发/丸子头、碎刘海，五官精致。她穿深蓝黑色水手服风格短上衣，带白色描边、领结、金属扣细节，搭配白色短裙、黑色过膝袜、黑色亮面皮鞋。整体呈现时尚海报 + 少女动作片海报的融合感，超高清、锐利清晰、细节丰富，材质真实，构图有强烈张力，高级、冷感、具有品牌感与封面感。
+```
+
+---
+
 ## Case: twitter-2058183496099885182
 
 **Author:** [@xiaoxiaodong01](https://twitter.com/xiaoxiaodong01)
