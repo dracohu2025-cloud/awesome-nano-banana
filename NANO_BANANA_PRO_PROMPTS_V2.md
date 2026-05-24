@@ -4,6 +4,38 @@
 
 ---
 
+## Case: twitter-2058491457280025066
+
+**Author:** [@xiaoxiaodong01](https://twitter.com/xiaoxiaodong01)
+**Tweet:** [View Original](https://x.com/xiaoxiaodong01/status/2058491457280025066)
+**Scraped:** 2026-05-24T10:31:29.871Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJE6uAlawAEbO_4?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJE6uAvagAAEPde?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJE6uMKbsAAPJyF?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJE6vNkbcAACgaz?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT2: 三角形 x 跳出窗口 x 美学提示词
+
+昨天不少阿拉伯的朋友， 喜欢这组提示词
+
+我升级了一波，给出了自定义 窗口形状的版本
+
+这次我是定义了三角形， 你也可以灵活定义你要的形状
+
+提示词见评论区 
+```
+
+---
+
 ## Case: twitter-2058473830470021380
 
 **Author:** [@Gdgtify](https://twitter.com/Gdgtify)
