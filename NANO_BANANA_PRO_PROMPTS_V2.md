@@ -4,6 +4,31 @@
 
 ---
 
+## Case: twitter-2058214637750170065
+
+**Author:** [@Shinning1010](https://twitter.com/Shinning1010)
+**Tweet:** [View Original](https://x.com/Shinning1010/status/2058214637750170065)
+**Scraped:** 2026-05-24T05:40:26.525Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJAyZ0Na8AACOy2?format=jpg&name=orig)
+
+### Prompt
+
+```
+A healing vintage-style portrait in sunset light
+
+made with gpt image 2
+Prompt:
+Use the uploaded portrait only to preserve the person’s real facial identity, facial features, skin tone, and hairstyle. Create a realistic warm film-style photo of the same person sitting on an old apartment window ledge at golden hour, knees drawn up, holding a newspaper partly covering the lower face, looking softly toward the camera. Vintage residential buildings outside the window, warm sunlight, deep natural shadows, cozy nostalgic mood, oversized light T-shirt, soft socks, subtle hair accessory, 35mm film photography, natural skin texture, slight grain, realistic lighting, candid lifestyle photo, no watermark
+
+Negative Prompt:
+watermark, logo, text overlay, anime, cartoon, plastic skin, over-smoothed face, fake face swap, distorted hands, extra fingers, bad anatomy, glossy AI look, unrealistic lighting, overexposed face, low quality, blurry face
+```
+
+---
+
 ## Case: twitter-2058139493979603384
 
 **Author:** [@Ciri_ai](https://twitter.com/Ciri_ai)
