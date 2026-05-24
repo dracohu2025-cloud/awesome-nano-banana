@@ -16,8 +16,8 @@ export default async function Home() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "Nano Banana Pro Prompts Gallery",
-    "alternateName": ["Nano Banana Gallery", "Banana Gallery"],
+    "name": "Awesome AIGC Image Gallery",
+    "alternateName": ["GPT-Image-2 & Nano Banana", "Nano Banana Gallery", "Banana Gallery"],
     "url": "https://banana.aigc.green",
     "description": "Explore 200+ curated Nano Banana Pro prompts for Gemini 3.0 Pro AI image generation",
     "publisher": {
@@ -34,7 +34,7 @@ export default async function Home() {
   const collectionJsonLd = {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
-    "name": "Nano Banana Pro Prompts Collection",
+    "name": "Awesome AIGC Image Gallery",
     "description": "A curated collection of AI image generation prompts for Gemini 3.0 Pro",
     "url": "https://banana.aigc.green",
     "numberOfItems": stats.total,
@@ -68,7 +68,7 @@ export default async function Home() {
                   </div>
                   <h1 className="text-4xl md:text-6xl font-black uppercase leading-tight mb-4">
                     Awesome<br />
-                    Nano Banana<br />
+                    AIGC Image<br />
                     <span className="text-[var(--accent-coral)]">Gallery</span>
                   </h1>
                   <p className="text-lg md:text-xl font-medium mb-6 max-w-lg">

@@ -28,7 +28,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     }
 
     return {
-        title: `${caseData.title_en} | Nano Banana Gallery`,
+        title: `${caseData.title_en} | GPT-Image-2 & Nano Banana`,
         description: caseData.prompt_en?.slice(0, 160) || caseData.prompt?.slice(0, 160),
         openGraph: {
             title: caseData.title_en,

@@ -1,4 +1,4 @@
-# 🍌 Awesome Nano Banana Gallery
+# 🍌 Awesome AIGC Image Gallery
 
 > A curated showcase of AI-generated images using **Gemini Nano Banana Pro** prompts.
 

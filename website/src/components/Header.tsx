@@ -14,8 +14,8 @@ export default function Header() {
                     {/* Logo */}
                     <Link href="/" className="flex items-center gap-2 group">
                         <span className="text-3xl group-hover:animate-bounce">🍌</span>
-                        <span className="font-black text-xl md:text-2xl uppercase tracking-tight hidden sm:block">
-                            Nano Banana
+                        <span className="font-black text-lg md:text-xl lg:text-2xl uppercase tracking-tight hidden sm:block">
+                            GPT-Image-2 & Nano Banana
                         </span>
                     </Link>
 

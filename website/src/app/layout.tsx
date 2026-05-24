@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nano Banana Pro Prompts Gallery | Gemini 3.0 Pro Image Generation",
-  description: "Explore 200+ curated Nano Banana Pro prompts for Gemini 3.0 Pro AI image generation. Free prompt templates for realistic portraits, creative art, and stunning visuals. The ultimate Nano Banana prompt collection.",
+  title: "GPT-Image-2 & Nano Banana",
+  description: "Explore 200+ curated GPT-Image-2 and Nano Banana prompts for AI image generation. Free prompt templates for realistic portraits, creative art, and stunning visuals.",
   keywords: [
     "Nano Banana",
     "Nano Banana Pro",
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
   ].join(", "),
   authors: [{ name: "Nano Banana Community" }],
   creator: "Nano Banana Community",
-  publisher: "Nano Banana Gallery",
+  publisher: "Awesome AIGC Image Gallery",
   metadataBase: new URL("https://banana.aigc.green"),
   alternates: {
     canonical: "/",
@@ -52,25 +52,25 @@ export const metadata: Metadata = {
     },
   },
   openGraph: {
-    title: "Nano Banana Pro Prompts Gallery | Gemini 3.0 Pro Image Generation",
-    description: "Explore 200+ curated Nano Banana Pro prompts for stunning AI image generation with Gemini 3.0 Pro",
+    title: "GPT-Image-2 & Nano Banana",
+    description: "Explore 200+ curated GPT-Image-2 and Nano Banana prompts for stunning AI image generation",
     type: "website",
     locale: "en_US",
     url: "https://banana.aigc.green",
-    siteName: "Nano Banana Gallery",
+    siteName: "Awesome AIGC Image Gallery",
     images: [
       {
         url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Nano Banana Pro Prompts Gallery",
+        alt: "Awesome AIGC Image Gallery",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nano Banana Pro Prompts | Gemini 3.0 Pro AI Image Generation",
-    description: "200+ curated AI image generation prompts for Gemini 3.0 Pro",
+    title: "GPT-Image-2 & Nano Banana",
+    description: "200+ curated AI image generation prompts",
     images: ["/og-image.png"],
   },
   verification: {
