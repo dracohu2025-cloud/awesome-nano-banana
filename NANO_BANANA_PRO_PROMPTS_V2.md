@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2058344199771328678
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2058344199771328678/photo/1)
+**Scraped:** 2026-05-24T09:12:59.741Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJC1ITZaYAAVwD5?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJC1ITVbcAAjyJV?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJC1IX-a8AATFn9?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJC1IX_aUAAKfyQ?format=jpg&name=orig)
+
+### Prompt
+
+```
+我想把水果当成一种“结构”来看，而不只是食物。
+
+比如葡萄、草莓、荔枝、石榴、桑葚这些水果，本身就是由很多小颗粒、小单元组成的。我的想法是：保留它们原本的外形和植物结构，但把这些果粒全部替换成别的东西。
+
+它们可以是角色头、物件头、小玩具、机械方块、表情头像，也可以是各种微型模块。远看的时候，它仍然是一种水果；靠近看的时候，每一颗果粒都变成了一个小世界。
+
+这个系列会偏向超现实植物图鉴的感觉，像某种不存在的植物标本：有叶片、果梗、枝蔓、干净的留白背景，也有一点奇怪、一点可爱、一点机械感。
+
+左上角会有一只 V 猫作为固定标识，签名是 voxcat。
+
+我想慢慢把它做成一个“奇异水果档案”。
+```
+
+---
+
 ## Case: twitter-2058469255872410042
 
 **Author:** [@MrLarus](https://twitter.com/MrLarus)
