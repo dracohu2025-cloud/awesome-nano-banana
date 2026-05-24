@@ -4,6 +4,43 @@
 
 ---
 
+## Case: twitter-2058484459008393346
+
+**Author:** [@MissDelulu9](https://twitter.com/MissDelulu9)
+**Tweet:** [View Original](https://x.com/MissDelulu9/status/2058484459008393346)
+**Scraped:** 2026-05-24T13:23:42.688Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJE0shEbMAAQpxR?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT Image 2 on ChatGPT 
+
+Prompt:
+
+Ultra-realistic monochrome 3x3 editorial comp card using the reference image as the identity source. Preserve the exact same facial features, face shape, eye shape, nose, lips, skin texture, hairstyle, proportions, and natural beauty. No beautification, no face alteration, no AI-looking skin, no reshaping. Same woman in all 9 frames with consistent identity and styling.
+
+Minimal luxury studio aesthetic, soft diffused lighting, clean light gray background, high-fashion Korean beauty editorial vibe, ultra detailed realistic skin texture, natural makeup, glossy lips, deep black silky long hair, black sleeveless halter top, delicate silver necklace.
+
+3x3 grid layout with evenly spaced portrait frames. Each frame shows a different expression and hand pose:
+1-looking sideways while lightly biting finger
+2-side glance with hand touching temple
+3-confident direct gaze with relaxed lips
+4-playful expression holding lollipop near lips
+5-soft gentle smile looking at camera
+6-wink smile with both hands in hair
+7-pout lips with both hands framing face
+8-thoughtful side glance with finger near lips
+9-warm elegant smile with slight head tilt
+
+Photorealistic DSLR quality, Vogue beauty shoot style, soft shadows, balanced composition, monochrome black-and-white tone with subtle warm grayscale contrast, extremely sharp eyes, realistic hair strands, premium editorial photography, symmetrical comp card design, clean borders, cinematic beauty lighting, 8k ultra detailed.
+```
+
+---
+
 ## Case: twitter-2058502085365153900
 
 **Author:** [@MrLarus](https://twitter.com/MrLarus)
