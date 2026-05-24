@@ -4,6 +4,41 @@
 
 ---
 
+## Case: twitter-2056341977386659926
+
+**Author:** [@leyu37829](https://twitter.com/leyu37829)
+**Tweet:** [View Original](https://x.com/leyu37829/status/2056341977386659926/photo/1)
+**Scraped:** 2026-05-24T03:25:10.071Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HImXPzLawAAeCCa?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HImXRuzbIAA9bkG?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HImXT4xaEAAMtOY?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HImX1yfagAAH2fM?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HIdFRk4bwAAzvr2?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HIdFVknbwAAv_Cq?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/HIdFgzAaQAAudzK?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/HIdGj4oaYAEuINp?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT2.0 游戏原画设计同人女性角色
+这也算是游戏界最美最性感的顶美了
+评论区~提示词~自取：
+
+```
+
+---
+
 ## Case: twitter-2058192548133527616
 
 **Author:** [@ponyodong](https://twitter.com/ponyodong)
