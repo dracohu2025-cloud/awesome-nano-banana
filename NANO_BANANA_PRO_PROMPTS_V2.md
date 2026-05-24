@@ -4,6 +4,118 @@
 
 ---
 
+## Case: twitter-2058163617892380943
+
+**Author:** [@Mugi_Records](https://twitter.com/Mugi_Records)
+**Tweet:** [View Original](https://x.com/Mugi_Records/status/2058163617892380943)
+**Scraped:** 2026-05-24T09:20:03.886Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJAQ5wybQAEpzfO?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJAQ5wsaQAA1V6p?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJAQ5xBaAAAVHHi?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJAQ5w8a4AAV2nW?format=jpg&name=orig)
+
+### Prompt
+
+```
+【ラップしそうな人】
+A highly realistic candid photo of the same person from the reference image.
+
+They are standing in a quiet urban street at night.
+
+They are mid-gesture, as if talking or rapping,
+one hand slightly raised, fingers loosely extended,
+the movement natural, not exaggerated.
+
+Their posture is relaxed but active,
+with a subtle forward lean,
+as if they are in the middle of expressing something.
+
+Their expression is calm but confident,
+slightly intense, as if they are focused on their own thoughts.
+
+Their gaze is direct or slightly off,
+intentional, never passive.
+
+Details:
+natural skin texture, slight imperfections,
+subtle shadows under the eyes,
+slightly tired but composed look,
+clothes feel personal, slightly worn, not styled
+
+Lighting:
+harsh street lights mixed with neon glow,
+deep shadows,
+strong contrast,
+uneven exposure
+
+Composition:
+slightly low angle,
+slightly off-center framing,
+captured mid-movement,
+minor motion blur in the hand
+
+Style:
+real-life street photography,
+raw, unpolished,
+effortless presence,
+a sense of rhythm and expression
+
+【ラップしてる人】
+A highly realistic candid photo of the same person from the reference image.
+
+They are standing in a quiet urban street at night.
+
+They are in the middle of rapping,
+caught mid-verse, mid-breath,
+their mouth slightly open as if words are flowing out.
+
+One hand is raised naturally, moving with rhythm,
+fingers loose but expressive,
+captured mid-gesture with slight motion blur.
+
+Their posture leans slightly forward,
+as if pushing their words outward.
+
+Their expression is focused and intense,
+but controlled — not exaggerated,
+as if fully immersed in what they are saying.
+
+Their gaze is sharp, directed forward or slightly off,
+as if addressing someone just out of frame.
+
+Details:
+natural skin texture, slight imperfections,
+subtle shadows under the eyes,
+slightly tired but composed look,
+clothes feel personal, slightly worn, not styled
+
+Lighting:
+harsh street lights mixed with neon glow,
+deep shadows,
+strong contrast,
+uneven exposure
+
+Composition:
+slightly low angle,
+slightly off-center framing,
+captured mid-movement,
+minor motion blur in hand and lips
+
+Style:
+real-life street photography,
+raw, unpolished,
+a sense of rhythm and presence,
+a moment where sound almost becomes visible
+```
+
+---
+
 ## Case: twitter-2058344199771328678
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
