@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2058183496099885182
+
+**Author:** [@xiaoxiaodong01](https://twitter.com/xiaoxiaodong01)
+**Tweet:** [View Original](https://x.com/xiaoxiaodong01/status/2058183496099885182/photo/1)
+**Scraped:** 2026-05-24T02:15:03.026Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJAilccbcAA32l9?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJAinPYasAAfZel?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJAivY7bMAAvnIC?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJAi5JhbQAAhifi?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT2 x 丝网印刷风 x 美学提示词 
+
+今天大扫除，看到一个旧的信封，有了这个提示词的灵感
+
+主要特点是，画面上下的 丝网印刷颗粒+旧报纸网纹
+
+这个风格有点温润、有点像：被时间保存下来的主题印刷物
+
+GPT-image2
+提示词有英文版 + 中文版 
+我把指令 放在评论区了
+```
+
+---
+
 ## Case: twitter-2056175244256411890
 
 **Author:** [@you1873118](https://twitter.com/you1873118)
