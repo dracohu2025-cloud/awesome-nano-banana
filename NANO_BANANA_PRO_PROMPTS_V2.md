@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2058292133032063122
+
+**Author:** [@Gdgtify](https://twitter.com/Gdgtify)
+**Tweet:** [View Original](https://x.com/Gdgtify/status/2058292133032063122)
+**Scraped:** 2026-05-24T04:45:27.430Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HI4pfIwXQAIpCxi?format=jpg&name=orig)
+
+### Prompt
+
+```
+The history of life visualized by GPT Image 2. Not a long prompt either. 
+
+16:9, do this for the history of life: Create a luxury scale poster for [$TOPIC] organized around a central vertical monolith representing [$SCALE_AXIS]. The monolith is made from layered glass, stone, metal, and translucent data strata. Each layer reveals a different scale, epoch, threshold, or transformation. Infer the major milestones, discontinuities, proportional jumps, hidden patterns, and conceptual drama of the topic. Add small museum-style specimens, miniature diagrams, timeline ticks, scale bars, and engraved annotations along the monolith. The poster should feel calm, monumental, intelligent, and collectible. Lighting is soft, with long shadows and refined material realism. NEGATIVE: no infographic clutter, no cartoon timeline, no random icons, no cheap gradients.
+```
+
+---
+
 ## Case: twitter-2058353997178867869
 
 **Author:** [@ponyodong](https://twitter.com/ponyodong)
