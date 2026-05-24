@@ -4,6 +4,48 @@
 
 ---
 
+## Case: twitter-2058431541655572649
+
+**Author:** [@MrLarus](https://twitter.com/MrLarus)
+**Tweet:** [View Original](https://x.com/MrLarus/status/2058431541655572649)
+**Scraped:** 2026-05-24T06:17:24.797Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJEC-s5WMAA8mA2?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJEDAUXWAAA9S2e?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJEDBkhWQAEAfxH?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJEDEYAXMAAqZn_?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HI1mTeoXsAApAm1?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HI1mYqxXwAA5SWM?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/HI1maPrXYAEpz9J?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/HI1mcpIWIAAB9RY?format=jpg&name=orig)
+
+### Prompt
+
+```
+餐饮老板必学！
+用 ChatGPT-Image2 生成《餐饮异形展架/立牌》，门店物料满分！
+
+不同风格大标题、主推菜、卖点标签一次性直出
+1、清新轻食风：沙拉 / 意面
+2、山野自然风：菌汤锅 / 云南风味
+3、金黄浓郁风：蟹黄拌面
+4、爆辣夜市风：酸辣粉 / 拌面
+适合餐饮新品上市、套餐促销、门店引流，餐饮老板学会又能省一笔！
+
+完整提示词放评论区
+```
+
+---
+
 ## Case: twitter-2058373271670890503
 
 **Author:** [@Naiknelofar788](https://twitter.com/Naiknelofar788)
