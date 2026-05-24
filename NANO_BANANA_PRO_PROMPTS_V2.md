@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2058139493979603384
+
+**Author:** [@Ciri_ai](https://twitter.com/Ciri_ai)
+**Tweet:** [View Original](https://x.com/Ciri_ai/status/2058139493979603384)
+**Scraped:** 2026-05-24T05:09:20.202Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HI_68bnaIAA8peU?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HI_68brbwAAOIQ_?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT Image 2 on chatgpt
+
+Prompt: A high-grain, emotionally charged snapshot captured in a **narrow Tokyo back alley**, full of dripping AC pipes, vending machine glow, and izakaya lantern reflections. The air is hot, humid, electric. A young woman in a tied white shirt and plaid skirt rushes through the alley, mid-stride, half-turned as if someone called after her. Her movement blurs into the neon haze; the scene pulsate like a memory. Her expression—eyes bright and startled, lips parted—anchors the chaos. People passing nearby smear into shadows.
+```
+
+---
+
 ## Case: twitter-2058218788101947667
 
 **Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
