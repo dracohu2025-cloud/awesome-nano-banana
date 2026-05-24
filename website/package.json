@@ -2,14 +2,17 @@
   "name": "website",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "node --test --experimental-strip-types tests/*.test.mts"
   },
   "dependencies": {
     "@types/js-yaml": "^4.0.9",
+    "@vercel/blob": "^2.4.0",
     "gray-matter": "^4.0.3",
     "js-yaml": "^4.1.1",
     "lucide-react": "^0.562.0",

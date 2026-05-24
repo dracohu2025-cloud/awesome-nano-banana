@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import AnalyticsTracker from "@/components/AnalyticsTracker";
 import { Geist, Geist_Mono } from "next/font/google";
 import Script from "next/script";
 import "./globals.css";
@@ -102,6 +103,7 @@ export default function RootLayout({
         </Script>
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased bg-grid min-h-screen`}>
+        <AnalyticsTracker />
         {children}
       </body>
     </html>
