@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2058186705862312436
+
+**Author:** [@azed_ai](https://twitter.com/azed_ai)
+**Tweet:** [View Original](https://x.com/azed_ai/status/2058186705862312436)
+**Scraped:** 2026-05-24T09:23:26.989Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJAl5qbaAAAgxVg?format=jpg&name=orig)
+
+### Prompt
+
+```
+Nano Banana prompt share
+
+Create Neon tubing logos using this prompt 
+```
+
+---
+
 ## Case: twitter-2058248412244668764
 
 **Author:** [@jzaib4269](https://twitter.com/jzaib4269)
