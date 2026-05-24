@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2058248412244668764
+
+**Author:** [@jzaib4269](https://twitter.com/jzaib4269)
+**Tweet:** [View Original](https://x.com/jzaib4269/status/2058248412244668764)
+**Scraped:** 2026-05-24T09:23:07.515Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJBeBRMbQAEj1e7?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJBeBU3bgAAd5Xu?format=jpg&name=orig)
+
+### Prompt
+
+```
+Created with GPT Image 2.0 on ChatGPT 
+
+Prompt: Luxury hybrid watercolor-collage travel poster illustration of Colombia, blending elegant hand-painted watercolor artistry with vintage Latin American travel poster aesthetics and layered editorial scrapbook design. A cinematic cobblestone street scene in Cartagena filled with colorful colonial architecture, terracotta rooftops, tropical flowers, and vibrant bougainvillea cascading from blue-painted balconies. In the foreground, a female traveler wearing a straw hat, cream blouse, jeans, and a brown leather backpack walks down the sunlit street toward the city skyline and a majestic historic cathedral dome. Lush green mountains rise in the background beneath a bright watercolor sky with soft clouds and flying birds.
+Created on textured aged paper with visible watercolor blooms, distressed ink splatters, faded handwritten travel notes, vintage postal marks, passport stamps, old map fragments, and layered collage paper edges. Decorative tropical flowers and retro postage stamps frame the composition. Warm golden sunlight, vibrant tropical palette, painterly brush textures, handcrafted mixed-media look, soft cinematic depth, ultra-detailed travel illustration.
+Large bold typography at the bottom reading “COLOMBIA” in elegant deep navy lettering, with the subtitle: “THE COUNTRY OF COLOR, CULTURE & HEART.” Premium luxury travel campaign aesthetic, nostalgic wanderlust mood, high-detail watercolor realism, editorial poster composition, ultra-realistic yet artistic, 8K quality, vertical 3:4 aspect ratio.
+```
+
+---
+
 ## Case: twitter-2058441484354125995
 
 **Author:** [@Chryzleenprompt](https://twitter.com/Chryzleenprompt)
