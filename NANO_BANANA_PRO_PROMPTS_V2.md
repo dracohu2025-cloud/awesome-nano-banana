@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2058373271670890503
+
+**Author:** [@Naiknelofar788](https://twitter.com/Naiknelofar788)
+**Tweet:** [View Original](https://x.com/Naiknelofar788/status/2058373271670890503)
+**Scraped:** 2026-05-24T05:52:36.620Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJDPk42b0AEqmnw?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJDPk41aoAArIOk?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT image 2 on ChatGPT
+
+Prompt:
+
+Create a modern AI-generated travel poster inspired by the aesthetic of Wild Fever Studio on Etsy, featuring (CITY) as the central theme. Blend the city’s local identity with minimalist architectural illustration, simplified geometric forms, and a
+```
+
+---
+
 ## Case: twitter-2058388152432091280
 
 **Author:** [@jzaib4269](https://twitter.com/jzaib4269)
