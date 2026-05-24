@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2058156160898011508
+
+**Author:** [@Shinning1010](https://twitter.com/Shinning1010)
+**Tweet:** [View Original](https://x.com/Shinning1010/status/2058156160898011508/photo/1)
+**Scraped:** 2026-05-24T05:02:24.220Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJAKHOXbcAEKfUx?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJAKHOUbMAAObiZ?format=jpg&name=orig)
+
+### Prompt
+
+```
+show me your receipts 我要验牌
+A cinematic playing-card portrait poster
+
+created with GPT Image 2
+Prompt
+```
+
+---
+
 ## Case: twitter-2058292133032063122
 
 **Author:** [@Gdgtify](https://twitter.com/Gdgtify)
