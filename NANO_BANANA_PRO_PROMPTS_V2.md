@@ -4,6 +4,44 @@
 
 ---
 
+## Case: twitter-2058469255872410042
+
+**Author:** [@MrLarus](https://twitter.com/MrLarus)
+**Tweet:** [View Original](https://x.com/MrLarus/status/2058469255872410042/photo/1)
+**Scraped:** 2026-05-24T08:57:49.780Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJEmMheXAAAwKBl?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJEmO0DXgAEq4RU?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJEmSYgWkAAYIs8?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJEmTYSXcAAKtjs?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HGfX8itX0AAApqB?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HGfX_IqW4AA5SvX?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/HGfYCUXXcAAgYG8?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/HGfYCUkXcAA6StP?format=jpg&name=orig)
+
+### Prompt
+
+```
+用ChatGPT-Image2生成《敦煌神女破壁显圣》，壁画苏醒了！
+
+她们从斑驳裂纹、古金残箔中缓缓探出身来，半壁画半写实的破壁艺术实验： 
+月轮嫦娥、反弹琵琶飞天、莲华神女、凤凰玄女
+严格遵循古、贵、残、圣、静、华六字，华丽克制。
+
+通用提示词在评论区
+```
+
+---
+
 ## Case: twitter-2058431541655572649
 
 **Author:** [@MrLarus](https://twitter.com/MrLarus)
