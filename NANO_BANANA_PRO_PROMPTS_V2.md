@@ -4,6 +4,188 @@
 
 ---
 
+## Case: twitter-2058196830987727126
+
+**Author:** [@frametheory058](https://twitter.com/frametheory058)
+**Tweet:** [View Original](https://x.com/frametheory058/status/2058196830987727126)
+**Scraped:** 2026-05-24T05:07:24.445Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJAvGJKaYAAtsip?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJAvGNea4AA5eIB?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HICIlEjbUAA6W0I?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HICIlGPakAAL1Df?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HICIlHWaUAARDys?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HICIlN7bQAAx-yJ?format=jpg&name=orig)
+
+### Prompt
+
+```
+Turning Country Maps Into Cinematic Fantasy Masterpieces Using GPT IMAGE 2 on @openart_ai
+
+Prompt:
+
+ULTIMATE VIRAL CINEMATIC COUNTRY ATLAS PROMPT (MASTER TEMPLATE)
+
+An ultra-premium cinematic fantasy atlas visualization of [COUNTRY], transformed into a breathtaking handcrafted miniature civilization emerging organically from an ancient luxurious world map in the exact geographical shape of the real [COUNTRY MAP OUTLINE]. The country itself becomes a living architectural island filled with hyper-detailed cities, glowing skylines, historic monuments, cultural landmarks, rivers, mountains, forests, bridges, temples, futuristic towers, ancient architecture, boats, roads, and immersive environmental storytelling integrated seamlessly into the map terrain.
+
+The composition must preserve the authentic recognizable silhouette of [COUNTRY], designed like a collectible luxury masterpiece viewed from a cinematic aerial macro perspective using a professional tilt-shift lens. The miniature world should feel alive, emotionally grand, and visually overwhelming with insane levels of detail and depth.
+
+The environment contains:
+
+glowing city lights
+
+realistic waterways with reflections
+
+illuminated bridges
+
+tiny cinematic boats
+
+moving traffic trails
+
+atmospheric fog layers
+
+smoke from buildings
+
+volumetric god rays
+
+reflective wet surfaces
+
+glowing windows
+
+floating particles
+
+drifting clouds
+
+birds flying over landmarks
+
+layered mountains
+
+elegant forests
+
+cultural symbols
+
+cinematic weather atmosphere
+
+realistic shadows and ambient occlusion
+
+ultra-detailed handcrafted textures
+
+The entire map rises naturally from luxurious aged parchment paper with:
+
+embossed cartographic textures
+
+engraved coordinates
+
+compass roses
+
+vintage typography
+
+neighboring country markings
+
+weathered paper cracks
+
+engraved rivers
+
+luxurious atlas aesthetics
+
+premium tactile realism
+
+The typography must be absolutely mesmerizing and viral-worthy — not simple text. The country name “[COUNTRY NAME]” should appear as gigantic ultra-luxury cinematic typography with:
+
+ornate golden metallic detailing
+
+engraved patterns
+
+glowing edges
+
+reflective textures
+
+internal miniature city reflections
+
+artistic flourishes
+
+cinematic highlights
+
+luxury editorial styling
+
+fantasy-level craftsmanship
+
+layered decorative elements
+
+elegant typography framing
+
+illuminated gold accents
+
+hyper-detailed embossed aesthetics
+
+The typography should feel like a billion-dollar luxury movie title mixed with high-fashion editorial design and premium travel campaign branding.
+
+Add native-language calligraphy, cultural symbols, official seals, ornamental borders, luxury emblems, and cinematic decorative framing inspired by the country’s heritage.
+
+On both sides of the composition, add large flowing fabric versions of the [COUNTRY FLAG] in elegant zig-zag cinematic movement similar to luxury royal banners, blending naturally into the composition with:
+
+realistic fabric folds
+
+dramatic lighting
+
+silky texture
+
+atmospheric movement
+
+glowing highlights
+
+cinematic framing
+
+luxurious integration into the artwork
+
+The visuals must feel emotionally powerful and instantly viral while scrolling on social media.
+
+Lighting style:
+
+dramatic golden-hour lighting
+
+volumetric sunlight
+
+warm cinematic glow
+
+teal shadows
+
+rich contrast
+
+atmospheric haze
+
+global illumination
+
+ray-traced reflections
+
+cinematic bloom
+
+luxury editorial color grading
+
+The final composition should look like:
+
+a luxury Netflix fantasy documentary poster
+
+a Louis Vuitton world campaign
+
+a royal museum collectible artwork
+
+a next-generation Unreal Engine cinematic render
+
+an award-winning travel fantasy masterpiece
+
+Style keywords: ultra-photorealistic, masterpiece-quality, cinematic macro realism, luxury atlas aesthetic, fantasy realism, collectible miniature worldbuilding, insanely detailed, hyper-realistic materials, cinematic atmosphere, editorial-quality rendering, Unreal Engine 6 quality, Octane Render realism, depth-rich composition.
+```
+
+---
+
 ## Case: twitter-2058156160898011508
 
 **Author:** [@Shinning1010](https://twitter.com/Shinning1010)
