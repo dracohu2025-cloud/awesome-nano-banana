@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2058218788101947667
+
+**Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
+**Tweet:** [View Original](https://x.com/SimplyAnnisa/status/2058218788101947667)
+**Scraped:** 2026-05-24T05:07:46.883Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJBDFGWagAA7G2X?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT image 2 ChatGPT 
+
+Prompt:
+Ukiyo-e inspired digital illustration, vertical portrait, rich red and gold color palette with intricate patterns.
+
+Center: Elegant Japanese woman in a flowing red and gold kimono with maple leaf and floral patterns, wearing an ornate gold headdress with hanging tassels and hair ornaments. She has long black hair, pale skin, red lips, and a calm expression, looking to the side. She holds a decorative staff in one hand and a small lantern in the other.
+
+Background: Shinto shrine setting with a large ornate red and white moon behind her featuring swirling cloud and floral motifs. Behind her are a red torii gate, stone steps, stone lanterns, red autumn maple trees, and a traditional red temple building. A white nine-tailed fox sits at her feet looking upward.
+
+Style: Flat color with detailed line art, woodblock print aesthetic mixed with modern digital art, high detail, ornate patterns, luxurious gold accents, atmospheric and mystical mood. Small red stamp seal in bottom left corner."
+```
+
+---
+
 ## Case: twitter-2058196830987727126
 
 **Author:** [@frametheory058](https://twitter.com/frametheory058)
