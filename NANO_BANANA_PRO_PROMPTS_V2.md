@@ -4,6 +4,37 @@
 
 ---
 
+## Case: twitter-2058737354031190477
+
+**Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
+**Tweet:** [View Original](https://x.com/SimplyAnnisa/status/2058737354031190477)
+**Scraped:** 2026-05-25T08:31:49.777Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJIas-2acAAfIKG?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJIatgjboAA6Tqw?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT IMAGE 2 on CHAT GPT:
+*Prompt:Hyperrealistic collectible figure poster art, vertical layout, dramatic studio lighting with warm golden background.
+
+Subject: Male Saiyan warrior with spiky black hair, wearing Saiyan battle armor with brown segmented chest plate, black bodysuit, and white trim. He has a white scouter with green lens on his left eye, a scar on his left cheek, and a smug, arrogant expression. His right hand is extended forward toward the viewer in a commanding gesture. The armor has a textured, leather-like appearance with metallic accents and fur trim at the waist.
+
+Layout and text:
+- Left side: Large distressed serif text reading 'RADITZ' vertically, with 'LOW-CLASS SAIYAN' above it in small caps
+- Top left: Stylized Saiyan symbol logo
+- Bottom left: Paragraph text describing a low-class Saiyan warrior who comes to Earth to find his younger brother, ruthless and power-hungry
+- Bottom: Colorful logo reading 'DRAGON BALL' with social media icons below
+
+Style: Photorealistic 3D render, high detail on skin texture, hair strands, and armor materials, cinematic lighting with strong contrast, dramatic and intense mood, collectible statue box art aesthetic, 2:3 aspect ratio. Avoid direct character likeness from copyrighted works - make it an original Saiyan-inspired warrior design.
+```
+
+---
+
 ## Case: twitter-2058777914083266617
 
 **Author:** [@uniswap12](https://twitter.com/uniswap12)
