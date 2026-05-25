@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2058824272643256578
+
+**Author:** [@MrGafish](https://twitter.com/MrGafish)
+**Tweet:** [View Original](https://x.com/MrGafish/status/2058824272643256578)
+**Scraped:** 2026-05-25T09:14:20.549Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJJprGYaQAAJyYR?format=jpg&name=orig)
+
+### Prompt
+
+```
+提示词 / GPT image 2
+
+创建一个 4x3 网格拼贴画，分别对应一年的12个月，以图中人物主体在不同国家旅游拍的纪念照为主题，每张照片中人物服装要符合所在国家的特色，以及当月的气候情况，每个面板中使用的造型姿势都不一样，有正面/背面/侧面/全身/半身，表情也都不太一样，有笑容/微笑/搞笑/夸张，照片带有室外摄影风格的美学，时尚编辑品质、干净构图，画面唯美
+```
+
+---
+
 ## Case: twitter-2058771902689386544
 
 **Author:** [@MLKK9090](https://twitter.com/MLKK9090)
