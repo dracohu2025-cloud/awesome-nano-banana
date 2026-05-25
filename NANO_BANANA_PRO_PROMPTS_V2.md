@@ -4,6 +4,68 @@
 
 ---
 
+## Case: twitter-2058739798702248388
+
+**Author:** [@xiaoxiaodong01](https://twitter.com/xiaoxiaodong01)
+**Tweet:** [View Original](https://x.com/xiaoxiaodong01/status/2058739798702248388)
+**Scraped:** 2026-05-25T03:58:18.005Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJIct_iaQAA2dBm?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJIcwrdbMAAk6Vp?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJIcxsaagAATdci?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJIc1ceakAAzMiH?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HJIaD_ea8AAF7R5?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HJIaZlAbgAA2mJ4?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/HJIab4bbYAAu9nJ?format=jpg&name=orig)
+
+![Image 8](https://pbs.twimg.com/media/HJIahVHa4AA-hQE?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT2 x 内裤设计提案 x 提示词 x 变种思路
+
+拿到一个健康的提示词 （小东东这种通用逻辑的）
+你就只要+点佐料，就可以得出各种，不同用途的
+
+这次是内裤创意提案
+灵感要求来自 中国成语
+
+此外， 一次对话，GPT-image2生成了10套
+这理解力 和 输出力度， 真值得疯狂为GPT2鼓掌
+
+更有表达想法的朋友，早就疯狂 添加佐料 玩起来了！
+
+提示词 
+
+```
+设计一张具有高级商业审美的极简海报，核心视觉语言是“真实物象穿越几何情绪窗口”。画面中设置一个窄长的低饱和色块，作为视觉锚点和空间容器，色块颜色根据主题选择柔和浅色，如雾蓝、浅青、米白、淡粉、暖灰或浅金。将【核心物象】以真实摄影质感或精细写实方式置入色块之中，但不要完全困在色块内，要让主体局部越界、破框、延伸到留白区域，形成自然生长感和空间穿透感。背景保持极简，使用大面积白色或浅灰留白，加入几乎透明的文化纹样、线性图形、地形线、水波线、光影轮廓或抽象符号，作为若隐若现的视觉细节。整体排版要像高端地产、奢侈品、美学杂志或节气海报，文字细长、克制、字距舒展，标题可竖排，辅助信息用小字号规整排列。画面需要有东方留白、现代秩序、自然生命力、轻奢品质感。避免杂乱、避免高饱和、避免厚重阴影、避免廉价模板感。
+
+本次主题：女式蕾丝内裤 设计提案  （每个产品都有一个成语灵感的大字名字）
+主视觉元素：顶级日系摄影风格，ins滤镜质感，电影级光影、明亮通透
+其他要求：画面至少4个产品细节，不同层级 不同逻辑和不同呈现方案的展示
+
+每次输出，都在排版、创意、色相上富有变化
+
+用途：展品展示
+背景：白色
+
+额外要求：连续生成10次定位不同人群 的女式内裤 ，一共10张图片。
+
+比例16:9
+```
+```
+
+---
+
 ## Case: twitter-2058574690042712507
 
 **Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
