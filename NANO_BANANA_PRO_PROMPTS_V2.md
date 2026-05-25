@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2058567521398374880
+
+**Author:** [@j_smeaton99](https://twitter.com/j_smeaton99)
+**Tweet:** [View Original](https://x.com/j_smeaton99/status/2058567521398374880)
+**Scraped:** 2026-05-25T01:09:36.099Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJGAPB1aEAEE4w7?format=jpg&name=orig)
+
+### Prompt
+
+```
+Infographics of a desert camel created using GPT Image 2 on ChatGPT 
+
+Prompt;
+
+Create a premium square “reference-style wildlife infographic” centered around the camel, designed as a beautifully curated desert-survival handbook page rather than a basic educational poster.
+
+The
+```
+
+---
+
 ## Case: twitter-2058587805694005687
 
 **Author:** [@ZephyraLeigh](https://twitter.com/ZephyraLeigh)
