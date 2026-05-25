@@ -4,6 +4,27 @@
 
 ---
 
+## Case: twitter-2058771902689386544
+
+**Author:** [@MLKK9090](https://twitter.com/MLKK9090)
+**Tweet:** [View Original](https://x.com/MLKK9090/status/2058771902689386544/photo/1)
+**Scraped:** 2026-05-25T08:35:53.347Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJI6IXpaoAAVENP?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJI6IZUbsAA3hbS?format=jpg&name=orig)
+
+### Prompt
+
+```
+格斗女王系列 
+#KOF
+```
+
+---
+
 ## Case: twitter-2055635560593850643
 
 **Author:** [@cq5205730](https://twitter.com/cq5205730)
