@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2058731770942726310
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2058731770942726310)
+**Scraped:** 2026-05-25T03:13:58.162Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJIT8aqa0AAf9GQ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJIT_ONbgAAKgOE?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJIUM5zaUAA9Buo?format=jpg&name=orig)
+
+### Prompt
+
+```
+【画面风格】：纯净、高对比度的超现实主义混合介质拼贴艺术，扁平2D平面图形插画，融入前卫的木偶剧舞台美学。干净的矢量艺术风格。
+【左上角元素】：左上角隐约融入一个干净、极简的V形猫咪剪影图标（v-cat徽标）。
+【右下角签名】：右下角干净地写着小小的“voxcat”手写体签名。
+```
+
+---
+
 ## Case: twitter-2058621050032971819
 
 **Author:** [@craftian_keskin](https://twitter.com/craftian_keskin)
