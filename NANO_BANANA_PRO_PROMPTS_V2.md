@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2058857354410807496
+
+**Author:** [@you1873118](https://twitter.com/you1873118)
+**Tweet:** [View Original](https://x.com/you1873118/status/2058857354410807496/photo/1)
+**Scraped:** 2026-05-25T10:59:26.971Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJKH0fOboAE5qWS?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJKH0fMbEAA418q?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJKH0fLbYAA_jPz?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJKH0fKbMAAUM-R?format=jpg&name=orig)
+
+### Prompt
+
+```
+这种风格真的有点绝
+
+原本只是普通人像
+
+套上故障风那种青橙色块
+
+和像素撕裂感之后
+
+直接变成赛博艺术海报了
+
+尤其加了眼镜，气质一下就出来了
+```
+
+---
+
 ## Case: twitter-2058825083997810804
 
 **Author:** [@liyue_ai](https://twitter.com/liyue_ai)
