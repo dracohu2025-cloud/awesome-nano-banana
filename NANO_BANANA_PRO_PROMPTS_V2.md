@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2058587805694005687
+
+**Author:** [@ZephyraLeigh](https://twitter.com/ZephyraLeigh)
+**Tweet:** [View Original](https://x.com/ZephyraLeigh/status/2058587805694005687/photo/1)
+**Scraped:** 2026-05-25T01:09:29.221Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJGSkl2XYAAQIgq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJGSklzWIAABsrf?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJGSkpCWAAAchkm?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJGSktAWEAAatJA?format=jpg&name=orig)
+
+### Prompt
+
+```
+An emblem worthy of legends and kingdoms.
+
+GPT Image 2 on ChatGPT 
+
+PROMPT 
+```
+
+---
+
 ## Case: twitter-2058523330659913861
 
 **Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
