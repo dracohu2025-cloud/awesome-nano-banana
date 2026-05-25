@@ -4,6 +4,25 @@
 
 ---
 
+## Case: twitter-2058524203939406274
+
+**Author:** [@0x00_Krypt](https://twitter.com/0x00_Krypt)
+**Tweet:** [View Original](https://x.com/0x00_Krypt/status/2058524203939406274/photo/1)
+**Scraped:** 2026-05-25T05:28:20.297Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJFYnzsacAAK3HK?format=jpg&name=orig)
+
+### Prompt
+
+```
+把任何城市变成梦幻糖果粉尘艺术
+GPT Image 2 / Banana Prompt
+```
+
+---
+
 ## Case: twitter-2058739798702248388
 
 **Author:** [@xiaoxiaodong01](https://twitter.com/xiaoxiaodong01)
