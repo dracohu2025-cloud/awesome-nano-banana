@@ -4,6 +4,41 @@
 
 ---
 
+## Case: twitter-2057546609559544151
+
+**Author:** [@yasu1035](https://twitter.com/yasu1035)
+**Tweet:** [View Original](https://x.com/yasu1035/status/2057546609559544151/photo/1)
+**Scraped:** 2026-05-25T09:21:11.824Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HI3fvFBbMAAOusW?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HI3fvFDbkAAsuyB?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HI3fvFCasAEddqB?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HI3fvFCa0AAFSfa?format=jpg&name=orig)
+
+### Prompt
+
+```
+Good morning❀.(*´▽`*)❀.  
+It's Friday! Whether you're heading to work tomorrow or taking a break, it's a chill vibe٩(ˊᗜˋ*)و”  
+
+I whipped up a little prompt  
+
+[The character from the reference image is assembling their own plastic model] kind of thing  
+
+Attach an image and pop the prompt into Chappy, and it'll come out just like that  
+It even reflects the room's atmosphere in the character  
+Feel free to tweak it If you've got some free time, give it a try(*´艸`)  
+I'll leave the prompt in the replies  
+#AIプラモデル
+```
+
+---
+
 ## Case: twitter-2058669374811128240
 
 **Author:** [@TSuga5795](https://twitter.com/TSuga5795)
