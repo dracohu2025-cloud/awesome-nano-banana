@@ -4,6 +4,42 @@
 
 ---
 
+## Case: twitter-2058749452022841480
+
+**Author:** [@Shinning1010](https://twitter.com/Shinning1010)
+**Tweet:** [View Original](https://x.com/Shinning1010/status/2058749452022841480)
+**Scraped:** 2026-05-25T07:23:43.264Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJGU_YfaEAAPCbZ?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJGU_YcbEAAk2Q5?format=jpg&name=orig)
+
+### Prompt
+
+```
+Sunlight, teddy bear, Lolita fit, and a little scrapbook doodle mood
+
+Made with GPT Image 2
+Prompt:
+
+Use the uploaded portrait only as the identity reference. Preserve the subject’s real face, hairstyle, hair color, skin tone, and natural facial structure. Do not copy the original portrait’s clothes, background, lighting, or pose.
+
+Create a realistic vertical 3:4 outdoor photo in a soft Japanese Lolita street style. The subject is shown in side profile, standing in front of an old textured concrete and brick wall, holding a phone up as if taking a mirror-style selfie. She wears a white lace blouse, a red plaid Lolita skirt, soft frills, and carries a beige teddy bear under one arm. Warm natural sunlight hits the hair and shoulders, creating a gentle backlit glow. Add cute white hand-drawn doodles around the subject: hearts, flowers, outline strokes, and small handwritten English notes.
+
+Text overlay should be clean white handwritten style:
+“Today’s Lolita Fit Check”
+“Even Teddy Wants Some Sun~”
+“The Light on the Wall Feels So Soft”
+Realistic skin texture, natural body proportions, soft sunlight, real camera feel, no plastic skin, no anime style, no watermark, no logo
+
+Negative Prompt:
+anime, cartoon, 3D doll, plastic skin, fake face, over-smoothed skin, distorted hands, extra fingers, bad anatomy, blurry face, low quality, messy text, unreadable text, watermark, logo, Chinese text, Japanese text
+```
+
+---
+
 ## Case: twitter-2058524203939406274
 
 **Author:** [@0x00_Krypt](https://twitter.com/0x00_Krypt)
