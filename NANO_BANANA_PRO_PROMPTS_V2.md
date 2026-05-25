@@ -4,6 +4,45 @@
 
 ---
 
+## Case: twitter-2058777914083266617
+
+**Author:** [@uniswap12](https://twitter.com/uniswap12)
+**Tweet:** [View Original](https://x.com/uniswap12/status/2058777914083266617)
+**Scraped:** 2026-05-25T08:30:42.557Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJI_YKvbAAA4ghq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJI_ZBraIAAjDMg?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT Image 2实测：中文终于不乱码了！
+
+gpt-image-2 中文能跑多密？我拿建筑图纸试了一下。
+结果比预期好。
+
+—— 文字渲染
+图像模型生成中文，最头疼的就是字形变形、笔画错乱。这次图里有平面图标注、剖面尺寸、材料清单、节点大样图说明，中文字符全部渲染正确，没有乱码。
+官方公告明确提到：模型在多语言文字渲染上有专项提升，包括中文、日语、韩语等非拉丁文字体系。
+
+—— 信息图布局
+这是 gpt-image-2 官方主打的场景之一——diagrams、infographics、charts、posters。
+实测下来，同一张图并排平面图、立面图、剖面图、结构分解图、节点大样图，空间关系没乱，图文关系保持住了。
+
+—— 分辨率
+官方最高支持 2K 输出（2048px）。高密度建筑图纸场景下基本够用，打印或大图展示没问题。
+
+说实话，这类图纸的风格一致性还有提升空间，某些细节需要多轮提示调整。不是一次出图就能交付的状态。
+但中文排版这关，算是真的过了。
+
+#AI  #AIAgent @grok
+```
+
+---
+
 ## Case: twitter-2058813304261509509
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
