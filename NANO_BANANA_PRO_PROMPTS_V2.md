@@ -4,6 +4,28 @@
 
 ---
 
+## Case: twitter-2058825083997810804
+
+**Author:** [@liyue_ai](https://twitter.com/liyue_ai)
+**Tweet:** [View Original](https://x.com/liyue_ai/status/2058825083997810804)
+**Scraped:** 2026-05-25T10:50:33.735Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJJqIVJa0AAPN8A?format=jpg&name=orig)
+
+### Prompt
+
+```
+最近发现GPT Image 2生成的人物肖像越来越同质化。
+
+做了几组具有识别度的脸型参考，可以解决AI脸同质化问题。
+
+使用具体的五官关键词+气质描述即可。
+```
+
+---
+
 ## Case: twitter-2057546609559544151
 
 **Author:** [@yasu1035](https://twitter.com/yasu1035)
