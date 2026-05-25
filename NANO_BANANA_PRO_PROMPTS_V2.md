@@ -4,6 +4,34 @@
 
 ---
 
+## Case: twitter-2058523330659913861
+
+**Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
+**Tweet:** [View Original](https://x.com/SimplyAnnisa/status/2058523330659913861)
+**Scraped:** 2026-05-25T01:07:14.535Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJFYDxRbsAA7xAY?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJFYDyxaIAAu-MF?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT IMAGE 2 on @ImagineArt_X
+
+Prompt:Epic samurai warrior portrait in watercolor and ink splatter style, close-up bust shot, vertical composition.
+
+Subject: Armored samurai with dark metallic armor trimmed in gold, wearing an ornate horned kabuto helmet with red curved horns and a central black gem. The helmet has a menacing oni-like mask with glowing purple eyes and sharp red fangs. Chest armor features a circular emblem with a flaming spear or sunburst design in red and orange.
+
+Background: Large red-orange sun or moon with a black eclipse shape behind the warrior's head. Dynamic splashes and drips of purple, red, orange, and black ink explode outward from behind the figure against an off-white background, creating a chaotic and powerful energy effect.
+
+Style: Mix of digital painting and traditional ink wash, high detail on armor with metallic reflections, vibrant colors, dramatic lighting, intense and fierce mood, fantasy-meets-feudal Japan aesthetic, sharp contrast, paint splatter textures.
+```
+
+---
+
 ## Case: twitter-2058484459008393346
 
 **Author:** [@MissDelulu9](https://twitter.com/MissDelulu9)
