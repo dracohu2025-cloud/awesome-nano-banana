@@ -4,6 +4,49 @@
 
 ---
 
+## Case: twitter-2058669374811128240
+
+**Author:** [@TSuga5795](https://twitter.com/TSuga5795)
+**Tweet:** [View Original](https://x.com/TSuga5795/status/2058669374811128240)
+**Scraped:** 2026-05-25T09:18:36.737Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJGaDbcaMAAxEPU?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJGaGnybIAE7r84?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJGaMWgawAI8AIT?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJGaXvPboAAPZeI?format=jpg&name=orig)
+
+### Prompt
+
+```
+I'll publicly share the prompt for an image where a slightly naughty seagull pulls "that" without needing to specify "that"   
+Good job, Seagull-kun   
+
+Chappie-kun is recommended, but if it doesn't come out due to policy violations, try drawing it out by having a smooth conversation with Chappie-kun   
+Feel free to adjust the character, posing, and angle to your liking   
+
+【Prompt】  
+Generate it as a miraculous single shot from a trip to play at the summer sea.  
+
+A woman who was planning to enjoy the beach encounters a weird mishap.  
+Make the composition something that would turn into a daikigiri, something that'll make you burst out laughing.  
+
+Theme 【Getting your outfit pulled by a seagull】  
+
+【Character】 Woman.  
+【Outfit】 Wearing clothing that naturally fits the scene or location.  
+【Location】 Summer beach bathhouse.  
+【Expression】 A flustered, troubled expression.  
+【Posing】 Since the seagull is pulling the hook part at the back of the outfit, she's bent forward in a panic, holding down the outfit.  
+【Angle】 Close-up of the upper body in a standing pose. From a diagonal front angle.
+```
+
+---
+
 ## Case: twitter-2056722196832432339
 
 **Author:** [@taakekoke](https://twitter.com/taakekoke)
