@@ -4,6 +4,41 @@
 
 ---
 
+## Case: twitter-2056722196832432339
+
+**Author:** [@taakekoke](https://twitter.com/taakekoke)
+**Tweet:** [View Original](https://x.com/taakekoke/status/2056722196832432339/photo/1)
+**Scraped:** 2026-05-25T09:15:46.803Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HIrx73cboAA6tSs?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HIrx73iaMAAC5G7?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HIrx73hb0AApqQC?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HIrx73ibgAE7Idl?format=jpg&name=orig)
+
+### Prompt
+
+```
+I made a卍解 generation prompt for chuunibyou patients
+Everyone loves卍解, right?! Wait, you don't know?
+
+Just copy-paste the prompt and attach a character, and you can create an original卍解( ˇωˇ )
+I've tested it decently, but the only unstable part is the ruby reading for the卍解 name. Probably because the performance exceeds capacity or something.
+Also, I got too obsessed with adding more types, so the prompt ended up super long. When it's long, Chappy sometimes tries to have fun on the second try and beyond (which biases the results), so I recommend opening it in a separate window.
+It should read the image and convert it every time.
+Even with the same illustration, it turns out pretty different sometimes( 'ω')
+#うちの子斬魄刀
+If you add this, I'd love for everyone to be able to see it, but I'm such a total beginner that I messed up the recent tags
+
+The prompt is in the reply
+```
+
+---
+
 ## Case: twitter-2058824272643256578
 
 **Author:** [@MrGafish](https://twitter.com/MrGafish)
