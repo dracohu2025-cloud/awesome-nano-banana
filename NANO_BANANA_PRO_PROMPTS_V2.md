@@ -4,6 +4,26 @@
 
 ---
 
+## Case: twitter-2055635560593850643
+
+**Author:** [@cq5205730](https://twitter.com/cq5205730)
+**Tweet:** [View Original](https://x.com/cq5205730/status/2055635560593850643)
+**Scraped:** 2026-05-25T08:33:35.697Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HIcVoyUawAAZWtq?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HIcVoySaAAAGS1Q?format=jpg&name=orig)
+
+### Prompt
+
+```
+去哪都带上我好不好呀
+```
+
+---
+
 ## Case: twitter-2058737354031190477
 
 **Author:** [@SimplyAnnisa](https://twitter.com/SimplyAnnisa)
