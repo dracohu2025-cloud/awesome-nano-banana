@@ -4,6 +4,90 @@
 
 ---
 
+## Case: twitter-2058621050032971819
+
+**Author:** [@craftian_keskin](https://twitter.com/craftian_keskin)
+**Tweet:** [View Original](https://x.com/craftian_keskin/status/2058621050032971819/photo/1)
+**Scraped:** 2026-05-25T01:31:04.747Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJGVhpQXoAADRRs?format=jpg&name=orig)
+
+### Prompt
+
+```
+Natural, 2x2 Grid photography, focused on diamonds. 
+
+Need to make a Diamond Advertisement from here. 
+
+GPT Image 2.0 Prompt:
+{
+  "objective": "Create a 2x2 portrait grid of an extremely beautiful Japanese woman with luxury jewelry, captured in a natural smartphone aesthetic with soft, realistic lighting.",
+
+  "aspect_ratio": "1:1",
+
+  "composition": {
+    "layout": "2x2 grid (4 panels)",
+    "style": "portrait photography series",
+    "camera_type": "smartphone",
+    "aesthetic": "natural, slightly grainy, realistic skin texture, not over-polished"
+  },
+
+  "character": {
+    "ethnicity": "Japanese",
+    "appearance": "extremely beautiful, soft facial features, clear skin with natural texture, subtle blush, glossy lips",
+    "hair": "long, straight dark hair, smooth and slightly voluminous",
+    "expression_range": [
+      "neutral gaze into camera",
+      "looking down softly",
+      "side profile with hand in hair",
+      "gentle smile looking upward"
+    ]
+  },
+
+  "wardrobe_and_accessories": {
+    "top": "low-neck black top, elegant and minimal",
+    "jewelry": [
+      "diamond necklace (clearly visible, elegant shine)",
+      "diamond earrings (subtle but sparkling)",
+      "diamond ring (visible in hand poses)"
+    ]
+  },
+
+  "scenes": [
+    "Panel 1: Front-facing portrait, hand under chin, direct eye contact, diamond necklace clearly visible",
+    "Panel 2: Looking down softly, calm expression, earrings catching light",
+    "Panel 3: Side profile, hand in hair, diamond ring visible, soft shadows",
+    "Panel 4: Slight smile looking upward, relaxed pose, jewelry subtly sparkling"
+  ],
+
+  "environment": {
+    "background": "simple dark gray studio background",
+    "lighting": "soft diffused lighting, natural falloff, slight shadows for depth"
+  },
+
+  "style": {
+    "rendering": "photorealistic",
+    "texture": "natural skin texture, visible pores, slight smartphone grain",
+    "color_grading": "neutral tones, slightly warm skin tones",
+    "focus": "sharp on face, slight depth of field"
+  },
+
+  "negative_prompt": [
+    "overly smooth skin",
+    "plastic look",
+    "excessive retouching",
+    "harsh lighting",
+    "overexposed highlights",
+    "blurry face",
+    "distorted anatomy"
+  ]
+}
+```
+
+---
+
 ## Case: twitter-2058567521398374880
 
 **Author:** [@j_smeaton99](https://twitter.com/j_smeaton99)
