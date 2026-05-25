@@ -4,6 +4,53 @@
 
 ---
 
+## Case: twitter-2058813304261509509
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2058813304261509509)
+**Scraped:** 2026-05-25T08:29:24.789Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJJc300bEAATgjH?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJJdWvJaIAAXuab?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJJe7NtaYAAL8gG?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJJfuv0a4AAw5Vv?format=jpg&name=orig)
+
+### Prompt
+
+```
+其实只要 prompt 里的“视觉叙事逻辑”对了，image2 的漫画海报上限真的很高。
+
+我这次试的是「4 格成长轨迹 + 日式漫画阅读逻辑」：
+
+从右往左阅读
+同一角色在同一画面中重复出现
+四格共享同一个背景空间
+角色从幼态、成长、挣扎，一路推进到最终觉醒
+关键不是简单做 4 张分镜，而是让四格之间形成连续运动：
+头发飘动要连续
+服装动态要连续
+身体朝向必须一致
+动作发力方向统一朝左
+镜头距离也要逐格推进
+这样画面就不会像“拼贴”，而是像动画 PV 里的关键帧成长蒙太奇。
+
+最重要的是左侧最终形态：
+最大主体、最强情绪、突破分镜边框，形成一种冲出画面的压迫感。
+
+黑白高对比漫画风也很适合这个结构，速度线、浓重阴影、大面积负空间，会把成长弧光和爆发感放大很多。
+这种提示词非常适合做热血角色成长海报、漫画扉页、动画 PV 主视觉。
+
+Prompt 结构：
+「4格递进分镜」+「同一角色重复出现」+「统一背景」+「身体朝向一致」+「镜头逐步推进」+「最终破框爆发」
+```
+
+---
+
 ## Case: twitter-2058749452022841480
 
 **Author:** [@Shinning1010](https://twitter.com/Shinning1010)
