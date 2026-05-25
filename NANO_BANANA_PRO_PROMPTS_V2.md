@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2058574690042712507
+
+**Author:** [@aleenaamiir](https://twitter.com/aleenaamiir)
+**Tweet:** [View Original](https://x.com/aleenaamiir/status/2058574690042712507)
+**Scraped:** 2026-05-25T03:16:01.364Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJGGwr_bIAABgkO?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJGGwt6acAATftE?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJGGwxYb0AAQVBM?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJGGwx1a4AAK-D9?format=jpg&name=orig)
+
+### Prompt
+
+```
+Turn any SUBJECT into a peaceful artwork with flowing ink strokes and minimalist Japanese elegance.
+
+PROMPT ↓
+“Japanese sumi-e ink painting of [SUBJECT] on a pure white minimalist background, delicate black ink brushwork, soft gray washes, elegant negative space, zen simplicity,
+```
+
+---
+
 ## Case: twitter-2058731770942726310
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
