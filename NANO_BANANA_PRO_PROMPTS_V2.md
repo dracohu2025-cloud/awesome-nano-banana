@@ -4,6 +4,43 @@
 
 ---
 
+## Case: twitter-2058914554244108615
+
+**Author:** [@obsidian_fr1](https://twitter.com/obsidian_fr1)
+**Tweet:** [View Original](https://x.com/obsidian_fr1/status/2058914554244108615/photo/1)
+**Scraped:** 2026-05-26T04:36:46.076Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJK736qasAApSlp?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJK737tbIAAR8WX?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJK73-8aoAAeBVS?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJK74AZaAAADNcR?format=jpg&name=orig)
+
+### Prompt
+
+```
+Cities Trapped in Light.
+
+GPT image 2.0 on @ChatGPTapp
+
+Prompt:
+Create a timeless ultra-luxury cinematic fantasy poster featuring a glowing miniature [CITY NAME] trapped elegantly inside a gigantic crystal glass cube resting on a polished black marble base surrounded by warm cinematic reflections and soft ambient lighting. Inside the transparent cube, showcase an ultra-detailed miniature world of [CITY LANDMARKS, CULTURE, ARCHITECTURE, NATURE] with glowing streets, illuminated buildings, tiny vehicles or boats, atmospheric fog, emotional depth, and iconic landmarks rising beautifully beneath dramatic cinematic skies.
+
+The crystal cube should have ultra-realistic glass reflections, polished transparency, luxury refractions, glossy edges, and cinematic light scattering with premium photorealistic materials. Add floating atmospheric particles like snow, fog, rain, glowing embers, cherry blossoms, or dust depending on the theme of the city.
+
+Use dramatic professional lighting with warm golden highlights mixed with cool contrasting tones for a rich cinematic look. Include soft volumetric fog, glowing reflections on the marble surface, dreamy depth of field, luxury bokeh lights, atmospheric shadows, and handcrafted miniature detailing throughout the scene.
+
+The composition should feel like a premium luxury travel campaign mixed with futuristic editorial photography and museum-quality fantasy realism. Add elegant gold typography with the city name at the top in a luxurious cinematic serif font along with a poetic tagline.
+
+Style: ultra-realistic, cinematic masterpiece, luxury editorial photography, fantasy realism, Unreal Engine quality, Octane render, ray tracing, volumetric lighting, global illumination, HDR, luxury colour grading, emotional storytelling, highly detailed, 8K, masterpiece quality, award-winning poster design.
+```
+
+---
+
 ## Case: twitter-2059074597593751866
 
 **Author:** [@you1873118](https://twitter.com/you1873118)
