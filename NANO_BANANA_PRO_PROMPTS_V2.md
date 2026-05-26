@@ -4,6 +4,29 @@
 
 ---
 
+## Case: twitter-2059169623749345283
+
+**Author:** [@DracoVibeCoding](https://twitter.com/DracoVibeCoding)
+**Tweet:** [View Original](https://x.com/DracoVibeCoding/status/2059169623749345283)
+**Scraped:** 2026-05-26T07:30:30.160Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJOiE0GasAAsapg?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJOj0OTbsAAF7BA?format=jpg&name=orig)
+
+### Prompt
+
+```
+图片比例「9:16」
+图片主题「2.5次元动漫人物角色海报」
+图片风格「融合了国画水墨水粉风格，泼墨、墨点痕迹，强烈的线条和墨点构成的动态冲突感；创意留白」
+图片主题「【动漫人物】」
+```
+
+---
+
 ## Case: twitter-2058914554244108615
 
 **Author:** [@obsidian_fr1](https://twitter.com/obsidian_fr1)
