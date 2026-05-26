@@ -4,6 +4,31 @@
 
 ---
 
+## Case: twitter-2059093961273467358
+
+**Author:** [@luke_9527](https://twitter.com/luke_9527)
+**Tweet:** [View Original](https://x.com/luke_9527/status/2059093961273467358)
+**Scraped:** 2026-05-26T10:36:54.706Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJNep0CaoAAZ0BI?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJNer0PbMAAFUZM?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJNevetaYAA1MOA?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJNeyfZbgAARbg1?format=jpg&name=orig)
+
+### Prompt
+
+```
+chat GPT image2.0 绝对是目前全球文生图领域的扛把子,没有之一!
+提示词我丢评论区了,欢迎大家使用各种自己喜欢的大模型来出图切磋.
+```
+
+---
+
 ## Case: twitter-2059169623749345283
 
 **Author:** [@DracoVibeCoding](https://twitter.com/DracoVibeCoding)
