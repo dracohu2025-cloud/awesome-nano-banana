@@ -4,6 +4,40 @@
 
 ---
 
+## Case: twitter-2058971376443379814
+
+**Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
+**Tweet:** [View Original](https://x.com/VoxcatAI/status/2058971376443379814/photo/1)
+**Scraped:** 2026-05-26T01:03:45.009Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJLvioQbkAAY-C-?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJLvioSbYAASbY5?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJLvioQaMAAlKnB?format=jpg&name=orig)
+
+### Prompt
+
+```
+这一组不是二次元插画封面，  
+而是更接近真人COS写真海报。
+
+韩系极简排版、棚拍级光感、白底留白、竖排韩文，  
+再加上一点东方幻想和高定服装语言，  
+让角色不只是“还原”，而是被重新拍成了一组视觉大片。
+
+上一组更像虚拟杂志里的插画人物，  
+这一组更像真实存在的COSER角色预告照。
+
+冷白、墨绿、柔粉三种气质，  
+都在强调同一件事：  
+COS也可以不是返图，而是海报级视觉创作。
+```
+
+---
+
 ## Case: twitter-2058857354410807496
 
 **Author:** [@you1873118](https://twitter.com/you1873118)
