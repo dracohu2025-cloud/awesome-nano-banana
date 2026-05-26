@@ -4,6 +4,42 @@
 
 ---
 
+## Case: twitter-2058918009042014285
+
+**Author:** [@Cryptoxorz](https://twitter.com/Cryptoxorz)
+**Tweet:** [View Original](https://x.com/Cryptoxorz/status/2058918009042014285/photo/1)
+**Scraped:** 2026-05-26T01:19:13.717Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJK-7ADawAAclVo?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJK-7AHakAAJuzC?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJK-7AJaEAAL5q4?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJK-7AHaAAAt_2H?format=jpg&name=orig)
+
+### Prompt
+
+```
+不用学设计，也能生成这种城市文旅海报。
+
+关键不是堆词，而是结构：
+城市地标 + 复古纸张 + 水彩墨水 + 大字母分镜。
+
+[城市中文名]，[国家/地区]的水彩与墨水旅行海报，复古纹理纸张背景。上方展示城市代表地标、自然景观、日落、花卉和树木元素。右侧加入大型竖排中文书法“[城市中文名]”，下方写“[城市英文名]”。
+
+中间用“[城市英文名大写]”作为主视觉文字，每个字母内部填充不同城市场景，包括地标建筑、老街、河流、山景、公园、交通、美食与现代建筑。
+
+底部加入城市标语、中文翻译、四个地标小图标标签和城市坐标。soft watercolor, ink illustration, pastel tones, vintage paper texture, travel poster, detailed composition, vertical 2:3.
+
+收藏这条，下次做城市系列直接套。
+关注我，继续发提示词。
+```
+
+---
+
 ## Case: twitter-2058971376443379814
 
 **Author:** [@VoxcatAI](https://twitter.com/VoxcatAI)
