@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2059074597593751866
+
+**Author:** [@you1873118](https://twitter.com/you1873118)
+**Tweet:** [View Original](https://x.com/you1873118/status/2059074597593751866/photo/1)
+**Scraped:** 2026-05-26T03:49:52.545Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJNNVJqbgAE7jG-?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJNNVJnaoAA3ZmO?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJNNVJgbYAAEyWZ?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJNNVJgasAA4Mmf?format=jpg&name=orig)
+
+### Prompt
+
+```
+这个系列有点做上头了
+
+同一套赛博漫画海报模板
+
+换成不同英雄以后
+
+气质完全不一样
+```
+
+---
+
 ## Case: twitter-2058918009042014285
 
 **Author:** [@Cryptoxorz](https://twitter.com/Cryptoxorz)
