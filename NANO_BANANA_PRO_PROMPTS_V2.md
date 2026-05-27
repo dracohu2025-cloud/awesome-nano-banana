@@ -4,6 +4,36 @@
 
 ---
 
+## Case: twitter-2059491654529159448
+
+**Author:** [@94vanAI](https://twitter.com/94vanAI)
+**Tweet:** [View Original](https://x.com/94vanAI/status/2059491654529159448)
+**Scraped:** 2026-05-27T07:39:47.445Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJTIvUXWcAQLhqB?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJTIvUXWgAI4eXG?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJTIvTyXwAMh0t8?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJTIvTzXQAQVz4c?format=jpg&name=orig)
+
+![Image 5](https://pbs.twimg.com/media/HJPj2pLWsAABv8h?format=jpg&name=orig)
+
+![Image 6](https://pbs.twimg.com/media/HJPj54pWIAAdkG4?format=jpg&name=orig)
+
+![Image 7](https://pbs.twimg.com/media/HJPj9kIWAAAf_uC?format=jpg&name=orig)
+
+### Prompt
+
+```
+Retro Japanese animation style 𝓦𝓪𝓵𝓵𝓹𝓪𝓹𝓮𝓻
+```
+
+---
+
 ## Case: twitter-2059303549767749666
 
 **Author:** [@oneesan_aiart](https://twitter.com/oneesan_aiart)
