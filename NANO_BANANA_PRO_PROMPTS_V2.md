@@ -4,6 +4,30 @@
 
 ---
 
+## Case: twitter-2059422044182188116
+
+**Author:** [@Pictureaddtt](https://twitter.com/Pictureaddtt)
+**Tweet:** [View Original](https://x.com/Pictureaddtt/status/2059422044182188116)
+**Scraped:** 2026-05-27T05:24:35.246Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJSJbttWsAAmHR_?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJSJbtFWUAUDdO3?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJSJbtrWgAAoYbL?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJSJb1MWgAA1E3R?format=jpg&name=orig)
+
+### Prompt
+
+```
+Which is your favorite clan?
+```
+
+---
+
 ## Case: twitter-2059387248303395247
 
 **Author:** [@Pulaxki](https://twitter.com/Pulaxki)
