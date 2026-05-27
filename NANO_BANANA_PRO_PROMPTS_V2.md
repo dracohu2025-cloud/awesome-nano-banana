@@ -4,6 +4,33 @@
 
 ---
 
+## Case: twitter-2059610800265064729
+
+**Author:** [@Taaruk_](https://twitter.com/Taaruk_)
+**Tweet:** [View Original](https://x.com/Taaruk_/status/2059610800265064729)
+**Scraped:** 2026-05-27T23:36:31.540Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJU1BZiagAAnXkd?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJU1BeDa8AEceVb?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJU1CwPasAAYjlH?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJU1C7fbMAA7L61?format=jpg&name=orig)
+
+### Prompt
+
+```
+GPT IMAGE 2 ON CHATGPT 
+
+Prompt:
+Luxury anime fashion magazine cover inspired by high-end Vogue editorial aesthetics, iconic One Piece characters reimagined as couture fashion models, dramatic cinematic lighting, ultra detailed anime illustration, elegant serif typography,
+```
+
+---
+
 ## Case: twitter-2059491654529159448
 
 **Author:** [@94vanAI](https://twitter.com/94vanAI)
