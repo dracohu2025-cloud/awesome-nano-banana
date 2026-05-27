@@ -4,6 +4,32 @@
 
 ---
 
+## Case: twitter-2059303549767749666
+
+**Author:** [@oneesan_aiart](https://twitter.com/oneesan_aiart)
+**Tweet:** [View Original](https://x.com/oneesan_aiart/status/2059303549767749666)
+**Scraped:** 2026-05-27T05:24:43.589Z
+
+### Images
+
+![Image 1](https://pbs.twimg.com/media/HJNVn1TaUAAhT8u?format=jpg&name=orig)
+
+![Image 2](https://pbs.twimg.com/media/HJNVn1UawAAg0A1?format=jpg&name=orig)
+
+![Image 3](https://pbs.twimg.com/media/HJNVn1VaIAAzvWE?format=jpg&name=orig)
+
+![Image 4](https://pbs.twimg.com/media/HJNVn1SaUAAhfzC?format=jpg&name=orig)
+
+### Prompt
+
+```
+Dark Magician Girl, 2B, Morrigan Aensland, and Scáthach — magic, elegance, danger, and power united in four unforgettable legends. 
+
+#YuGiOh #NieRAutomata #Darkstalkers #FateGrandOrder
+```
+
+---
+
 ## Case: twitter-2059422044182188116
 
 **Author:** [@Pictureaddtt](https://twitter.com/Pictureaddtt)
